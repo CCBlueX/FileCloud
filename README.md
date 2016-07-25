@@ -1,2 +1,2 @@
-# FileSpace
-The repository is only a file space for our Projects.
+# FileCloud
+The repository is only a cloud for our Projects.
