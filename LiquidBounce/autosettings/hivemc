@@ -1,0 +1,19 @@
+# AutoSettings for HiveMC
+killaura delay 2
+killaura randomdelay false
+killaura range 4
+killaura switch true
+killaura multi false
+killaura priority health
+killaura throughwalls true
+velocity multiplier 0
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle false
+cheststealer delay 2
+speed type boost
+autoarmor bypass false
+step old true

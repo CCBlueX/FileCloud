@@ -1,0 +1,22 @@
+# AutoSettings for WizardHax
+killaura delay 0
+killaura cooldown true
+killaura randomdelay false
+killaura range 7.2
+killaura switch true
+killaura throughwalls true
+killaura priority health
+velocity multiplier 0
+tower fast true
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot toggle false
+autoarmor bypass false
+speed type ncpbhop
+fly vanillaspeed 0.6
+nofall toggle true
+antilevitation toggle true
+anticactus toggle true
+step old true

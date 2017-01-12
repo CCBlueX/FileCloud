@@ -1,0 +1,22 @@
+# AutoSettings for Rewinside
+killaura delay 5
+killaura randomdelay true
+killaura range 4.1
+killaura switch true
+killaura throughwalls true
+killaura multi false
+killaura priority distance
+velocity multiplier 0.15
+autoarmor bypass true
+tower fast false
+antibot tab true
+antibot color false
+antibot livingtime true
+antibot ping false
+antibot ground false
+antibot toggle true
+cheststealer delay 3
+speed type ncpbhop
+criticals toggle false
+scaffold type normal
+step toggle false

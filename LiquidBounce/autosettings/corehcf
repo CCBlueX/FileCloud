@@ -1,0 +1,20 @@
+# AutoSettings for CoreHCF
+killaura delay 4
+killaura randomdelay false
+killaura range 4.9
+killaura switch true
+killaura multi false
+killaura priority health
+killaura throughwalls true
+velocity multiplier 0
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle false
+cheststealer delay 3
+speed type ncpbhop
+autoarmor bypass false
+fly bypass ncp
+step old false

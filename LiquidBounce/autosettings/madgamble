@@ -1,0 +1,18 @@
+# AutoSettings for Mad-Gamble
+killaura delay 7
+killaura randomdelay true
+killaura range 3.4
+killaura switch false
+killaura throughwalls false
+killaura priority distance
+velocity multiplier 0
+tower fast false
+antibot tab true
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground true
+antibot toggle true
+cheststealer delay 3
+autoarmor bypass false
+step toggle false

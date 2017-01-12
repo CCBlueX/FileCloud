@@ -1,0 +1,18 @@
+# AutoSettings for Timolia
+killaura delay 4
+killaura randomdelay true
+killaura range 3.9
+killaura switch true
+killaura throughwalls true
+killaura priority health
+velocity multiplier 0.1
+autoarmor bypass false
+tower fast false
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground true
+antibot toggle true
+cheststealer delay 3
+step old false

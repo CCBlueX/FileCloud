@@ -1,0 +1,18 @@
+# AutoSettings for Mineplex
+killaura delay 0
+killaura randomdelay false
+killaura range 4.2
+killaura switch true
+killaura throughwalls true
+killaura multi true
+killaura priority health
+velocity multiplier 0
+tower fast true
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground true
+antibot toggle true
+autoarmor bypass false
+step old true

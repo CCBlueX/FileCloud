@@ -1,0 +1,22 @@
+# AutoSettings for CubeCraft
+killaura delay 6
+killaura randomdelay false
+killaura range 5.1
+killaura switch false
+killaura multi false
+killaura priority health
+killaura throughwalls true
+velocity multiplier -0.2
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle false
+cheststealer delay 3
+speed type ncpbhop
+autoarmor bypass false
+#Place a block to fly. The CubeCraft anticheat have a bug with this you can fly.
+fly bypass vanilla
+step old false
+speed type onground

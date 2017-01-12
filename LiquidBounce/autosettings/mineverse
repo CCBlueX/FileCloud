@@ -1,0 +1,19 @@
+# AutoSettings for Mineverse
+killaura delay 3
+killaura randomdelay false
+killaura range 4.4
+killaura switch false
+killaura throughwalls true
+killaura priority health
+velocity multiplier 0
+autoarmor bypass false
+tower fast false
+cheststealer delay 3
+speed type ncpbhop
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle false
+step old true

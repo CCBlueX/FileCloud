@@ -1,0 +1,20 @@
+# AutoSettings for ParaPvP
+killaura delay 2
+killaura randomdelay false
+killaura range 7
+killaura switch true
+killaura multi true
+killaura priority health
+killaura throughwalls true
+velocity multiplier 0
+antibot tab false
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle false
+cheststealer delay 0
+speed type boost
+autoarmor bypass false
+fly bypass vanilla
+step old true

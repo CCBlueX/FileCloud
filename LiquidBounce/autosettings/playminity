@@ -1,0 +1,19 @@
+# AutoSettings for PlayMinity
+killaura delay 4
+killaura randomdelay true
+killaura range 4.1
+killaura switch false
+killaura throughwalls false
+killaura priority health
+velocity multiplier 0.1
+tower fast false
+timer speed 1.1
+antibot tab true
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle true
+cheststealer delay 0
+autoarmor bypass false
+step old true

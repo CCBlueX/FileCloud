@@ -1,0 +1,26 @@
+# AutoSettings for BergwerkLabs
+killaura delay 3
+killaura randomdelay true
+killaura range 3.79
+killaura switch false
+killaura multi false
+killaura priority distance
+killaura throughwalls false
+killaura aac true
+killaura turnspeed 60
+killaura fakeattack false
+velocity multiplier 0.2
+velocity vertical 1
+tower fast false
+timer speed 1.1
+antibot tab true
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle true
+cheststealer delay 0
+autoarmor bypass false
+speed type spartabhop
+step old false
+step height 1

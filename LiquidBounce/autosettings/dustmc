@@ -1,0 +1,19 @@
+# AutoSettings for DustMC
+killaura delay 4
+killaura randomdelay false
+killaura range 6.5
+killaura switch true
+killaura multi false
+killaura priority distance
+killaura throughwalls true
+velocity multiplier 0
+antibot tab true
+antibot color false
+antibot livingtime false
+antibot ping false
+antibot ground false
+antibot toggle true
+cheststealer delay 3
+speed type ncpbhop
+autoarmor bypass true
+step old false
