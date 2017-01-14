@@ -6,7 +6,7 @@ killaura switch false
 killaura multi false
 killaura priority health
 killaura throughwalls true
-velocity horizontal -0.2
+velocity horizontal 0
 velocity vertical 1
 antibot tab false
 antibot color false
@@ -20,4 +20,4 @@ autoarmor bypass false
 #Place a block to fly. The CubeCraft anticheat have a bug with this you can fly.
 fly bypass vanilla
 step old false
-speed type onground
+speed type ncpbhop

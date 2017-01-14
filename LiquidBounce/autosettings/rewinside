@@ -6,7 +6,8 @@ killaura switch true
 killaura throughwalls true
 killaura multi false
 killaura priority distance
-velocity multiplier 0.15
+velocity vertical 1
+velocity horizontal 0
 autoarmor bypass true
 tower fast false
 antibot tab true

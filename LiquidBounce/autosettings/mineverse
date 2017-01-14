@@ -5,7 +5,8 @@ killaura range 4.4
 killaura switch false
 killaura throughwalls true
 killaura priority health
-velocity multiplier 0
+velocity vertical 0
+velocity horizontal 0
 autoarmor bypass false
 tower fast false
 cheststealer delay 3

@@ -8,8 +8,6 @@ killaura priority distance
 killaura throughwalls false
 killaura aac true
 killaura turnspeed 39
-killaura fakeattack true
-velocity multiplier 0.2
 velocity vertical 1
 velocity horizontal 0.3
 tower fast true
@@ -22,7 +20,6 @@ antibot toggle false
 autoarmor bypass true
 speed type aacbhop
 cheststealer delay 3
-criticals toggle false
 step height 2
 step old false
 sprint alldirections false

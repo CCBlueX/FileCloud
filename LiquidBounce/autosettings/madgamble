@@ -5,7 +5,8 @@ killaura range 3.4
 killaura switch false
 killaura throughwalls false
 killaura priority distance
-velocity multiplier 0
+velocity vertical 0
+velocity horizontal 0
 tower fast false
 antibot tab true
 antibot color false

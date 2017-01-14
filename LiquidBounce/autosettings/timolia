@@ -5,7 +5,8 @@ killaura range 3.9
 killaura switch true
 killaura throughwalls true
 killaura priority health
-velocity multiplier 0.1
+velocity vertical 0.6
+velocity horizontal 0
 autoarmor bypass false
 tower fast false
 antibot tab false
