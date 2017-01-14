@@ -6,7 +6,8 @@ killaura switch false
 killaura multi false
 killaura priority health
 killaura throughwalls true
-velocity multiplier -0.2
+velocity horizontal -0.2
+velocity vertical 1
 antibot tab false
 antibot color false
 antibot livingtime false
