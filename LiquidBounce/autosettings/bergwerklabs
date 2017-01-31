@@ -11,7 +11,7 @@ killaura turnspeed 60
 velocity vertical 0.1
 velocity horizontal 0.1
 velocity vertical 1
-tower fast false
+tower type packet
 timer speed 1.1
 antibot tab true
 antibot color false

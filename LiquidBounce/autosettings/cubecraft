@@ -20,5 +20,4 @@ autoarmor bypass false
 #Place a block to fly. The CubeCraft anticheat have a bug with this you can fly.
 fly bypass vanilla
 step old false
-speed type onground
-killaura throughwalls true
+tower type packet
