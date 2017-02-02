@@ -1,6 +1,6 @@
 # AutoSettings for Mineplex
-killaura delay 0
-killaura randomdelay false
+killaura mincps 8
+killaura maxcps 10
 killaura range 4.2
 killaura switch true
 killaura throughwalls true

@@ -1,6 +1,6 @@
 # AutoSettings for CoreHCF
-killaura delay 4
-killaura randomdelay false
+killaura mincps 8
+killaura maxcps 10
 killaura range 4.9
 killaura switch true
 killaura multi false

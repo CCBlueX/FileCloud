@@ -1,6 +1,6 @@
 # AutoSettings for Timolia
-killaura delay 4
-killaura randomdelay true
+killaura mincps 8
+killaura maxcps 10
 killaura range 3.9
 killaura switch true
 killaura throughwalls true

@@ -1,6 +1,6 @@
 # AutoSettings for Gomme
-killaura delay 4
-killaura randomdelay true
+killaura mincps 8
+killaura maxcps 10
 killaura range 4.0
 killaura switch false
 killaura multi false

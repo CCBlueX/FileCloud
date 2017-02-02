@@ -1,6 +1,6 @@
 # AutoSettings for HiveMC
-killaura delay 2
-killaura randomdelay false
+killaura mincps 8
+killaura maxcps 10
 killaura range 4
 killaura switch true
 killaura multi false

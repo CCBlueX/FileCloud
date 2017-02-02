@@ -1,6 +1,6 @@
 # AutoSettings for BergwerkLabs
-killaura delay 3
-killaura randomdelay true
+killaura mincps 8
+killaura maxcps 10
 killaura range 3.79
 killaura switch false
 killaura multi false

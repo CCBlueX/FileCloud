@@ -1,6 +1,6 @@
 # AutoSettings for CubeCraft
-killaura delay 4
-killaura randomdelay false
+killaura mincps 8
+killaura maxcps 10
 killaura range 8
 killaura switch false
 killaura multi false

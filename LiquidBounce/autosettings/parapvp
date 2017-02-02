@@ -1,6 +1,6 @@
 # AutoSettings for ParaPvP
-killaura delay 2
-killaura randomdelay false
+killaura mincps 10
+killaura maxcps 14
 killaura range 7
 killaura switch true
 killaura multi true
