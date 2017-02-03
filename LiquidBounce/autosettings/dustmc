@@ -1,6 +1,6 @@
 # AutoSettings for DustMC
-killaura mincps 8
-killaura maxcps 10
+killaura mincps 6
+killaura maxcps 9
 killaura range 6.5
 killaura switch true
 killaura multi false

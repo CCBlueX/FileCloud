@@ -1,6 +1,6 @@
 # AutoSettings for Mad-Gamble
-killaura mincps 8
-killaura maxcps 10
+killaura mincps 6
+killaura maxcps 9
 killaura range 3.4
 killaura switch false
 killaura throughwalls false

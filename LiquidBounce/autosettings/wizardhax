@@ -1,6 +1,6 @@
 # AutoSettings for WizardHax
-killaura mincps 8
-killaura maxcps 10
+killaura mincps 12
+killaura maxcps 18
 killaura cooldown true
 killaura range 7.2
 killaura switch true
