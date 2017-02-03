@@ -1,13 +1,13 @@
 # AutoSettings for Gomme
 killaura mincps 8
 killaura maxcps 10
-killaura range 4.0
+killaura range 4.1
 killaura switch false
 killaura multi false
-killaura priority distance
+killaura priority direction
 killaura throughwalls false
 killaura aac true
-killaura turnspeed 49
+killaura turnspeed 58
 velocity vertical 1
 velocity horizontal 0.3
 tower type packet
@@ -21,3 +21,19 @@ sprint alldirections false
 autorespawn toggle false
 NoSlow toggle false
 FastUse toggle false
+NoFall toggle false
+Zoot toggle false
+Regen toggle false
+Ghost toggle false
+PingSpoof toggle false
+Teleport toggle false
+CivBreak toggle false
+FastBreak toggle false
+IceSpeed toggle false
+Strafe toggle false
+Sneak toggle false
+FastClimb toggle false
+Hitbox size 0.4
+AutoClicker minCPS 9
+AutoClicker maxCPS 12
+SkinDerp toggle false
