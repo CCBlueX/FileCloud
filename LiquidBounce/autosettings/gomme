@@ -6,7 +6,6 @@ killaura switch false
 killaura multi false
 killaura priority direction
 killaura throughwalls false
-killaura aac true
 killaura turnspeed 58
 velocity vertical 1
 velocity horizontal 0.3
