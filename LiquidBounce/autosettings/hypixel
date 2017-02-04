@@ -1,14 +1,14 @@
 # AutoSettings for Hypixel
 killaura mincps 6
 killaura maxcps 9
-killaura range 4.1
+killaura range 4.3
 killaura switch true
 killaura multi false
 killaura throughwalls true
 killaura priority distance
-velocity vertical 1
+velocity vertical 0
 velocity horizontal 0
-autoarmor bypass true
+autoarmor bypass false
 antibot tab true
 antibot color false
 antibot livingtime false
@@ -16,7 +16,5 @@ antibot ground true
 antibot toggle true
 cheststealer delay 2
 speed type ncpbhop
-criticals toggle false
 scaffold type normal
-step toggle false
 tower type motion
