@@ -15,7 +15,7 @@ antibot ping false
 antibot ground false
 antibot toggle false
 cheststealer delay 3
-speed type ncpbhop
+speed type onground
 autoarmor bypass false
 #Place a block to fly. The CubeCraft anticheat have a bug with this you can fly.
 fly bypass vanilla
