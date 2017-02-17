@@ -6,7 +6,7 @@ killaura switch true
 killaura multi false
 killaura throughwalls true
 killaura priority distance
-killaura noinvattack false
+killaura noinvattack true
 velocity vertical 1
 velocity horizontal 0
 autoarmor bypass true
