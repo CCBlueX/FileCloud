@@ -8,6 +8,7 @@ killaura priority distance
 killaura throughwalls false
 killaura aac true
 killaura turnspeed 60
+killaura noinvattack false
 velocity vertical 0.1
 velocity horizontal 0.1
 velocity vertical 1
@@ -21,6 +22,7 @@ antibot ground false
 antibot toggle true
 cheststealer delay 0
 autoarmor bypass false
-speed type spartabhop
+speed type oldaacbhop
 step old false
 step height 1
+fly bypass bergwerklabs
