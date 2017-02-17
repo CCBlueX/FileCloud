@@ -8,16 +8,10 @@ killaura priority health
 killaura throughwalls true
 velocity horizontal 0
 velocity vertical 1
-antibot tab false
-antibot color false
-antibot livingtime false
-antibot ping false
-antibot ground false
 antibot toggle false
 cheststealer delay 3
 speed type onground
 autoarmor bypass false
-#Place a block to fly. The CubeCraft anticheat have a bug with this you can fly.
-fly bypass vanilla
+fly bypass cubecraft
 step old false
 tower type packet
