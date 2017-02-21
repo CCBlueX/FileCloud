@@ -1,20 +1,17 @@
-# AutoSettings for Hypixel
+# AutoSettings for NoCheatPlus
 killaura mincps 6
 killaura maxcps 9
-killaura range 4.3
+killaura range 4.7
 killaura switch true
 killaura multi false
 killaura throughwalls true
 killaura priority distance
-velocity vertical 0
+killaura noinvattack false
+velocity vertical 1
 velocity horizontal 0
 autoarmor bypass false
-antibot tab true
-antibot color false
-antibot livingtime false
-antibot ground true
-antibot toggle true
+antibot toggle false
 cheststealer delay 3
-speed type spartanbhop
+speed type ncpbhop
 scaffold type normal
-tower type motion
+tower type packet
