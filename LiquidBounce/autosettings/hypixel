@@ -5,7 +5,7 @@ killaura range 5.12
 killaura switch true
 killaura multi false
 killaura throughwalls true
-killaura priority direction
+killaura priority health
 killaura burst false
 velocity vertical 0
 velocity horizontal 0
