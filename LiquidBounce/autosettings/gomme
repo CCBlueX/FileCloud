@@ -5,10 +5,11 @@ killaura range 4.15
 killaura switch false
 killaura multi false
 killaura priority direction
-killaura turnspeed 52
+killaura turnspeed 56
 killaura burst false
+killaura autoblock false
 velocity vertical 1
-velocity horizontal 0.3
+velocity horizontal 0.4
 tower type packet
 antibot toggle false
 autoarmor bypass true
@@ -33,6 +34,6 @@ Strafe toggle false
 Sneak toggle false
 FastClimb toggle false
 Hitbox size 0.4
-AutoClicker minCPS 9
-AutoClicker maxCPS 12
+AutoClicker minCPS 6
+AutoClicker maxCPS 9
 SkinDerp toggle false
