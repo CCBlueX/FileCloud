@@ -1,7 +1,7 @@
 # AutoSettings for Hypixel
 killaura mincps 9
 killaura maxcps 12
-killaura range 5.2
+killaura range 5.12
 killaura switch true
 killaura multi false
 killaura throughwalls true
