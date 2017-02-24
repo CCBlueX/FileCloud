@@ -6,6 +6,7 @@ killaura switch true
 killaura multi false
 killaura throughwalls true
 killaura priority direction
+killaura burst false
 velocity vertical 0
 velocity horizontal 0
 autoarmor bypass false
@@ -20,3 +21,8 @@ scaffold type normal
 tower type motion
 criticals type packet
 criticals toggle true
+InventoryMove Bypass false
+AntiHunger toggle false
+Step old false
+NoRotateSet toggle true
+FastBreak toggle true
