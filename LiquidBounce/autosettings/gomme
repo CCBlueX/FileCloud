@@ -1,11 +1,12 @@
 # AutoSettings for Gomme
-killaura mincps 6
-killaura maxcps 9
+killaura mincps 5
+killaura maxcps 7
 killaura range 4.25
 killaura switch false
 killaura multi false
 killaura priority direction
 killaura turnspeed 56
+killaura failrate 20
 killaura burst false
 killaura autoblock false
 velocity vertical 1
