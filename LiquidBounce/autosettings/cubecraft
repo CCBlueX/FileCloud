@@ -17,3 +17,4 @@ autoarmor bypass false
 fly bypass cubecraft
 step mode ncp
 tower type packet
+criticals toggle true
