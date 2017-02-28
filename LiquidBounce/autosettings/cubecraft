@@ -6,6 +6,8 @@ killaura switch false
 killaura multi false
 killaura priority health
 killaura throughwalls true
+killaura failrate 0
+killaura turnspeed 180
 velocity horizontal 0
 velocity vertical 1
 antibot toggle false
@@ -13,5 +15,5 @@ cheststealer delay 3
 speed type onground
 autoarmor bypass false
 fly bypass cubecraft
-step old false
+step mode ncp
 tower type packet
