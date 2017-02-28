@@ -7,6 +7,8 @@ killaura multi false
 killaura throughwalls true
 killaura priority distance
 killaura noinvattack true
+killaura turnspeed 70
+killaura failrate 0
 velocity vertical 1
 velocity horizontal 0
 autoarmor bypass true
@@ -22,3 +24,4 @@ criticals toggle false
 scaffold type normal
 step toggle false
 tower type motion
+longjump ncpboost 4.3
