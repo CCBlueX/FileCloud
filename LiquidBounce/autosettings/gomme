@@ -6,7 +6,7 @@ killaura switch false
 killaura multi false
 killaura priority direction
 killaura turnspeed 56
-killaura failrate 20
+killaura failrate 10
 killaura burst false
 killaura autoblock false
 velocity vertical 1
@@ -35,6 +35,6 @@ Strafe toggle false
 Sneak toggle false
 FastClimb toggle false
 Hitbox size 0.4
-AutoClicker minCPS 6
-AutoClicker maxCPS 9
+AutoClicker minCPS 5
+AutoClicker maxCPS 7
 SkinDerp toggle false
