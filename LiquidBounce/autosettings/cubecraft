@@ -8,6 +8,7 @@ killaura priority health
 killaura throughwalls true
 killaura failrate 0
 killaura turnspeed 180
+killaura burst false
 velocity horizontal 0
 velocity vertical 1
 antibot toggle false
