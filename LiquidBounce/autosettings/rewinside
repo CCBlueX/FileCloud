@@ -1,6 +1,6 @@
 # AutoSettings for Rewinside
-killaura mincps 6
-killaura maxcps 9
+killaura mincps 8
+killaura maxcps 11
 killaura range 4.1
 killaura switch true
 killaura multi false
