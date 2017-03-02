@@ -23,4 +23,4 @@ speed type ncpbhop
 criticals toggle false
 scaffold type normal
 tower type motion
-longjump ncpboost 5.0
+longjump ncpboost 4.8
