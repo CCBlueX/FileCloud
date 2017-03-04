@@ -18,7 +18,7 @@ antibot livingtime false
 antibot ground true
 antibot toggle true
 cheststealer delay 3
-speed type ncpbhop
+speed type spartanbhop
 scaffold type normal
 tower type motion
 criticals type packet
