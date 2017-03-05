@@ -7,6 +7,8 @@ killaura multi false
 killaura throughwalls true
 killaura priority health
 killaura burst false
+killaura failrate 2
+killaura turnspeed 180
 velocity vertical 0
 velocity horizontal 0
 autoarmor bypass false
@@ -16,7 +18,7 @@ antibot livingtime false
 antibot ground true
 antibot toggle true
 cheststealer delay 3
-speed type ncpbhop
+speed type spartanbhop
 scaffold type normal
 tower type motion
 criticals type packet
@@ -26,3 +28,4 @@ AntiHunger toggle false
 Step old false
 NoRotateSet toggle true
 FastBreak toggle true
+longjump ncpboost 5.0

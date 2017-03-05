@@ -1,12 +1,14 @@
 # AutoSettings for Rewinside
-killaura mincps 6
-killaura maxcps 9
+killaura mincps 8
+killaura maxcps 11
 killaura range 4.1
 killaura switch true
 killaura multi false
 killaura throughwalls true
 killaura priority distance
 killaura noinvattack true
+killaura turnspeed 70
+killaura failrate 0
 velocity vertical 1
 velocity horizontal 0
 autoarmor bypass true
@@ -20,5 +22,5 @@ cheststealer delay 2
 speed type ncpbhop
 criticals toggle false
 scaffold type normal
-step toggle false
 tower type motion
+longjump ncpboost 4.8

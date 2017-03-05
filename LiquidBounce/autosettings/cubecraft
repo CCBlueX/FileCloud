@@ -1,11 +1,14 @@
 # AutoSettings for CubeCraft
-killaura mincps 18
-killaura maxcps 20
+killaura mincps 15
+killaura maxcps 17
 killaura range 8
 killaura switch false
 killaura multi false
 killaura priority health
 killaura throughwalls true
+killaura failrate 0
+killaura turnspeed 180
+killaura burst false
 velocity horizontal 0
 velocity vertical 1
 antibot toggle false
@@ -13,5 +16,6 @@ cheststealer delay 3
 speed type onground
 autoarmor bypass false
 fly bypass cubecraft
-step old false
+step mode ncp
 tower type packet
+criticals toggle true

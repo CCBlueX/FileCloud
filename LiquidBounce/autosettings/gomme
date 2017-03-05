@@ -1,11 +1,12 @@
 # AutoSettings for Gomme
-killaura mincps 6
-killaura maxcps 9
-killaura range 4.25
+killaura mincps 5
+killaura maxcps 7
+killaura range 4.68
 killaura switch false
 killaura multi false
 killaura priority direction
-killaura turnspeed 56
+killaura turnspeed 60
+killaura failrate 4
 killaura burst false
 killaura autoblock false
 velocity vertical 1
@@ -34,6 +35,7 @@ Strafe toggle false
 Sneak toggle false
 FastClimb toggle false
 Hitbox size 0.4
-AutoClicker minCPS 6
-AutoClicker maxCPS 9
+AutoClicker minCPS 5
+AutoClicker maxCPS 7
 SkinDerp toggle false
+InventoryMove bypass true
