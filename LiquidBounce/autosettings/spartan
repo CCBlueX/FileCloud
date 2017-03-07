@@ -5,7 +5,7 @@ killaura range 4.9
 killaura switch true
 killaura multi false
 killaura throughwalls true
-killaura priority health
+killaura priority distance
 killaura burst false
 killaura failrate 1
 killaura turnspeed 180
