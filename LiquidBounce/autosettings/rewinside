@@ -14,8 +14,7 @@ velocity horizontal 0
 autoarmor bypass true
 antibot tab true
 antibot color false
-antibot livingtime true
-antibot ping false
+antibot livingtime false
 antibot ground false
 antibot toggle true
 cheststealer delay 2
