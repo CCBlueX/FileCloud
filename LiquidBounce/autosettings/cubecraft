@@ -19,3 +19,5 @@ fly bypass cubecraft
 step mode ncp
 tower type packet
 criticals toggle true
+longjump ncpboost 4.45
+longjump ncp
