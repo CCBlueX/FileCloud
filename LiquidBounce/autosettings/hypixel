@@ -28,4 +28,4 @@ AntiHunger toggle false
 Step old false
 NoRotateSet toggle true
 FastBreak toggle true
-longjump ncpboost 5.0
+longjump ncpboost 4.9
