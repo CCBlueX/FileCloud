@@ -9,6 +9,7 @@ killaura priority health
 killaura burst false
 killaura failrate 2
 killaura turnspeed 180
+killaura noinvattack false
 velocity vertical 0
 velocity horizontal 0
 autoarmor bypass false
