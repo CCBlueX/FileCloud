@@ -20,6 +20,6 @@ antibot toggle true
 cheststealer delay 2
 speed type ncpbhop
 criticals toggle false
-scaffold type normal
+scaffold type aac
 tower type motion
 longjump ncpboost 4.8
