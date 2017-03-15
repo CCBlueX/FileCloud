@@ -1,6 +1,6 @@
 # AutoSettings for Mineplex
-killaura mincps 6
-killaura maxcps 9
+killaura mincps 16
+killaura maxcps 20
 killaura range 4.2
 killaura switch true
 killaura throughwalls true
@@ -12,8 +12,6 @@ tower fast true
 antibot tab false
 antibot color false
 antibot livingtime false
-antibot ping false
 antibot ground true
 antibot toggle true
 autoarmor bypass false
-step old true
