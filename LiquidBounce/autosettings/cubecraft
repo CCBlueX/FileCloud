@@ -4,7 +4,7 @@ killaura maxcps 17
 killaura range 8
 killaura switch false
 killaura multi false
-killaura priority health
+killaura priority distance
 killaura throughwalls true
 killaura failrate 0
 killaura turnspeed 180
