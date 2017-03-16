@@ -21,5 +21,6 @@ tower type packet
 criticals toggle true
 longjump ncpboost 4.45
 longjump nocheat ncp
-velocity horizontal -0.3
-velocity vertical 0.5
+velocity horizontal 0
+velocity vertical 0
+pingspoof toggle true
