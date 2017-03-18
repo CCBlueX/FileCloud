@@ -2,7 +2,7 @@
 killaura mincps 5
 killaura maxcps 7
 killaura range 4.68
-killaura switch false
+killaura switch true
 killaura multi false
 killaura priority direction
 killaura turnspeed 180
@@ -13,7 +13,7 @@ velocity horizontal 0.4
 tower type packet
 antibot toggle false
 autoarmor bypass true
-speed type aacbhop
+speed type aac2bhop
 cheststealer delay 2
 step height 1
 step old false
