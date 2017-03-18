@@ -40,3 +40,4 @@ SkinDerp toggle false
 InventoryMove bypass true
 NoRotateSet toggle false
 Step mode AAC
+Scaffold type AAC
