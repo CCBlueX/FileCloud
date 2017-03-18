@@ -5,9 +5,8 @@ killaura range 4.68
 killaura switch false
 killaura multi false
 killaura priority direction
-killaura turnspeed 60
-killaura failrate 4
-killaura burst false
+killaura turnspeed 180
+killaura failrate 0
 killaura autoblock false
 velocity vertical 1
 velocity horizontal 0.4
