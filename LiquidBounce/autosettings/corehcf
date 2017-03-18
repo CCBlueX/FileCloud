@@ -28,3 +28,4 @@ NoRotateSet toggle true
 FastBreak toggle true
 fly bypass ncp
 Step mode NCP
+fastclimb type Normal
