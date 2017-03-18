@@ -22,4 +22,4 @@ tower type packet
 autoarmor bypass true
 scaffold type AAC
 step type AAC
-fastclimb type AAC
+fastclimb type AACv3
