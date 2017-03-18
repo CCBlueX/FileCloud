@@ -1,0 +1,24 @@
+#autosettings for randymc (by CloudHax)
+scaffold type aac
+killaura range 3.9
+killaura maxcps 9
+killaura mincps 5
+killaura priority direction
+killaura failrate 0.0
+killaura turnspeed 56
+antibot tab true
+antibot entityid true
+antibot Color true
+antibot Livingtime true
+antibot ground true
+antibot swing false
+antibot health true
+antibot toggle true
+velocity horizontal 0.4
+velocity vertical 1.0
+cheststealer delay 2
+inventorymove bypass true
+longjump nocheat laac
+tower type packet
+autoarmor bypass true
+
