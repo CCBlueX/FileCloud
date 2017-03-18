@@ -25,3 +25,4 @@ velocity horizontal 0
 velocity vertical 0
 pingspoof toggle true
 Step mode NCP
+scaffold type aac
