@@ -1,5 +1,4 @@
 #autosettings for randymc (by CloudHax)
-scaffold type aac
 killaura range 3.9
 killaura maxcps 9
 killaura mincps 5
@@ -21,4 +20,6 @@ inventorymove bypass true
 longjump nocheat laac
 tower type packet
 autoarmor bypass true
-
+scaffold type AAC
+step type AAC
+fastclimb type AAC
