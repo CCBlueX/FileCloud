@@ -41,5 +41,5 @@ InventoryMove bypass true
 NoRotateSet toggle false
 Step mode AAC
 Scaffold type AAC
-FastClimb type AACv3
+FastClimb bypass AACv3
 FastClimb toggle true
