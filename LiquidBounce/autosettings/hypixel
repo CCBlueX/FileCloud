@@ -7,7 +7,7 @@ killaura multi false
 killaura throughwalls true
 killaura priority health
 killaura burst false
-killaura failrate 2
+killaura failrate 0
 killaura turnspeed 180
 killaura noinvattack false
 velocity vertical 0
@@ -30,3 +30,4 @@ Step old false
 NoRotateSet toggle true
 FastBreak toggle true
 longjump ncpboost 4.9
+Step mode NCP

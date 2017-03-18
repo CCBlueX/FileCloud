@@ -38,3 +38,4 @@ Hitbox size 0.4
 AutoClicker minCPS 5
 AutoClicker maxCPS 7
 SkinDerp toggle false
+Step mode AAC

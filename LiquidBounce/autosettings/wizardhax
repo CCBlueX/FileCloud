@@ -20,4 +20,4 @@ fly vanillaspeed 0.6
 nofall toggle true
 antilevitation toggle true
 anticactus toggle true
-step old true
+Step mode Vanilla

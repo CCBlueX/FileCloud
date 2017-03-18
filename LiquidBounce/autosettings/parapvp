@@ -18,4 +18,4 @@ cheststealer delay 0
 speed type boost
 autoarmor bypass false
 fly bypass vanilla
-step old true
+Step mode Vanilla

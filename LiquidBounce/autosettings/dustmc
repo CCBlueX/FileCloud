@@ -18,3 +18,4 @@ cheststealer delay 3
 speed type ncpbhop
 autoarmor bypass true
 step old false
+Step mode AAC

@@ -17,4 +17,4 @@ antibot ground false
 antibot toggle true
 cheststealer delay 0
 autoarmor bypass false
-step old true
+Step mode AAC

@@ -27,3 +27,4 @@ Step old false
 NoRotateSet toggle true
 FastBreak toggle true
 fly bypass ncp
+Step mode NCP

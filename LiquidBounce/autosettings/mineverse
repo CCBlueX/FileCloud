@@ -17,4 +17,4 @@ antibot livingtime false
 antibot ping false
 antibot ground false
 antibot toggle false
-step old true
+Step mode NCP

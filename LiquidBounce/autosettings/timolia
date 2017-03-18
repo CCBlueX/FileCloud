@@ -16,4 +16,3 @@ antibot ping false
 antibot ground true
 antibot toggle true
 cheststealer delay 3
-step old false

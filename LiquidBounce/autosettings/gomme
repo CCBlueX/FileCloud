@@ -39,3 +39,4 @@ AutoClicker maxCPS 7
 SkinDerp toggle false
 InventoryMove bypass true
 NoRotateSet toggle false
+Step mode AAC
