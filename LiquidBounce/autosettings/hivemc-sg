@@ -20,7 +20,7 @@ cheststealer toggle true
 speed type boost
 autoarmor bypass false
 autoarmor toggle true
-step type OldNCP
+step mode OldNCP
 step toggle true
 fastclimb bypass Normal
 fastclimb toggle true
