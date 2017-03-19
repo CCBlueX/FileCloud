@@ -26,7 +26,7 @@ fastclimb bypass Normal
 fastclimb toggle true
 fastuse toggle true
 zoot toggle true
-fly bypass OldNCP
+fly bypass NCP
 criticals type packet
 criticals toggle true
 hitbox size 0.4
