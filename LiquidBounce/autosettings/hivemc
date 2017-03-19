@@ -33,3 +33,4 @@ fastuse toggle false
 zoot toggle false
 criticals type packet
 hitbox size 0.4
+noslow toggle false
