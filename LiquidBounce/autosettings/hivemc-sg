@@ -1,0 +1,23 @@
+# AutoSettings for HiveMC SG
+killaura mincps 6
+killaura maxcps 9
+killaura range 4
+killaura switch true
+killaura multi false
+killaura priority health
+killaura throughwalls true
+velocity vertical 0
+velocity horizontal 0
+antibot toggle false
+cheststealer delay 2
+cheststealer toggle true
+speed type boost
+autoarmor bypass false
+autoarmor toggle true
+step type OldNCP
+step toggle true
+fastclimb bypass Normal
+fastclimb toggle true
+fastuse toggle true
+zoot toggle true
+fly bypass OldNCP
