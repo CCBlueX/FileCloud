@@ -11,7 +11,7 @@ Killaura turnspeed 90
 Killaura failrate 0
 Velocity vertical 1
 Velocity horizontal 0
-Autoarmor bypass true
+AutoArmor bypass true
 Antibot tab true
 Antibot color false
 Antibot livingtime false
@@ -20,6 +20,7 @@ Antibot swing true
 Antibot health false
 Antibot toggle true
 Antibot entityid false
+InventoryMove bypass false
 Cheststealer delay 2
 Speed type ncpbhop
 Criticals toggle false
@@ -27,3 +28,8 @@ Scaffold type normal
 Tower type jump
 Step mode Rewinside
 PingSpoof toggle false
+FastUse toggle false
+Zoot toggle false
+Regen toggle false
+WebWalk toggle false
+NoFall toggle false
