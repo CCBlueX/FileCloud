@@ -26,7 +26,7 @@ criticals type packet
 criticals toggle true
 InventoryMove Bypass false
 AntiHunger toggle false
-Step old false
+Step mode ncp
 NoRotateSet toggle true
 FastBreak toggle true
 longjump ncpboost 4.9
