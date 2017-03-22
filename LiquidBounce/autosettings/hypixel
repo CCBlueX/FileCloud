@@ -30,4 +30,5 @@ Step old false
 NoRotateSet toggle true
 FastBreak toggle true
 longjump ncpboost 4.9
+longjump nocheat ncp
 Step mode NCP
