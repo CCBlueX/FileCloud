@@ -5,7 +5,7 @@ killaura range 5.12
 killaura switch true
 killaura multi false
 killaura throughwalls true
-killaura priority health
+killaura priority disctance
 killaura burst false
 killaura failrate 0
 killaura turnspeed 180
@@ -29,6 +29,8 @@ AntiHunger toggle false
 Step mode ncp
 NoRotateSet toggle true
 FastBreak toggle true
-longjump ncpboost 4.9
+longjump ncpboost 4.5
 longjump nocheat ncp
 Step mode NCP
+fly bypass aac
+timer speed 1.6
