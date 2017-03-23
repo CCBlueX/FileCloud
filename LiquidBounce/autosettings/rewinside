@@ -22,7 +22,7 @@ Antibot toggle true
 Antibot entityid false
 InventoryMove bypass false
 Cheststealer delay 2
-Speed type ncpbhop
+Speed type spartanbhop
 Criticals toggle false
 Scaffold type normal
 Tower type jump
@@ -33,3 +33,5 @@ Zoot toggle false
 Regen toggle false
 WebWalk toggle false
 NoFall toggle false
+longjump nocheat ncp
+longjump ncpboost 4.5
