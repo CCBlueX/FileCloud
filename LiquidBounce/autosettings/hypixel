@@ -5,11 +5,12 @@ killaura range 5.12
 killaura switch true
 killaura multi false
 killaura throughwalls true
-killaura priority disctance
+killaura priority health
 killaura burst false
 killaura failrate 0
 killaura turnspeed 180
 killaura noinvattack false
+killaura fov 180
 velocity vertical 0
 velocity horizontal 0
 autoarmor bypass false
