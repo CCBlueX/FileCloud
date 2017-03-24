@@ -18,8 +18,9 @@ antibot tab false
 antibot color false
 antibot livingtime false
 antibot ground true
-antibot toggle true
 antibot health false
+antibot swing false
+antibot toggle true
 cheststealer delay 3
 speed type spartanbhop
 scaffold type normal
