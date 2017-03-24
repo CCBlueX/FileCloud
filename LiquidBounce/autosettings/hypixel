@@ -36,3 +36,4 @@ longjump nocheat ncp
 Step mode NCP
 fly bypass aac
 timer speed 1.6
+noslow toggle true
