@@ -41,3 +41,4 @@ InventoryMove bypass true
 NoRotateSet toggle false
 Step mode AAC
 Scaffold type AAC
+Fly bypass AACv3
