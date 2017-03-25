@@ -4,6 +4,7 @@ killaura maxcps 12
 killaura range 5.12
 killaura switch true
 killaura multi false
+killaura autoblock true
 killaura throughwalls true
 killaura priority health
 killaura burst false
@@ -31,7 +32,6 @@ InventoryMove Bypass false
 AntiHunger toggle false
 Step mode ncp
 NoRotateSet toggle true
-FastBreak toggle true
 longjump ncpboost 4.5
 longjump nocheat ncp
 Step mode NCP
