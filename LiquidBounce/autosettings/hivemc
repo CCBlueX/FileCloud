@@ -14,12 +14,13 @@ killaura NoInvAttack false
 velocity Vertical 1
 velocity Horizontal 0.7
 antibot Tab false
-antibot Entityid true
+antibot EntityID true
 antibot Color false
 antibot LivingTime false
 antibot Ground true
 antibot Swing false
 antibot Health true
+antibot Derp true
 antibot toggle true
 cheststealer Delay 2
 speed Type timer
