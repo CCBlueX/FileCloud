@@ -23,3 +23,4 @@ tower Type packet
 autoarmor InvOpen true
 scaffold Type AAC
 step Type AAC
+fly Bypass AACv3
