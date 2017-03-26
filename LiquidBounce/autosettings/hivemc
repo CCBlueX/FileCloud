@@ -24,7 +24,7 @@ antibot toggle true
 cheststealer Delay 2
 speed Type timer
 autoarmor InvOpen false
-step Type AAC
+step Mode AAC
 step toggle true
 fastclimb Bypass AAC
 fastclimb toggle true
