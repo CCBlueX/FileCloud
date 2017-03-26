@@ -14,7 +14,7 @@ velocity Horizontal 0
 autoarmor InvOpen false
 antibot Tab true
 antibot Color false
-antibot Livingtime false
+antibot LivingTime false
 antibot Ground true
 antibot toggle true
 cheststealer Delay 3
@@ -28,5 +28,5 @@ AntiHunger toggle false
 Step Mode NCP
 NoRotateSet toggle true
 FastBreak toggle true
-fly bypass ncp
-fastclimb Type Normal
+fly Bypass ncp
+fastclimb Bypass Normal
