@@ -12,7 +12,6 @@ timer Speed 1.1
 antibot Tab true
 antibot Color false
 antibot LivingTime false
-antibot Ping false
 antibot Ground false
 antibot toggle true
 cheststealer Delay 0
