@@ -14,7 +14,6 @@ cheststealer Delay 3
 speed Type onground
 autoarmor InvOpen false
 fly Bypass ncp
-step Mode ncp
 tower Type packet
 criticals toggle true
 longjump NCPBoost 4.45
