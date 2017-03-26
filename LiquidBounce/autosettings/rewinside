@@ -2,7 +2,7 @@
 Killaura MinCPS 7
 Killaura MaxCPS 10
 Killaura Range 4.1
-killaura TargetNode single
+killaura TargetMode single
 Killaura ThroughWalls true
 Killaura Priority direction
 Killaura NoInvAttack true
