@@ -7,7 +7,7 @@ killaura Priority direction
 killaura TurnSpeed 180
 killaura FailRate 0
 killaura AutoBlock false
-velocity Vertical 1
+velocity Vertical 0.5
 velocity Horizontal 0.4
 tower Type packet
 antibot toggle false
