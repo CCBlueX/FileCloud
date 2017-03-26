@@ -16,7 +16,7 @@ antibot Health false
 antibot LivingTime false
 antibot Color false
 antibot Swing false
-antibot derp true
+antibot Derp true
 antibot toggle true
 cheststealer Delay 2
 speed Type onground
