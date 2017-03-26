@@ -12,11 +12,7 @@ killaura KeepSprint true
 velocity Vertical 0
 velocity Horizontal 0
 autoarmor InvOpen false
-antibot Tab true
-antibot Color false
-antibot Livingtime false
-antibot Ground true
-antibot toggle true
+antibot toggle false
 cheststealer Delay 3
 speed Type ncpbhop
 scaffold Type normal
