@@ -2,8 +2,7 @@
 killaura mincps 10
 killaura maxcps 18
 killaura range 7
-killaura switch true
-killaura multi true
+killaura targetmode multi
 killaura priority health
 killaura throughwalls true
 velocity vertical 0
@@ -16,6 +15,6 @@ antibot ground false
 antibot toggle false
 cheststealer delay 0
 speed type boost
-autoarmor bypass false
+autoarmor aacadditionpro false
 fly bypass vanilla
 Step mode Vanilla

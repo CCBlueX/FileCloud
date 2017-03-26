@@ -2,8 +2,7 @@
 killaura mincps 9
 killaura maxcps 12
 killaura range 5.12
-killaura switch true
-killaura multi false
+killaura targetmode switch
 killaura autoblock true
 killaura throughwalls true
 killaura priority health
@@ -14,7 +13,7 @@ killaura noinvattack false
 killaura fov 180
 velocity vertical 0
 velocity horizontal 0
-autoarmor bypass false
+autoarmor aacadditionpro false
 antibot tab false
 antibot color false
 antibot livingtime false
@@ -28,7 +27,7 @@ scaffold type normal
 tower type motion
 criticals type packet
 criticals toggle true
-InventoryMove Bypass false
+inventorymove AACAdditionPro false
 AntiHunger toggle false
 Step mode ncp
 NoRotateSet toggle true

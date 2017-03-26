@@ -12,7 +12,7 @@ antibot tab false
 antibot color false
 antibot livingtime false
 antibot ping false
-autoarmor bypass false
+autoarmor invopen false
 speed type ncpbhop
 fly vanillaspeed 0.6
 nofall toggle true

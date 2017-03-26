@@ -2,8 +2,7 @@
 killaura mincps 5
 killaura maxcps 7
 killaura range 4.68
-killaura switch true
-killaura multi false
+killaura targetmode single
 killaura priority direction
 killaura turnspeed 180
 killaura failrate 0
@@ -12,7 +11,7 @@ velocity vertical 1
 velocity horizontal 0.4
 tower type packet
 antibot toggle false
-autoarmor bypass true
+autoarmor invopen true
 speed type aac2bhop
 cheststealer delay 2
 step height 1
@@ -37,7 +36,7 @@ Hitbox size 0.4
 AutoClicker minCPS 5
 AutoClicker maxCPS 7
 SkinDerp toggle false
-InventoryMove bypass true
+inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step mode AAC
 Scaffold type AAC

@@ -2,8 +2,7 @@
 killaura mincps 6
 killaura maxcps 8
 killaura range 4.68
-killaura switch true
-killaura multi false
+killaura targetmode switch
 killaura priority direction
 killaura turnspeed 180
 killaura failrate 0
@@ -24,7 +23,7 @@ antibot health true
 antibot toggle true
 cheststealer delay 2
 speed type timer
-autoarmor bypass false
+autoarmor aacadditionpro false
 step type AAC
 step toggle true
 fastclimb bypass AAC

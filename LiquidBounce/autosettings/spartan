@@ -2,8 +2,7 @@
 killaura mincps 9
 killaura maxcps 12
 killaura range 4.9
-killaura switch true
-killaura multi false
+killaura targetmode switch
 killaura throughwalls true
 killaura priority distance
 killaura burst false
@@ -11,11 +10,11 @@ killaura failrate 1
 killaura turnspeed 180
 velocity vertical 0
 velocity horizontal 0
-autoarmor bypass false
+autoarmor aacadditionpro false
 cheststealer delay 0
 speed type spartanbhop
 scaffold type aac
 tower type jump
-InventoryMove Bypass false
+inventorymove AACAdditionPro false
 fastclimb bypass true
 Step mode Spartan

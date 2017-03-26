@@ -5,6 +5,7 @@ killaura mincps 5
 killaura priority direction
 killaura failrate 0.0
 killaura turnspeed 56
+killaura targetmode single
 antibot tab true
 antibot entityid true
 antibot Color true
@@ -16,9 +17,9 @@ antibot toggle true
 velocity horizontal 0.4
 velocity vertical 1.0
 cheststealer delay 2
-inventorymove bypass true
+inventorymove AACAdditionPro true
 longjump nocheat laac
 tower type packet
-autoarmor bypass true
+autoarmor aacadditionpro true
 scaffold type AAC
 step type AAC

@@ -2,12 +2,12 @@
 killaura mincps 6
 killaura maxcps 9
 killaura range 3.9
-killaura switch true
+killaura targetmode single
 killaura throughwalls true
 killaura priority health
 velocity vertical 0.6
 velocity horizontal 0
-autoarmor bypass false
+autoarmor aacadditionpro false
 tower fast false
 antibot tab false
 antibot color false

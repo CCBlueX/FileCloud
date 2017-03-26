@@ -3,7 +3,7 @@ killaura mincps 12
 killaura maxcps 18
 killaura cooldown true
 killaura range 7.2
-killaura switch true
+killaura targetmode multi
 killaura throughwalls true
 killaura priority health
 velocity vertical 0
@@ -14,7 +14,7 @@ antibot color false
 antibot livingtime false
 antibot ping false
 antibot toggle false
-autoarmor bypass false
+autoarmor aacadditionpro false
 speed type ncpbhop
 fly vanillaspeed 0.6
 nofall toggle true

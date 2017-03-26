@@ -2,7 +2,7 @@
 killaura mincps 16
 killaura maxcps 20
 killaura range 4.2
-killaura switch true
+killaura targetmode single
 killaura throughwalls true
 killaura multi true
 killaura priority health
@@ -14,5 +14,5 @@ antibot color false
 antibot livingtime false
 antibot ground true
 antibot toggle true
-autoarmor bypass false
+autoarmor aacadditionpro false
 Step mode Vanilla

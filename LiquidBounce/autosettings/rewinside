@@ -2,8 +2,7 @@
 Killaura mincps 7
 Killaura maxcps 10
 Killaura range 4.1
-Killaura switch true
-Killaura multi false
+killaura targetmode single
 Killaura throughwalls true
 Killaura priority direction
 Killaura noinvattack true
@@ -11,7 +10,7 @@ Killaura turnspeed 90
 Killaura failrate 0
 Velocity vertical 1
 Velocity horizontal 0
-AutoArmor bypass true
+autoarmor aacadditionpro true
 Antibot tab true
 Antibot color false
 Antibot livingtime false
@@ -20,7 +19,7 @@ Antibot swing true
 Antibot health false
 Antibot toggle true
 Antibot entityid false
-InventoryMove bypass false
+inventorymove AACAdditionPro false
 Cheststealer delay 2
 Speed type spartanbhop
 Criticals toggle false

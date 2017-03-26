@@ -2,12 +2,12 @@
 killaura mincps 6
 killaura maxcps 9
 killaura range 4.4
-killaura switch false
+killaura targetmode switch
 killaura throughwalls true
 killaura priority health
 velocity vertical 0
 velocity horizontal 0
-autoarmor bypass false
+autoarmor aacadditionpro false
 tower fast false
 cheststealer delay 3
 speed type ncpbhop
