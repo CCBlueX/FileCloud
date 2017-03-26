@@ -34,5 +34,5 @@ longjump NCPBoost 4.5
 longjump NoCheat ncp
 Step Mode NCP
 fly Bypass aac
-timer speed 1.6
+timer Speed 1.6
 noslow toggle true
