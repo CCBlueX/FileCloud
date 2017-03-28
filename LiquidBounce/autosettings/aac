@@ -11,7 +11,7 @@ velocity Vertical 1
 velocity Horizontal 0.4
 tower Type packet
 antibot toggle false
-autoarmor InvOpen true
+autoarmor bypass gomme
 speed Type aac2bhop
 cheststealer Delay 2
 step Height 1
