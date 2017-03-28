@@ -12,7 +12,7 @@ velocity Vertical 1
 antibot toggle false
 cheststealer Delay 3
 speed Type onground
-autoarmor InvOpen false
+autoarmor bypass none
 fly Bypass ncp
 tower Type packet
 criticals toggle true
