@@ -12,7 +12,7 @@ velocity Vertical 0
 antibot toggle false
 cheststealer Delay 0
 speed Type onground
-autoarmor InvOpen false
+autoarmor bypass none
 fly Bypass Vanilla
 tower Type teleport
 criticals toggle true
