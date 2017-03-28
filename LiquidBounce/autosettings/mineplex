@@ -1,6 +1,6 @@
 # AutoSettings for Mineplex
 killaura MaxCPS 15
-killaura MaxCPS 17
+killaura MinCPS 10
 killaura Range 4.2
 killaura TargetMode switch
 killaura Priority health
