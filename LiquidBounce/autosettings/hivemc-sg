@@ -17,7 +17,7 @@ antibot toggle false
 cheststealer Delay 2
 cheststealer toggle true
 speed Type boost
-autoarmor InvOpen false
+autoarmor bypass none
 autoarmor toggle true
 step Mode NCP
 step toggle true
