@@ -20,7 +20,7 @@ antibot Derp true
 antibot toggle true
 cheststealer Delay 2
 speed Type onground
-autoarmor InvOpen false
+autoarmor bypass none
 fly Bypass ncp
 tower Type teleport
 criticals toggle true
