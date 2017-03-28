@@ -15,5 +15,5 @@ antibot LivingTime false
 antibot Ground false
 antibot toggle true
 cheststealer Delay 0
-autoarmor InvOpen false
+autoarmor bypass none
 Step Mode AAC
