@@ -10,7 +10,7 @@ Killaura TurnSpeed 90
 Killaura FailRate 0
 Velocity Vertical 1
 Velocity Horizontal 0
-autoarmor InvOpen true
+autoarmor bypass InvOpen
 Antibot Tab true
 Antibot Color false
 Antibot LivingTime false
