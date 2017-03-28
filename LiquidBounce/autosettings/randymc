@@ -20,7 +20,7 @@ cheststealer Delay 2
 inventorymove AACAdditionPro true
 longjump NoCheat laac
 tower Type packet
-autoarmor InvOpen true
+autoarmor bypass InvOpen
 scaffold Type AAC
 step Type AAC
 fly Bypass AACv3
