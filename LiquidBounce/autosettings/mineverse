@@ -11,7 +11,7 @@ killaura TurnSpeed 180
 killaura KeepSprint true
 velocity Vertical 0
 velocity Horizontal 0
-autoarmor InvOpen false
+autoarmor bypass none
 antibot toggle false
 cheststealer Delay 3
 speed Type ncpbhop
