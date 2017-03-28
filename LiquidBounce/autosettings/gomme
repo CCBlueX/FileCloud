@@ -1,5 +1,5 @@
 # AutoSettings for Gomme
-killaura MinCPS 5
+killaura MinCPS 4
 killaura MaxCPS 7
 killaura Range 4.68
 killaura TargetMode single
@@ -43,3 +43,4 @@ Scaffold Type AAC
 FastClimb Bypass AACv3
 FastClimb toggle true
 Fly Bypass aacv3
+AntiHunger toggle false
