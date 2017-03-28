@@ -26,7 +26,6 @@ Criticals toggle false
 Scaffold Type normal
 Tower Type jump
 Step Mode Rewinside
-PingSpoof toggle false
 FastUse toggle false
 Zoot toggle false
 Regen toggle false
@@ -34,3 +33,4 @@ WebWalk toggle false
 NoFall toggle false
 longjump NoCheat ncp
 longjump NCPBoost 4.5
+scaffold type AAC
