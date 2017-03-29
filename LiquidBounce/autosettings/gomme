@@ -9,6 +9,7 @@ killaura FailRate 0
 killaura AutoBlock false
 velocity Vertical 0.5
 velocity Horizontal 0.4
+velocity toggle false
 tower Type packet
 antibot toggle false
 autoarmor bypass gomme
