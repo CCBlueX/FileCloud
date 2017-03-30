@@ -13,7 +13,7 @@ velocity toggle false
 tower Type packet
 antibot toggle false
 autoarmor bypass gomme
-speed Type aacyport
+speed Type AACBHop
 cheststealer Delay 2
 step Height 1
 step Mode AAC
