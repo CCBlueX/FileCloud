@@ -1,6 +1,6 @@
 # AutoSettings for Gomme
-killaura MinCPS 4
-killaura MaxCPS 7
+killaura MinCPS 10
+killaura MaxCPS 20
 killaura Range 4.68
 killaura TargetMode single
 killaura Priority direction
