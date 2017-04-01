@@ -8,6 +8,7 @@ killaura TurnSpeed 180
 killaura FailRate 6.2
 killaura AutoBlock false
 killaura NoInvAttack false
+killaura FOV 180
 velocity Vertical 0.5
 velocity Horizontal 0.4
 velocity toggle false
