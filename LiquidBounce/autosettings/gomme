@@ -45,3 +45,5 @@ FastClimb Bypass AACv3
 FastClimb toggle true
 Fly Bypass aacv3
 AntiHunger toggle false
+FastUse mode AAC
+FastStairs mode AAC
