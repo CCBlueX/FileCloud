@@ -21,3 +21,5 @@ longjump NoCheat ncp
 pingspoof toggle true
 Step Mode NCP
 scaffold Type aac
+FastUse mode NCP
+FastStairs mode NCP
