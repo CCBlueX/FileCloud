@@ -43,3 +43,5 @@ Scaffold Type AAC
 FastClimb Bypass AACv3
 FastClimb toggle true
 Fly Bypass aacv3
+FastUse mode AAC
+FastStairs mode AAC
