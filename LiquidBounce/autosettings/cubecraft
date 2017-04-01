@@ -23,3 +23,4 @@ Step Mode NCP
 scaffold Type aac
 FastUse mode NCP
 FastStairs mode NCP
+NoSlow toggle true
