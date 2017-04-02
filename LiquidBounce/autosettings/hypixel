@@ -36,3 +36,4 @@ Step Mode NCP
 fly Bypass aac
 timer Speed 1.6
 noslow toggle true
+phase mode skip
