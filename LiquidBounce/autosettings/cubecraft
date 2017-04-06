@@ -1,7 +1,7 @@
 # AutoSettings for CubeCraft
 killaura MinCPS 12
 killaura MaxCPS 17
-killaura Range 8
+killaura Range 7
 killaura TargetMode switch
 killaura Priority health
 killaura ThroughWalls true
