@@ -8,7 +8,7 @@ killaura ThroughWalls true
 killaura FailRate 0
 killaura TurnSpeed 180
 velocity Horizontal 0
-velocity Vertical 1
+velocity Vertical 0
 antibot toggle false
 cheststealer Delay 3
 speed Type onground
