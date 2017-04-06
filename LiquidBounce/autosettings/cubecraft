@@ -1,5 +1,5 @@
 # AutoSettings for CubeCraft
-killaura MaxCPS 15
+killaura MinCPS 12
 killaura MaxCPS 17
 killaura Range 8
 killaura TargetMode switch
