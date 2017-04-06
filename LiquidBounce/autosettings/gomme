@@ -43,8 +43,7 @@ inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step Mode AAC
 Scaffold Type AAC
-FastClimb Bypass AACv3
-FastClimb toggle true
+FastClimb toggle false
 Fly Bypass aacv3
 AntiHunger toggle false
 FastUse mode AAC
