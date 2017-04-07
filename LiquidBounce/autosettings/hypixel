@@ -21,6 +21,7 @@ antibot LivingTime false
 antibot Ground true
 antibot Health false
 antibot Swing false
+antibot EntityID false
 antibot toggle true
 cheststealer Delay 3
 speed Type spartanbhop
