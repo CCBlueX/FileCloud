@@ -13,6 +13,7 @@ killaura KeepSprint true
 killaura NoInvAttack false
 velocity Vertical 1
 velocity Horizontal 0.7
+Velocity AAC false
 antibot Tab false
 antibot EntityID true
 antibot Color false
