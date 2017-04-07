@@ -5,7 +5,7 @@ killaura MinCPS 5
 killaura Priority Health
 killaura TargetMode Single
 killaura MultiMode NCP
-killaura TroughWalls True
+killaura ThroughWalls True
 killaura Swing True
 killaura KeepSprint True
 killaura AutoBlock false
