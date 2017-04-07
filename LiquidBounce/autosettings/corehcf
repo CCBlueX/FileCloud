@@ -11,6 +11,7 @@ killaura TurnSpeed 180
 killaura KeepSprint true
 velocity Vertical 0
 velocity Horizontal 0
+Velocity AAC false
 autoarmor bypass none
 antibot Tab true
 antibot Color false
