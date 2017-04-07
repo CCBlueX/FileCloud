@@ -1,6 +1,6 @@
 #Autosettings for BergwerkLABS | Stand : 7.4.17 | By BuildLikeHim/Marco_MC
 killaura range 4.2
-killaura MaxCPS 5
+killaura MaxCPS 8
 killaura MinCPS 5
 killaura Priority Health
 killaura TargetMode Single
