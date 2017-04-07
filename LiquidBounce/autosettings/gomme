@@ -11,7 +11,7 @@ killaura AAC true
 killaura NoInvAttack false
 killaura FOV 180
 velocity AAC true
-velocity toggle false
+velocity toggle true
 tower Type packet
 antibot toggle false
 autoarmor bypass gomme
@@ -38,6 +38,7 @@ Hitbox Size 0.4
 AutoClicker MinCPS 5
 AutoClicker MaxCPS 7
 SkinDerp toggle false
+
 inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step Mode AAC
