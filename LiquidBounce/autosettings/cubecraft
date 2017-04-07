@@ -9,6 +9,7 @@ killaura FailRate 0
 killaura TurnSpeed 180
 velocity Horizontal 0
 velocity Vertical 0
+Velocity AAC false
 antibot toggle false
 cheststealer Delay 3
 speed Type onground
