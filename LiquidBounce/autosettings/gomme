@@ -38,7 +38,6 @@ Hitbox Size 0.4
 AutoClicker MinCPS 5
 AutoClicker MaxCPS 7
 SkinDerp toggle false
-
 inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step Mode AAC
