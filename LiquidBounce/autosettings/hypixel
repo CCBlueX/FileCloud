@@ -10,6 +10,7 @@ killaura FailRate 0
 killaura TurnSpeed 180
 killaura NoInvAttack false
 killaura FOV 180
+killaura AAC false
 velocity Vertical 0
 velocity Horizontal 0
 Velocity AAC false
