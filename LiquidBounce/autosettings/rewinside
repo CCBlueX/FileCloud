@@ -33,4 +33,4 @@ WebWalk toggle false
 NoFall toggle false
 longjump NoCheat ncp
 longjump NCPBoost 4.5
-scaffold type AAC
+scaffold type Rewinside
