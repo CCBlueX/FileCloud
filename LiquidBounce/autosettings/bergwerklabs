@@ -18,7 +18,7 @@ Velocity Horizontal 0
 Velocity Vertical 0
 Velocity AAC false
 FastBreak toggle True
-Tower type Jump
+Tower type Packet
 AutoArmor toggle True
 AutoArmor bypass Gomme
 speed type NCPBhop
