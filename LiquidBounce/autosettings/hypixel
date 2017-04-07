@@ -12,6 +12,7 @@ killaura NoInvAttack false
 killaura FOV 180
 velocity Vertical 0
 velocity Horizontal 0
+Velocity AAC false
 autoarmor bypass none
 antibot Tab false
 antibot Color false
