@@ -22,7 +22,7 @@ Tower type Jump
 AutoArmor toggle True
 AutoArmor bypass Gomme
 speed type NCPBhop
-Fly mode NCP
+Fly bypass NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 4.6
 Scaffold type Normal
