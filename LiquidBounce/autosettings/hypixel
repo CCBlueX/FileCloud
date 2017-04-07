@@ -24,7 +24,7 @@ antibot Swing false
 antibot EntityID false
 antibot toggle true
 cheststealer Delay 3
-speed Type spartanbhop
+speed Type slowhop
 scaffold Type normal
 tower Type motion
 criticals Type packet
