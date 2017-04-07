@@ -1,4 +1,4 @@
-#Autosettings for BergwerkLABS | Stand : 31.3.17 | By BuildLikeHim
+#Autosettings for BergwerkLABS | Stand : 7.4.17 | By BuildLikeHim/Marco_MC
 killaura range 4.2
 killaura MaxCPS 5
 killaura MinCPS 5
@@ -8,7 +8,7 @@ killaura MultiMode NCP
 killaura TroughWalls True
 killaura Swing True
 killaura KeepSprint True
-killaura AutoBlock True
+killaura AutoBlock false
 killaura NoInvAttack True
 killaura FailRate 0.0
 killaura TurnSpeed 180.0
