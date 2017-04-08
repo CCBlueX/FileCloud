@@ -21,7 +21,7 @@ Antibot toggle true
 Antibot EntityID false
 inventorymove AACAdditionPro false
 Cheststealer Delay 2
-Speed Type spartanbhop
+Speed Type slowhop
 Criticals toggle false
 Scaffold Type normal
 Tower Type jump
