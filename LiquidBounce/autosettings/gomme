@@ -2,7 +2,7 @@
 killaura MinCPS 7
 killaura MaxCPS 14
 killaura Range 4.2
-killaura TargetMode single
+killaura TargetMode switch
 killaura Priority direction
 killaura TurnSpeed 180
 killaura FailRate 3.2
