@@ -21,7 +21,8 @@ longjump NCPBoost 4.45
 longjump NoCheat ncp
 pingspoof toggle true
 Step Mode NCP
-scaffold Type rewinside
+scaffold Type normal
+scaffold slow true
 FastUse mode NCP
 FastStairs mode NCP
 NoSlow toggle true
