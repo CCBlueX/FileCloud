@@ -16,7 +16,7 @@ criticals type lowjump
 tower Type packet
 antibot toggle false
 autoarmor bypass gomme
-speed Type AACOnGround
+speed Type AACBHop
 cheststealer Delay 2
 step Height 1
 step Mode AAC
