@@ -30,6 +30,6 @@ FastBreak toggle True
 NoSlow toggle true
 Step mode NCP 
 Phase Mode Skip
-LiquidWalk mode NCP
+LiquidWalk type NCP
 FastStairs mode NCP
 FastStairs toggle true
