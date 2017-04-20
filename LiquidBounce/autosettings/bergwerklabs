@@ -16,7 +16,7 @@ Criticals type tpacket
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 FastBreak toggle True
-Tower MotionTp
+Tower type MotionTp
 AutoArmor toggle true
 AutoArmor type None
 Speed type NCPBhop
