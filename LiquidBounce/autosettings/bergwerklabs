@@ -1,5 +1,5 @@
-#Autosettings for BergwerkLABS | Stand : 31.3.17 | By BuildLikeHim
-killaura range 4.2
+#Autosettings for BergwerkLABS | By BuildLikeHim
+killaura Range 4.2
 killaura MaxCPS 5
 killaura MinCPS 5
 killaura Priority Health
@@ -12,28 +12,24 @@ killaura AutoBlock True
 killaura FailRate 0.0
 killaura TurnSpeed 180.0
 killaura FOV 180.0
-Criticals packet
+Criticals type tpacket
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
-Target Player True
-FastBreak True
+FastBreak toggle True
 Tower MotionTp
-AutoArmor True
-AutoArmor None
-speed type NCPBhop
+AutoArmor toggle true
+AutoArmor type None
+Speed type NCPBhop
 Fly Mode NCP
-LongJump NCP
+LongJump nocheat NCP
 LongJump NCPBoost 4.7
 Scaffold Normal
 Scaffold Slow true
 Scaffold AutoBlock true
 FastBreak True
-NoSlow True
-InventoryMove True
+NoSlow toggle true
 Step mode NCP 
-Teams True
 Phase Mode Skip
-LquidWalk NCP
-BowAimbot Silent
-Faststairs mode NCP
-Faststair True
+LiquidWalk NCP
+FastStairs mode NCP
+FastStairs toggle true
