@@ -26,7 +26,7 @@ LongJump NCPBoost 4.7
 Scaffold Normal
 Scaffold Slow true
 Scaffold AutoBlock true
-FastBreak True
+FastBreak toggle True
 NoSlow toggle true
 Step mode NCP 
 Phase Mode Skip
