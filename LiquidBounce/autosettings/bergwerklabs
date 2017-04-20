@@ -18,9 +18,8 @@ Velocity Vertical 0.0
 FastBreak toggle True
 Tower type MotionTp
 AutoArmor toggle true
-AutoArmor type None
+AutoArmor bypass None
 Speed type NCPBhop
-Fly Mode NCP
 LongJump nocheat NCP
 LongJump NCPBoost 4.7
 Scaffold type Normal
@@ -29,7 +28,7 @@ Scaffold AutoBlock true
 FastBreak toggle True
 NoSlow toggle true
 Step mode NCP 
-Phase Mode Skip
+Phase type Skip
 LiquidWalk type NCP
 FastStairs mode NCP
 FastStairs toggle true
