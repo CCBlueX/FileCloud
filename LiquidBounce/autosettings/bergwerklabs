@@ -23,13 +23,13 @@ Speed type NCPBhop
 Fly Mode NCP
 LongJump nocheat NCP
 LongJump NCPBoost 4.7
-Scaffold Normal
+Scaffold type Normal
 Scaffold Slow true
 Scaffold AutoBlock true
 FastBreak toggle True
 NoSlow toggle true
 Step mode NCP 
 Phase Mode Skip
-LiquidWalk NCP
+LiquidWalk mode NCP
 FastStairs mode NCP
 FastStairs toggle true
