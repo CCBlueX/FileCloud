@@ -8,6 +8,7 @@ killaura TurnSpeed 180
 killaura FailRate 3.2
 killaura AutoBlock false
 killaura AAC true
+killaura raycast true
 killaura NoInvAttack false
 killaura FOV 180
 velocity AAC true
