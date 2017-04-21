@@ -11,6 +11,7 @@ killaura TurnSpeed 180
 killaura NoInvAttack false
 killaura FOV 180
 killaura AAC false
+killaura raycast false
 velocity Vertical 0
 velocity Horizontal 0
 Velocity AAC false
