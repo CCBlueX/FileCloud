@@ -22,8 +22,8 @@ KillAura ThroughWalls true
 KillAura Range 4.2
 KillAura Priority Direction
 KillAura FOV 180
-KillAura MaxCPS 9
-KillAura MinCPS 6
+KillAura MaxCPS 11
+KillAura MinCPS 7
 KillAura Swing true
 KillAura AutoBlock false
 KillAura NoInvAttack false
