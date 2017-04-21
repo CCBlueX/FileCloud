@@ -13,7 +13,8 @@ antibot livingtime false
 antibot ping false
 antibot ground false
 antibot toggle true
-cheststealer delay 3
+cheststealer maxdelay 200
+cheststealer mindelay 150
 speed type ncpbhop
 autoarmor aacadditionpro true
 step old false
