@@ -24,7 +24,8 @@ antibot Health false
 antibot Swing false
 antibot EntityID false
 antibot toggle true
-cheststealer Delay 3
+cheststealer maxdelay 200
+cheststealer mindelay 150
 speed Type slowhop
 scaffold Type normal
 tower Type motion
