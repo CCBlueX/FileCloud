@@ -8,9 +8,12 @@ killaura TurnSpeed 180
 killaura FailRate 3.2
 killaura AutoBlock false
 killaura AAC true
+killaura raycast true
 killaura NoInvAttack false
 killaura FOV 180
 velocity AAC true
+velocity horizontal 0
+velocity vertical 0
 velocity toggle true
 criticals type lowjump
 tower Type packet
