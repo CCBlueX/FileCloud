@@ -13,7 +13,8 @@ velocity Horizontal 0
 velocity Vertical 0
 Velocity AAC false
 antibot toggle false
-cheststealer Delay 3
+cheststealer maxdelay 200
+cheststealer mindelay 150
 speed Type onground
 autoarmor bypass none
 fly Bypass ncp
