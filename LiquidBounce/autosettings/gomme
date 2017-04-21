@@ -38,7 +38,6 @@ FastBreak toggle false
 IceSpeed toggle false
 Strafe toggle false
 Sneak toggle false
-FastClimb toggle false
 Hitbox Size 0.4
 AutoClicker MinCPS 5
 AutoClicker MaxCPS 8
@@ -47,7 +46,7 @@ inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step Mode AAC
 Scaffold Type AAC
-FastClimb toggle false
+FastClimb bypass LAAC
 Fly Bypass aacv3
 AntiHunger toggle false
 FastUse mode AAC
