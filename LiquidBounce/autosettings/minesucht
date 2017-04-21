@@ -1,6 +1,7 @@
 #autosettings for minesucht by Florijon (updated)
 AutoArmor Bypass Gomme
-ChestStealer Delay 2
+cheststealer maxdelay 60
+cheststealer mindelay 125
 FastClimb Bypass AACv3
 FastStairs Mode AAC
 FastUse Mode AAC
