@@ -20,7 +20,8 @@ tower Type packet
 antibot toggle false
 autoarmor bypass gomme
 speed Type AACBHop
-cheststealer Delay 2
+cheststealer maxdelay 200
+cheststealer mindelay 150
 step Height 1
 step Mode AAC
 sprint AllDirections false
