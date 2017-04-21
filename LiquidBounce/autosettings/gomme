@@ -19,7 +19,7 @@ criticals type lowjump
 tower Type packet
 antibot toggle false
 autoarmor bypass gomme
-speed Type AACBHop
+speed Type AACLowHop
 cheststealer maxdelay 200
 cheststealer mindelay 150
 step Height 1
