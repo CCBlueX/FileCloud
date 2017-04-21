@@ -1,4 +1,4 @@
-# AutoSettings for AdvancedAntiCheat
+# AutoSettings for AAC
 killaura MinCPS 7
 killaura MaxCPS 14
 killaura Range 4.2
@@ -38,16 +38,15 @@ FastBreak toggle false
 IceSpeed toggle false
 Strafe toggle false
 Sneak toggle false
-FastClimb toggle false
 Hitbox Size 0.4
 AutoClicker MinCPS 5
-AutoClicker MaxCPS 7
+AutoClicker MaxCPS 8
 SkinDerp toggle false
 inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step Mode AAC
 Scaffold Type AAC
-FastClimb toggle false
+FastClimb bypass LAAC
 Fly Bypass aacv3
 AntiHunger toggle false
 FastUse mode AAC
