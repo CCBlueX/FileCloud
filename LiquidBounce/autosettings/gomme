@@ -1,6 +1,6 @@
 # AutoSettings for Gomme
-killaura MinCPS 7
-killaura MaxCPS 14
+killaura MinCPS 10
+killaura MaxCPS 20
 killaura Range 4.2
 killaura TargetMode switch
 killaura Priority direction
@@ -41,7 +41,7 @@ Sneak toggle false
 FastClimb toggle false
 Hitbox Size 0.4
 AutoClicker MinCPS 5
-AutoClicker MaxCPS 7
+AutoClicker MaxCPS 8
 SkinDerp toggle false
 inventorymove AACAdditionPro true
 NoRotateSet toggle false
