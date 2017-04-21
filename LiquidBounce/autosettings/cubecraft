@@ -7,6 +7,8 @@ killaura Priority health
 killaura ThroughWalls true
 killaura FailRate 0
 killaura TurnSpeed 180
+killaura raycast false
+killaura aac false
 velocity Horizontal 0
 velocity Vertical 0
 Velocity AAC false
