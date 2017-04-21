@@ -1,7 +1,7 @@
 # AutoSettings for NoCheatPlus
 killaura MinCPS 9
 killaura MaxCPS 12
-killaura Range 5.12
+killaura Range 4.2
 killaura TargetMode switch
 killaura ThroughWalls true
 killaura Priority health
