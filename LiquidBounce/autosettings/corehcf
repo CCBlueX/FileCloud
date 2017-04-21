@@ -1,7 +1,7 @@
 # AutoSettings for CoreHCF
 killaura MinCPS 9
 killaura MaxCPS 12
-killaura Range 5.12
+killaura Range 4.2
 killaura TargetMode switch
 killaura ThroughWalls true
 killaura Priority health
@@ -9,20 +9,20 @@ killaura FailRate 0
 killaura FOV 180
 killaura TurnSpeed 180
 killaura KeepSprint true
+killaura aac false
+killaura raycast false
+velocity aac false
 velocity Vertical 0
 velocity Horizontal 0
-Velocity AAC false
 autoarmor bypass none
-antibot Tab true
-antibot Color false
-antibot LivingTime false
-antibot Ground true
-antibot toggle true
-cheststealer Delay 3
+antibot toggle false
+cheststealer maxdelay 200
+cheststealer mindelay 150
 speed Type ncpbhop
 scaffold Type normal
+scaffold slow false
 tower Type motion
-criticals Type packet
+criticals type packet
 criticals toggle true
 inventorymove AACAdditionPro false
 AntiHunger toggle false
@@ -31,3 +31,5 @@ NoRotateSet toggle true
 FastBreak toggle true
 fly Bypass ncp
 fastclimb Bypass Normal
+FastUse mode NCP
+FastStairs mode NCP
