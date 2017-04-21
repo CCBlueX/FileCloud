@@ -39,3 +39,7 @@ Tower AutoBlock true
 Tower Swing false
 Tower Type LowJump
 Velocity AAC true
+velocity horizontal 0.5
+velocity vertical 0.5
+inventorycleaner maxdelay 80
+inventorycleaner mindelay 35 
