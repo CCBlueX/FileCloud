@@ -16,7 +16,7 @@ FastUse Mode AAC
 Fly Bypass AACv3
 Fly AACSpeed 0.3
 Fly VanillaSpeed 2.0
-InventoryMove AACAdditionPro true
+InventoryMove AACAdditionPro false
 KillAura KeepSprint true
 KillAura ThroughWalls true
 KillAura Range 4.2
