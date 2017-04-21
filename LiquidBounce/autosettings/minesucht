@@ -10,7 +10,7 @@ Fly AACSpeed 0.3
 Fly VanillaSpeed 2.0
 InventoryMove AACAdditionPro false
 KillAura KeepSprint true
-KillAura ThroughWalls true
+KillAura ThroughWalls false
 KillAura Range 4.2
 KillAura Priority Direction
 KillAura FOV 180
