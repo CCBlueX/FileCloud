@@ -45,7 +45,7 @@ SkinDerp toggle false
 inventorymove AACAdditionPro true
 NoRotateSet toggle false
 Step Mode AAC
-Scaffold Type AAC
+Scaffold Type AACAD
 FastClimb bypass LAAC
 Fly Bypass aacv3
 AntiHunger toggle false
