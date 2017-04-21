@@ -1,13 +1,4 @@
 #autosettings for minesucht by Florijon
-AntiBot Derp true
-AntiBot Swing false
-AntiBot Tab false
-AntiBot Color false
-AntiBot Health false
-AntiBot EntityID false
-AntiBot Ground true
-AntiBot LivingTime false
-AntiBot toggle true
 AutoArmor Bypass Gomme
 ChestStealer Delay 2
 FastClimb Bypass AACv3
