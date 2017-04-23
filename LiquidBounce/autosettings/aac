@@ -16,7 +16,7 @@ velocity horizontal 0
 velocity vertical 0
 velocity toggle true
 criticals type lowjump
-tower Type packet
+tower Type motion
 antibot toggle false
 autoarmor bypass gomme
 speed Type AACLowHop
