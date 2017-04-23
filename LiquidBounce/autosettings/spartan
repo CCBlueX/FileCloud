@@ -12,9 +12,11 @@ killaura TurnSpeed 180
 velocity Vertical 0
 velocity Horizontal 0
 autoarmor bypass none
-cheststealer Delay 0
-speed Type spartanbhop
-scaffold Type aac
+cheststealer maxdelay 200
+cheststealer mindelay 150
+speed Type slowhop
+scaffold Type aacad
+scaffold slow true
 tower Type jump
 inventorymove AACAdditionPro false
 fastclimb Bypass AAC
