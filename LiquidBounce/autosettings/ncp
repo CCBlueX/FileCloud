@@ -1,17 +1,16 @@
 # AutoSettings for NoCheatPlus
-killaura MinCPS 9
-killaura MaxCPS 12
-killaura Range 4.2
-killaura TargetMode switch
+killaura MinCPS 8
+killaura MaxCPS 13
+killaura Range 4
+killaura TargetMode single
 killaura ThroughWalls true
-killaura Priority health
+killaura Priority Direction
 killaura FailRate 0
 killaura FOV 180
 killaura TurnSpeed 180
 killaura KeepSprint true
 killaura aac false
 killaura raycast false
-velocity aac false
 velocity Vertical 0
 velocity Horizontal 0
 autoarmor bypass none
