@@ -1,6 +1,8 @@
 # AutoSettings for CubeCraft
 antibot toggle false
 autoarmor bypass none
+autoarmor maxdelay 100
+autoarmor mindelay 50
 cheststealer maxdelay 100
 cheststealer mindelay 50
 criticals toggle true
