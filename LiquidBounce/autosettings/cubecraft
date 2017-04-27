@@ -7,8 +7,8 @@ criticals toggle true
 FastStairs mode NCP
 FastUse mode NCP
 fly Bypass ncp
-invenorycleaner maxdelay 100
-invenorycleaner mindelay 50
+inventorycleaner maxdelay 100
+inventorycleaner mindelay 50
 killaura aac false
 killaura FailRate 0
 killaura MaxCPS 17
