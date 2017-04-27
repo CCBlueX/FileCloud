@@ -1,12 +1,14 @@
 # AutoSettings for CubeCraft
 antibot toggle false
 autoarmor bypass none
-cheststealer maxdelay 200
-cheststealer mindelay 150
+cheststealer maxdelay 100
+cheststealer mindelay 50
 criticals toggle true
 FastStairs mode NCP
 FastUse mode NCP
 fly Bypass ncp
+invenorycleaner maxdelay 100
+invenorycleaner mindelay 50
 killaura aac false
 killaura FailRate 0
 killaura MaxCPS 17
