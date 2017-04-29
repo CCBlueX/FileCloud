@@ -15,7 +15,7 @@ cheststealer mindelay 50
 cheststealer maxdelay 100
 criticals toggle true
 criticals Type packet
-fly Bypass aac
+fly Bypass vanilla
 inventorycleaner maxdelay 100
 inventorycleaner mindelay 50
 inventorymove AACAdditionPro false
