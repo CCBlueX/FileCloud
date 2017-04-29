@@ -36,7 +36,7 @@ NoSlow toggle false
 PingSpoof toggle false
 Regen toggle false
 Scaffold Swing false
-Scaffold mode normal
+Scaffold type normal
 scaffold slow true
 SkinDerp toggle false
 Sneak toggle false
