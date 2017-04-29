@@ -36,7 +36,8 @@ NoSlow toggle false
 PingSpoof toggle false
 Regen toggle false
 Scaffold Swing false
-Scaffold Type AACAD
+Scaffold mode normal
+scaffold slow true
 SkinDerp toggle false
 Sneak toggle false
 speed Type AACLowHop
