@@ -20,13 +20,13 @@ IceSpeed toggle false
 inventorymove AACAdditionPro true
 killaura AAC true
 killaura AutoBlock false
-killaura FailRate 3.2
+killaura FailRate 0
 killaura FOV 180
 killaura MaxCPS 15
 killaura MinCPS 10
 killaura NoInvAttack false
 killaura Priority direction
-killaura Range 4.2
+killaura Range 4.4
 killaura raycast true
 killaura TargetMode switch
 killaura TurnSpeed 180
@@ -35,9 +35,8 @@ NoRotateSet toggle false
 NoSlow toggle false
 PingSpoof toggle false
 Regen toggle false
-Scaffold Slow true
 Scaffold Swing false
-Scaffold Type Normal
+Scaffold Type AACAD
 SkinDerp toggle false
 Sneak toggle false
 speed Type AACLowHop
