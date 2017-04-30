@@ -47,7 +47,7 @@ step Mode AAC
 Step Mode AAC
 Strafe toggle false
 Teleport toggle false
-tower Type motion
+tower Type jump
 velocity AAC true
 velocity horizontal 0
 velocity toggle true
