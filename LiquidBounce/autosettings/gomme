@@ -13,7 +13,7 @@ FastBreak toggle false
 FastClimb bypass LAAC
 FastStairs mode AAC
 FastUse mode AAC
-Fly Bypass aacv3
+Fly Bypass laac
 Ghost toggle false
 Hitbox Size 0.4
 IceSpeed toggle false
