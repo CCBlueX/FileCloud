@@ -8,12 +8,12 @@ autorespawn toggle false
 cheststealer maxdelay 200
 cheststealer mindelay 150
 CivBreak toggle false
-criticals type lowjump
+criticals type jump
 FastBreak toggle false
 FastClimb bypass LAAC
 FastStairs mode AAC
 FastUse mode AAC
-Fly Bypass laac
+Fly Bypass gomme
 Ghost toggle false
 Hitbox Size 0.4
 IceSpeed toggle false
