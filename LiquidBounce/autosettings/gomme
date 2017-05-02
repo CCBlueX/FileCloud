@@ -49,7 +49,6 @@ speed Type AACLowHop
 sprint AllDirections false
 step Height 1
 step Mode AAC
-Step Mode AAC
 Strafe toggle false
 Teleport toggle false
 tower Type jump
