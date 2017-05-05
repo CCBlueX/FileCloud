@@ -29,6 +29,7 @@ Scaffold Type normal
 scaffold type Rewinside
 Speed Type ncpbhop
 Step Mode Rewinside
+teleport type rewinside
 Tower Type jump
 Velocity Horizontal 0
 Velocity Vertical 1
