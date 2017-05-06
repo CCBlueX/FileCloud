@@ -26,7 +26,7 @@ longjump NoCheat ncp
 NoFall toggle false
 Regen toggle false
 Scaffold AutoBlock false
-scaffold slow true
+scaffold slow false
 Scaffold Type Eagle
 Speed Type ncphop
 Step Mode Rewinside
