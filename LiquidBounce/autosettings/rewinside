@@ -32,6 +32,7 @@ Speed Type ncphop
 Step Mode Rewinside
 teleport type rewinside
 Tower Type jump
+velocity aac false
 Velocity Horizontal 0
 Velocity Vertical 1
 WebWalk toggle false
