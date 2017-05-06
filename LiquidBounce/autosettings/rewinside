@@ -27,7 +27,7 @@ NoFall toggle false
 Regen toggle false
 Scaffold Type normal
 scaffold type Rewinside
-Speed Type ncpbhop
+Speed Type ncphop
 Step Mode Rewinside
 teleport type rewinside
 Tower Type jump
