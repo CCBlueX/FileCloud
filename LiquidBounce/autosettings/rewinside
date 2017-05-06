@@ -25,8 +25,9 @@ longjump NCPBoost 4.5
 longjump NoCheat ncp
 NoFall toggle false
 Regen toggle false
-Scaffold Type normal
-scaffold type Rewinside
+Scaffold AutoBlock false
+scaffold slow true
+Scaffold Type Eagle
 Speed Type ncphop
 Step Mode Rewinside
 teleport type rewinside
