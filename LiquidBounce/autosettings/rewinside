@@ -4,7 +4,7 @@ Antibot EntityID false
 Antibot Ground false
 Antibot Health false
 Antibot LivingTime false
-Antibot Swing true
+Antibot Swing false
 Antibot Tab true
 Antibot toggle true
 autoarmor bypass InvOpen
