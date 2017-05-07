@@ -40,6 +40,7 @@ NoRotateSet toggle false
 NoSlow toggle false
 PingSpoof toggle false
 Regen toggle false
+scaffold autoblock false
 Scaffold Swing false
 Scaffold type AAC
 scaffold slow true
