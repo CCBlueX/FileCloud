@@ -1,7 +1,7 @@
 # AutoSettings for Gomme
 antibot toggle false
 AntiHunger toggle false
-autoarmor bypass gomme
+autoarmor bypass invopen
 autoarmor maxdelay 150
 autoarmor mindelay 100
 AutoClicker MaxCPS 8
@@ -19,7 +19,7 @@ Fly Bypass gomme
 Ghost toggle false
 Hitbox Size 0.4
 IceSpeed toggle false
-inventorycleaner invopen true
+inventorycleaner openinv true
 invenotrycleaner maxdelay 150
 inventorycleaner mindelay 100
 inventorymove AACAdditionPro true
