@@ -1,5 +1,14 @@
 # AutoSettings for CubeCraft
-antibot toggle false
+AntiBot Derp false
+AntiBot Swing true
+AntiBot Tab true
+AntiBot Color false
+AntiBot Health false
+AntiBot EntityID false
+AntiBot Ground false
+AntiBot WasInvisible false
+AntiBot LivingTime false
+antibot toggle true
 autoarmor bypass none
 autoarmor maxdelay 100
 autoarmor mindelay 50
