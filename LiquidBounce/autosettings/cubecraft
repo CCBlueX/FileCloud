@@ -5,6 +5,7 @@ autoarmor maxdelay 100
 autoarmor mindelay 50
 cheststealer maxdelay 100
 cheststealer mindelay 50
+criticals type packet
 criticals toggle true
 FastStairs mode NCP
 FastUse mode NCP
