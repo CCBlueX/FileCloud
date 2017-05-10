@@ -14,7 +14,7 @@ killaura MaxCPS 5
 killaura MinCPS 5
 killaura MultiMode NCP
 killaura Priority Health
-killaura Range 4.2
+killaura Range 3.7
 killaura Swing True
 killaura TargetMode Switch
 killaura ThroughWalls True
