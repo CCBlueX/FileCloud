@@ -20,7 +20,7 @@ Ghost toggle false
 Hitbox Size 0.4
 IceSpeed toggle false
 inventorycleaner openinv true
-invenotrycleaner maxdelay 150
+inventorycleaner maxdelay 150
 inventorycleaner mindelay 100
 inventorymove AACAdditionPro true
 killaura AAC true
