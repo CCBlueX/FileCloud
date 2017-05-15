@@ -13,7 +13,7 @@ cheststealer mindelay 50
 Criticals toggle false
 FastUse toggle false
 inventorycleaner maxdelay 100
-inventorycleaner mindelay 50
+inventorycleaner mindelay 70
 inventorycleaner openinv true
 inventorymove AACAdditionPro false
 Killaura FailRate 0
