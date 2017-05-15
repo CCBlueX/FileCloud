@@ -16,12 +16,14 @@ inventorycleaner maxdelay 100
 inventorycleaner mindelay 70
 inventorycleaner openinv true
 inventorymove AACAdditionPro false
+killaura aac true
 Killaura FailRate 0
 Killaura MaxCPS 10
 Killaura MinCPS 7
 Killaura NoInvAttack true
 Killaura Priority direction
 Killaura Range 3.8
+killaura raycast true
 killaura TargetMode single
 Killaura ThroughWalls false
 Killaura TurnSpeed 90
