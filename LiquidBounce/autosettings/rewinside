@@ -8,9 +8,13 @@ Antibot Swing false
 Antibot Tab true
 Antibot toggle true
 autoarmor bypass InvOpen
-Cheststealer Delay 2
+Cheststealer Maxdelay 100
+cheststealer mindelay 50
 Criticals toggle false
 FastUse toggle false
+inventorycleaner maxdelay 100
+inventorycleaner mindelay 50
+inventorycleaner openinv true
 inventorymove AACAdditionPro false
 Killaura FailRate 0
 Killaura MaxCPS 10
