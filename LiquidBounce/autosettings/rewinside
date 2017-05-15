@@ -17,11 +17,11 @@ Killaura MaxCPS 10
 Killaura MinCPS 7
 Killaura NoInvAttack true
 Killaura Priority direction
-Killaura Range 4.1
+Killaura Range 3.8
 killaura TargetMode single
-Killaura ThroughWalls true
+Killaura ThroughWalls false
 Killaura TurnSpeed 90
-longjump NCPBoost 4.5
+longjump NCPBoost 3.0
 longjump NoCheat ncp
 NoFall toggle false
 Regen toggle false
