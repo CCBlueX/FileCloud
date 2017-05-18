@@ -43,3 +43,7 @@ Tower Type LowJump
 Velocity AAC true
 velocity horizontal 0.5
 velocity vertical 0.5
+NoSlow toggle true
+KillAura autoblock true
+Criticals type Jump
+Step mode Rewinside
