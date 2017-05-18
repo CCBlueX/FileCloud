@@ -22,7 +22,8 @@ IceSpeed toggle false
 inventorycleaner openinv true
 inventorycleaner maxdelay 150
 inventorycleaner mindelay 100
-inventorymove AACAdditionPro true
+#inventorymove AACAdditionPro true
+inventorymove AACAdditionPro false
 killaura AAC true
 killaura AutoBlock false
 killaura FailRate 0
