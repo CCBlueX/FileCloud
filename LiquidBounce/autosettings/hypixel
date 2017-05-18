@@ -28,7 +28,7 @@ killaura MaxCPS 12
 killaura MinCPS 9
 killaura NoInvAttack false
 killaura Priority health
-killaura Range 5.12
+killaura Range 4.7
 killaura raycast false
 killaura TargetMode switch
 killaura ThroughWalls true
