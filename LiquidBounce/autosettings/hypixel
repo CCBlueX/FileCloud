@@ -35,6 +35,8 @@ killaura ThroughWalls true
 killaura TurnSpeed 180
 longjump NCPBoost 4.5
 longjump NoCheat ncp
+nofall aac false
+nofall toggle true
 noslow toggle true
 phase type skip
 scaffold slow false
