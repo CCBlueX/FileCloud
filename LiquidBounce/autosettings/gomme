@@ -47,7 +47,7 @@ Scaffold type AAC
 scaffold slow true
 SkinDerp toggle false
 Sneak toggle false
-speed Type AACLowHop
+speed Type AACBHOP
 sprint AllDirections false
 step Height 1
 step Mode AAC
