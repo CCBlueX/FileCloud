@@ -4,7 +4,7 @@ AntiHunger toggle false
 autoarmor bypass none
 cheststealer maxdelay 200
 cheststealer mindelay 150
-criticals toggle true
+#criticals toggle true
 criticals type packet
 FastBreak toggle true
 fastclimb Bypass Normal
