@@ -31,7 +31,7 @@ killaura raycast false
 killaura TargetMode switch
 killaura ThroughWalls true
 killaura TurnSpeed 180
-longjump NCPBoost 15
+longjump NCPBoost 10
 longjump NoCheat ncp
 NoSlow toggle true
 pingspoof toggle true
