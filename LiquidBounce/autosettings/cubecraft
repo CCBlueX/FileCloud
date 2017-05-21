@@ -38,8 +38,6 @@ pingspoof toggle true
 scaffold slow false
 scaffold Type AAC
 speed Type onground
-#Comments
-LongJump NCPBoost 17 might be working.
 Step Mode NCP
 tower Type packet
 Velocity AAC false
