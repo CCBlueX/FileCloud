@@ -23,9 +23,9 @@ KillAura HurtTime false
 KillAura Range 4.1
 KillAura Priority Direction
 KillAura FOV 180.0
-KillAura MaxCPS 13
+KillAura MaxCPS 14
 KillAura RayCast false
-KillAura MinCPS 9
+KillAura MinCPS 10
 KillAura Swing true
 KillAura AutoBlock false
 KillAura NoInvAttack false
