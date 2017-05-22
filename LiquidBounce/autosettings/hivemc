@@ -9,7 +9,8 @@ antibot Swing false
 antibot Tab false
 antibot toggle true
 autoarmor bypass none
-cheststealer Delay 2
+cheststealer maxdelay 100
+cheststealer mindelay 50
 criticals Type packet
 fastclimb Bypass AAC
 fastclimb toggle true
