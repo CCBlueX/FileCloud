@@ -14,6 +14,7 @@ criticals Type packet
 fastclimb Bypass AAC
 fastclimb toggle true
 fastuse toggle false
+fly bypass aac
 hitbox Size 0.4
 killaura AutoBlock false
 killaura FailRate 0
