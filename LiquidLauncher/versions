@@ -1,53 +1,53 @@
 {
     "1.8.8": [
-        "b25.5>http://ad.liquidbounce.net/S"
-        "b25.4>http://ad.liquidbounce.net/R"
-        "b25.3>http://ad.liquidbounce.net/Q"
-        "b25.2>http://ad.liquidbounce.net/P"
-        "b25.1>http://ad.liquidbounce.net/O"
-        "b24.3>http://ad.liquidbounce.net/M"
-        "b24.2>http://ad.liquidbounce.net/L"
-        "b24.1>http://ad.liquidbounce.net/I"
-        "b22>http://ad.liquidbounce.net/H"
-        "b21>http://ad.liquidbounce.net/G"
-        "b20.5>http://ad.liquidbounce.net/F"
-        "b20.4>http://ad.liquidbounce.net/E"
-        "b20.3>http://ad.liquidbounce.net/D"
-        "b20.2>http://ad.liquidbounce.net/C"
-        "b20.1>http://ad.liquidbounce.net/B"
-        "b19>http://ad.liquidbounce.net/A"
-        "b18>http://ad.liquidbounce.net/9"
-        "b17.2>http://ad.liquidbounce.net/7"
-        "b17.1>http://ad.liquidbounce.net/6"
-        "b16>http://ad.liquidbounce.net/5"
-        "b15>http://ad.liquidbounce.net/4"
-        "b14>http://ad.liquidbounce.net/3"
-        "b13>http://ad.liquidbounce.net/1"
-        "b12>http://ad.liquidbounce.tk/R"
-        "b11>http://ad.liquidbounce.tk/P"
-        "b10>http://ad.liquidbounce.tk/N"
-        "b9>http://ad.liquidbounce.tk/L"
-        "b8>http://ad.liquidbounce.tk/F"
-        "b7>http://ad.liquidbounce.tk/E"
-        "b6>http://ad.liquidbounce.tk/D"
-        "b5>http://ad.liquidbounce.tk/4"
-        "b4>http://ad.liquidbounce.tk/5832836/liquidbounce--188--b4"
+        "b25.5>http://ad.liquidbounce.net/S",
+        "b25.4>http://ad.liquidbounce.net/R",
+        "b25.3>http://ad.liquidbounce.net/Q",
+        "b25.2>http://ad.liquidbounce.net/P",
+        "b25.1>http://ad.liquidbounce.net/O",
+        "b24.3>http://ad.liquidbounce.net/M",
+        "b24.2>http://ad.liquidbounce.net/L",
+        "b24.1>http://ad.liquidbounce.net/I",
+        "b22>http://ad.liquidbounce.net/H",
+        "b21>http://ad.liquidbounce.net/G",
+        "b20.5>http://ad.liquidbounce.net/F",
+        "b20.4>http://ad.liquidbounce.net/E",
+        "b20.3>http://ad.liquidbounce.net/D",
+        "b20.2>http://ad.liquidbounce.net/C",
+        "b20.1>http://ad.liquidbounce.net/B",
+        "b19>http://ad.liquidbounce.net/A",
+        "b18>http://ad.liquidbounce.net/9",
+        "b17.2>http://ad.liquidbounce.net/7",
+        "b17.1>http://ad.liquidbounce.net/6",
+        "b16>http://ad.liquidbounce.net/5",
+        "b15>http://ad.liquidbounce.net/4",
+        "b14>http://ad.liquidbounce.net/3",
+        "b13>http://ad.liquidbounce.net/1",
+        "b12>http://ad.liquidbounce.tk/R",
+        "b11>http://ad.liquidbounce.tk/P",
+        "b10>http://ad.liquidbounce.tk/N",
+        "b9>http://ad.liquidbounce.tk/L",
+        "b8>http://ad.liquidbounce.tk/F",
+        "b7>http://ad.liquidbounce.tk/E",
+        "b6>http://ad.liquidbounce.tk/D",
+        "b5>http://ad.liquidbounce.tk/4",
+        "b4>http://ad.liquidbounce.tk/5832836/liquidbounce--188--b4",
         "b3>http://ad.liquidbounce.tk/3"
     ],
     "1.11.2": [
-        "b9>http://ad.liquidbounce.net/8"
-        "b8>http://ad.liquidbounce.net/2"
-        "b7>http://ad.liquidbounce.tk/Q"
-        "b6>http://ad.liquidbounce.tk/O"
-        "b5>http://ad.liquidbounce.tk/K"
-        "b4>http://ad.liquidbounce.tk/J"
-        "b3>http://ad.liquidbounce.tk/I"
-        "b2>http://ad.liquidbounce.tk/H"
+        "b9>http://ad.liquidbounce.net/8",
+        "b8>http://ad.liquidbounce.net/2",
+        "b7>http://ad.liquidbounce.tk/Q",
+        "b6>http://ad.liquidbounce.tk/O",
+        "b5>http://ad.liquidbounce.tk/K",
+        "b4>http://ad.liquidbounce.tk/J",
+        "b3>http://ad.liquidbounce.tk/I",
+        "b2>http://ad.liquidbounce.tk/H",
         "b1>http://ad.liquidbounce.tk/G"
     ],
     "1.10.2": [
-        "b7>http://ad.liquidbounce.tk/6"
-        "b6>http://ad.liquidbounce.tk/B"
+        "b7>http://ad.liquidbounce.tk/6",
+        "b6>http://ad.liquidbounce.tk/B",
         "b5>http://ad.liquidbounce.tk/6"
     ]
 }
