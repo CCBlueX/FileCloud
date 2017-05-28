@@ -15,7 +15,7 @@ FastBreak toggle false
 FastClimb bypass LAAC
 FastStairs mode AAC
 FastUse mode AAC
-Fly Bypass gomme
+Fly Bypass aacv3
 Ghost toggle false
 Hitbox Size 0.4
 IceSpeed toggle false
@@ -60,3 +60,4 @@ velocity toggle true
 velocity vertical 0
 Zoot toggle false
 NoWeb mode AAC
+LongJump NoCheat AACv3
