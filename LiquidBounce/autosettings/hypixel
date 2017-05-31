@@ -19,6 +19,7 @@ fly Bypass vanilla
 fucker instant false
 inventorycleaner maxdelay 100
 inventorycleaner mindelay 50
+inventorycleaner openinv false
 inventorymove AACAdditionPro false
 killaura AAC false
 killaura AutoBlock true
