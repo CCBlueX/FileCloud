@@ -48,3 +48,4 @@ Tower Type Packet
 Velocity Horizontal 0.2
 Velocity AAC true
 Velocity Vertical 0.2
+Criticals toggle false
