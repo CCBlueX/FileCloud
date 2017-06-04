@@ -11,6 +11,7 @@ AntiBot LivingTime false
 AntiBot toggle true
 ChestStealer MinDelay 50
 ChestStealer MaxDelay 100
+AutoArmor Bypass none
 Fly Bypass AAC
 InventoryCleaner OpenInv false
 InventoryCleaner MinDelay 50
