@@ -45,6 +45,6 @@ TNTBlock Fuse 10
 Tower AutoBlock true
 Tower Swing false
 Tower Type Packet
-Velocity Horizontal 0.0
-Velocity AAC false
-Velocity Vertical 0.0
+Velocity Horizontal 0.2
+Velocity AAC true
+Velocity Vertical 0.2
