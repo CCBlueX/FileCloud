@@ -9,8 +9,8 @@ AntiBot Ground true
 AntiBot WasInvisible false
 AntiBot LivingTime false
 AntiBot toggle true
-ChestStealer MinDelay 50
-ChestStealer MaxDelay 100
+ChestStealer MinDelay 0
+ChestStealer MaxDelay 0
 AutoArmor Bypass none
 Fly Bypass AAC
 InventoryCleaner OpenInv false
