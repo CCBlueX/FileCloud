@@ -42,7 +42,7 @@ noslow toggle true
 phase type skip
 scaffold slow false
 scaffold Type normal
-speed Type slowhop
+speed Type ncphop
 Step Mode ncp
 Step Mode NCP
 timer Speed 1.6
