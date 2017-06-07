@@ -16,8 +16,8 @@ killaura aac false
 killaura FailRate 0
 killaura FOV 180
 killaura KeepSprint true
-killaura MaxCPS 13
-killaura MinCPS 8
+killaura MaxCPS 12
+killaura MinCPS 7
 killaura Priority Direction
 killaura Range 4.1
 killaura raycast true
