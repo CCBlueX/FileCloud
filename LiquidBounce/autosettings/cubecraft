@@ -36,8 +36,8 @@ longjump NoCheat ncp
 NoSlow toggle true
 pingspoof toggle true
 scaffold slow false
-scaffold Type AAC
-speed Type onground
+scaffold Type normal
+speed Type ncphop
 Step Mode NCP
 tower Type packet
 Velocity AAC false
