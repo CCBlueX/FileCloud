@@ -18,7 +18,7 @@ criticals type packet
 criticals toggle true
 FastStairs mode NCP
 FastUse mode NCP
-fly Bypass ncp
+fly Bypass cubecraft
 inventorycleaner maxdelay 100
 inventorycleaner mindelay 50
 killaura aac false
