@@ -47,6 +47,7 @@ speed Type ncphop
 Step Mode ncp
 Step Mode NCP
 timer Speed 1.6
+tower autoblock true
 tower Type motion
 Velocity AAC false
 velocity Horizontal 0
