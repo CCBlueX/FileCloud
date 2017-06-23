@@ -20,7 +20,7 @@ InventoryMove AACAdditionPro true
 KillAura KeepSprint true
 KillAura ThroughWalls false
 KillAura AAC true
-KillAura ApplicationForm true
+KillAura swing true
 KillAura MultiMode Vanilla
 KillAura HurtTime false
 KillAura Range 4.0
