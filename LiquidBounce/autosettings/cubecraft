@@ -42,6 +42,7 @@ Step Mode NCP
 tower Type packet
 Velocity AAC false
 velocity Horizontal 0
+velocity reverse false
 velocity Vertical 0
 #Comments
 chat You might want to use .longjump ncpboost <value> (eg .longjump ncpboost 17) to make it jump even further. 
