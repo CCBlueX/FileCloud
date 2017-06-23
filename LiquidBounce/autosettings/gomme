@@ -55,9 +55,7 @@ TNTBlock Fuse 6
 Tower AutoBlock false
 Tower ApplicationForm true
 Tower Type Jump
-Velocity Horizontal 0.8
-Velocity AAC false
-Velocity Vertical 0.8
+Velocity AAC true
 Velocity Reverse true
 Zoot toggle false
 Regen toggle false
