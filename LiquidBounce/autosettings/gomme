@@ -26,9 +26,9 @@ KillAura HurtTime false
 KillAura Range 4.0
 KillAura Priority Direction
 KillAura FOV 180.0
-KillAura MaxCPS 14
+KillAura MaxCPS 12
 KillAura RayCast true
-KillAura MinCPS 9
+KillAura MinCPS 8
 KillAura AutoBlock false
 KillAura NoInvAttack false
 KillAura FailRate 3.1
@@ -40,7 +40,7 @@ NoSlow Bypass true
 NoWeb Mode AAC
 Phase Type Skip
 Scaffold AutoBlock false
-Scaffold Slow false
+Scaffold Slow true
 Scaffold ApplicationForm true
 Scaffold Type Eagle
 Spammer Delay 30
@@ -62,3 +62,5 @@ Regen toggle false
 NoRotateSet toggle false
 Nofall toggle false
 NoSlow toggle false
+regen toggle false
+
