@@ -39,8 +39,8 @@ LiquidWalk Type AAC
 NoSlow Bypass true
 NoWeb Mode AAC
 Phase Type Skip
-Scaffold AutoBlock true
-Scaffold Slow true
+Scaffold AutoBlock false
+Scaffold Slow false
 Scaffold ApplicationForm true
 Scaffold Type Eagle
 Spammer Delay 30
