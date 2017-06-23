@@ -61,3 +61,4 @@ Zoot toggle false
 Regen toggle false
 NoRotateSet toggle false
 Nofall toggle false
+NoSlow toggle false
