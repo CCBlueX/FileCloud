@@ -44,4 +44,4 @@ Velocity AAC false
 velocity Horizontal 0
 velocity Vertical 0
 #Comments
-You might want to use .longjump ncpboost <value> (eg .longjump ncpboost 17) to make it jump even further. 
+chat You might want to use .longjump ncpboost <value> (eg .longjump ncpboost 17) to make it jump even further. 
