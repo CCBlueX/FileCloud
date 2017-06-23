@@ -40,6 +40,7 @@ nofall aac false
 nofall toggle true
 noslow toggle true
 phase type skip
+scaffold autoblock true
 scaffold slow false
 scaffold Type normal
 speed Type ncphop
@@ -49,4 +50,5 @@ timer Speed 1.6
 tower Type motion
 Velocity AAC false
 velocity Horizontal 0
+velocity reverse false
 velocity Vertical 0
