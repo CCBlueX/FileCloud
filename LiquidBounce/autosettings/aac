@@ -66,9 +66,9 @@ Tower Type Jump
 Trigger MaxCPS 10
 Trigger MinCPS 8
 VClip YPort -1.0
-Velocity Horizontal 0.8
-Velocity AAC false
-Velocity Vertical 0.8
+Velocity Horizontal 0.0
+Velocity AAC true
+Velocity Vertical 0.0
 Velocity Reverse true
 Regen toggle false
 Antibot toggle false
