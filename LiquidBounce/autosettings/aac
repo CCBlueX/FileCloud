@@ -3,8 +3,6 @@ AutoArmor MinDelay 130
 AutoArmor MaxDelay 160
 AutoClicker MaxCPS 10
 AutoClicker MinCPS 8
-AutoLeave Health 4.2
-AutoPot Mode Normal
 ChestAura ThroughWalls false
 ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
@@ -61,7 +59,6 @@ Speed Type Custom
 Sprint AllDirections false
 Step Mode LAAC
 Step Height 2.0
-TNTBlock Fuse 6
 Teleport Type Blink
 Timer Speed 1.1
 Tower AutoBlock false
