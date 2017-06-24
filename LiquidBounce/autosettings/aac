@@ -47,10 +47,9 @@ LegitAura MinCPS 8
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
 NoWeb Mode AAC
-Scaffold AutoBlock true
-Scaffold Swing true
-Scaffold Slow true
-Scaffold Type Eagle
+Scaffold AutoBlock false
+Scaffold type AAC
+scaffold slow true
 ServerCrasher Mode AACNew
 Speed CustomSpeed 0.4
 Speed CustomY 0.4
