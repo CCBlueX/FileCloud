@@ -33,7 +33,7 @@ KillAura MaxCPS 12
 KillAura RayCast false
 KillAura MinCPS 10
 KillAura Swing true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura NoInvAttack true
 KillAura FailRate 0.0
 KillAura TargetMode Switch
