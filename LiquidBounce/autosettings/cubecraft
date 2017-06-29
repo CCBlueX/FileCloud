@@ -37,7 +37,7 @@ NoSlow toggle true
 pingspoof toggle true
 scaffold slow false
 scaffold Type expand
-scaffold expandlength 2
+scaffold expandlenght 2
 speed Type ncphop
 Step Mode NCP
 tower Type packet
