@@ -45,7 +45,7 @@ scaffold slow false
 scaffold Type normal
 speed Type ncphop
 Step Mode ncp
-Step Mode NCP
+step height 1
 timer Speed 1.6
 tower autoblock true
 tower Type motion
