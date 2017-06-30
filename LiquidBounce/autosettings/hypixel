@@ -22,7 +22,7 @@ inventorycleaner mindelay 50
 inventorycleaner openinv false
 inventorymove AACAdditionPro false
 killaura AAC false
-killaura AutoBlock true
+killaura AutoBlock false
 killaura FailRate 0
 killaura FOV 180
 killaura MaxCPS 12
