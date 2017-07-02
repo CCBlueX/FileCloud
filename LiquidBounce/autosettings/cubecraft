@@ -34,7 +34,7 @@ killaura TurnSpeed 180
 longjump NCPBoost 6
 longjump NoCheat ncp
 NoSlow toggle true
-pingspoof toggle true
+pingspoof toggle false
 scaffold slow false
 scaffold Type expand
 scaffold expandlenght 2
