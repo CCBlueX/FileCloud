@@ -13,7 +13,7 @@ autoarmor maxdelay 150
 autoarmor mindelay 100
 cheststealer mindelay 50
 cheststealer maxdelay 100
-criticals toggle true
+criticals toggle false
 criticals Type packet
 fly Bypass hypixel
 fucker instant false
