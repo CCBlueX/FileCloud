@@ -40,7 +40,7 @@ nofall mode spoofground
 nofall toggle false
 noslow toggle false
 phase type skip
-scaffold autoblock true
+scaffold autoblock false
 scaffold slow false
 scaffold Type normal
 speed Type ncphop
