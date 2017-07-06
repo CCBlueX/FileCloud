@@ -56,7 +56,9 @@ Tower AutoBlock false
 Tower ApplicationForm true
 Tower Type Jump
 Velocity AAC true
-Velocity Reverse true
+Velocity Horizontal 0.5
+Velocity Reverse false
+Velocity Vertical 0.5
 Zoot toggle false
 Regen toggle false
 NoRotateSet toggle false
