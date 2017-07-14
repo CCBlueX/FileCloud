@@ -20,7 +20,7 @@ KillAura MaxCPS 11
 KillAura MinCPS 7
 KillAura NoInvAttack false
 KillAura Priority Direction
-KillAura Range 4.2
+KillAura Range 4.4
 KillAura RayCast true
 KillAura Swing true
 KillAura TargetMode Switch
