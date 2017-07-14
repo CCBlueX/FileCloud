@@ -2,12 +2,10 @@
 AutoArmor Bypass Gomme
 cheststealer maxdelay 60
 cheststealer mindelay 125
-FastClimb Bypass AACv3
+FastClimb Bypass LAAC
 FastStairs Mode AAC
 FastUse Mode AAC
-Fly AACSpeed 0.3
 Fly Bypass AACv3
-Fly VanillaSpeed 2.0
 inventorycleaner maxdelay 80
 inventorycleaner mindelay 35 
 InventoryMove AACAdditionPro false
@@ -27,7 +25,6 @@ KillAura TargetMode Switch
 KillAura ThroughWalls false
 KillAura TurnSpeed 180
 LiquidWalk Type NCP
-NoFall AAC false
 Phase Type Skip
 Scaffold AutoBlock true
 Scaffold Slow true
@@ -44,6 +41,7 @@ Velocity AAC true
 Velocity reverse true
 velocity horizontal 0.5
 velocity vertical 0.5
+Velocity ReverseStrength 1
 NoSlow toggle true
 KillAura autoblock true
 Criticals type Jump
