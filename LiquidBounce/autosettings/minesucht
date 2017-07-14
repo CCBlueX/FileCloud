@@ -41,6 +41,7 @@ Tower AutoBlock true
 Tower Swing false
 Tower Type LowJump
 Velocity AAC true
+Velocity reverse true
 velocity horizontal 0.5
 velocity vertical 0.5
 NoSlow toggle true
