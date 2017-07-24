@@ -26,7 +26,7 @@ KillAura ThroughWalls true
 KillAura AAC false
 KillAura MultiMode NCP
 KillAura HurtTime true
-KillAura Range 3.8
+KillAura Range 4.1
 KillAura Priority Distance
 KillAura FOV 180.0
 KillAura MaxCPS 12
