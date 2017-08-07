@@ -36,8 +36,8 @@ longjump NCPBoost 6
 longjump NoCheat ncp
 NoSlow toggle false
 pingspoof toggle false
-scaffold slow true
-scaffold Type eagle
+scaffold slow false
+scaffold Type normal
 scaffold expandlenght 2
 speed Type ncphop
 Step Mode NCP
