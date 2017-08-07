@@ -22,12 +22,13 @@ fly Bypass cubecraft
 inventorycleaner maxdelay 100
 inventorycleaner mindelay 50
 killaura aac false
+killaura autoblock false
 killaura FailRate 0
 killaura MaxCPS 13
 killaura MinCPS 10
-killaura Priority health
+killaura Priority range
 killaura Range 4.2
-killaura raycast false
+killaura raycast true
 killaura TargetMode switch
 killaura ThroughWalls true
 killaura TurnSpeed 180
@@ -45,5 +46,3 @@ Velocity AAC false
 velocity Horizontal 0
 velocity reverse false
 velocity Vertical 0
-#Comments
-chat You might want to use .longjump ncpboost <value> (eg .longjump ncpboost 17) to make it jump even further. 
