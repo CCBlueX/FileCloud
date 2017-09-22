@@ -38,7 +38,7 @@ PingSpoof toggle true
 Scaffold AutoBlock true
 Scaffold Swing false
 Scaffold Slow false
-Scaffold Type Normal
+Scaffold Type Eagle
 Speed Type hive
 Step Mode AAC
 Step Height 1.0
