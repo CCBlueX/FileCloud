@@ -65,4 +65,6 @@ NoRotateSet toggle false
 Nofall toggle false
 NoSlow toggle false
 regen toggle false
+# toggles
+pingspoof toggle false
 
