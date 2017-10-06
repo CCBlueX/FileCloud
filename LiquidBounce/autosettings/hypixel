@@ -1,4 +1,4 @@
-# Autosettings for hypixel.net
+#autosettings for hypixel.net
 AntiBot Derp true
 AntiBot Swing false
 AntiBot Armor false
@@ -14,36 +14,41 @@ AntiBot LivingTime false
 AutoArmor Bypass None
 AutoArmor MinDelay 100
 AutoArmor MaxDelay 150
+ChestAura ThroughWalls true
 ChestStealer OnlyItems false
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized true
 ChestStealer MaxDelay 162
 Criticals Type Packet
+FastStairs Mode NCP
+FastUse Mode NCP
 Fly Bypass Hypixel
 Fucker ThroughWalls true
 Fucker Instant false
+IceSpeed Type NCP
 InventoryCleaner OpenInv false
 InventoryCleaner MinDelay 50
 InventoryCleaner MaxDelay 100
 InventoryMove AACAdditionPro true
 KillAura KeepSprint true
 KillAura ThroughWalls true
-KillAura AAC true
+KillAura AAC false
 KillAura MultiMode NCP
 KillAura HurtTime false
-KillAura Range 4.1
+KillAura Range 4.2
 KillAura Priority Health
 KillAura FOV 180.0
-KillAura MaxCPS 11
-KillAura RayCast true
-KillAura MinCPS 7
+KillAura MaxCPS 14
+KillAura RayCast false
+KillAura MinCPS 10
 KillAura Swing true
-KillAura AutoBlock false
+KillAura AutoBlock true
 KillAura NoInvAttack false
 KillAura FailRate 0.0
 KillAura TargetMode Switch
 KillAura TurnSpeed 180.0
-KillAura FakeSharp false
+LiquidWalk Type NCP
+NoSlow Bypass true
 Scaffold ExpandLenght 5
 Scaffold AutoBlock true
 Scaffold Swing false
@@ -52,7 +57,7 @@ Scaffold Type AAC
 Speed Type SlowHop
 Step Mode NCP
 Step Height 1.0
-TNTBlock Fuse 10
+Timer Speed 1.6
 Tower AutoBlock true
 Tower Swing false
 Tower Type Motion
@@ -60,8 +65,8 @@ Velocity Horizontal 0.0
 Velocity AAC false
 Velocity Vertical 0.0
 Velocity Reverse false
-# toggles
-noslow toggle false
+#toggles
 antibot toggle true
-criticals toggle false
+noslow toggle true
+criticals toggle true
 pingspoof toggle true
