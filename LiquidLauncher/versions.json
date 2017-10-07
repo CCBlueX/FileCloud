@@ -18,7 +18,7 @@
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
             "liquidBounce": "https://taco.cf",
-            "liquidBounceHash": "F799567E01F46DA4D9F47408C5E48158",
+            "liquidBounceHash": "f799567e01f46da4d9f47408c5e48158",
             "configFolder": "LiquidBounce-1.8"      
         }
     }
