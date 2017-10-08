@@ -48,7 +48,7 @@ KillAura FailRate 0.0
 KillAura TargetMode Switch
 KillAura TurnSpeed 180.0
 LiquidWalk Type NCP
-LongJump NCPBoost 3.5
+LongJump NCPBoost 3.7
 LongJump nocheat NCP
 NoSlow Bypass true
 Scaffold ExpandLenght 5
