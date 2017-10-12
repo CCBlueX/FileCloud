@@ -47,7 +47,7 @@ KillAura AAC false
 KillAura RayCast false
 KillAura ForceRayCast true
 KillAura NoInvAttack true
-KillAura NoInvDelay 213
+KillAura NoInvDelay 200
 KillAura FailRate 0.0
 KillAura TurnSpeed 42
 KillAura FOV 180.0
