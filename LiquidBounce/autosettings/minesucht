@@ -37,11 +37,11 @@ Step Mode AAC
 Tower AutoBlock true
 Tower Swing false
 Tower Type LowJump
-Velocity AAC true
-Velocity reverse true
-velocity horizontal 0.5
-velocity vertical 0.5
+velocity mode reverse
+velocity horizontal 0
+velocity vertical 0
 Velocity ReverseStrength 1
+NoSlow mode NCP
 NoSlow toggle true
 KillAura autoblock true
 Criticals type Jump
