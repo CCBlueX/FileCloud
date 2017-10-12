@@ -64,10 +64,12 @@ Tower AutoBlock true
 Tower Swing false
 Tower Type Motion
 Velocity Horizontal 0.0
-Velocity AAC false
 Velocity Vertical 0.0
-Velocity Reverse false
-#toggles
+Velocity mode Simple
+NoSlow mode NCP
+InventoryMove AACAdditionPro false
+InventoryMove NoMoveClicks false
+# Toggles
 antibot toggle true
 noslow toggle true
 criticals toggle true
