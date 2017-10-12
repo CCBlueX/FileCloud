@@ -56,7 +56,7 @@ Scaffold AutoBlock true
 Scaffold Swing false
 Scaffold Slow false
 Scaffold Type AAC
-Speed Type SlowHop
+Speed Type HypixelHop
 Step Mode NCP
 Step Height 1.0
 Timer Speed 1.6
