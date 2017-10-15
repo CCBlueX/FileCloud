@@ -60,9 +60,6 @@ LegitAura Hitbox false
 LiquidWalk Type NCP
 LongJump NoCheat AACv3
 LongJump NCPBoost 4.7
-NameProtect FakeName &c&lMarco
-NameProtect AllPlayers false
-NameProtect SkinProtect false
 NoSlow Mode NCP
 NoWeb Mode Rewi
 Scaffold Type SpeedyRewinside
