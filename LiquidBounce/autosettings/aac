@@ -58,8 +58,8 @@ NoWeb Mode AAC
 PingSpoof Delay 0
 Scaffold Type AAC
 Scaffold Slow true
-Scaffold AutoBlock false
-Scaffold Swing true
+Scaffold AutoBlock true
+Scaffold Swing false
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Spammer Delay 40
@@ -69,7 +69,7 @@ Teams ScoreboardTeam true
 Teams Color true
 Timer Speed 1.1
 Tower Type Jump
-Tower AutoBlock false
+Tower AutoBlock true
 Tower Swing false
 Trigger MaxCPS 10
 Trigger MinCPS 8
