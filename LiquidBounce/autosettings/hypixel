@@ -21,7 +21,7 @@ ChestStealer TakeRandomized true
 ChestStealer MaxDelay 162
 Criticals Type Packet
 FastStairs Mode NCP
-FastUse Mode NCP
+FastUse Mode AAC
 Fly Bypass Hypixel
 Fucker ThroughWalls true
 Fucker Instant false
