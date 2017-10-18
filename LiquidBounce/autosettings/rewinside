@@ -1,13 +1,7 @@
 # AutoSettings for Rewinside (updated by Florijon)
-AimAssist Range 4.6
-Aimbot Range 4.6
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 50
 AutoArmor Bypass InvOpen
-AutoClicker MaxCPS 20
-AutoClicker MinCPS 20
-AutoPot Mode Normal
-AutoSoup OpenInv true
 BugUp Mode TeleportBack
 BugUp FallDistance 2.0
 ChestAura ThroughWalls false
@@ -52,14 +46,7 @@ KillAura FailRate 0.0
 KillAura TurnSpeed 42
 KillAura FOV 180.0
 KillAura FakeSharp false
-LegitAura MaxCPS 10
-LegitAura MinCPS 8
-LegitAura Range 4.2
-LegitAura TurnSpeed 177.2
-LegitAura Hitbox false
 LiquidWalk Type NCP
-LongJump NoCheat AACv3
-LongJump NCPBoost 4.7
 NoSlow Mode NCP
 NoWeb Mode Rewi
 Scaffold Type SpeedyRewinside
@@ -73,14 +60,6 @@ Sprint AllDirections true
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
-Teams ScoreboardTeam true
-Teams Color true
-Teleport Type Rewinside
-Timer Speed 1.4
-Tower Type FastMotion2
-Tower AutoBlock true
-Trigger MaxCPS 10
-Trigger MinCPS 8
 Velocity Horizontal 0.0
 Velocity Vertical 1.0
 Velocity Mode Simple
