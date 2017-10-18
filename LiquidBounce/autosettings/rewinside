@@ -63,6 +63,19 @@ Step Delay 0
 Velocity Horizontal 0.0
 Velocity Vertical 1.0
 Velocity Mode Simple
+AntiBot Tab false
+AntiBot TabMode Contains
+AntiBot EntityID false
+AntiBot Color false
+AntiBot LivingTime false
+AntiBot Ground true
+AntiBot Swing false
+AntiBot Health false
+AntiBot Derp true
+AntiBot WasInvisible false
+AntiBot Armor false
+AntiBot Ping false
+AntiBot NeedHit false
 # Toggles
 Zoot toggle false
 Regen toggle false
@@ -71,4 +84,4 @@ Nofall toggle false
 regen toggle false
 pingspoof toggle false
 NoSlow toggle true
-AntiBot toggle false
+AntiBot toggle true
