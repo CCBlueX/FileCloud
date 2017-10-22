@@ -79,6 +79,7 @@ Trigger MinCPS 8
 Velocity Horizontal 0.5
 Velocity Vertical 0.5
 Velocity Mode AAC
+Sprint AllDirections false
 # Toggles
 Zoot toggle false
 Regen toggle false
