@@ -71,5 +71,5 @@ InventoryMove NoMoveClicks false
 # Toggles
 antibot toggle true
 noslow toggle false
-criticals toggle true
+criticals toggle false
 pingspoof toggle true
