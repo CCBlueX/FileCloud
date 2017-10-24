@@ -90,5 +90,5 @@ pingspoof toggle false
 FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
-KillAura toggle targetDead true
+KillAura targetDead true
 
