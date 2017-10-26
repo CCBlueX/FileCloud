@@ -2,7 +2,9 @@
 AtAllProvider Delay 3333
 AutoArmor MaxDelay 150
 AutoArmor MinDelay 100
-AutoArmor Bypass Gomme
+AutoArmor InvOpen false
+AutoArmor SimulateInventory true
+AutoArmor NoMove true
 AutoClicker MaxCPS 16
 AutoClicker MinCPS 10
 AutoLeave Health 8.0
@@ -21,7 +23,7 @@ Criticals Type Jump
 FastClimb Bypass LAAC
 FastStairs Mode AAC
 FastUse Mode AAC
-Fly Bypass AACv3
+Fly Mode AACv3
 Fucker Instant false
 Fucker ThroughWalls true
 Fucker Swing true
