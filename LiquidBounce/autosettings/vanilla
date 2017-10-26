@@ -42,7 +42,7 @@ Criticals Type Packet
 FastClimb Bypass Normal
 FastStairs Mode NCP
 FastUse Mode Instant
-Fly Bypass Vanilla
+Fly mode Vanilla
 Fly AACSpeed 0.3
 Fly VanillaSpeed 1.0
 Fly NCPMotion 0.0
@@ -76,7 +76,6 @@ KillAura NoInvAttack false
 KillAura FailRate 0.0
 KillAura TargetMode Multi
 KillAura TurnSpeed 180.0
-KillAura FakeSharp true
 LegitAura Range 4.2
 LegitAura TurnSpeed 9.0
 LegitAura MaxCPS 9

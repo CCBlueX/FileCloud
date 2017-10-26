@@ -25,7 +25,7 @@ Criticals Type LowJump
 FastClimb Bypass AACv3
 FastStairs Mode NCP
 FastUse Mode AAC
-Fly Bypass Minesucht
+Fly mode Minesucht
 Fucker Instant false
 Fucker ThroughWalls true
 IceSpeed Type Spartan
@@ -54,7 +54,6 @@ KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura TurnSpeed 180.0
 KillAura FOV 180.0
-KillAura FakeSharp true
 LiquidWalk Type Spartan
 NoSlow Mode Spartan
 Phase Type Spartan

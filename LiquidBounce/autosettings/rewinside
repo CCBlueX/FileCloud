@@ -47,7 +47,6 @@ KillAura NoInvDelay 200
 KillAura FailRate 0.0
 KillAura TurnSpeed 42
 KillAura FOV 180.0
-KillAura FakeSharp false
 LiquidWalk Type NCP
 NoSlow Mode NCP
 NoWeb Mode Rewi

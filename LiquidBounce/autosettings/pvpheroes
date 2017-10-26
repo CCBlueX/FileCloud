@@ -20,7 +20,7 @@ Criticals Type Packet
 FastClimb Bypass AACv3
 FastStairs Mode AAC
 FastUse Mode AAC
-Fly Bypass FastAACv3
+Fly mode FastAACv3
 Fly AACSpeed 0.3
 HighJump Bypass AACv3
 HighJump Height 2.0
