@@ -11,7 +11,9 @@ AntiBot EntityID false
 AntiBot Ground true
 AntiBot WasInvisible false
 AntiBot LivingTime false
-AutoArmor Bypass None
+AutoArmor InvOpen false
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
 AutoArmor MinDelay 100
 AutoArmor MaxDelay 150
 ChestAura ThroughWalls true
@@ -34,7 +36,7 @@ KillAura KeepSprint true
 KillAura ThroughWalls true
 KillAura AAC false
 KillAura MultiMode NCP
-KillAura HurtTime false
+KillAura HurtTime 10
 KillAura Range 4.2
 KillAura Priority Health
 KillAura FOV 180.0
