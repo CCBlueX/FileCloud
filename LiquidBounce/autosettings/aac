@@ -1,9 +1,13 @@
-# AutoSettings for AdvancedAntiCheat
+# AutoSettings for AAC
 AutoArmor MaxDelay 0
 AutoArmor MinDelay 0
-AutoArmor Bypass None
-AutoClicker MaxCPS 16
-AutoClicker MinCPS 10
+AutoArmor InvOpen false
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
+AutoClicker MaxCPS 13
+AutoClicker MinCPS 8
+AutoLeave Health 8.0
+AutoLeave Mode Quit
 AutoPot OpenInv true
 AutoPot Mode Normal
 AutoSoup OpenInv true
@@ -18,7 +22,7 @@ Criticals Type Jump
 FastClimb Bypass LAAC
 FastStairs Mode AAC
 FastUse Mode AAC
-Fly Bypass AACv3
+Fly Mode AACv3
 Fucker Instant false
 Fucker ThroughWalls true
 Fucker Swing true
@@ -44,6 +48,7 @@ KillAura KeepSprint true
 KillAura AutoBlock false
 KillAura AAC true
 KillAura RayCast true
+KillAura LivingRayCast true
 KillAura ForceRayCast true
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
@@ -58,24 +63,25 @@ NoWeb Mode AAC
 PingSpoof Delay 0
 Scaffold Type AAC
 Scaffold Slow true
-Scaffold AutoBlock true
-Scaffold Swing false
+Scaffold AutoBlock false
+Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Spammer Delay 40
-Speed Type AACYPort2
+Speed Type AAC3BHop
 Step Mode LAAC
 Teams ScoreboardTeam true
 Teams Color true
 Timer Speed 1.1
 Tower Type Jump
-Tower AutoBlock true
+Tower AutoBlock false
 Tower Swing false
 Trigger MaxCPS 10
 Trigger MinCPS 8
 Velocity Horizontal 0.5
 Velocity Vertical 0.5
 Velocity Mode AAC
+Sprint AllDirections false
 # Toggles
 Zoot toggle false
 Regen toggle false
@@ -86,3 +92,4 @@ pingspoof toggle false
 FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
+targetDead true
