@@ -78,7 +78,7 @@ AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
 Tower Type Packet
-target dead false
+targetDead false
 # Toggles
 Zoot toggle false
 Regen toggle false
