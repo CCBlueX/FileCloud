@@ -1,5 +1,7 @@
 #autosettings for hivemc.com by WistarWolf
-AutoArmor Bypass None
+AutoArmor InvOpen false
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
 AutoArmor MinDelay 100
 AutoArmor MaxDelay 200
 ChestStealer OnlyItems false
@@ -25,6 +27,8 @@ KillAura Priority Distance
 KillAura FOV 180.0
 KillAura MaxCPS 14
 KillAura RayCast true
+KillAura LivingRayCast true
+KillAura ForceRayCast true
 KillAura MinCPS 8
 KillAura Swing true
 KillAura AutoBlock false
