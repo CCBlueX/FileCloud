@@ -4,7 +4,9 @@ antibot Ground false
 antibot LivingTime false
 antibot Tab true
 antibot toggle true
-autoarmor bypass none
+AutoArmor InvOpen false
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
 cheststealer Delay 0
 killaura MaxCPS 9
 killaura MinCPS 6

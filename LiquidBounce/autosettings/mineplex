@@ -11,7 +11,7 @@ antibot toggle true
 autoarmor bypass none
 cheststealer Delay 2
 criticals toggle true
-fly Bypass ncp
+fly mode ncp
 killaura FailRate 0
 killaura MaxCPS 15
 killaura MinCPS 10

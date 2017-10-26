@@ -9,7 +9,9 @@ AntiBot Ground false
 AntiBot WasInvisible false
 AntiBot LivingTime false
 antibot toggle true
-autoarmor bypass none
+AutoArmor InvOpen false
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
 autoarmor maxdelay 100
 autoarmor mindelay 50
 cheststealer maxdelay 100
@@ -18,7 +20,7 @@ criticals type packet
 criticals toggle false
 FastStairs mode NCP
 FastUse mode NCP
-fly Bypass cubecraft
+fly Mode cubecraft
 inventorycleaner maxdelay 100
 inventorycleaner mindelay 50
 killaura aac false
@@ -29,6 +31,7 @@ killaura MinCPS 10
 killaura Priority range
 killaura Range 4.2
 killaura raycast true
+killaura livingraycast false
 killaura TargetMode switch
 killaura ThroughWalls true
 killaura TurnSpeed 180

@@ -1,6 +1,8 @@
 # Autosettings for mc-central.net
 AntiBot toggle false
-AutoArmor Bypass None
+AutoArmor InvOpen false
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
 AutoArmor MinDelay 100
 AutoArmor MaxDelay 200
 ChestStealer MinDelay 50

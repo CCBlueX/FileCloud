@@ -1,7 +1,9 @@
 # AutoSettings for Rewinside (updated by Florijon)
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 50
-AutoArmor Bypass InvOpen
+AutoArmor InvOpen true
+AutoArmor SimulateInventory true
+AutoArmor NoMove false
 BugUp Mode TeleportBack
 BugUp FallDistance 2.0
 ChestAura ThroughWalls false
@@ -12,7 +14,7 @@ ChestStealer OnlyItems false
 ChestStealer NoCompass false
 Criticals Type Jump
 FastStairs Mode NCP
-Fly Bypass Rewinside
+Fly Mode Rewinside
 Fucker Instant false
 Fucker ThroughWalls true
 Fucker Swing true

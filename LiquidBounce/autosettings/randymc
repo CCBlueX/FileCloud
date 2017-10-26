@@ -8,7 +8,9 @@ AntiBot EntityID true
 AntiBot Ground false
 AntiBot LivingTime false
 AntiBot toggle true
-AutoArmor Bypass InvOpen
+AutoArmor InvOpen true
+AutoArmor SimulateInventory false
+AutoArmor NoMove false
 AutoArmor MinDelay 100
 AutoArmor MaxDelay 200
 ChestStealer MaxDelay 3

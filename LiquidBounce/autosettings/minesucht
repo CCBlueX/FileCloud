@@ -5,7 +5,7 @@ cheststealer mindelay 125
 FastClimb Bypass LAAC
 FastStairs Mode AAC
 FastUse Mode AAC
-Fly Bypass MineSucht
+Fly mode MineSucht
 inventorycleaner maxdelay 80
 inventorycleaner mindelay 35 
 InventoryMove AACAdditionPro false

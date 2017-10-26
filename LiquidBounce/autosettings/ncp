@@ -32,7 +32,7 @@ Criticals Type Packet
 FastClimb Bypass Normal
 FastStairs Mode NCP
 FastUse Mode NCP
-Fly Bypass NCP
+Fly mode NCP
 Fly NCPMotion 0.0
 Fucker Instant false
 Fucker ThroughWalls true

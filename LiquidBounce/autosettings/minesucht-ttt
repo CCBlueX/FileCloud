@@ -1,5 +1,7 @@
 # autosettings for minesucht trouble in terrorist town by Florijon
-AutoArmor Bypass Gomme
+AutoArmor InvOpen false
+AutoArmor SimulateInventory true
+AutoArmor NoMove true
 AutoArmor MinDelay 100
 AutoArmor MaxDelay 200
 ChestStealer MinDelay 125

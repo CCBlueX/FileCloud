@@ -9,7 +9,9 @@ AntiBot Ground false
 AntiBot WasInvisible false
 AntiBot LivingTime false
 AntiBot toggle true
-AutoArmor Bypass InvOpen
+AutoArmor InvOpen true
+AutoArmor SimulateInventory true
+AutoArmor NoMove false
 AutoArmor MinDelay 50
 AutoArmor MaxDelay 100
 ChestAura ThroughWalls false
