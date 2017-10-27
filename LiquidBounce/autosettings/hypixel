@@ -56,7 +56,8 @@ NoSlow Bypass true
 Scaffold AutoBlock true
 Scaffold Swing false
 Scaffold Slow false
-Scaffold Type Normal
+Scaffold Type AAC
+Scaffold KeepRotation true
 Speed Type HypixelHop
 Step Mode NCP
 Step Height 1.0
