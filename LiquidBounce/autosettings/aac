@@ -77,9 +77,7 @@ Tower AutoBlock false
 Tower Swing false
 Trigger MaxCPS 10
 Trigger MinCPS 8
-Velocity Horizontal 0.5
-Velocity Vertical 0.5
-Velocity Mode AAC
+Velocity Mode Reverse2
 Sprint AllDirections false
 # Toggles
 Zoot toggle false
