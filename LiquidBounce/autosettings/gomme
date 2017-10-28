@@ -51,7 +51,7 @@ KillAura LivingRayCast true
 KillAura ForceRayCast true
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
-KillAura FailRate 0.0
+KillAura FailRate 3.0
 KillAura TurnSpeed 38.4
 KillAura FOV 180.0
 LiquidWalk Type AAC
