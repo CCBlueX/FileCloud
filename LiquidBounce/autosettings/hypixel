@@ -43,7 +43,7 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
+KillAura AutoBlock true
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast false
@@ -72,11 +72,11 @@ Tower Type Motion
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity mode Simple
-NoSlow mode NCP
+NoSlow mode Vanilla
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 # Toggles
 antibot toggle true
-noslow toggle false
+noslow toggle true
 criticals toggle false
 pingspoof toggle true
