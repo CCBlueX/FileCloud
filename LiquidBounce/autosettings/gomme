@@ -60,8 +60,8 @@ NoSlow Mode AAC
 NoWeb Mode AAC
 PingSpoof Delay 0
 Scaffold Type AAC
-Scaffold Slow true
-Scaffold AutoBlock false
+Scaffold Slow false
+Scaffold AutoBlock true
 Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
