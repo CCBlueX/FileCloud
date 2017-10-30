@@ -1,6 +1,6 @@
 # AutoSettings for Gomme
-AutoArmor MaxDelay 200
-AutoArmor MinDelay 150
+AutoArmor MaxDelay 0
+AutoArmor MinDelay 0
 AutoArmor InvOpen true
 AutoArmor SimulateInventory true
 AutoArmor NoMove true
@@ -12,8 +12,8 @@ AutoPot OpenInv true
 AutoPot Mode Normal
 AutoSoup OpenInv true
 ChestAura ThroughWalls false
-ChestStealer MaxDelay 150
-ChestStealer MinDelay 100
+ChestStealer MaxDelay 0
+ChestStealer MinDelay 0
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
@@ -44,7 +44,7 @@ KillAura MultiMode Vanilla
 KillAura ThroughWalls false
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
+KillAura AutoBlock true
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
@@ -56,7 +56,7 @@ KillAura TurnSpeed 38.4
 KillAura FOV 180.0
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
-NoSlow Mode AAC
+NoSlow Mode Vanilla
 NoWeb Mode AAC
 PingSpoof Delay 0
 Scaffold Type AAC
@@ -86,4 +86,3 @@ FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
 targetDead true
-
