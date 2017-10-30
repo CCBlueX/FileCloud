@@ -54,7 +54,7 @@ KillAura TurnSpeed 180.0
 KillAura FOV 180.0
 LongJump NoCheat NCP
 LongJump NCPBoost 6.0
-PingSpoof Delay 3500
+PingSpoof Delay 1000
 Scaffold Type Eagle
 Scaffold Slow false
 Scaffold AutoBlock false
