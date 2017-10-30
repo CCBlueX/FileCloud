@@ -14,13 +14,9 @@ AutoSoup OpenInv true
 ChestAura ThroughWalls false
 ChestStealer MaxDelay 0
 ChestStealer MinDelay 0
-ChestStealer TakeRandomized true
-ChestStealer OnlyItems false
-ChestStealer NoCompass false
-ConsoleSpammer Mode Payload
+ChestStealer TakeRandomized false
 Criticals Type Jump
 FastClimb Bypass LAAC
-FastStairs Mode AAC
 FastUse Mode AAC
 Fly Mode AACv3
 Fucker Instant false
