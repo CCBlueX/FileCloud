@@ -1,6 +1,4 @@
-AimAssist Range 4.6
-Aimbot Range 4.6
-AntiBot toggle false
+#autosettings for mineverse.com
 AntiBot Tab false
 AntiBot TabMode Contains
 AntiBot EntityID false
@@ -17,14 +15,6 @@ AntiBot NeedHit false
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 100
 AutoArmor Bypass None
-AutoClicker MaxCPS 13
-AutoClicker MinCPS 7
-AutoLeave Health 8.0
-AutoPot OpenInv false
-AutoSoup OpenInv false
-BugUp Mode FlyFlag
-BugUp FallDistance 2.0
-ChestAura ThroughWalls true
 ChestStealer MaxDelay 100
 ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
@@ -92,3 +82,5 @@ VClip YPort 9.5
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
+#toggles
+AntiBot toggle false
