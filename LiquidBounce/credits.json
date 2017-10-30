@@ -1,0 +1,117 @@
+{
+    "0": {
+        "Name": "MCmodding4K",
+        "TwitterName": "@MCmodding4K",
+        "TwitterURL": "https://twitter.com/MCmodding4K",
+        "YouTubeName": "MCmodding4K",
+        "YouTubeURL": "https://youtube.com/MCmodding4K",
+        "Website": "https://skillclient.com",
+        "Credits": {
+            "0": "Shared his BungeeHack Soure with us.",
+            "1": "Helped us with ClickGUI sliders."
+        }
+    },
+    "1": {
+        "Name": "Garkolym",
+        "TwitterName": "@Garkolym",
+        "TwitterURL": "https://twitter.com/Garkolym",
+        "YouTubeName": "Garkolym",
+        "YouTubeURL": "https://youtube.com/Garkolym", 
+        "Credits": {
+            "0": "Made HoloStand Open-Source.",
+            "1": "Made CommandSign Open-Source."
+        }
+    },
+    "2": {
+        "Name": "Vitox",
+        "TwitterName": "@realVitox",
+        "TwitterURL": "https://twitter.com/realViTox",
+        "YouTubeName": "heilVitox",
+        "YouTubeURL": "https://www.youtube.com/channel/UCamDa1GVZJlPgMSHluiwqaQ",
+        "Credits": {
+            "0": "Made his Particle System Open-Source (main menu)."
+        }
+    },
+    "3": {
+        "Name": "JigsawDev",
+        "TwitterName": "@JigsawClient",
+        "TwitterURL": "https://twitter.com/JigsawClient",
+        "YouTubeName": "Robofån",
+        "YouTubeURL": "https://www.youtube.com/channel/UCtYz3npCasN6oMAWSX1_etQ",
+        "Website": "https://jigsawclient.ml",
+        "Credits": {
+            "0": "Helped us with XRay."
+        }
+    },
+    "4": {
+        "Name": "Avenue",
+        "TwitterName": "@avenue_mag_meme",
+        "TwitterURL": "https://twitter.com/avenue_mag_meme",
+        "Credits": {
+            "0": "Shared his AAC 3.0.5 Fly bypass with us.",
+            "1": "Helped us with AAC3 LowHop."
+        }
+    },
+    "5": {
+        "Name": "DarkAndBlue",
+        "YouTubeName": "DarkAndBlue",
+        "YouTubeURL": "https://www.youtube.com/channel/UCHoZMFzQkVNK8JnG_aylRkg",
+        "Credits": {
+            "0": "Helped us with AAC3 YPort Speed."
+        }
+    },
+    "6": {
+        "Name": "XaliBurMc",
+        "TwitterName": "@XaliBur02",
+        "TwitterURL": "https://twitter.com/XaliBur02",
+        "YouTubeName": "XaliBur",
+        "YouTubeURL": "https://www.youtube.com/channel/UCBj8ZEIveRDEJro3aLczb6Q",
+        "Credits": {
+            "0": "Made the base system for our InventoryCleaner."
+        }
+    },
+    "7": {
+        "Name": "Hexeption",
+        "TwitterName": "@RealHexeption",
+        "TwitterURL": "https://twitter.com/RealHexeption",
+        "YouTubeName": "Hexeption",
+        "YouTubeURL": "https://www.youtube.com/ArchiveHexeption",
+        "Website": "http://hexeption.co.uk",
+        "Credits": {
+            "0": "Made his Outline Utils Open-Source.",
+            "1": "Helped us turning LiquidBounce into an injection client."
+        }
+    },
+    "8": {
+        "Name": "TomatoClient",
+        "Credits": {
+            "0": "We are using Tomato's old NCP BHOP. Hope that's ok."
+        }
+    },
+    "9": {
+        "Name": "LiquidDev",
+        "YouTubeName": "LiquidDev",
+        "YouTubeURL": "https://www.youtube.com/channel/UCEX4_SyETCXN-56HkM0aYQA",
+        "Credits": {
+            "0": "Made his NCP Tower Open-Source."
+        }
+    },
+    "10": {
+        "Name": "DasCanard",
+        "TwitterName": "@DasC4nard",
+        "TwitterURL": "https://twitter.com/DasC4nard",
+        "Credits": {
+            "0": "Shared his AAC 3.2.1 WallSpeed Source with us."
+        }
+    },
+    "11": {
+        "Name": "nxtByte",
+        "TwitterName": "@itsBen_YT",
+        "TwitterURL": "https://twitter.com/itsBen_YT",
+        "YouTubeName": "nxtByte // Ben.",
+        "YouTubeURL": "https://www.youtube.com/channel/UCcGPtBHKIV-wHYsMeY7QBgg",
+        "Credits": {
+            "0": "Shared his Minesucht fly with us."
+        }
+    }
+}
