@@ -57,7 +57,7 @@ LongJump NCPBoost 6.0
 PingSpoof Delay 1000
 Scaffold Type Eagle
 Scaffold Slow false
-Scaffold AutoBlock false
+Scaffold AutoBlock true
 Scaffold Swing false
 Scaffold ExpandLenght 2
 Scaffold KeepRotation true
