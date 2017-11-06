@@ -43,7 +43,7 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
+KillAura AutoBlock true
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast false
@@ -77,6 +77,6 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 # Toggles
 antibot toggle true
-noslow toggle false
+noslow toggle true
 criticals toggle false
 pingspoof toggle true
