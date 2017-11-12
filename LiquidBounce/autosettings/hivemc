@@ -46,7 +46,7 @@ Scaffold AutoBlock true
 Scaffold Swing false
 Scaffold Slow true
 Scaffold Type AAC
-Speed Type AACBHop
+Speed Type AAC3BHop
 Step Mode AAC
 Step Height 1.0
 Tower AutoBlock true
@@ -59,3 +59,4 @@ Velocity Reverse true
 #toggles
 antibot toggle false
 pingspoof toggle false
+noslow toggle false
