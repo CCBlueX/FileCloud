@@ -63,7 +63,7 @@ Scaffold Slow false
 Scaffold AutoBlock true
 Scaffold Swing false
 Scaffold ExpandLenght 2
-Scaffold KeepRotation trueX
+Scaffold KeepRotation true
 Speed Type NCPHop
 Step Mode NCP
 Step Height 1.0
