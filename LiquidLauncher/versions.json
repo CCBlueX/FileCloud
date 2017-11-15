@@ -34,7 +34,7 @@
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
             "liquidBounce": "http://ad.liquidbounce.net/Z",
             "liquidBounceHash": "408fcd8029ef1469b583ace453602187",
-            "configFolder": "LiquidBounce-1.8"
+            "configFolder": "LiquidBounce-1.12.2"
         }
     }
 }
