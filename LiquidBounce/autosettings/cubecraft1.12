@@ -72,3 +72,4 @@ Velocity Mode Simple
 NoSlow toggle true
 AntiBot toggle true
 Criticals toggle true
+PingSpoof toggle true
