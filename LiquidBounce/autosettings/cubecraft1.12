@@ -72,5 +72,5 @@ PingSpoof Delay 1000
 #toggles
 NoSlow toggle true
 AntiBot toggle true
-Criticals toggle true
+Criticals toggle false
 PingSpoof toggle true
