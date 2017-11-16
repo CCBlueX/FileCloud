@@ -27,7 +27,7 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 20
 KillAura MinCPS 20
-KillAura Cooldown true
+KillAura Cooldown 0.8
 KillAura HurtTime 10
 KillAura Range 4.2
 KillAura RangeSprintReducement 0.0
