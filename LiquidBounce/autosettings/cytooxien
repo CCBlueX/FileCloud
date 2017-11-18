@@ -77,7 +77,7 @@ Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Sneak Mode Switch
-Speed Type NCPBHop
+Speed Type NCPHop
 Sprint AllDirections true
 Step Mode NCP
 Step Height 1.0
