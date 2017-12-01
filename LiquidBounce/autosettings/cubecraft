@@ -45,7 +45,7 @@ KillAura KeepSprint true
 KillAura AutoBlock true
 KillAura AAC false
 KillAura RayCast false
-KillAura LivingRayCast true
+KillAura LivingRayCast false
 KillAura ForceRayCast false
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
