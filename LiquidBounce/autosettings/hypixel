@@ -67,7 +67,7 @@ Step Height 1.0
 Timer Speed 1.6
 Tower AutoBlock true
 Tower Swing false
-Tower Type Motion
+Tower Type Jump
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity mode Simple
