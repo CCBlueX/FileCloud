@@ -28,7 +28,7 @@ Fly Mode Hypixel
 Fucker ThroughWalls true
 Fucker Instant false
 IceSpeed Type NCP
-InventoryCleaner OpenInv false
+InventoryCleaner OpenInv true
 InventoryCleaner MinDelay 50
 InventoryCleaner MaxDelay 100
 InventoryMove AACAdditionPro true
@@ -37,7 +37,7 @@ KillAura MinCPS 10
 KillAura HurtTime 10
 KillAura Range 4.2
 KillAura RangeSprintReducement 0.0
-KillAura Priority Health
+KillAura Priority Distance
 KillAura TargetMode Switch
 KillAura MultiMode NCP
 KillAura ThroughWalls true
@@ -46,12 +46,13 @@ KillAura KeepSprint true
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast false
-KillAura ForceRayCast false
+#KillAura ForceRayCast false
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
 KillAura TurnSpeed 180.0
 KillAura FOV 180.0
+KillAura Autoblock true
 LiquidWalk Type NCP
 LongJump NCPBoost 3.9
 LongJump nocheat NCP
@@ -76,6 +77,6 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 # Toggles
 antibot toggle true
-noslow toggle false
+noslow toggle true
 criticals toggle false
 pingspoof toggle true
