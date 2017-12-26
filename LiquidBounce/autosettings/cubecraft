@@ -79,7 +79,7 @@ Velocity Mode Simple
 #toggles
 PingSpoof toggle true
 Criticals toggle false
-NoSlow toggle false
+NoSlow toggle true
 AntiBot toggle true
 #messages
 chat LongJump might autoban
