@@ -42,7 +42,7 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura AAC true
 KillAura RayCast false
 KillAura LivingRayCast false
@@ -58,7 +58,7 @@ LongJump NCPBoost 3.5
 NoSlow Mode NCP
 NoSlow CustomReducement 1.0
 PingSpoof Delay 1000
-Scaffold Type Normal
+Scaffold Type Eagle
 Scaffold Slow false
 Scaffold AutoBlock true
 Scaffold Swing false
@@ -78,8 +78,8 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 #toggles
 PingSpoof toggle true
-Criticals toggle true
-NoSlow toggle true
+Criticals toggle false
+NoSlow toggle false
 AntiBot toggle true
 #messages
 chat LongJump might autoban
