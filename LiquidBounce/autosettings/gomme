@@ -71,6 +71,8 @@ Trigger MaxCPS 10
 Trigger MinCPS 8
 Velocity Mode Reverse2
 Sprint AllDirections false
+WallClimb mode AAC
+BufferSpeed 
 # Toggles
 Zoot toggle false
 Regen toggle false
@@ -82,3 +84,9 @@ FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
 targetDead true
+IceSpeed toggle false
+WallClimb toggle true
+BufferSpeed toggle true
+FastStairs toggle true
+BufferSpeed MaxSpeed 3.0
+BufferSpeed Boost 0.1
