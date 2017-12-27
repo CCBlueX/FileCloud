@@ -39,7 +39,7 @@ KillAura Swing true
 KillAura KeepSprint true
 KillAura AAC false
 KillAura RayCast true
-KillAura LivingRayCast true
+KillAura LivingRayCast false
 KillAura ForceRayCast false
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
