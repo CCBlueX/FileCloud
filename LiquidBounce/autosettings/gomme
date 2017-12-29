@@ -52,14 +52,13 @@ KillAura NoInvDelay 0
 KillAura FOV 180.0
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
-NoSlow Mode Vanilla
+NoSlow Mode AAC
 NoWeb Mode AAC
 PingSpoof Delay 0
 Scaffold Type AAC
 Scaffold Slow true
 Scaffold AutoBlock false
 Scaffold Swing true
-Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Speed Type AAC3BHop
 Step Mode LAAC
@@ -72,21 +71,21 @@ Trigger MinCPS 8
 Velocity Mode Reverse2
 Sprint AllDirections false
 WallClimb mode AAC
-BufferSpeed 
+BufferSpeed MaxSpeed 3.0
+BufferSpeed Boost 0.1
 # Toggles
 Zoot toggle false
 Regen toggle false
 NoRotateSet toggle false
-Nofall toggle false
-regen toggle false
-pingspoof toggle false
+NoFall toggle false
+Regen toggle false
+PingSpoof toggle false
 FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
-targetDead true
 IceSpeed toggle false
 WallClimb toggle true
 BufferSpeed toggle true
-FastStairs toggle true
-BufferSpeed MaxSpeed 3.0
-BufferSpeed Boost 0.1
+FastStairs toggle false
+FastSlabs toggle false
+targetDead true
