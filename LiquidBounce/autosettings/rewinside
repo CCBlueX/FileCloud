@@ -77,7 +77,7 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
-Tower Type Packet
+Tower Type FastMotion2
 targetDead false
 # Toggles
 Zoot toggle false
