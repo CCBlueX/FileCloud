@@ -53,9 +53,8 @@ Tower AutoBlock true
 Tower Swing false
 Tower Type Jump
 Velocity Horizontal 0.0
-Velocity AAC true
 Velocity Vertical 0.0
-Velocity Reverse true
+Velocity Mode Reverse2
 #toggles
 antibot toggle false
 pingspoof toggle false
