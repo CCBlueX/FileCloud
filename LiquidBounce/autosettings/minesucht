@@ -48,7 +48,6 @@ KillAura AutoBlock false
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
-KillAura ForceRayCast true
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 3.0
