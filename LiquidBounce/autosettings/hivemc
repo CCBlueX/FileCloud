@@ -92,6 +92,6 @@ WaterSpeed Speed 1.2
 #toggles
 antibot toggle false
 pingspoof toggle false
-noslow toggle true
+noslow toggle false
 liquidwalk toggle true
 waterspeed toggle true
