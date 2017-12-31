@@ -53,15 +53,14 @@ NoSlow Mode NCP
 Scaffold Type AAC
 Scaffold Slow true
 Scaffold AutoBlock true
-Scaffold Swing false
 Scaffold KeepRotation true
 Speed Type NCPHop
 Tower Type Motion
 Tower AutoBlock true
-Tower Swing false
 Velocity Horizontal 0.2
 Velocity Vertical 0.2
 Velocity Mode Simple
+Fly Mode CubeCraft2
 #toggles
 AntiBot toggle true
 PingSpoof toggle false
