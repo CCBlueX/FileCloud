@@ -84,8 +84,8 @@ FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
 IceSpeed toggle false
-WallClimb toggle true
-BufferSpeed toggle true
+WallClimb toggle false
+BufferSpeed toggle false
 FastStairs toggle false
 FastSlabs toggle false
 targetDead true
