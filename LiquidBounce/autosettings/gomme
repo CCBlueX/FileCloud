@@ -90,4 +90,5 @@ FastStairs toggle false
 FastSlabs toggle false
 FastBreak toggle false
 CivBreak toggle false
+ReverseStep toggle false
 targetDead true
