@@ -68,8 +68,8 @@ Tower AutoBlock false
 Tower Swing false
 Trigger MaxCPS 10
 Trigger MinCPS 8
-Velocity Horizontal 0.0
-Velocity Vertical 0.0
+Velocity Horizontal 0.3
+Velocity Vertical 0.3
 Velocity Mode AAC
 Sprint AllDirections false
 WallClimb mode AAC
