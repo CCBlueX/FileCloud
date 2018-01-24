@@ -88,4 +88,6 @@ WallClimb toggle false
 BufferSpeed toggle false
 FastStairs toggle false
 FastSlabs toggle false
+FastBreak toggle false
+CivBreak toggle false
 targetDead true
