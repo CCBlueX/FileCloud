@@ -12,9 +12,9 @@ AutoPot OpenInv true
 AutoPot Mode Normal
 AutoSoup OpenInv true
 ChestAura ThroughWalls false
-ChestStealer MaxDelay 0
-ChestStealer MinDelay 0
-ChestStealer TakeRandomized false
+ChestStealer MaxDelay 100
+ChestStealer MinDelay 50
+ChestStealer TakeRandomized true
 Criticals Type Jump
 FastClimb Bypass LAAC
 FastUse Mode AAC
@@ -24,8 +24,8 @@ Fucker ThroughWalls false
 Fucker Swing true
 HitBox Size 0.4
 IceSpeed Type AAC
-InventoryCleaner MaxDelay 96
-InventoryCleaner MinDelay 59
+InventoryCleaner MaxDelay 100
+InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
