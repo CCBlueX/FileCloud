@@ -60,7 +60,7 @@ Scaffold Slow true
 Scaffold AutoBlock false
 Scaffold Swing true
 Scaffold KeepRotation false
-Speed Type AAC3BHop
+Speed Type AAC5BHop
 Step Mode LAAC
 Timer Speed 1.1
 Tower Type Jump
@@ -75,11 +75,11 @@ Sprint AllDirections false
 WallClimb mode AAC
 BufferSpeed MaxSpeed 3.0
 BufferSpeed Boost 0.1
+NoFall mode LAAC
 # Toggles
 Zoot toggle false
 Regen toggle false
 NoRotateSet toggle false
-NoFall toggle false
 Regen toggle false
 PingSpoof toggle false
 FastClimb toggle true
