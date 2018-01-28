@@ -1,17 +1,17 @@
 {
     "0": {
-        "title": "LiquidBounce b29",
-        "text": "KillAura has been improved and many new AAC bypasses have been added. We also added a Credits screen which allows you to see exactly who helped us developing LiquidBounce. Click <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/14?closed=1'>here</a> for the full changelog.",
-        "date": "01/02/2017",
-        "image": "https://img.liquidbounce.net/uxc/background.png",
+        "title": "LiquidBounce b31",
+        "text": "We added a HUD Editor which allows you to completely customize the clients GUI to your liking. We also made a new Main Menu design and added a few new AAC bypasses. The full changelog can be found <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/16?closed=1'>here</a>",
+        "date": "01/28017",
         "tags": {
             "0": "Update"
         }
     },
     "1": {
-        "title": "LiquidBounce b31",
-        "text": "We added a HUD Editor which allows you to completely customize the clients GUI to your liking. We also made a new Main Menu design and added a few new AAC bypasses. The full changelog can be found <a href='ttps://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/16?closed=1>'here</a>",
-        "date": "01/28017",
+        "title": "LiquidBounce b29",
+        "text": "KillAura has been improved and many new AAC bypasses have been added. We also added a Credits screen which allows you to see exactly who helped us developing LiquidBounce. Click <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/14?closed=1'>here</a> for the full changelog.",
+        "date": "01/02/2017",
+        "image": "https://img.liquidbounce.net/uxc/background.png",
         "tags": {
             "0": "Update"
         }
