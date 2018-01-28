@@ -51,7 +51,7 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FOV 180.0
 LongJump NoCheat AACv3
-NoSlow Mode AAC
+NoSlow Mode Vanilla
 NoWeb Mode AAC
 Scaffold Type AAC
 Scaffold Slow true
