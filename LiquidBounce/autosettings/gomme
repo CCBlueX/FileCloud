@@ -76,6 +76,7 @@ WallClimb mode AAC
 BufferSpeed MaxSpeed 3.0
 BufferSpeed Boost 0.1
 NoFall mode LAAC
+Fucker Surroundings true
 # Toggles
 Zoot toggle false
 Regen toggle false
