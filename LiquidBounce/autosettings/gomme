@@ -58,7 +58,7 @@ Scaffold Slow true
 Scaffold AutoBlock false
 Scaffold Swing true
 Scaffold KeepRotation false
-Speed Type AAC5BHop
+Speed Type AAC4BHop
 Step Mode LAAC
 Tower Type Jump
 Tower AutoBlock false
