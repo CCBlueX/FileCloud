@@ -1,6 +1,6 @@
 # AutoSettings for Gomme
-AutoArmor MaxDelay 0
-AutoArmor MinDelay 0
+AutoArmor MaxDelay 100
+AutoArmor MinDelay 75
 AutoArmor InvOpen true
 AutoArmor SimulateInventory true
 AutoArmor NoMove true
@@ -13,7 +13,7 @@ AutoPot Mode Normal
 AutoSoup OpenInv true
 ChestAura ThroughWalls false
 ChestStealer MaxDelay 100
-ChestStealer MinDelay 50
+ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 Criticals Type Jump
 FastClimb Bypass LAAC
