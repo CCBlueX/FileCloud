@@ -44,7 +44,7 @@ KillAura AutoBlock true
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
-KillAura FailRate 5
+KillAura FailRate 3
 KillAura TurnSpeed 38
 KillAura ForceRayCast true
 KillAura NoInvAttack false
