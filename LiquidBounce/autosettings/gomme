@@ -83,8 +83,6 @@ Fucker Surroundings true
 # Toggles
 Zoot toggle false
 Regen toggle false
-NoRotateSet toggle false
-Regen toggle false
 PingSpoof toggle false
 FastClimb toggle true
 NoSlow toggle true
@@ -96,4 +94,5 @@ FastSlabs toggle false
 FastBreak toggle false
 CivBreak toggle false
 ReverseStep toggle false
+AntiCactus toggle true
 targetDead true
