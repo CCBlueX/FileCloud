@@ -84,3 +84,5 @@ antibot toggle true
 velocity toggle true
 noslow toggle false
 pingspoof toggle false
+FastClimb toggle false
+FastUse toggle false
