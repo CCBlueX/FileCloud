@@ -48,7 +48,8 @@ Scaffold Slow false
 Scaffold AutoBlock true
 Speed Type Hive
 Step Mode Vanilla
-Tower Type teleport
+Tower Type Packet
+Tower AutoBlock true
 Velocity Horizontal 0
 Velocity Vertical 0
 Velocity Mode simple
