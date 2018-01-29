@@ -26,7 +26,7 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 Criticals Type Packet
 Criticals toggle true
-Fly mode ncp
+Fly Mode Rewinside
 Killaura FailRate 0
 Killaura MaxCPS 15
 Killaura MinCPS 10
