@@ -38,7 +38,8 @@ killaura TurnSpeed 180
 longjump NCPBoost 4.45
 longjump NoCheat ncp
 pingspoof toggle true
-scaffold Type Normal
+Scaffold Type Normal
+Scaffold Slow false
 speed Type onground
 Step Mode Vanilla
 tower Type teleport
