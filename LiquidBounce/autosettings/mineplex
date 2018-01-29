@@ -22,6 +22,7 @@ AutoArmor NoMove false
 ChestStealer MaxDelay 75
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized false
+InventoryMove AACAdditionPro false
 Criticals Type Packet
 Criticals toggle true
 fly mode ncp
