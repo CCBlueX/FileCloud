@@ -42,7 +42,7 @@ KillAura HurtTime 10
 KillAura AutoBlock true
 LongJump NCPBoost 4.45
 LongJump NoCheat ncp
-pingspoof toggle true
+PingSpoof toggle true
 Scaffold Type Normal
 Scaffold Slow false
 Speed Type Hive
@@ -52,5 +52,6 @@ Velocity Horizontal 0
 Velocity Vertical 0
 Velocity Mode simple
 FastUse Mode Instant
+FastUse toggle true
 NoFall mode SpoofGround
 NoSlow Mode NCP
