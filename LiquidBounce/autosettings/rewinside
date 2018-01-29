@@ -77,6 +77,8 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
+AntiBot InvaildGround false
+AntiBot Air false
 Tower Type FastMotion2
 targetDead false
 # Toggles
