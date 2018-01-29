@@ -40,7 +40,7 @@ LongJump NoCheat ncp
 pingspoof toggle true
 Scaffold Type Normal
 Scaffold Slow false
-Speed Type onground
+Speed Type Hive
 Step Mode Vanilla
 Tower Type teleport
 Velocity Horizontal 0
