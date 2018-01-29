@@ -57,5 +57,6 @@ FastUse Mode Instant
 FastUse toggle true
 NoFall mode SpoofGround
 NoSlow Mode NCP
+NoSlow toggle true
 AutoSoup OpenInv false
 AutoPot OpenInv false
