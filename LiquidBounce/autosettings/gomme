@@ -1,7 +1,7 @@
 # AutoSettings for Gomme
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 75
-AutoArmor InvOpen true
+AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove true
 AutoClicker MaxCPS 12
