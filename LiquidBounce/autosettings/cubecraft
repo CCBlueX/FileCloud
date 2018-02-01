@@ -55,7 +55,7 @@ Scaffold Slow true
 Scaffold AutoBlock true
 Scaffold KeepRotation true
 Speed Type NCPHop
-Tower Type Motion
+Tower Type FastMotion
 Tower AutoBlock true
 Velocity Horizontal 0.2
 Velocity Vertical 0.2
