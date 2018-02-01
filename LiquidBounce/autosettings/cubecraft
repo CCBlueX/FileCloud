@@ -62,6 +62,8 @@ Velocity Vertical 0.2
 Velocity Mode Simple
 Fly Mode CubeCraft2
 FastUse Mode NCP
+Step Mode NCP
+Step Height 3
 #toggles
 AntiBot toggle true
 PingSpoof toggle false
