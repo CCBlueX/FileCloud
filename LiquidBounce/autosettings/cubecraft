@@ -61,7 +61,9 @@ Velocity Horizontal 0.2
 Velocity Vertical 0.2
 Velocity Mode Simple
 Fly Mode CubeCraft2
+FastUse Mode NCP
 #toggles
 AntiBot toggle true
 PingSpoof toggle false
 NoSlow toggle true
+FastUse toggle true
