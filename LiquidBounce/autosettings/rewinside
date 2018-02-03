@@ -56,7 +56,7 @@ Scaffold AutoBlock false
 Scaffold Swing true
 Scaffold KeepRotation false
 Sneak Mode Switch
-Speed Type NCPHop
+Speed Type AACPort
 Sprint AllDirections true
 Step Mode NCP
 Step Height 1.0
