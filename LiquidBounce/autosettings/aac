@@ -57,7 +57,7 @@ Scaffold Swing true
 Scaffold KeepRotation false
 Speed Type AAC5BHop
 Step Mode LAAC
-Tower Type Jump
+Tower Type LAAC
 Tower AutoBlock false
 Trigger MaxCPS 8
 Trigger MinCPS 5
