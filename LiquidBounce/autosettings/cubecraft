@@ -12,6 +12,8 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
+AntiBot Air false
+AntiBot InvaildGround false
 AutoArmor MaxDelay 150
 AutoArmor MinDelay 75
 AutoArmor InvOpen false
