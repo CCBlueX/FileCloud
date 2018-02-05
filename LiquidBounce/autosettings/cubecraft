@@ -59,8 +59,8 @@ Scaffold KeepRotation true
 Speed Type NCPHop
 Tower Type FastMotion
 Tower AutoBlock true
-Velocity Horizontal 0.2
-Velocity Vertical 0.2
+Velocity Horizontal 0
+Velocity Vertical 0
 Velocity Mode Simple
 Fly Mode CubeCraft2
 FastUse Mode NCP
