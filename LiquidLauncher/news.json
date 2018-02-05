@@ -1,5 +1,14 @@
 {
     "0": {
+        "title": "LiquidBounce b29",
+        "text": "KillAura has been improved and many new AAC bypasses have been added. We also added a Credits screen which allows you to see exactly who helped us developing LiquidBounce. Click <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/14?closed=1'>here</a> for the full changelog.",
+        "date": "01/02/2017",
+        "image": "https://img.liquidbounce.net/uxc/background.png",
+        "tags": {
+            "0": "Update"
+        }
+    },
+    "1": {
         "title": "LiquidBounce b31",
         "text": "We added a HUD Editor which allows you to completely customize the clients GUI to your liking. We also made a new Main Menu design and added a few new AAC bypasses. The full changelog can be found <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/16?closed=1'>here</a>",
         "date": "01/28/2017",
@@ -7,13 +16,37 @@
             "0": "Update"
         }
     },
-    "1": {
-        "title": "LiquidBounce b29",
-        "text": "KillAura has been improved and many new AAC bypasses have been added. We also added a Credits screen which allows you to see exactly who helped us developing LiquidBounce. Click <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/14?closed=1'>here</a> for the full changelog.",
-        "date": "01/02/2017",
-        "image": "https://img.liquidbounce.net/uxc/background.png",
+    "2": {
+        "title": "LiquidBounce b32",
+        "text": "Small Hotfix Update. Exact changes can be found <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/17?closed=1'>here</a>",
+        "date": "01/29/2017",
         "tags": {
             "0": "Update"
+        }
+    },
+    "3": {
+        "title": "LiquidBounce b33",
+        "text": "You can now add to your HUD and KillAura switch mode is now working again when AAC mode is enabled. Exact changes can be found <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/18?closed=1'>here</a>",
+        "date": "02/02/2017",
+        "tags": {
+            "0": "Update"
+        }
+    },
+    "4": {
+        "title": "LiquidBounce b34",
+        "text": "We have made some slight improvements to the GUI and fixed a few common bugs. Exact changes can be found <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/19?closed=1'>here</a>",
+        "date": "02/05/2017",
+        "tags": {
+            "0": "Update"
+        }
+    },
+    "5": {
+        "title": "LiquidBounce b35",
+        "text": "HOTFIX UPDATE! Please install as quickly as possible. The last release has a bug which causes all keybinds to reset whenever you disable Scaffold. Full changelog can be found <a href='https://github.com/CCBlueX/LiquidBounce1.8-Issues/milestone/19?closed=1'>here</a>",
+        "date": "02/05/2017",
+        "tags": {
+            "0": "Update",
+            "1": "Hotfix"
         }
     }
 }
