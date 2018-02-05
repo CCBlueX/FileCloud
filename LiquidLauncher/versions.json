@@ -63,7 +63,7 @@
             "liquidBounceHash": "2f2a43b04be1f690aa0eaca26664e923",
             "configFolder": "LiquidBounce-1.8"	
 	},
-	"b33": {
+	"b34": {
 	    "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
             "liquidBounce": "http://ad.liquidbounce.net/h",
