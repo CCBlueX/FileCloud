@@ -63,6 +63,7 @@ NoSlow CustomReducement 0.6
 Scaffold Type Normal
 Scaffold Slow false
 Scaffold AutoBlock true
+Scaffold StayAutoBlock false
 Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
