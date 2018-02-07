@@ -55,7 +55,8 @@ NoSlow Mode Vanilla
 NoWeb Mode AAC
 Scaffold Type AAC
 Scaffold Slow true
-Scaffold AutoBlock false
+Scaffold AutoBlock true
+Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold KeepRotation false
 Speed Type AAC4BHop
