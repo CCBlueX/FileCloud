@@ -55,6 +55,7 @@ NoSlow Mode NCP
 Scaffold Type AAC
 Scaffold Slow true
 Scaffold AutoBlock true
+Scaffold StayAutoBlock false
 Scaffold KeepRotation true
 Speed Type NCPHop
 Tower Type FastMotion
