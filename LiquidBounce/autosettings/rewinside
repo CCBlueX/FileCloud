@@ -52,7 +52,8 @@ NoSlow Mode NCP
 NoWeb Mode Rewi
 Scaffold Type SpeedyRewinside
 Scaffold Slow false
-Scaffold AutoBlock false
+Scaffold AutoBlock true
+Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold KeepRotation false
 Sneak Mode Switch
