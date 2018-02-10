@@ -11,7 +11,7 @@ AutoSoup OpenInv true
 ChestAura ThroughWalls false
 ChestStealer MaxDelay 0
 ChestStealer MinDelay 0
-ChestStealer TakeRandomized true
+ChestStealer TakeRandomized false
 Criticals Type Jump
 FastClimb Bypass LAAC
 FastUse Mode AAC
