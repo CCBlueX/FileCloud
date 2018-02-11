@@ -63,7 +63,7 @@ Tower AutoBlock true
 Velocity Horizontal 0
 Velocity Vertical 0
 Velocity Mode Simple
-Fly Mode CubeCraft2
+Fly Mode CubeCraft
 FastUse Mode NCP
 Step Mode NCP
 Step Height 3
