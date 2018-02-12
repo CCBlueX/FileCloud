@@ -16,6 +16,7 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
+AntiBot toggle true
 AtAllProvider Delay 3333
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 0
