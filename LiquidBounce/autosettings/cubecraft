@@ -71,4 +71,4 @@ Step Height 3
 AntiBot toggle true
 PingSpoof toggle false
 NoSlow toggle true
-FastUse toggle true
+FastUse toggle false
