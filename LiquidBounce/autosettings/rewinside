@@ -85,7 +85,7 @@ targetDead false
 # Toggles
 Zoot toggle false
 Regen toggle false
-NoRotateSet toggle false
+NoRotateSet toggle true
 Nofall toggle false
 regen toggle false
 pingspoof toggle false
