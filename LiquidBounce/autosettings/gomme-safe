@@ -56,7 +56,7 @@ Scaffold AutoBlock false
 Scaffold Swing true
 Scaffold KeepRotation false
 Speed Type AAC5BHop
-Step Mode LAAC
+Step Mode AAC_334
 Tower Type Jump
 Tower AutoBlock false
 Trigger MaxCPS 8
