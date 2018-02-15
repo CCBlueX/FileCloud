@@ -50,7 +50,7 @@ Scaffold StayAutoBlock true
 Scaffold KeepRotation false
 Speed Type AAC4BHop
 Sprint AllDirections false
-Step Mode LAAC
+Step Mode AAC_334
 Step Height 1.0
 Step Delay 0
 Tower Type Jump
