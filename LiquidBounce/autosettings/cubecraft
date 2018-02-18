@@ -55,7 +55,7 @@ NoSlow Sword NCP
 NoSlow Food NCP
 NoSlow Bow NCP
 Scaffold Type AAC
-Scaffold Delay 300
+Scaffold Delay 233
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold KeepRotation true
