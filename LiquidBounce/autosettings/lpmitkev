@@ -41,7 +41,7 @@ KillAura TurnSpeed 180.0
 NoWeb Mode AAC
 Scaffold AutoBlock false
 Scaffold Swing true
-Scaffold Slow false
+Scaffold Delay 0
 Scaffold Type Eagle
 Speed CustomSpeed 0.8
 Speed CustomY 0.2
