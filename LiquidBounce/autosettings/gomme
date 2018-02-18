@@ -51,10 +51,12 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FOV 180.0
 LongJump NoCheat AACv3
-NoSlow Mode Vanilla
+NoSlow Sword Vanilla
+NoSlow Food AAC
+NoSlow Bow AAC
 NoWeb Mode AAC
 Scaffold Type AAC
-Scaffold Slow true
+Scaffold Delay 300
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
@@ -62,7 +64,8 @@ Scaffold KeepRotation false
 Speed Type AAC4BHop
 Step Mode AAC_334
 Tower Type Jump
-Tower AutoBlock false
+Tower AutoBlock true
+Tower StayAutoBlock true
 Trigger MaxCPS 12
 Trigger MinCPS 8
 Velocity Horizontal 0.4
