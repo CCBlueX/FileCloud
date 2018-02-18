@@ -58,10 +58,11 @@ LiquidWalk Type NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 4.5
 NoFall Mode AAC
-NoSlow Mode Vanilla
-NoSlow CustomReducement 0.6
+NoSlow Sword Vanilla
+NoSlow Food Vanilla
+NoSlow Bow Vanilla
 Scaffold Type Normal
-Scaffold Slow false
+Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold Swing true
