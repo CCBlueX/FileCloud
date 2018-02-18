@@ -88,3 +88,4 @@ noslow toggle false
 pingspoof toggle false
 FastClimb toggle false
 FastUse toggle false
+Criticals toggle false
