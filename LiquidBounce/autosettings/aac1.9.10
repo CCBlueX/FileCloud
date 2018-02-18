@@ -57,10 +57,12 @@ KillAura FOV 180.0
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
 NoFall Mode SpoofGround
-NoSlow Mode NCP
+NoSlow Sword NCP
+NoSlow Food NCP
+NoSlow Bow NCP
 NoWeb Mode AAC
 Scaffold Type AAC
-Scaffold Slow true
+Scaffold Delay 300
 Scaffold AutoBlock false
 Scaffold Swing true
 Scaffold ExpandLenght 2
