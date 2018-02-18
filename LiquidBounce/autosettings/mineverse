@@ -56,11 +56,13 @@ KillAura FOV 180.0
 LiquidWalk Type NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 4.7
-NoSlow Mode NCP
+NoSlow Sword NCP
+NoSlow Food NCP
+NoSlow Bow NCP
 Phase Type Skip
 PingSpoof Delay 3500
 Scaffold Type Normal
-Scaffold Slow false
+Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold Swing true
 Scaffold ExpandLenght 2
