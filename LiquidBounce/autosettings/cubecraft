@@ -51,9 +51,11 @@ KillAura NoInvDelay 200
 KillAura FailRate 0.0
 KillAura TurnSpeed 180.0
 KillAura FOV 180.0
-NoSlow Mode NCP
+NoSlow Sword NCP
+NoSlow Food NCP
+NoSlow Bow NCP
 Scaffold Type AAC
-Scaffold Slow true
+Scaffold Delay 300
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold KeepRotation true
