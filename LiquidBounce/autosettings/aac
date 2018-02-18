@@ -41,10 +41,12 @@ KillAura FailRate 3.0
 KillAura TurnSpeed 25.0
 KillAura FOV 180.0
 NoFall Mode LAAC
-NoSlow Mode AAC
+NoSlow Sword AAC
+NoSlow Food AAC
+NoSlow Bow AAC
 NoWeb Mode AAC
 Scaffold Type AAC
-Scaffold Slow false
+Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false
