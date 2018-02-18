@@ -46,7 +46,7 @@ KillAura RayCast true
 KillAura LivingRayCast true
 KillAura FailRate 3
 KillAura TurnSpeed 25
-KillAura ForceRayCast true
+KillAura Predict true
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FOV 180.0
