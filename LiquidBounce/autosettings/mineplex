@@ -44,7 +44,7 @@ LongJump NCPBoost 4.45
 LongJump NoCheat ncp
 PingSpoof toggle true
 Scaffold Type Normal
-Scaffold Slow false
+Scaffold Delay 0
 Scaffold AutoBlock true
 Speed Type Hive
 Step Mode Vanilla
@@ -56,7 +56,9 @@ Velocity Mode simple
 FastUse Mode Instant
 FastUse toggle true
 NoFall mode SpoofGround
-NoSlow Mode NCP
+NoSlow Sword NCP
+NoSlow Food NCP
+NoSlow Bow NCP
 NoSlow toggle true
 AutoSoup OpenInv false
 AutoPot OpenInv false
