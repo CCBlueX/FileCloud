@@ -122,5 +122,15 @@
         "Credits": {
             "0": "Shared his SpeedlyRewinsideScaffoldwalk with us."
         }   
+    },
+    "13": {
+        "Name": "VLAD_AND_LOL",
+        "YouTubeName": "Vlad ans lol",
+        "YouTubeURL": "https://www.youtube.com/channel/UCPv4larXOA6e4iVFLu6LCoA",
+        "TwitterName": "@Vladandlol",
+        "TwitterURL": "https://twitter.com/Vladandlol",
+        "Credits": {
+            "0": "Made his Mineplex Fly Open-Source."
+        }
     }
 }
