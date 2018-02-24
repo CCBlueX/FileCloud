@@ -80,8 +80,15 @@
 	"b36": {
 	    "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
-            "liquidBounce": "https://ads.liquidbounce.net/45944866432510",
+            "liquidBounce": "http://ads.liquidbounce.net/45944866432510",
             "liquidBounceHash": "43b3b5e17944e6adf5437a6ac08c732d",
+            "configFolder": "LiquidBounce-1.8"	
+	},
+	"b37": {
+	    "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
+            "liquidBounce": "http://ads.liquidbounce.net/45944866441441",
+            "liquidBounceHash": "2ccc72232ff0a04ff73fda3db76f4ada",
             "configFolder": "LiquidBounce-1.8"	
 	}
     },"1.12.2": {
