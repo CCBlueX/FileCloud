@@ -26,7 +26,7 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 Criticals Type Packet
 Criticals toggle true
-Fly Mode FastAACv3
+Fly Mode Mineplex
 Killaura FailRate 0
 Killaura MaxCPS 15
 Killaura MinCPS 10
