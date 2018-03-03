@@ -70,7 +70,8 @@ Trigger MaxCPS 12
 Trigger MinCPS 8
 Velocity Horizontal 0.4
 Velocity Vertical 0.4
-Velocity Mode AAC
+Velocity Mode Reverse2
+Velocity Reverse2Strenght 0.5
 Sprint AllDirections false
 WallClimb mode AAC
 BufferSpeed MaxSpeed 3.0
