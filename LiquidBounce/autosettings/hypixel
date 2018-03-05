@@ -63,6 +63,8 @@ NoSlow Food NCP
 NoSlow Bow NCP
 Scaffold Type Normal
 Scaffold Delay 0
+Scaffold Sprint true
+Scaffold Eagle false
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold Swing true
