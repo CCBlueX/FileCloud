@@ -55,7 +55,10 @@ NoSlow Sword Vanilla
 NoSlow Food AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
-Scaffold Type AAC
+Scaffold Type Normal
+Scaffold Sprint false
+Scaffold Eagle true
+Scaffold BlocksToEagle 3
 Scaffold Delay 300
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
