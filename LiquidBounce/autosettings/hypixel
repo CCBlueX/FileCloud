@@ -18,9 +18,9 @@ AntiBot InvaildGround false
 AntiBot Air false
 AutoArmor MaxDelay 200
 AutoArmor MinDelay 100
-AutoArmor InvOpen false
+AutoArmor InvOpen true
 AutoArmor SimulateInventory true
-AutoArmor NoMove true
+AutoArmor NoMove false
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
@@ -45,7 +45,8 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
+KillAura AutoBlock false
+KillAura Predict false
 KillAura AAC false
 KillAura RayCast false
 KillAura LivingRayCast false
@@ -87,7 +88,7 @@ Fly Mode Hypixel
 #toggles
 antibot toggle true
 velocity toggle true
-noslow toggle true
+noslow toggle false
 pingspoof toggle false
 FastClimb toggle false
 FastUse toggle false
