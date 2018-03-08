@@ -1,4 +1,4 @@
-# AutoSettings for AAC
+# AutoSettings for Minesucht
 AutoArmor MaxDelay 0
 AutoArmor MinDelay 0
 AutoArmor InvOpen false
@@ -81,7 +81,7 @@ Trigger MaxCPS 10
 Trigger MinCPS 8
 Velocity Mode Reverse2
 Sprint AllDirections false
-Teleport mode minesucht
+Teleport type minesucht
 # Toggles
 Zoot toggle false
 Regen toggle false
