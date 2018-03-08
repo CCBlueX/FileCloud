@@ -88,8 +88,9 @@ BufferSpeed Snow true
 BufferSpeed Wall true
 BufferSpeed HeadBlock false
 WallSpeed Mode New
-NoFall mode LAAC
+NoFall mode AAC_3_3_11
 Fucker Surroundings true
+LiquidWalk Mode AAC_3.3.11
 # Toggles
 Zoot toggle false
 Regen toggle false
