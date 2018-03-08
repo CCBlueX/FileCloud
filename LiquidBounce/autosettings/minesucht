@@ -67,7 +67,6 @@ Scaffold Eagle false
 Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Swing true
 Scaffold KeepRotation false
 Scaffold Zitter true
 Scaffold ZitterMode Smooth
@@ -78,8 +77,8 @@ Teams ScoreboardTeam true
 Teams Color true
 Timer Speed 1.1
 Tower Type Jump
-Tower AutoBlock false
-Tower Swing false
+Tower AutoBlock true
+Tower StayAutoBlock true
 Trigger MaxCPS 10
 Trigger MinCPS 8
 Velocity Mode Reverse2
