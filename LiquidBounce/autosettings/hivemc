@@ -70,7 +70,10 @@ NoSlow Food AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
 PingSpoof Delay 3500
-Scaffold Type AAC
+Scaffold Type Normal
+Scaffold Sprint false
+Scaffold Zitter false
+Scaffold Eagle false
 Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
