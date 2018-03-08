@@ -57,13 +57,15 @@ NoSlow Bow AAC
 NoWeb Mode AAC
 Scaffold Type Normal
 Scaffold Sprint false
-Scaffold Eagle true
+Scaffold Eagle false
 Scaffold BlocksToEagle 3
 Scaffold Delay 300
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold KeepRotation false
+Scaffold Zitter true
+Scaffold ZitterMode Smooth
 Speed Type AACGround
 Step Mode AAC_334
 Tower Type Jump
