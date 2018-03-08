@@ -60,6 +60,7 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold KeepRotation false
+Scaffold Zitter false
 Sneak Mode Switch
 Speed Type AACPort
 Sprint AllDirections true
