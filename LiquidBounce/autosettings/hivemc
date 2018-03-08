@@ -80,7 +80,7 @@ Scaffold StayAutoBlock false
 Scaffold KeepRotation false
 SnowSpeed LayerSpeed 1.4
 Spammer Delay 60
-Speed Type AAC3BHop
+Speed Type AAC4BHop
 Sprint AllDirections true
 Step Mode LAAC
 Step Height 2.0
