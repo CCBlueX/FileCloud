@@ -57,13 +57,14 @@ NoSlow Bow AAC
 NoWeb Mode AAC
 Scaffold Type Normal
 Scaffold Sprint false
-Scaffold Eagle false
+Scaffold Type Normal
+Scaffold Sprint false
 Scaffold BlocksToEagle 3
-Scaffold Delay 0
+Scaffold Delay 250
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
-Scaffold KeepRotation false
+Scaffold KeepRotation true
 Scaffold Zitter true
 Scaffold ZitterMode Smooth
 Speed Type AACGround
