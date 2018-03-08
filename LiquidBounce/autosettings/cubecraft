@@ -61,6 +61,7 @@ Scaffold Delay 233
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold KeepRotation true
+Scaffold Zitter false
 Speed Type NCPHop
 Tower Type FastMotion
 Tower AutoBlock true
