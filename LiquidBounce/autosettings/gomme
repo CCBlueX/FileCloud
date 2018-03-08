@@ -62,7 +62,7 @@ Scaffold Delay 250
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
-Scaffold KeepRotation false
+Scaffold KeepRotation true
 Scaffold Zitter true
 Scaffold ZitterMode Smooth
 Speed Type AAC7BHop
