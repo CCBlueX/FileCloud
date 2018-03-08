@@ -55,7 +55,7 @@ NoWeb Mode AAC
 Scaffold Type Normal
 Scaffold Sprint false
 Scaffold BlocksToEagle 3
-Scaffold Delay 250
+Scaffold Delay 350
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
