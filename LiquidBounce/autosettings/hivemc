@@ -62,7 +62,6 @@ KillAura FakeSharp true
 LegitAura MaxCPS 17
 LegitAura MinCPS 14
 LegitAura Range 3.7
-LiquidWalk Type Dolphin
 LongJump NoCheat AACv3
 NoFall Mode AAC
 NoSlow Sword Vanilla
