@@ -36,6 +36,9 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura TurnSpeed 180.0
+KillAura MaxTurnSpeed 180.0
+KillAura MinTurnSpeed 180.0
+KillAura RandomCenter false
 KillAura FOV 180.0
 LiquidWalk Type NCP
 LongJump NoCheat NCP
