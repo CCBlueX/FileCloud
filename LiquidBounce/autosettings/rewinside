@@ -46,6 +46,9 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura TurnSpeed 38
+KillAura MaxTurnSpeed 38
+KillAura MinTurnSpeed 25
+KillAura RandomCenter false
 KillAura FOV 180.0
 LiquidWalk Type NCP
 NoSlow Sword NCP
