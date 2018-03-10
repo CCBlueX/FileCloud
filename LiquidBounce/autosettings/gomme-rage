@@ -46,6 +46,9 @@ KillAura RayCast true
 KillAura LivingRayCast true
 KillAura FailRate 3
 KillAura TurnSpeed 25
+KillAura MaxTurnSpeed 30
+KillAura MinTurnSpeed 20
+KillAura RandomCenter true
 KillAura Predict true
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
