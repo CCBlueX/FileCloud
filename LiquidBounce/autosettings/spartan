@@ -33,6 +33,9 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 4.35
 KillAura TurnSpeed 139.53
+KillAura MaxTurnSpeed 149.53
+KillAura MinTurnSpeed 139.53
+KillAura RandomCenter true
 KillAura FOV 180.0
 LiquidWalk Type Spartan
 NoSlow Mode Spartan
