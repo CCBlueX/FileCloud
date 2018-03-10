@@ -39,6 +39,9 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 3.0
 KillAura TurnSpeed 25.0
+KillAura MaxTurnSpeed 30
+KillAura MinTurnSpeed 25
+KillAura RandomCenter true
 KillAura Predict true
 KillAura FOV 180.0
 NoFall Mode LAAC
