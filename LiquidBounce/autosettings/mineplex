@@ -35,6 +35,9 @@ Killaura Range 4.2
 Killaura TargetMode switch
 Killaura ThroughWalls true
 Killaura TurnSpeed 180
+KillAura MaxTurnSpeed 180
+KillAura MinTurnSpeed 180
+KillAura RandomCenter true
 Killaura AAC false
 KillAura RayCast false
 KillAura LivingRayCast true
