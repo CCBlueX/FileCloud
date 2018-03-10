@@ -49,7 +49,9 @@ KillAura LivingRayCast false
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
-KillAura TurnSpeed 180.0
+KillAura MaxTurnSpeed 180.0
+KillAura MinTurnSpeed 180.0
+KillAura RandomCenter true
 KillAura FOV 180.0
 NoSlow Sword NCP
 NoSlow Food NCP
