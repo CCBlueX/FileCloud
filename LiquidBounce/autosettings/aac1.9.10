@@ -53,6 +53,9 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 1.8
 KillAura TurnSpeed 131.2
+KillAura MaxTurnSpeed 141.2
+KillAura MinTurnSpeed 131.2
+KillAura RandomCenter true
 KillAura FOV 180.0
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
