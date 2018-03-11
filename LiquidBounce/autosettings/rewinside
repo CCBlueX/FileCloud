@@ -14,7 +14,7 @@ ChestStealer OnlyItems false
 ChestStealer NoCompass false
 Criticals Type Jump
 FastStairs Mode NCP
-Fly Mode Rewinside
+Fly Mode TeleportRewinside
 Fucker Instant false
 Fucker ThroughWalls true
 Fucker Swing true
