@@ -50,7 +50,7 @@ KillAura MaxTurnSpeed 30
 KillAura MinTurnSpeed 20
 KillAura RandomCenter true
 KillAura Predict true
-KillAura NoInvAttack false
+KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FOV 180.0
 LongJump NoCheat AACv3
@@ -69,7 +69,7 @@ Scaffold Swing true
 Scaffold KeepRotation true
 Scaffold Zitter true
 Scaffold ZitterMode Smooth
-Speed Type AAC7BHop
+Speed Type AAC6BHop
 Step Mode AAC_334
 Tower Type Jump
 Tower AutoBlock true
