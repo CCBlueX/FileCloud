@@ -35,7 +35,7 @@ KillAura HurtTime 7
 KillAura Range 4.6
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
-KillAura TargetMode Switch
+KillAura TargetMode Single
 KillAura MultiMode Vanilla
 KillAura ThroughWalls false
 KillAura Swing true
