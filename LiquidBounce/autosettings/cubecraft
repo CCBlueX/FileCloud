@@ -39,10 +39,10 @@ KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Switch
 KillAura MultiMode NCP
-KillAura ThroughWalls true
+KillAura ThroughWalls false
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast false
@@ -59,7 +59,7 @@ NoSlow Bow NCP
 Scaffold Type Normal
 Scaffold Sprint false
 Scaffold Eagle false
-Scaffold Delay 233
+Scaffold Delay 300
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation true
@@ -77,5 +77,5 @@ Step Height 3
 #toggles
 AntiBot toggle true
 PingSpoof toggle false
-NoSlow toggle true
+NoSlow toggle false
 FastUse toggle false
