@@ -61,7 +61,7 @@ Scaffold Sprint false
 Scaffold Eagle false
 Scaffold Delay 233
 Scaffold AutoBlock true
-Scaffold StayAutoBlock false
+Scaffold StayAutoBlock true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Speed Type NCPHop
