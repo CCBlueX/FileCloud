@@ -46,7 +46,7 @@ KillAura Predict true
 KillAura FOV 180.0
 NoFall Mode LAAC
 NoSlow Sword AAC
-NoSlow Food AAC
+NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
 Scaffold Type AAC
