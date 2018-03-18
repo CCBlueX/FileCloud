@@ -76,6 +76,7 @@ KillAura NoInvAttack false
 KillAura FailRate 0.0
 KillAura TargetMode Multi
 KillAura TurnSpeed 180.0
+KillAura BlockRate 100
 LegitAura Range 4.2
 LegitAura TurnSpeed 9.0
 LegitAura MaxCPS 9

@@ -14,6 +14,7 @@ killaura Priority health
 killaura Range 4.1
 killaura TargetMode single
 killaura ThroughWalls false
+KillAura BlockRate 100
 Step Mode AAC
 timer Speed 1.1
 tower Type packet

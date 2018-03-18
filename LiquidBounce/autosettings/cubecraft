@@ -53,6 +53,7 @@ KillAura MaxTurnSpeed 180.0
 KillAura MinTurnSpeed 180.0
 KillAura RandomCenter true
 KillAura FOV 180.0
+KillAura BlockRate 100
 NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP

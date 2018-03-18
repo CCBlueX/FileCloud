@@ -62,6 +62,7 @@ KillAura MinTurnSpeed 40
 KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura FakeSharp true
+KillAura BlockRate 100
 LegitAura MaxCPS 17
 LegitAura MinCPS 14
 LegitAura Range 3.7

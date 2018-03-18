@@ -31,6 +31,7 @@ KillAura NoInvAttack false
 KillAura FailRate 3.2
 KillAura TargetMode Single
 KillAura TurnSpeed 180.0
+KillAura BlockRate 100
 LiquidWalk Type NCP
 Scaffold AutoBlock true
 Scaffold Swing true

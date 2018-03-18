@@ -44,6 +44,7 @@ KillAura MinTurnSpeed 25
 KillAura RandomCenter true
 KillAura Predict true
 KillAura FOV 180.0
+KillAura BlockRate 35
 NoFall Mode LAAC
 NoSlow Sword AAC
 NoSlow Consume AAC

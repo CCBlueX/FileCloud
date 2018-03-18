@@ -57,6 +57,7 @@ KillAura MaxTurnSpeed 141.2
 KillAura MinTurnSpeed 131.2
 KillAura RandomCenter true
 KillAura FOV 180.0
+KillAura BlockRate 100
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
 NoFall Mode SpoofGround

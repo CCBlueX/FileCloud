@@ -43,6 +43,7 @@ KillAura RayCast false
 KillAura LivingRayCast true
 KillAura HurtTime 10
 KillAura AutoBlock true
+KillAura BlockRate 100
 LongJump NCPBoost 4.45
 LongJump NoCheat ncp
 PingSpoof toggle true

@@ -37,6 +37,7 @@ KillAura MaxTurnSpeed 149.53
 KillAura MinTurnSpeed 139.53
 KillAura RandomCenter true
 KillAura FOV 180.0
+KillAura BlockRate 100
 LiquidWalk Type Spartan
 NoSlow Mode Spartan
 Scaffold Type AAC

@@ -45,6 +45,7 @@ KillAura NoInvAttack true
 KillAura FailRate 0.0
 KillAura TargetMode Multi
 KillAura TurnSpeed 180.0
+KillAura BlockRate 100
 LiquidWalk Type AAC
 NoFall AAC true
 NoWeb Mode AAC

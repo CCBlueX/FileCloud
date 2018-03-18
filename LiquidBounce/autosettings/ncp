@@ -40,6 +40,7 @@ KillAura FOV 180.0
 KillAura MaxTurnSpeed 180
 KillAura MinTurnSpeed 180
 KillAura RandomCenter false
+KillAura BlockRate 100
 LiquidWalk Type NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 3
