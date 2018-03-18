@@ -58,6 +58,7 @@ LongJump NoCheat AACv3
 NoSlow Sword AAC
 NoSlow Consume AAC
 NoSlow Bow AAC
+NoSlow Soulsand false
 NoWeb Mode AAC
 Scaffold Type Normal
 Scaffold Sprint false
