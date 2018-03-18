@@ -54,7 +54,7 @@ KillAura MinTurnSpeed 180.0
 KillAura RandomCenter true
 KillAura FOV 180.0
 NoSlow Sword NCP
-NoSlow Food NCP
+NoSlow Consume NCP
 NoSlow Bow NCP
 Scaffold Type Normal
 Scaffold Sprint false
