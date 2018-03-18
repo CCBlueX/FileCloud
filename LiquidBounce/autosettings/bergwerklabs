@@ -44,7 +44,7 @@ LiquidWalk Type NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 3
 NoSlow Sword NCP
-NoSlow Food NCP
+NoSlow Consume NCP
 NoSlow Bow NCP
 NoWeb Mode NCP
 Scaffold Type Normal
