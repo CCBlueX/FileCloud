@@ -12,14 +12,13 @@
         }
     },
     "1": {
-        "Name": "Garkolym",
-        "TwitterName": "@Garkolym",
-        "TwitterURL": "https://twitter.com/Garkolym",
-        "YouTubeName": "Garkolym",
-        "YouTubeURL": "https://youtube.com/Garkolym", 
+        "Name": "TheSlowly",
+        "TwitterName": "@TheSlowlyDev",
+        "TwitterURL": "https://twitter.com/theslowlydev",
+        "YouTubeName": "TheSlowly",
+        "YouTubeURL": "https://www.youtube.com/channel/UCqvTVHKCihyyJlDC8Tfq1vw", 
         "Credits": {
-            "0": "Made HoloStand Open-Source.",
-            "1": "Made CommandSign Open-Source."
+            "0": "Made the ShaderESP"
         }
     },
     "2": {
@@ -40,7 +39,7 @@
         "YouTubeURL": "https://www.youtube.com/channel/UCtYz3npCasN6oMAWSX1_etQ",
         "Website": "https://jigsawclient.ml",
         "Credits": {
-            "0": "Helped us with XRay."
+            "0": "Helped us with a XRay Bug."
         }
     },
     "4": {
@@ -49,8 +48,8 @@
         "TwitterURL": "https://twitter.com/avenue_mag_meme",
         "Credits": {
             "0": "Shared his AAC 3.0.5 Fly bypass with us.",
-            "2": "Helped us with AAC3 LowHop.",
-            "1": "Shared his spider base with us."
+            "1": "Helped us with AAC3 LowHop.",
+            "2": "Shared his spider base with us."
         }
     },
     "5": {
@@ -102,7 +101,7 @@
         "TwitterName": "@DasC4nard",
         "TwitterURL": "https://twitter.com/DasC4nard",
         "Credits": {
-            "0": "Shared his AAC 3.2.1 WallSpeed Source with us."
+            "0": "Shared his AAC 3.2.1 WallSpeed with us."
         }
     },
     "11": {
@@ -120,7 +119,7 @@
         "YouTubeName": "KonvexArtz",
         "YouTubeURL": "https://www.youtube.com/DerFailer3000",
         "Credits": {
-            "0": "Shared his SpeedlyRewinsideScaffoldwalk with us."
+            "0": "Shared his SpeedlyRewinsideScaffoldwalk values with us."
         }   
     },
     "13": {
@@ -140,5 +139,15 @@
         "Credits": {
             "0": "Shared his RewinsideTeleport Fly."
         }
-    }
+    },
+    "15": {
+        "Name": "Garkolym",
+        "TwitterName": "@Garkolym",
+        "TwitterURL": "https://twitter.com/Garkolym",
+        "YouTubeName": "Garkolym",
+        "YouTubeURL": "https://youtube.com/Garkolym", 
+        "Credits": {
+            "0": "Made HoloStand Open-Source."
+        }
+    },
 }
