@@ -89,7 +89,7 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
-Fly Mode Hypixel
+Fly Mode OtherHypixel
 #toggles
 antibot toggle true
 velocity toggle true
