@@ -7,7 +7,7 @@
         "YouTubeURL": "https://youtube.com/MCmodding4K",
         "Website": "https://skillclient.com",
         "Credits": {
-            "0": "Shared his BungeeHack Source with us.",
+            "0": "Shared his BungeeHack with us.",
             "1": "Helped us with ClickGUI sliders."
         }
     },
@@ -79,7 +79,7 @@
         "Website": "http://hexeption.co.uk",
         "Credits": {
             "0": "Made his Outline Utils Open-Source.",
-            "1": "Helped us turning LiquidBounce into an injection client."
+            "1": "Helped us turning LiquidBounce into an forge injection client."
         }
     },
     "8": {
