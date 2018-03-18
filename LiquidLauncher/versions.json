@@ -118,6 +118,13 @@
             "liquidBounce": "http://dl.ccbluex.net/download/skip/index.php?target=TGlxdWlkQm91bmNlLzEuOC80NWduaGYvTGlxdWlkQm91bmNlMS44LjktYjQxLnppcA==",
             "liquidBounceHash": "41fe33d617b84a0de38387b22de2f5d1",
             "configFolder": "LiquidBounce-1.8"	
+	},
+	"b42": {
+	    "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
+            "liquidBounce": "http://dl.ccbluex.net/download/skip/index.php?target=TGlxdWlkQm91bmNlLzEuOC9sZWV0L0xpcXVpZEJvdW5jZTEuOC45LWI0Mi56aXA=",
+            "liquidBounceHash": "d81449a89b419f51b5fe5b6995e68583",
+            "configFolder": "LiquidBounce-1.8"	
 	}
     },"1.12.2": {
         "b1": {
