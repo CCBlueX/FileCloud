@@ -29,8 +29,8 @@ InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
-KillAura MaxCPS 15
-KillAura MinCPS 10
+KillAura MaxCPS 14
+KillAura MinCPS 9
 KillAura HurtTime 7
 KillAura Range 4.6
 KillAura RangeSprintReducement 0.4
@@ -40,7 +40,7 @@ KillAura MultiMode Vanilla
 KillAura ThroughWalls false
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura BlockRate 20
 KillAura AAC true
 KillAura RayCast true
@@ -55,7 +55,7 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FOV 180.0
 LongJump NoCheat AACv3
-NoSlow Sword Vanilla
+NoSlow Sword AAC
 NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
