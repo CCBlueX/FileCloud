@@ -63,7 +63,7 @@ LongJump NoCheat NCP
 LongJump NCPBoost 4.5
 NoFall Mode AAC
 NoSlow Sword NCP
-NoSlow Food NCP
+NoSlow Consume NCP
 NoSlow Bow NCP
 Scaffold Type Normal
 Scaffold Delay 0

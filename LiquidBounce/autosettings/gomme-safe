@@ -52,7 +52,7 @@ KillAura NoInvDelay 0
 KillAura FOV 180.0
 LongJump NoCheat AACv3
 NoSlow Sword AAC
-NoSlow Food AAC
+NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
 Scaffold Type Normal

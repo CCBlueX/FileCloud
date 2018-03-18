@@ -60,7 +60,7 @@ FastUse Mode Instant
 FastUse toggle true
 NoFall mode SpoofGround
 NoSlow Sword NCP
-NoSlow Food NCP
+NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow toggle true
 AutoSoup OpenInv false

@@ -58,7 +58,7 @@ KillAura FOV 180.0
 LiquidWalk Type AAC
 LongJump NoCheat AACv3
 NoSlow Sword AAC
-NoSlow Food AAC
+NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
 PingSpoof Delay 0

@@ -57,7 +57,7 @@ LiquidWalk Type NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 4.7
 NoSlow Sword NCP
-NoSlow Food NCP
+NoSlow Consume NCP
 NoSlow Bow NCP
 Phase Type Skip
 PingSpoof Delay 3500
