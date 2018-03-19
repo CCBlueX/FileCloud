@@ -40,8 +40,8 @@ KillAura MultiMode Vanilla
 KillAura ThroughWalls false
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
-KillAura BlockRate 20
+KillAura AutoBlock true
+KillAura BlockRate 10
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
@@ -55,7 +55,7 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FOV 180.0
 LongJump NoCheat AACv3
-NoSlow Sword AAC
+NoSlow Sword Vanilla
 NoSlow Consume AAC
 NoSlow Bow AAC
 NoSlow Soulsand false
