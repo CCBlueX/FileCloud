@@ -111,4 +111,5 @@ FastBreak toggle false
 CivBreak toggle false
 ReverseStep toggle false
 AntiCactus toggle true
+WaterSpeed toggle false
 targetDead true
