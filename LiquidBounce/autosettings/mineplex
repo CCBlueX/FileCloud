@@ -49,7 +49,7 @@ PingSpoof toggle true
 Scaffold Type Normal
 Scaffold Delay 0
 Scaffold AutoBlock true
-Speed Type Hive
+Speed Type AAC7BHop
 Step Mode Vanilla
 Tower Type Packet
 Tower AutoBlock true
