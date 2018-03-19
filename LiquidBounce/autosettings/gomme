@@ -29,10 +29,10 @@ InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
-KillAura MaxCPS 14
+KillAura MaxCPS 15
 KillAura MinCPS 9
 KillAura HurtTime 7
-KillAura Range 4
+KillAura Range 4.2
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
 KillAura TargetMode Switch
