@@ -68,3 +68,4 @@ Tower Swing true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
+FastClimb toggle false
