@@ -53,6 +53,8 @@ Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold KeepRotation false
+Scaffold Eagle false
+Scaffold Zitter false
 ServerCrasher Mode AACNew
 Speed Type NCPHop
 Sprint AllDirections true
