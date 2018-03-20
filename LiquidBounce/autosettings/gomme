@@ -18,7 +18,7 @@ ChestStealer TakeRandomized true
 Criticals Type Jump
 FastClimb Bypass LAAC
 FastUse Mode AAC
-Fly Mode AACv3
+Fly Mode AAC3.3.12
 Fucker Instant false
 Fucker ThroughWalls false
 Fucker Swing true
