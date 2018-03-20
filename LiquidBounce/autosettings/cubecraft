@@ -75,6 +75,7 @@ Fly Mode CubeCraft
 FastUse Mode NCP
 Step Mode NCP
 Step Height 3
+ServerCrasher Mode CubeCraft
 #toggles
 AntiBot toggle true
 PingSpoof toggle false
