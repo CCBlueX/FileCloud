@@ -66,9 +66,9 @@ Scaffold StayAutoBlock true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Speed Type NCPHop
-Tower Type FastMotion
+Tower Type Jump
 Tower AutoBlock true
-Velocity Horizontal 0
+Velocity Horizontal 0.1
 Velocity Vertical 0
 Velocity Mode Simple
 Fly Mode CubeCraft
