@@ -137,7 +137,7 @@
 	    "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
             "liquidBounce": "http://dl.ccbluex.net/download/skip/index.php?target=TGlxdWlkQm91bmNlLzEuOC9md2VpZm53ZS9MaXF1aWRCb3VuY2UxLjguOS1iNDQuemlw",
-            "liquidBounceHash": "97aea01a4c61970b0b3431c80ecb58f4",
+            "liquidBounceHash": "ef94fa6f949a33ca8cc8b9d7f9761387",
             "configFolder": "LiquidBounce-1.8"	
 	}
     },"1.12.2": {
