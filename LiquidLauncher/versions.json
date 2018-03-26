@@ -144,14 +144,14 @@
         "b1": {
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.0.2542/forge-1.12.2-14.23.0.2542-universal.jar",
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
-            "liquidBounce": "http://ad.liquidbounce.net/Z",
+            "liquidBounce": "dl.ccbluex.net/download/skip/index.php?target=TGlxdWlkQm91bmNlLzEuMTIuMi81ZjRoNnNkZmg0c2Q2L0xpcXVpZEJvdW5jZTEuMTIuMiAtIGIxLnppcA==",
             "liquidBounceHash": "408fcd8029ef1469b583ace453602187",
             "configFolder": "LiquidBounce-1.12.2"
         },
     	"b2": {
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.0.2542/forge-1.12.2-14.23.0.2542-universal.jar",
             "optifine": "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar",
-            "liquidBounce": "http://ad.liquidbounce.net/a",
+            "liquidBounce": "dl.ccbluex.net/download/skip/index.php?target=TGlxdWlkQm91bmNlLzEuMTIuMi8xZjRnajU1Ni9MaXF1aWRCb3VuY2UxLjEyLjIgLSBiMi56aXA=",
             "liquidBounceHash": "82223cd96b57f450181de644ecf2e8c5",
             "configFolder": "LiquidBounce-1.12.2"
         }
