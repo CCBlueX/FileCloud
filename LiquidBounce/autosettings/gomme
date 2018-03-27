@@ -63,13 +63,13 @@ NoWeb Mode AAC
 Scaffold Type Normal
 Scaffold Sprint false
 Scaffold Eagle true
-Scaffold BlocksToEagle 1
-Scaffold Delay 300
+Scaffold BlocksToEagle 0
+Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold KeepRotation true
-Scaffold Zitter true
+Scaffold Zitter false
 Scaffold ZitterMode Smooth
 Speed Type AAC6BHop
 Step Mode AAC_334
