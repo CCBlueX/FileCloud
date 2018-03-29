@@ -65,8 +65,8 @@ Scaffold Sprint false
 Scaffold Eagle true
 Scaffold BlocksToEagle 0
 Scaffold Delay 0
-Scaffold AutoBlock true
-Scaffold StayAutoBlock true
+Scaffold AutoBlock false
+Scaffold StayAutoBlock false
 Scaffold Swing true
 Scaffold KeepRotation true
 Scaffold Zitter false
@@ -74,8 +74,8 @@ Scaffold ZitterMode Smooth
 Speed Type AAC6BHop
 Step Mode AAC_334
 Tower Type Jump
-Tower AutoBlock true
-Tower StayAutoBlock true
+Tower AutoBlock false
+Tower StayAutoBlock false
 Trigger MaxCPS 12
 Trigger MinCPS 8
 Velocity Horizontal 0.4
