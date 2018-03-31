@@ -76,7 +76,7 @@ Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Scaffold Zitter false
-Speed Type HypixelLowHop
+Speed Type SlowHop
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
