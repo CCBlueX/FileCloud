@@ -59,9 +59,9 @@ Velocity Mode simple
 FastUse Mode Instant
 FastUse toggle true
 NoFall mode SpoofGround
-NoSlow Sword NCP
-NoSlow Consume NCP
-NoSlow Bow NCP
+NoSlow Sword Vanilla
+NoSlow Consume AAC
+NoSlow Bow AAC
 NoSlow toggle true
 AutoSoup OpenInv false
 AutoPot OpenInv false
