@@ -63,7 +63,7 @@ LiquidWalk Type NCP
 LongJump NoCheat NCP
 LongJump NCPBoost 4.5
 NoFall Mode AAC
-NoSlow Sword NCP
+NoSlow Sword Off
 NoSlow Consume NCP
 NoSlow Bow NCP
 Scaffold Type Normal
@@ -93,7 +93,6 @@ Fly Mode OtherHypixel
 #toggles
 antibot toggle true
 velocity toggle true
-noslow toggle false
 pingspoof toggle false
 FastClimb toggle false
 FastUse toggle false
