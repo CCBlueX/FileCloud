@@ -1,8 +1,6 @@
 {
   "appID":"429906428992552960",
   "assets": {
-    "logo": {
-      "assetName":"liquidbounce"
-    }
+    "logo":"liquidbounce"
   }
 }
