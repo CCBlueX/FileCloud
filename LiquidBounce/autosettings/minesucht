@@ -37,6 +37,7 @@ KillAura MaxCPS 13
 KillAura MinCPS 10
 KillAura HurtTime 10
 KillAura Range 4.57
+KillAura BlockRate 100
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
 KillAura TargetMode Switch
