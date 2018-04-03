@@ -33,7 +33,7 @@ InventoryMove NoMoveClicks false
 KillAura MaxCPS 15
 KillAura MinCPS 9
 KillAura HurtTime 7
-KillAura Range 4.2
+KillAura Range 4.75
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
 KillAura TargetMode Switch
