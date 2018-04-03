@@ -93,6 +93,7 @@ Velocity ReverseStrength 1.0
 Fly Mode OtherHypixel
 Sprint AllDirections true
 Sprint CheckServerSide false
+Timer Speed 1.2
 #toggles
 antibot toggle true
 velocity toggle true
