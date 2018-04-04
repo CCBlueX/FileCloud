@@ -44,7 +44,7 @@ KillAura LivingRayCast true
 KillAura HurtTime 10
 KillAura AutoBlock true
 KillAura BlockRate 100
-LongJump NoCheat Mineplex
+LongJump NoCheat Mineplex2
 PingSpoof toggle true
 Scaffold Type Normal
 Scaffold Delay 0
