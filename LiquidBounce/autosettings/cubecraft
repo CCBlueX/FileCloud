@@ -17,7 +17,7 @@ AntiBot InvaildGround false
 AutoArmor MaxDelay 150
 AutoArmor MinDelay 75
 AutoArmor InvOpen false
-AutoArmor SimulateInventory false
+AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoLeave Health 8.0
 AutoLeave Mode Quit
