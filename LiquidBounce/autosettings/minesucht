@@ -99,3 +99,4 @@ pingspoof toggle false
 FastClimb toggle true
 NoSlow toggle true
 AntiBot toggle false
+targetDead true
