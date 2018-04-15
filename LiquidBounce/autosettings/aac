@@ -1,4 +1,4 @@
-#autosettings for aac
+# AutoSettings for Advanced Anti Cheat
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 75
 AutoArmor InvOpen true
@@ -50,8 +50,13 @@ NoSlow Sword AAC
 NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
-Scaffold Type AAC
+Scaffold Type Normal
+Scaffold Sprint false
 Scaffold Delay 0
+Scaffold MaxDelay 0
+Scaffold MinDelay 0
+Scaffold PlaceableDelay false
+Scaffold Boost 0.179
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false

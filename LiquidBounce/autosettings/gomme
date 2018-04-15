@@ -66,6 +66,10 @@ Scaffold Sprint false
 Scaffold Eagle true
 Scaffold BlocksToEagle 0
 Scaffold Delay 0
+Scaffold MinDelay 50
+Scaffold MaxDelay 100
+Scaffold PlaceableDelay true
+Scaffold Boost 0.179
 Scaffold AutoBlock false
 Scaffold StayAutoBlock false
 Scaffold Swing true

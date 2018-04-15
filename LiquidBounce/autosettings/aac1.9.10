@@ -1,4 +1,4 @@
-#autosettings for aac 1.9.10
+# AutoSettings for Advanced Anti Cheat 1.9.10
 AntiBot Tab false
 AntiBot TabMode Contains
 AntiBot EntityID true
@@ -65,12 +65,17 @@ NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoWeb Mode AAC
-Scaffold Type AAC
-Scaffold Delay 300
+Scaffold Type Expand
+Scaffold Delay 200
+Scaffold MaxDelay 300
+Scaffold MinDelay 100
+Scaffold PlaceableDelay false
 Scaffold AutoBlock false
 Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
+Scaffold Sprint true
+Scaffold Boost 0
 Speed Type OldAACBHop
 Sprint AllDirections true
 Step Mode LAAC

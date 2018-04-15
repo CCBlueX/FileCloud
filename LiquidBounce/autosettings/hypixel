@@ -69,6 +69,8 @@ NoSlow Consume NCP
 NoSlow Bow NCP
 Scaffold Type Normal
 Scaffold Delay 0
+Scaffold MinDelay 0
+Scaffold MaxDelay 0
 Scaffold Sprint true
 Scaffold Eagle false
 Scaffold AutoBlock true
@@ -77,6 +79,7 @@ Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Scaffold Zitter false
+Scaffold Boost 0
 Speed Type SlowHop
 Step Mode NCP
 Step Height 1.0

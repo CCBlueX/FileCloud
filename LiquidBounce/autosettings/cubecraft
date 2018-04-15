@@ -67,8 +67,11 @@ LongJump NoCheat NCP
 LongJump NCPBoost 3.0
 Scaffold Type Normal
 Scaffold Delay 300
+Scaffold MaxDelay 300
+Scaffold MinDelay 250
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
+Scaffold PlaceableDelay false
 Scaffold Sprint false
 Scaffold Eagle true
 Scaffold BlocksToEagle 1
@@ -78,6 +81,7 @@ Scaffold Zitter false
 Scaffold ZitterMode Smooth
 Scaffold ZitterSpeed 0.13
 Scaffold ZitterStrength 0.072
+Scaffold Boost 0
 ServerCrasher Mode CubeCraft
 Speed Type NCPHop
 Sprint AllDirections true
