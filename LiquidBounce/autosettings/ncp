@@ -1,4 +1,4 @@
-#autosettings for ncp
+# AutoSettings for NoCheatPlus
 AutoArmor MaxDelay 100
 AutoArmor 75 100
 AutoArmor InvOpen false
@@ -68,4 +68,7 @@ Tower Swing true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
+AutoSoup OpenInv false
+AutoPot OpenInv false
 FastClimb toggle false
+AntiBot toggle false
