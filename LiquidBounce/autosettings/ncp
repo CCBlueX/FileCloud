@@ -55,6 +55,8 @@ Scaffold StayAutoBlock false
 Scaffold KeepRotation false
 Scaffold Eagle false
 Scaffold Zitter false
+Scaffold Timer 1
+Scaffold Boost 0
 ServerCrasher Mode AACNew
 Speed Type NCPHop
 Sprint AllDirections true
@@ -71,4 +73,6 @@ Velocity Mode Simple
 AutoSoup OpenInv false
 AutoPot OpenInv false
 FastClimb toggle false
+Zoot toggle false
+Regen toggle false
 AntiBot toggle false
