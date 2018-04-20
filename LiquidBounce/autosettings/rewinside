@@ -56,7 +56,7 @@ NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoWeb Mode Rewi
-Scaffold Type SpeedyRewinside
+Scaffold Type Rewinside
 Scaffold Delay 0
 Scaffold Sprint true
 Scaffold Eagle false
@@ -66,7 +66,7 @@ Scaffold Swing true
 Scaffold KeepRotation false
 Scaffold Zitter false
 Sneak Mode Switch
-Speed Type AACPort
+Speed Type NCPHop
 Sprint AllDirections true
 Step Mode NCP
 Step Height 1.0
