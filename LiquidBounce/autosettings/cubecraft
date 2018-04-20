@@ -102,3 +102,4 @@ AntiBot toggle true
 PingSpoof toggle false
 NoSlow toggle false
 FastUse toggle false
+SuperKnockback toggle false
