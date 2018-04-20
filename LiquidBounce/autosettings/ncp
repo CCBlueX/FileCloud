@@ -1,6 +1,7 @@
 # AutoSettings for NoCheatPlus
 AutoArmor MaxDelay 100
-AutoArmor 75 100
+AutoArmor MinDelay 75
+AutoArmor ItemDelay 0
 AutoArmor InvOpen false
 AutoArmor SimulateInventory false
 AutoArmor NoMove false
