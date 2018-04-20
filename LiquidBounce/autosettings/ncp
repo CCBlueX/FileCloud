@@ -76,3 +76,5 @@ FastClimb toggle false
 Zoot toggle false
 Regen toggle false
 AntiBot toggle false
+NoSlow toggle true
+SuperKnockback toggle true
