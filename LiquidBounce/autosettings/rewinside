@@ -96,7 +96,7 @@ AntiBot NeedHit false
 AntiBot InvaildGround false
 AntiBot Air false
 Tower Type FastMotion2
-LongJump Mode NCP
+LongJump NoCheat NCP
 LongJump NCPBoost 3
 targetDead false
 # Toggles
