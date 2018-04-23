@@ -73,6 +73,7 @@ Scaffold Timer 1
 Sneak Mode Switch
 Speed Type NCPHop
 Sprint AllDirections true
+Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
@@ -95,7 +96,7 @@ AntiBot NeedHit false
 AntiBot InvaildGround false
 AntiBot Air false
 Tower Type FastMotion2
-LongJump Type NCP
+LongJump Mode NCP
 LongJump NCPBoost 3
 targetDead false
 # Toggles
