@@ -65,6 +65,7 @@ Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold KeepRotation false
 Scaffold Zitter false
+Scaffold Timer 1.4
 Sneak Mode Switch
 Speed Type NCPHop
 Sprint AllDirections true
