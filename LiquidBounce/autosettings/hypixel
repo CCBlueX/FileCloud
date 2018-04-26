@@ -105,3 +105,4 @@ Velocity Reverse2Strength 0.05
 #toggles
 AntiBot toggle true
 Velocity toggle true
+NoSlow toggle false
