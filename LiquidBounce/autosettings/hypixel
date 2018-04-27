@@ -99,7 +99,7 @@ Tower AutoBlock true
 Tower StayAutoBlock false
 Velocity Horizontal 0.01
 Velocity Vertical 0.0
-Velocity Mode Simple
+Velocity Mode Reverse2
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
 #toggles
