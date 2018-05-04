@@ -61,6 +61,7 @@ Scaffold Boost 0
 ServerCrasher Mode AACNew
 Speed Type NCPHop
 Sprint AllDirections true
+Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
