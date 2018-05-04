@@ -60,7 +60,7 @@ Scaffold Boost 0.179
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false
-Speed Type AAC4BHop
+Speed Type AAC7BHop
 Sprint AllDirections false
 Step Mode AAC_334
 Step Height 1.0
