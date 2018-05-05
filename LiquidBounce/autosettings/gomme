@@ -42,7 +42,7 @@ KillAura ThroughWalls false
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
-KillAura BlockRate 10
+KillAura BlockRate 40
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
