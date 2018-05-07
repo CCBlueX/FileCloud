@@ -49,7 +49,7 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint false
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura BlockRate 100
 KillAura AAC false
 KillAura RayCast false
@@ -76,7 +76,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Sprint true
+Scaffold Sprint false
 Scaffold Eagle false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
