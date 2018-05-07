@@ -102,7 +102,7 @@ Zoot Fire true
 Zoot NoAir true
 #toggles
 AntiBot toggle true
-NoSlow toggle true
+NoSlow toggle false
 Velocity toggle true
 #chat 
-chat Do not try to use Scaffold sidewards.
+chat Do not try to change direction while using Scaffold!
