@@ -99,3 +99,5 @@ Velocity Vertical 0.5
 Velocity Mode AAC
 Velocity ReverseStrength 0.5
 Velocity Reverse2Strength 0.05
+#toggles
+AntiBot toggle true
