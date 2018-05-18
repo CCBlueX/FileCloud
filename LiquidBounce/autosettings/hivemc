@@ -26,6 +26,7 @@ FastSlabs LongJump false
 FastStairs Mode AAC
 FastStairs LongJump false
 FastUse Mode AAC
+Fly Mode Hypixel
 HighJump Height 4.1
 HighJump Bypass Vanilla
 HighJump OnlyGlassPane true
