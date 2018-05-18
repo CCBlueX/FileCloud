@@ -86,6 +86,7 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold KeepRotation false
 Scaffold Boost 0
+Scaffold SpeedModifier 1
 SnowSpeed LayerSpeed 1.4
 Spammer Delay 60
 Speed Type AAC4BHop
