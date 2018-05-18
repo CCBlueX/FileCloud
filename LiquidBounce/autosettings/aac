@@ -57,6 +57,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold PlaceableDelay false
 Scaffold Boost 0.179
+Scaffold SpeedModifier 1.79
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false
