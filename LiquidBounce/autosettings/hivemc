@@ -7,6 +7,7 @@ AutoArmor SimulateInventory false
 AutoArmor NoMove false
 AutoClicker MaxCPS 16
 AutoClicker MinCPS 14
+BufferSpeed LimitSpeed true
 BufferSpeed MaxSpeed 2
 BufferSpeed Boost 0.1
 BufferSpeed Stairs true
