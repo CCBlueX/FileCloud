@@ -16,7 +16,7 @@ AntiBot Ping false
 AntiBot NeedHit false
 AutoArmor MaxDelay 200
 AutoArmor MinDelay 100
-AutoArmor InvOpen false
+AutoArmor InvOpen true
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 0
@@ -34,14 +34,14 @@ FastUse Mode NCP
 Fly Mode OtherHypixel
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner OpenInv false
+InventoryCleaner OpenInv true
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 7
-KillAura Range 4.44
+KillAura Range 4.2
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
 KillAura TargetMode Switch
@@ -76,7 +76,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Sprint true
+Scaffold Sprint false
 Scaffold Eagle false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
