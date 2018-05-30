@@ -1,6 +1,0 @@
-# AutoSettings for BergkwerkLabs
-load ncp
-Scaffold Delay 300
-Scaffold MaxDelay 300
-Scaffold MinDelay 300
-Speed Type NCPBHop
