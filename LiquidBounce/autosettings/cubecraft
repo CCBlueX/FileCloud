@@ -73,8 +73,8 @@ NoSlow Soulsand false
 Scaffold Type Expand
 Scaffold MaxDelay 129
 Scaffold MinDelay 129
-Scaffold AutoBlock true
-Scaffold StayAutoBlock true
+Scaffold AutoBlock false
+Scaffold StayAutoBlock false
 Scaffold Sprint false
 Scaffold Eagle false
 Scaffold PlaceableDelay false
