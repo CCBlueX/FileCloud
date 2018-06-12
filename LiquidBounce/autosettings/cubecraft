@@ -1,4 +1,4 @@
-#autosettings for cubecraft.net (by scorpion3013)
+#autosettings for cubecraft.net
 AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot EntityID false
@@ -16,26 +16,19 @@ AntiBot Ping false
 AntiBot NeedHit false
 AutoArmor MaxDelay 150
 AutoArmor MinDelay 75
-AutoArmor InvOpen true
+AutoArmor InvOpen false
 AutoArmor SimulateInventory false
 AutoArmor NoMove false
-AutoArmor ItemDelay 1428
+AutoArmor ItemDelay 0
 AutoArmor Hotbar true
-ChestAura Delay 500
-ChestAura ThroughWalls false
-ChestAura VisualSwing true
-ChestAura Chest 54
-ChestStealer MaxDelay 170
+ChestStealer MaxDelay 120
 ChestStealer MinDelay 50
-ChestStealer TakeRandomized false
-ChestStealer OnlyItems false
-ChestStealer NoCompass true
-FastUse Mode NCP
+ChestStealer TakeRandomized true
 Fly Mode CubeCraft2
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner OpenInv true
-InventoryCleaner RandomSlot false
+InventoryCleaner OpenInv false
+InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 12
@@ -61,6 +54,7 @@ KillAura NoInvDelay 200
 KillAura FailRate 0.0
 KillAura MaxTurnSpeed 150.0
 KillAura MinTurnSpeed 150.0
+KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura FOV 180.0
 LiquidWalk Type NCP
@@ -70,12 +64,14 @@ NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
+NoSlow CustomReducement 0.6
 Scaffold Type Expand
 Scaffold MaxDelay 129
 Scaffold MinDelay 129
 Scaffold AutoBlock false
 Scaffold StayAutoBlock false
 Scaffold Sprint false
+Scaffold Swing true
 Scaffold Eagle false
 Scaffold PlaceableDelay false
 Scaffold BlocksToEagle 1
@@ -86,23 +82,25 @@ Scaffold ZitterMode Smooth
 Scaffold ZitterSpeed 0.13
 Scaffold ZitterStrength 0.072
 Scaffold Timer 1.1
-Scaffold Boost 0.0
+Scaffold SpeedModifier 1.0
+Scaffold Counter true
 Speed Type NCPHop
 Step Mode NCP
 Step Height 3.0
 Step Delay 119
-Tower Type Jump
-Tower AutoBlock true
-Tower StayAutoBlock true
+Teams ScoreboardTeam true
+Teams Color true
+Tower Type Motion
+Tower AutoBlock false
+Tower StayAutoBlock false
+Tower Swing true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-Zoot BadEffects true
-Zoot Fire true
-Zoot NoAir true
-#toggles
+Velocity ReverseStrength 1.0
+Velocity Reverse2Strength 0.05
+ätoggles
 AntiBot toggle true
-NoSlow toggle false
+NoSlow toggle true
 Velocity toggle true
-#chat 
-chat Do not try to change direction while using Scaffold!
+Criticals toggle false
