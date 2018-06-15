@@ -68,8 +68,8 @@ NoSlow CustomReducement 0.6
 Scaffold Type Expand
 Scaffold MaxDelay 129
 Scaffold MinDelay 129
-Scaffold AutoBlock false
-Scaffold StayAutoBlock false
+Scaffold AutoBlock true
+Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing true
 Scaffold Eagle false
