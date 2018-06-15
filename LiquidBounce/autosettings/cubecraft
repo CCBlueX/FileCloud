@@ -16,10 +16,10 @@ AntiBot Ping false
 AntiBot NeedHit false
 AutoArmor MaxDelay 150
 AutoArmor MinDelay 75
-AutoArmor InvOpen false
-AutoArmor SimulateInventory false
+AutoArmor InvOpen true
+AutoArmor SimulateInventory true
 AutoArmor NoMove false
-AutoArmor ItemDelay 0
+AutoArmor ItemDelay 300
 AutoArmor Hotbar true
 ChestStealer MaxDelay 120
 ChestStealer MinDelay 50
@@ -27,7 +27,7 @@ ChestStealer TakeRandomized true
 Fly Mode CubeCraft2
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner OpenInv false
+InventoryCleaner OpenInv true
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
