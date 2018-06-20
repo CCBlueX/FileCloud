@@ -78,7 +78,7 @@ Scaffold Swing true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold ZitterMode Smooth
-Speed Type AAC7BHop
+Speed Type AACLowHop3
 Step Mode AAC_334
 Tower Type Jump
 Tower AutoBlock false
