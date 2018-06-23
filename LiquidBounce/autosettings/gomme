@@ -63,7 +63,7 @@ NoSlow Soulsand false
 NoWeb Mode AAC
 Scaffold Type Normal
 Scaffold Sprint false
-Scaffold Eagle true
+Scaffold Eagle false
 Scaffold BlocksToEagle 0
 Scaffold Delay 0
 Scaffold MinDelay 20
