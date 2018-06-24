@@ -25,7 +25,7 @@ ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
-Criticals Type Hop
+Criticals Type HypixelPacket
 FastSlabs Boost 1.7
 FastSlabs LongJump false
 FastStairs Mode NCP
@@ -89,7 +89,7 @@ Scaffold ZitterStrength 0.072
 Scaffold Timer 1.0
 Scaffold Boost 0.0
 Scaffold SpeedModifier 1
-Speed Type SlowHop
+Speed Type HypixelBHop
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
