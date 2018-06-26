@@ -24,7 +24,7 @@ AutoArmor Hotbar true
 ChestStealer MaxDelay 120
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized true
-Fly Mode CubeCraft2
+Fly Mode NeruxVace
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
@@ -84,7 +84,7 @@ Scaffold ZitterStrength 0.072
 Scaffold Timer 1.1
 Scaffold SpeedModifier 1.0
 Scaffold Counter true
-Speed Type SlowHop
+Speed Type HypixelBHop
 Step Mode NCP
 Step Height 3.0
 Step Delay 119
@@ -99,7 +99,7 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
-ätoggles
+# toggles
 AntiBot toggle true
 NoSlow toggle true
 Velocity toggle true
