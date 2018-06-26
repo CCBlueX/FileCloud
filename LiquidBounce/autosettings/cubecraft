@@ -99,8 +99,8 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
+Criticals Type NoGround
 # toggles
 AntiBot toggle true
 NoSlow toggle true
 Velocity toggle true
-Criticals toggle false
