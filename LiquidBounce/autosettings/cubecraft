@@ -84,7 +84,7 @@ Scaffold ZitterStrength 0.072
 Scaffold Timer 1.1
 Scaffold SpeedModifier 1.0
 Scaffold Counter true
-Speed Type HypixelBHop
+Speed Type SlowHop
 Step Mode NCP
 Step Height 3.0
 Step Delay 119
