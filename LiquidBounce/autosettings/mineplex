@@ -25,6 +25,7 @@ ChestStealer TakeRandomized false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 Criticals Type Packet
+Criticals Delay 250
 Criticals toggle true
 Fly Mode Mineplex
 Killaura FailRate 0
