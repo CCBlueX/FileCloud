@@ -31,7 +31,8 @@ FastSlabs LongJump false
 FastStairs Mode NCP
 FastStairs LongJump false
 FastUse Mode NCP
-Fly Mode OtherHypixel
+# Fly Mode OtherHypixel // Just to prevent autobans
+Fly Mode Vanilla
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
