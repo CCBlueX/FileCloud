@@ -25,6 +25,7 @@ ChestStealer MaxDelay 120
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized true
 Fly Mode NeruxVace
+Fly NeruxVace-Ticks 4
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
