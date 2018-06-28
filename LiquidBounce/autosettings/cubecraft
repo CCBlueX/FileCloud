@@ -83,8 +83,7 @@ Scaffold ZitterMode Smooth
 Scaffold ZitterSpeed 0.13
 Scaffold ZitterStrength 0.072
 Scaffold Timer 1.1
-Scaffold SpeedModifier 1.0
-Scaffold Counter true
+Scaffold SpeedModifier 2
 Speed Type SlowHop
 Step Mode NCP
 Step Height 3.0
