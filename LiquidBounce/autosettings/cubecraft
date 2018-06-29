@@ -106,3 +106,4 @@ NoFall Mode SpoofGround
 AntiBot toggle true
 NoSlow toggle true
 Velocity toggle true
+FastClimb toggle true
