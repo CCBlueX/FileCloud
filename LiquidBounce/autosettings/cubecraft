@@ -100,7 +100,7 @@ Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
 Criticals Type NoGround
-FastClimb Baypass Normal
+FastClimb Bypass Normal
 NoFall Mode SpoofGround
 # toggles
 AntiBot toggle true
