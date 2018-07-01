@@ -1,7 +1,6 @@
 {
    "serviceType":"list",
    "api": {
-      "status":false,
       "url":"http://capesapi.com/api/v1/%s/getCape"
    },
    "users": {
