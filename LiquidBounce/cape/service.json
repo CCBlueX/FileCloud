@@ -1,0 +1,9 @@
+{
+   "api": {
+      "status":false,
+      "url":"http://capesapi.com/api/v1/%s/getCape"
+   },
+   "users": {
+      "f7ce7960f7b948e282797f468f321c08":"https://img.ccbluex.net/moc/libraryforge-developer-capes-hd-cape-support-minecraft.png"
+   }
+}
