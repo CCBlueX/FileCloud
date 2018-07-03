@@ -4,6 +4,7 @@
       "url":"http://capesapi.com/api/v1/%s/getCape"
    },
    "users": {
-      "f7ce7960f7b948e282797f468f321c08":"http://dl.ccbluex.net/download/img/capes/developer.png"
+      "f7ce7960f7b948e282797f468f321c08":"http://dl.ccbluex.net/download/img/capes/developer.png",
+      "41a1ac30648e453a9e1b5370e9a40e62":"https://img.liquidbounce.net/uxc/donator-cape.png"
    }
 }
