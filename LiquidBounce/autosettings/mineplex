@@ -66,3 +66,4 @@ NoSlow Bow AAC
 NoSlow toggle true
 AutoSoup OpenInv false
 AutoPot OpenInv false
+targetDead true
