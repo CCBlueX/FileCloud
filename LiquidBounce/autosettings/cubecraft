@@ -34,7 +34,7 @@ InventoryMove NoMoveClicks false
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 10
-KillAura Range 4
+KillAura Range 5
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Switch
@@ -65,6 +65,7 @@ NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
+PingSpoof Delay 2000
 Scaffold Type Expand
 Scaffold MaxDelay 129
 Scaffold MinDelay 129
@@ -105,4 +106,4 @@ NoFall Mode SpoofGround
 AntiBot toggle true
 NoSlow toggle true
 Velocity toggle true
-FastClimb toggle true
+Pingspoof toggle true
