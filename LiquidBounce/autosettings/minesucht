@@ -82,7 +82,7 @@ Speed Type AAC7BHop
 Step Mode LAAC
 Teams ScoreboardTeam true
 Teams Color true
-Tower Type Motion
+Tower Type LAAC
 Tower AutoBlock true
 Tower StayAutoBlock true
 Trigger MaxCPS 10
