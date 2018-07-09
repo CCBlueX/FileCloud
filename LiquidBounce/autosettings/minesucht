@@ -77,8 +77,6 @@ Scaffold Delay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false
-Scaffold Zitter true
-Scaffold ZitterMode Smooth
 Spammer Delay 40
 Speed Type AAC4BHop
 Step Mode LAAC
