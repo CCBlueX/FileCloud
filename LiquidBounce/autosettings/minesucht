@@ -78,11 +78,10 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false
 Spammer Delay 40
-Speed Type AAC4BHop
+Speed Type AAC7BHop
 Step Mode LAAC
 Teams ScoreboardTeam true
 Teams Color true
-Timer Speed 1.1
 Tower Type Jump
 Tower AutoBlock true
 Tower StayAutoBlock true
