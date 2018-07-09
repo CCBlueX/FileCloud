@@ -97,7 +97,7 @@ NoRotateSet toggle false
 Nofall toggle false
 regen toggle false
 pingspoof toggle false
-FastClimb toggle true
+FastClimb toggle false
 NoSlow toggle true
 AntiBot toggle false
 targetDead true
