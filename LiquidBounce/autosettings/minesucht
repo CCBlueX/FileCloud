@@ -82,12 +82,14 @@ Speed Type AAC7BHop
 Step Mode LAAC
 Teams ScoreboardTeam true
 Teams Color true
-Tower Type Jump
+Tower Type Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
 Trigger MaxCPS 10
 Trigger MinCPS 8
-Velocity Mode Reverse2
+Velocity Mode Simple
+Velocity Horizontal 0.4
+Velocity Vertical 0.4
 Sprint AllDirections false
 Teleport type minesucht
 # Toggles
