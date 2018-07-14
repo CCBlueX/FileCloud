@@ -53,7 +53,7 @@ Scaffold Type Normal
 Scaffold Delay 0
 Scaffold AutoBlock true
 Speed Type AAC7BHop
-Step Mode Vanilla
+Step Mode NCP
 Tower Type Packet
 Tower AutoBlock true
 Velocity Horizontal 0
