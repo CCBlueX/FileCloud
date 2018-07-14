@@ -31,8 +31,7 @@ FastSlabs LongJump false
 FastStairs Mode NCP
 FastStairs LongJump false
 FastUse Mode NCP
-# Fly Mode OtherHypixel
-Fly Mode Vanilla
+Fly Mode LatestHypixel
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
 InventoryCleaner OpenInv true
