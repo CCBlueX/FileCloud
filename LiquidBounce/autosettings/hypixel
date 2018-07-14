@@ -25,7 +25,6 @@ ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
-Criticals Type HypixelPacket
 FastSlabs Boost 1.7
 FastSlabs LongJump false
 FastStairs Mode NCP
@@ -108,8 +107,7 @@ Sprint AllDirections true
 #toggles
 AntiBot toggle true
 Velocity toggle true
-NoSlow toggle false
-# I need to check if criticals hypixel autoban
+NoSlow toggle true
 Criticals toggle false
 FastClimb toggle false
 Step toggle true
