@@ -109,3 +109,7 @@ Sprint AllDirections true
 AntiBot toggle true
 Velocity toggle true
 NoSlow toggle false
+Criticals toggle true
+FastClimb toggle false
+Step toggle true
+FastUse toggle false
