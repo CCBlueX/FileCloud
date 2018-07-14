@@ -64,7 +64,7 @@ KillAura MinTurnSpeed 180.0
 KillAura RandomCenter false
 KillAura FOV 180.0
 LiquidWalk Type NCP
-LongJump NoCheat NCP
+LongJump Mode NCP
 LongJump NCPBoost 4.5
 NoSlow Sword NCP
 NoSlow Consume NCP
