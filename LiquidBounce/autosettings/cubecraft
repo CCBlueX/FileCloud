@@ -58,7 +58,7 @@ KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura FOV 180.0
 LiquidWalk Type NCP
-LongJump ModeP
+LongJump Mode NCP
 LongJump NCPBoost 3.0
 NoSlow Sword NCP
 NoSlow Consume NCP
