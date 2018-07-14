@@ -66,7 +66,7 @@ KillAura FOV 180.0
 LiquidWalk Type NCP
 LongJump Mode NCP
 LongJump NCPBoost 4.5
-NoSlow Sword NCP
+NoSlow Sword Off
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
