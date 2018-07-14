@@ -59,7 +59,7 @@ KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura BlockRate 100
 LiquidWalk Type AAC
-LongJump NoCheat AACv3
+LongJump Mode AACv3
 NoFall Mode SpoofGround
 NoSlow Sword NCP
 NoSlow Consume NCP

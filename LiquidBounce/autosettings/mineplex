@@ -45,7 +45,7 @@ KillAura LivingRayCast true
 KillAura HurtTime 10
 KillAura AutoBlock true
 KillAura BlockRate 100
-LongJump NoCheat Mineplex3
+LongJump Mode Mineplex3
 LongJump Mode Mineplex3
 HighJump Mode Mineplex
 PingSpoof toggle true

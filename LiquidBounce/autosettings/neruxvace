@@ -44,7 +44,7 @@ KillAura MaxTurnSpeed 180
 KillAura MinTurnSpeed 180
 KillAura RandomCenter false
 KillAura BlockRate 100
-LongJump NoCheat NCP
+LongJump Mode NCP
 LongJump NCPBoost 3
 NoSlow Sword NCP
 NoSlow Consume NCP

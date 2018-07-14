@@ -38,7 +38,7 @@ FastStairs LongJump false
 FastUse Mode AAC
 Fly Mode Hypixel
 HighJump Height 4.1
-HighJump Bypass Vanilla
+HighJump Mode Vanilla
 HighJump OnlyGlassPane true
 HitBox Size 0.4
 IceSpeed Type AAC
@@ -78,7 +78,7 @@ KillAura BlockRate 100
 LegitAura MaxCPS 17
 LegitAura MinCPS 14
 LegitAura Range 3.7
-LongJump NoCheat AACv3
+LongJump Mode AACv3
 NoFall Mode AAC
 NoSlow Sword Vanilla
 NoSlow Consume AAC

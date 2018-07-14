@@ -55,7 +55,7 @@ KillAura Predict true
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FOV 180.0
-LongJump NoCheat AACv3
+LongJump Mode AACv3
 NoSlow Sword Vanilla
 NoSlow Consume AAC
 NoSlow Bow AAC

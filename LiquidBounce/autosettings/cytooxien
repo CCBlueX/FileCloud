@@ -65,7 +65,7 @@ KillAura FailRate 0.0
 KillAura TurnSpeed 180
 KillAura FOV 180.0
 LiquidWalk Type NCP
-LongJump NoCheat NCP
+LongJump Mode NCP
 LongJump NCPBoost 4.7
 NoSlow Mode NCP
 Phase Type Skip

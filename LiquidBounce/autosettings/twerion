@@ -48,7 +48,7 @@ Fucker Surroundings true
 Fucker Action Destroy
 Fucker NoHit false
 HighJump Height 2.0
-HighJump Bypass AACv3
+HighJump Mode AACv3
 HighJump OnlyGlassPane true
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
@@ -85,7 +85,7 @@ KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
 LiquidWalk Type AAC_3.3.11
-LongJump NoCheat AACv3
+LongJump Mode AACv3
 LongJump NCPBoost 3.0
 NoFall Mode LAAC
 NoRotateSet Confirm true

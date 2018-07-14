@@ -51,7 +51,7 @@ Fucker Swing true
 Fucker id 26
 Fucker Instant true
 GhostHand id 54
-HighJump Bypass Vanilla
+HighJump Mode Vanilla
 HighJump Height 2.0
 HitBox Size 0.6
 IceSpeed Type NCP
@@ -83,7 +83,7 @@ LegitAura MaxCPS 9
 LegitAura Hitbox false
 LegitAura MinCPS 6
 LiquidWalk Type NCP
-LongJump NoCheat NCP
+LongJump Mode NCP
 LongJump NCPBoost 4.5
 NameProtect FakeName &cMe
 NoFall Mode SpoofGround

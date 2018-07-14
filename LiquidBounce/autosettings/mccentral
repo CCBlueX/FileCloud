@@ -51,7 +51,7 @@ Fucker Surroundings true
 Fucker Action Destroy
 Fucker NoHit false
 HighJump Height 2.8
-HighJump Bypass AACv3
+HighJump Mode AACv3
 HighJump OnlyGlassPane false
 IceSpeed Type AAC
 InventoryCleaner MaxDelay 100
@@ -86,7 +86,7 @@ KillAura MinTurnSpeed 180.0
 KillAura RandomCenter true
 KillAura FOV 180.0
 LiquidWalk Type AAC_3.3.11
-LongJump NoCheat AACv3
+LongJump Mode AACv3
 NoFall Mode LAAC
 NoSlow Sword AAC
 NoSlow Consume AAC
