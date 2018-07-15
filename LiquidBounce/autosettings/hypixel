@@ -97,11 +97,9 @@ Teams Color true
 Tower Type Jump
 Tower AutoBlock true
 Tower StayAutoBlock false
-Velocity Horizontal 0.01
+Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-Velocity ReverseStrength 1.0
-Velocity Reverse2Strength 0.05
 Sprint CheckServerSide false
 Sprint AllDirections true
 #toggles
