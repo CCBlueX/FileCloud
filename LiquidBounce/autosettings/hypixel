@@ -51,10 +51,10 @@ KillAura KeepSprint true
 KillAura AutoBlock false
 KillAura BlockRate 100
 KillAura AAC false
-KillAura RayCast false
+KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
-KillAura Predict false
+KillAura Predict true
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
