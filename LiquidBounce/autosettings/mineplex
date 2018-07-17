@@ -78,4 +78,20 @@ NoSlow Bow AAC
 NoSlow toggle true
 AutoSoup OpenInv false
 AutoPot OpenInv false
+BufferSpeed SpeedLimit true
+BufferSpeed MaxSpeed 2
+BufferSpeed Buffer true
+BufferSpeed Stairs true
+BufferSpeed StairsBoost 1.87
+BufferSpeed StairsMode Old
+BufferSpeed Slabs true
+BufferSpeed SlabsBoost 1.87
+BufferSpeed SlabsMode Old
+BufferSpeed Ice false
+BufferSpeed Snow false
+BufferSpeed Wall false
+BufferSpeed HeadBlock false
+BufferSpeed Slime false
+BufferSpeed AirStrafe false
+BufferSpeed NoHurt true
 targetDead true
