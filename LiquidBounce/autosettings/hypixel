@@ -102,6 +102,7 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Sprint CheckServerSide false
 Sprint AllDirections true
+Tower Type MotionTP
 #toggles
 AntiBot toggle true
 Velocity toggle true
