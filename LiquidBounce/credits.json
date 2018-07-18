@@ -16,7 +16,7 @@
         "TwitterName": "@TheSlowlyDev",
         "TwitterURL": "https://twitter.com/theslowlydev",
         "YouTubeName": "TheSlowly",
-        "YouTubeURL": "https://www.youtube.com/channel/UCqvTVHKCihyyJlDC8Tfq1vw", 
+        "YouTubeURL": "https://www.youtube.com/channel/UCqvTVHKCihyyJlDC8Tfq1vw",
         "Credits": {
             "0": "Made the ShaderESP"
         }
@@ -103,14 +103,14 @@
         "Credits": {
             "0": "Shared his Minesucht fly with us."
         }
-    }, 
+    },
     "12": {
         "Name": "KonvexArtz",
         "YouTubeName": "KonvexArtz",
         "YouTubeURL": "https://www.youtube.com/DerFailer3000",
         "Credits": {
             "0": "Shared his SpeedlyRewinsideScaffoldwalk values with us."
-        }   
+        }
     },
     "13": {
         "Name": "VLAD_AND_LOL",
@@ -133,7 +133,7 @@
     "15": {
         "Name": "CoMoDe",
         "YouTubeName": "CoMoDeYT",
-        "YouTubeURL": "https://www.youtube.com/channel/UCAjjwbGg2rp8bslCYSxAhPQ", 
+        "YouTubeURL": "https://www.youtube.com/channel/UCAjjwbGg2rp8bslCYSxAhPQ",
         "Credits": {
             "0": "Made AAC 3.3.12 Fly.",
             "1": "Made AAC 3.3.12 Step."
@@ -144,7 +144,7 @@
         "TwitterName": "@Garkolym",
         "TwitterURL": "https://twitter.com/Garkolym",
         "YouTubeName": "Garkolym",
-        "YouTubeURL": "https://youtube.com/Garkolym", 
+        "YouTubeURL": "https://youtube.com/Garkolym",
         "Credits": {
             "0": "Made HoloStand Open-Source."
         }
@@ -152,7 +152,7 @@
     "17": {
         "Name": "scorpion3013",
         "TwitterName": "@scorpion3013",
-        "TwitterURL": "https://twitter.com/scorpien3013"
+        "TwitterURL": "https://twitter.com/scorpien3013",
         "Credits": {
             "0": "Shared his Mineplex HighJump",
             "1": "Shared his Mineplex LongJump"
@@ -172,8 +172,7 @@
             "0": "Made AAC 3.3.15 LowHop",
             "1": "Made AAC 3.3.9 ItemTeleport"
         }
-    }
-    ,
+    },
     "20": {
         "Name": "NichtVorhanden",
         "TwitterName": "@TanzisLiebling1",
@@ -181,7 +180,7 @@
         "YouTubeName": "Nicht Vorhanden",
         "YouTubeURL": "https://www.youtube.com/channel/UC5vh0K3Nx4ju_KYF_RDErOg",
         "Credits": {
-            "0": "Made AAC Push Velocity",
+            "0": "Made AAC Push Velocity"
         }
     }
 }
