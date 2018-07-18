@@ -110,7 +110,7 @@ Tower Type MotionTP
 AntiBot toggle true
 Velocity toggle true
 NoSlow toggle true
-Criticals toggle false
+Criticals toggle true
 FastClimb toggle false
 Step toggle true
 FastUse toggle false
