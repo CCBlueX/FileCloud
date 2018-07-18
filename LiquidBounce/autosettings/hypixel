@@ -32,8 +32,8 @@ FastStairs Mode NCP
 FastStairs LongJump false
 FastUse Mode NCP
 Fly Mode LatestHypixel
-InventoryCleaner MaxDelay 100
-InventoryCleaner MinDelay 50
+InventoryCleaner MaxDelay 150
+InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen true
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
