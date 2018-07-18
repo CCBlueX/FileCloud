@@ -52,9 +52,11 @@ KillAura MaxTurnSpeed 30
 KillAura MinTurnSpeed 20
 KillAura RandomCenter true
 KillAura Predict true
+KillAura PredictSize 1.5
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FOV 180.0
+KillAura FakeSwing true
 LongJump Mode AACv3
 NoSlow Sword Vanilla
 NoSlow Consume AAC
