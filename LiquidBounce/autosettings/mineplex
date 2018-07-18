@@ -98,3 +98,5 @@ BufferSpeed Slime false
 BufferSpeed AirStrafe false
 BufferSpeed NoHurt true
 targetDead true
+Fucker ThroughWalls Around
+Fucker Instant false

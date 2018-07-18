@@ -21,7 +21,7 @@ FastClimb Bypass LAAC
 FastUse Mode AAC
 Fly Mode AAC3.3.12
 Fucker Instant false
-Fucker ThroughWalls false
+Fucker ThroughWalls none
 Fucker Swing true
 HitBox Size 0.4
 IceSpeed Type AAC

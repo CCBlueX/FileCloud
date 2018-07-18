@@ -46,7 +46,7 @@ Fly mode Vanilla
 Fly AACSpeed 0.3
 Fly VanillaSpeed 1.0
 Fly NCPMotion 0.0
-Fucker ThroughWalls true
+Fucker ThroughWalls Raycast
 Fucker Swing true
 Fucker id 26
 Fucker Instant true

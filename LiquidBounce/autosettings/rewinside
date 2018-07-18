@@ -37,7 +37,7 @@ Fly AAC3.3.13-Motion 10.0
 Fly Mark true
 Fucker id 26
 Fucker Instant false
-Fucker ThroughWalls true
+Fucker ThroughWalls Raycast
 Fucker Swing true
 Fucker Surroundings true
 Fucker Action Destroy
