@@ -25,7 +25,7 @@ ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
-Criticals Mode HypixelPacket
+Criticals Type HypixelPacket
 FastSlabs Boost 1.7
 FastSlabs LongJump false
 FastStairs Mode NCP
