@@ -115,3 +115,4 @@ Criticals toggle true
 FastClimb toggle false
 Step toggle true
 FastUse toggle false
+PingSpoof toggle false
