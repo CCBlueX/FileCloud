@@ -22,6 +22,9 @@ AutoArmor NoMove false
 ChestStealer MaxDelay 75
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized false
+InventoryCleaner MaxDelay 75
+InventoryCleaner MinDelay 50
+InventoryCleaner InvOpen false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 Criticals Type Packet
