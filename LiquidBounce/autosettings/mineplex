@@ -51,6 +51,8 @@ KillAura Predict true
 KillAura PredictSize 1.5
 Killaura FailRate 0
 KillAura FakeSwing true
+KillAura NoInvAttack true
+KillAura NoInvDelay 100
 LongJump Mode Mineplex3
 LongJump Mode Mineplex3
 HighJump Mode Mineplex
@@ -100,8 +102,10 @@ BufferSpeed HeadBlock false
 BufferSpeed Slime false
 BufferSpeed AirStrafe false
 BufferSpeed NoHurt true
-targetDead true
 Fucker ThroughWalls Around
 Fucker Instant false
 Fucker Surroundings false
 Fucker NoHit false
+## Toggles
+targetDead true
+AbortBreaking toggle true
