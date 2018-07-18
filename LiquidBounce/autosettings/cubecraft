@@ -25,8 +25,8 @@ ChestStealer MaxDelay 120
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized true
 Fly Mode CubeCraft
-InventoryCleaner MaxDelay 100
-InventoryCleaner MinDelay 50
+InventoryCleaner MaxDelay 150
+InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen true
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
