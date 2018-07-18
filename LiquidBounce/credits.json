@@ -156,10 +156,19 @@
             "1": "Shared his Mineplex LongJump"
         }
     },
-    "17": {
+    "18": {
         "Name": "ImDrops",
         "Credits": {
-            "0": "Made AAC 3.3.12 Fly"
+            "0": "Made AAC 3.3.12 Fly",
+            "1": "Made AAC 3.3.12 Glide",
+            "2": "Made AAC 3.3.12 Step"
+        }
+    },
+    "19": {
+        "Name": "CrackFileso",
+        "Credits": {
+            "0": "Made AAC 3.3.15 LowHop",
+            "1": "Made AAC 3.3.9 ItemTeleport"
         }
     }
 }
