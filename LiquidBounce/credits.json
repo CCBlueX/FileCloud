@@ -151,6 +151,8 @@
     },
     "17": {
         "Name": "scorpion3013",
+        "TwitterName": "@scorpion3013",
+        "TwitterURL": "https://twitter.com/scorpien3013"
         "Credits": {
             "0": "Shared his Mineplex HighJump",
             "1": "Shared his Mineplex LongJump"
@@ -169,6 +171,17 @@
         "Credits": {
             "0": "Made AAC 3.3.15 LowHop",
             "1": "Made AAC 3.3.9 ItemTeleport"
+        }
+    }
+    ,
+    "20": {
+        "Name": "NichtVorhanden",
+        "TwitterName": "@TanzisLiebling1",
+        "TwitterURL": "https://twitter.com/TanzisLiebling1",
+        "YouTubeName": "Nicht Vorhanden",
+        "YouTubeURL": "https://www.youtube.com/channel/UC5vh0K3Nx4ju_KYF_RDErOg",
+        "Credits": {
+            "0": "Made AAC Push Velocity",
         }
     }
 }
