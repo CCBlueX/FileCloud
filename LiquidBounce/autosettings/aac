@@ -17,7 +17,7 @@ FastUse Mode AAC
 Fly Mode AACv3
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 15

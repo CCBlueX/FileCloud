@@ -40,7 +40,7 @@ Fucker Swing true
 IceSpeed Type NCP
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 100
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 20

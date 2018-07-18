@@ -47,7 +47,7 @@ HighJump Mode AACv3
 HighJump OnlyGlassPane true
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 70
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false

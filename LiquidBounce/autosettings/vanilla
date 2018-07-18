@@ -55,7 +55,7 @@ HighJump Mode Vanilla
 HighJump Height 2.0
 HitBox Size 0.6
 IceSpeed Type NCP
-InventoryCleaner OpenInv false
+InventoryCleaner InvOpen false
 InventoryCleaner MinDelay 0
 InventoryCleaner MaxDelay 0
 InventoryMove AACAdditionPro false

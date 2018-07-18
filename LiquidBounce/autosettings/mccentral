@@ -56,7 +56,7 @@ HighJump OnlyGlassPane false
 IceSpeed Type AAC
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 100
-InventoryCleaner OpenInv false
+InventoryCleaner InvOpen false
 InventoryCleaner RandomSlot false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false

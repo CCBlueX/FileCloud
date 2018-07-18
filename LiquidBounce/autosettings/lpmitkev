@@ -17,7 +17,7 @@ ChestStealer OnlyItems false
 ChestStealer MinDelay 50
 ChestStealer MaxDelay 100
 Criticals Type Packet
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryCleaner MinDelay 70
 InventoryCleaner MaxDelay 100
 InventoryMove AACAdditionPro false

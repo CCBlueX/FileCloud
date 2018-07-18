@@ -15,7 +15,7 @@ Fly NCPMotion 0.0
 IceSpeed Type NCP
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 75
-InventoryCleaner OpenInv false
+InventoryCleaner InvOpen false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 Teams ScoreboardTeams false

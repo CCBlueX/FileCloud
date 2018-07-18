@@ -33,7 +33,7 @@ FastUse Mode NCP
 Fly Mode LatestHypixel
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false

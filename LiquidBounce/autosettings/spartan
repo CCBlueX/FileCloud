@@ -11,7 +11,7 @@ Criticals Type LowJump
 Criticals Delay 0
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 100
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 13

@@ -27,7 +27,7 @@ HitBox Size 0.4
 IceSpeed Type AAC
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 15

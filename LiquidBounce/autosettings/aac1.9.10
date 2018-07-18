@@ -30,7 +30,7 @@ Fly AACSpeed 0.3
 IceSpeed Type AAC
 InventoryCleaner MaxDelay 96
 InventoryCleaner MinDelay 59
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 16

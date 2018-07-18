@@ -44,7 +44,7 @@ HitBox Size 0.4
 IceSpeed Type AAC
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 100
-InventoryCleaner OpenInv true
+InventoryCleaner InvOpen true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
 ItemTeleport ResetAfterTP true
