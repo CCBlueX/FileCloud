@@ -60,16 +60,6 @@
             "0": "Helped us with AAC3 YPort Speed."
         }
     },
-    "6": {
-        "Name": "XaliBurMc",
-        "TwitterName": "@XaliBur02",
-        "TwitterURL": "https://twitter.com/XaliBur02",
-        "YouTubeName": "XaliBur",
-        "YouTubeURL": "https://www.youtube.com/channel/UCBj8ZEIveRDEJro3aLczb6Q",
-        "Credits": {
-            "0": "Made the base system for our InventoryCleaner."
-        }
-    },
     "7": {
         "Name": "Hexeption",
         "TwitterName": "@RealHexeption",
@@ -157,6 +147,19 @@
         "YouTubeURL": "https://youtube.com/Garkolym", 
         "Credits": {
             "0": "Made HoloStand Open-Source."
+        }
+    },
+    "17": {
+        "Name": "scorpion3013",
+        "Credits": {
+            "0": "Shared his Mineplex HighJump",
+            "1": "Shared his Mineplex LongJump"
+        }
+    },
+    "17": {
+        "Name": "ImDrops",
+        "Credits": {
+            "0": "Made AAC 3.3.12 Fly"
         }
     }
 }
