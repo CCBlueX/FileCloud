@@ -100,3 +100,5 @@ BufferSpeed NoHurt true
 targetDead true
 Fucker ThroughWalls Around
 Fucker Instant false
+Fucker Surroundings false
+Fucker NoHit false
