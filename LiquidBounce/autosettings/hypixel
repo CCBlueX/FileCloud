@@ -25,6 +25,7 @@ ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
+Criticals Mode HypixelPacket
 FastSlabs Boost 1.7
 FastSlabs LongJump false
 FastStairs Mode NCP
@@ -77,7 +78,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Sprint true
+Scaffold Sprint false
 Scaffold Eagle false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
