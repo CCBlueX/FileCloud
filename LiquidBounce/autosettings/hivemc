@@ -64,7 +64,6 @@ KillAura AutoBlock true
 KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
-KillAura Predict true
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
@@ -75,6 +74,9 @@ KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura FakeSharp true
 KillAura BlockRate 100
+KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 LegitAura MaxCPS 17
 LegitAura MinCPS 14
 LegitAura Range 3.7

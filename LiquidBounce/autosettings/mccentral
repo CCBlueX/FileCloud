@@ -85,6 +85,9 @@ KillAura MaxTurnSpeed 180.0
 KillAura MinTurnSpeed 180.0
 KillAura RandomCenter true
 KillAura FOV 180.0
+KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 LiquidWalk Type AAC_3.3.11
 LongJump Mode AACv3
 NoFall Mode LAAC

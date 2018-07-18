@@ -74,6 +74,8 @@ KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast true
 KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FailRate 1.79

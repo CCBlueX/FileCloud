@@ -45,6 +45,9 @@ KillAura LivingRayCast true
 KillAura HurtTime 10
 KillAura AutoBlock true
 KillAura BlockRate 100
+KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 LongJump Mode Mineplex3
 LongJump Mode Mineplex3
 HighJump Mode Mineplex

@@ -48,7 +48,6 @@ KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
-KillAura Predict true
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
@@ -57,6 +56,9 @@ KillAura MinTurnSpeed 150.0
 KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura FOV 180.0
+KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 LiquidWalk Type NCP
 LongJump Mode NCP
 LongJump NCPBoost 3.0

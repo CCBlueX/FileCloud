@@ -43,6 +43,8 @@ KillAura MaxTurnSpeed 30
 KillAura MinTurnSpeed 25
 KillAura RandomCenter true
 KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura BlockRate 35
 NoFall Mode LAAC

@@ -58,6 +58,9 @@ KillAura MinTurnSpeed 30
 KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura BlockRate 100
+KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing true
 LiquidWalk Type AAC
 LongJump Mode AACv3
 NoSlow Sword Vanilla

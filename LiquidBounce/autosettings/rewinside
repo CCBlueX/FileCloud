@@ -79,6 +79,9 @@ KillAura RandomCenter false
 KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
+KillAura Predict true
+KillAura PredictSize 1
+KillAura FakeSwing false
 LiquidWalk Type NCP
 LongJump Mode NCP
 LongJump NCPBoost 3.0
