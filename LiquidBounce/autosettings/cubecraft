@@ -69,8 +69,8 @@ NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 PingSpoof Delay 750
 Scaffold Type Expand
-Scaffold MaxDelay 129
-Scaffold MinDelay 129
+Scaffold MaxDelay 125
+Scaffold MinDelay 100
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
@@ -85,7 +85,7 @@ Scaffold ZitterMode Smooth
 Scaffold ZitterSpeed 0.13
 Scaffold ZitterStrength 0.072
 Scaffold Timer 1.1
-Scaffold SpeedModifier 1.5
+Scaffold SpeedModifier 2
 Speed Type SlowHop
 Step Mode NCP
 Step Height 3.0
