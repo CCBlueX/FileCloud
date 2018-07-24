@@ -112,12 +112,10 @@ AutoClicker Left false
 AutoClicker Jitter false
 AutoLeave Health 8.0
 AutoLeave Mode Quit
-AutoPot Health 15.0
 AutoPot Delay 150
 AutoPot OpenInv false
 AutoPot Mode Normal
 AutoRespawn Instant true
-AutoSoup Health 15.0
 AutoSoup Delay 150
 AutoSoup OpenInv true
 AutoSword SpoofItem false
@@ -125,9 +123,6 @@ Blink Pulse false
 Blink PulseDelay 5000
 BlockWalk Cobweb true
 BlockWalk Snow true
-BowAimbot Silent true
-BowAimbot Predict true
-BowAimbot TargetMode Direction
 BufferSpeed SpeedLimit true
 BufferSpeed MaxSpeed 1.0
 BufferSpeed Buffer true
@@ -172,14 +167,12 @@ FastStairs Mode NCP
 FastStairs LongJump false
 FastUse Mode NCP
 Fly Mode LatestHypixel
-Fly NeruxVace-Ticks 3
 Fucker Instant true
 Fucker ThroughWalls true
 Fucker Surroundings false
 Fucker NoHit true
 HighJump Height 1.8
 HighJump Mode Vanilla
-HighJump OnlyGlassPane false
 HitBox Size 0.4
 IceSpeed Type AAC
 InventoryCleaner MaxDelay 66
@@ -188,7 +181,6 @@ InventoryCleaner OpenInv false
 InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
-Kick Mode PacketSpam
 KillAura MaxCPS 20
 KillAura MinCPS 17
 KillAura HurtTime 1
