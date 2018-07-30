@@ -41,7 +41,7 @@ KillAura MultiMode Vanilla
 KillAura ThroughWalls false
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura BlockRate 40
 KillAura AAC true
 KillAura RayCast true
@@ -58,7 +58,7 @@ KillAura NoInvDelay 0
 KillAura FOV 180.0
 KillAura FakeSwing true
 LongJump Mode AACv3
-NoSlow Sword Vanilla
+NoSlow Sword AAC
 NoSlow Consume AAC
 NoSlow Bow AAC
 NoSlow Soulsand false
@@ -83,8 +83,8 @@ Scaffold ZitterMode Smooth
 Speed Type AAC7BHop
 Step Mode AAC_334
 Tower Type Jump
-Tower AutoBlock false
-Tower StayAutoBlock false
+Tower AutoBlock true
+Tower StayAutoBlock true
 Trigger MaxCPS 12
 Trigger MinCPS 8
 Velocity Horizontal 0.4
