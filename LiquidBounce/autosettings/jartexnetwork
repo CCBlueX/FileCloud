@@ -120,7 +120,6 @@ Tower Swing true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-
 #toggles
 Velocity toggle true
 PingSpoof toggle true
@@ -131,7 +130,6 @@ inventorymove toggle true
 norotateset toggle true
 noslow toggle true
 fucker toggle true
-
 fastuse toggle false
 nofall toggle false
 derp toggle false
