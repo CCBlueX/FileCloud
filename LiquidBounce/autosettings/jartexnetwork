@@ -135,3 +135,7 @@ derp toggle false
 regen toggle false
 zoot toggle false
 antibot toggle false
+chat You can turn off Sprint CheckServerSide but this could result a ban
+chat ---------
+chat If you are playing kitpvp use
+chat .config jartexnetwork-kitpvp
