@@ -129,7 +129,6 @@ sprint toggle true
 inventorymove toggle true
 norotateset toggle true
 noslow toggle true
-fucker toggle true
 fastuse toggle false
 nofall toggle false
 derp toggle false
