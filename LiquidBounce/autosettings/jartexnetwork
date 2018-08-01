@@ -125,7 +125,6 @@ Velocity toggle true
 PingSpoof toggle true
 Autoarmor toggle true
 autosword toggle true
-sprint toggle true
 inventorymove toggle true
 norotateset toggle true
 noslow toggle true
