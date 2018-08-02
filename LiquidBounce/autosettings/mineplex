@@ -112,3 +112,6 @@ Fucker NoHit false
 ## Toggles
 targetDead true
 AbortBreaking toggle true
+Velocity toggle true
+NoSlow toggle true
+NoFall toggle true
