@@ -124,7 +124,6 @@ Velocity Mode Simple
 Velocity toggle true
 PingSpoof toggle true
 Autoarmor toggle true
-autosword toggle true
 toggle sprint true
 inventorymove toggle true
 norotateset toggle true
