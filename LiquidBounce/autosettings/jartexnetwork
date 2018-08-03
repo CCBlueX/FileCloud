@@ -133,6 +133,7 @@ nofall toggle false
 derp toggle false
 regen toggle false
 zoot toggle false
+criticals toggle false
 antibot toggle false
 chat You can turn off Sprint CheckServerSide but this could result a ban
 chat ---------
