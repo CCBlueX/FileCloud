@@ -43,7 +43,7 @@ InventoryCleaner RandomSlot true
 InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-KillAura MaxCPS 15
+KillAura MaxCPS 14
 KillAura MinCPS 11
 KillAura HurtTime 7
 KillAura Range 4.75
