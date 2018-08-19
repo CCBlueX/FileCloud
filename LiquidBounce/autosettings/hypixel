@@ -119,3 +119,5 @@ Velocity Reverse2Strength 0.05
 #toggles
 AntiBot toggle true
 Velocity toggle true
+#chat
+chat WARNING: Fly is still bypassing but might be autobanning!
