@@ -45,7 +45,7 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 15
 KillAura MinCPS 11
-KillAura HurtTime 8
+KillAura HurtTime 7
 KillAura Range 4.75
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
