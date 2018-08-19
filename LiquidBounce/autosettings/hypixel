@@ -98,8 +98,6 @@ Scaffold ZitterSpeed 0.13
 Scaffold ZitterStrength 0.072
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold Counter true
-Scaffold Mark true
 Sneak Mode Switch
 Speed Type SlowHop
 Sprint AllDirections false
