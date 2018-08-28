@@ -7,7 +7,7 @@ AutoArmor NoMove true
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
-Criticals Type LowJump
+Criticals Type jump
 Criticals Delay 0
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 100
@@ -68,4 +68,5 @@ Velocity Vertical 0.19
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
+Speed Type SpartanYPort
 Fly Mode Spartan
