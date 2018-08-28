@@ -41,7 +41,7 @@ KillAura BlockRate 100
 KillAura Predict true
 KillAura PredictSize 1
 KillAura FakeSwing true
-LiquidWalk Type Spartan
+LiquidWalk Type Dolphin
 NoSlow Mode Spartan
 Scaffold Type Normal
 Scaffold MaxDelay 180
