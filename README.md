@@ -1,2 +1,2 @@
 # FileCloud
-The repository is only a cloud for our Projects.
+A storage for our projects.
