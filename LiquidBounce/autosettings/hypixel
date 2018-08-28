@@ -115,6 +115,7 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
+NoFall Mode SpoofGround
 #toggles
 AntiBot toggle true
 Velocity toggle true
