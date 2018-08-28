@@ -56,13 +56,12 @@ Scaffold Zitter false
 Scaffold Timer 0.98
 Scaffold SpeedModifier 1.19
 Sprint AllDirections false
-Step Mode Spartan
+Step Mode LAAC
 Step Height 1.0
 Step Delay 20
-Tower Type MotionTP
+Tower Type FastMotion2
 Tower AutoBlock true
 Tower StayAutoBlock false
-Tower Swing true
 Velocity Horizontal 0.17
 Velocity Vertical 0.19
 Velocity Mode Simple
