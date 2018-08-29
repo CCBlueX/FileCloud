@@ -14,15 +14,14 @@ AntiBot Ping false
 AntiBot NeedHit false
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 0
-AutoArmor InvOpen true
+AutoArmor InvOpen false
 AutoArmor SimulateInventory false
 AutoArmor NoMove false
 ChestStealer MaxDelay 50
 ChestStealer MinDelay 0
 ChestStealer TakeRandomized true
 Criticals Type Jump
-FastBow Mode Vanilla
-FastClimb Bypass LAAC
+FastClimb Bypass AAC
 FastStairs Mode AAC
 FastUse Mode AAC
 Fly Mode AAC
@@ -84,8 +83,6 @@ Sprint AllDirections true
 Step Mode LAAC
 Step Height 1.0
 Step Delay 0
-Teams ScoreboardTeam true
-Teams Color true
 Timer Speed 1.1
 Tower Type Jump
 Tower AutoBlock false
@@ -93,5 +90,5 @@ Tower Swing false
 Velocity Horizontal 0.0
 Velocity Vertical 0.3
 Velocity Mode Simple
-#toggles
+# Toggels
 antibot toggle true
