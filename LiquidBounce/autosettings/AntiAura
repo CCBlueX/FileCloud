@@ -1,3 +1,6 @@
+#autosettings for AntiAura
+# Tested AntiAura 11.48 on my test server
+
 AutoArmor MaxDelay 0
 AutoArmor MinDelay 0
 AutoArmor InvOpen false
