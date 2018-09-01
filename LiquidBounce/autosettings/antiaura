@@ -43,7 +43,7 @@ FastStairs Mode LAAC
 IceSpeed Type NCP
 KillAura MaxCPS 15
 KillAura MinCPS 9
-KillAura HurtTime 10
+KillAura HurtTime 8
 KillAura Range 4.35
 KillAura RangeSprintReducement 0.00
 KillAura Priority Direction
