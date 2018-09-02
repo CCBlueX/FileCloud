@@ -69,8 +69,8 @@ KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast true
 KillAura Predict true
-KillAura NoInvAttack false
-KillAura NoInvDelay 0
+KillAura NoInvAttack true
+KillAura NoInvDelay 200
 KillAura FailRate 0.0
 KillAura MaxTurnSpeed 74.52
 KillAura MinTurnSpeed 31.37
