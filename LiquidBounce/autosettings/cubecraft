@@ -74,6 +74,7 @@ Scaffold MinDelay 100
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
+Scaffold Search false
 Scaffold Swing true
 Scaffold Eagle false
 Scaffold PlaceableDelay false
