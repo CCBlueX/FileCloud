@@ -62,6 +62,7 @@ Scaffold Eagle true
 Scaffold Zitter false
 Scaffold Timer 1
 Scaffold Boost 0
+Scaffold SpeedModifier 1
 ServerCrasher Mode AACNew
 Speed Type NCPHop
 Sprint AllDirections false
