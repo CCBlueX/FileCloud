@@ -10,7 +10,7 @@ ChestStealer MinDelay 80
 Criticals Type Packet
 Criticals Delay 0
 FastUse Mode NCP
-Fly Mode NCP
+Fly Mode NeruxVace
 Fly NCPMotion 0.0
 IceSpeed Type NCP
 InventoryCleaner MaxDelay 100
