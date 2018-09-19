@@ -68,7 +68,7 @@ NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 PingSpoof Delay 750
-Scaffold Type Expand
+Scaffold Type Normal
 Scaffold MaxDelay 125
 Scaffold MinDelay 100
 Scaffold AutoBlock true
@@ -78,14 +78,9 @@ Scaffold Search false
 Scaffold Swing true
 Scaffold Eagle false
 Scaffold PlaceableDelay false
-Scaffold BlocksToEagle 1
-Scaffold ExpandLength 3
 Scaffold KeepRotation true
 Scaffold Zitter false
-Scaffold ZitterMode Smooth
-Scaffold ZitterSpeed 0.13
-Scaffold ZitterStrength 0.072
-Scaffold Timer 1.1
+Scaffold Timer 0.8
 Scaffold SpeedModifier 1
 Speed Type SlowHop
 Step Mode NCP
