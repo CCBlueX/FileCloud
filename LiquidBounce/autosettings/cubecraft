@@ -25,7 +25,7 @@ ChestStealer MaxDelay 120
 ChestStealer MinDelay 50
 ChestStealer TakeRandomized true
 Fly Mode CubeCraft
-Fucker Select Dragon_Egg
+Fucker id 122
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen true
