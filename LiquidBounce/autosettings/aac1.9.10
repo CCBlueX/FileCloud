@@ -55,6 +55,7 @@ KillAura TurnSpeed 131.2
 KillAura MaxTurnSpeed 141.2
 KillAura MinTurnSpeed 131.2
 KillAura RandomCenter true
+KillAura Outborder false
 KillAura FOV 180.0
 KillAura BlockRate 100
 KillAura Predict true
