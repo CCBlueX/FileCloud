@@ -69,6 +69,7 @@ KillAura FailRate 3.0
 KillAura MaxTurnSpeed 30.0
 KillAura MinTurnSpeed 25.0
 KillAura RandomCenter true
+KillAura Outborder true
 KillAura FOV 180.0
 LiquidWalk Mode AAC
 NoSlow Sword NCP

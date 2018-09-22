@@ -41,9 +41,9 @@ Killaura ThroughWalls true
 KillAura MaxTurnSpeed 180
 KillAura MinTurnSpeed 180
 KillAura RandomCenter true
+KillAura Outborder true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura RandomCenter true
 Killaura AAC false
 KillAura RayCast false
 KillAura LivingRayCast true

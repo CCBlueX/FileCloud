@@ -68,6 +68,7 @@ KillAura MinTurnSpeed 20.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
+KillAura Outborder true
 KillAura FOV 180.0
 KillAura Mark false
 KillAura FakeSharp true

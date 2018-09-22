@@ -50,7 +50,8 @@ KillAura FailRate 3
 KillAura TurnSpeed 25
 KillAura MaxTurnSpeed 30
 KillAura MinTurnSpeed 20
-KillAura RandomCenter false
+KillAura RandomCenter true
+KillAura Outborder false
 KillAura Predict true
 KillAura PredictSize 1.5
 KillAura NoInvAttack true
