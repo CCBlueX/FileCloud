@@ -86,7 +86,7 @@ KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
-LiquidWalk Mode AAC_3.3.11
+LiquidWalk Mode AAC3.3.11
 LongJump Mode AACv3
 LongJump NCPBoost 3.0
 NoFall Mode LAAC
@@ -126,7 +126,7 @@ Speed AAC-PortLength 6.9
 Speed AACGround-Timer 3.0
 Sprint AllDirections false
 Sprint CheckServerSide true
-Step Mode AAC_334
+Step Mode AAC3.3.4
 Step Height 1.0
 Step Delay 0
 Tower Mode Jump

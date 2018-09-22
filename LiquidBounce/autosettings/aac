@@ -76,7 +76,7 @@ Scaffold StayAutoBlock true
 Scaffold KeepRotation false
 Scaffold Zitter false
 Speed Mode AACLowHop3
-Step Mode AAC_334
+Step Mode AAC3.3.4
 Tower Mode Jump
 Tower AutoBlock true
 Tower StayAutoBlock true
@@ -88,7 +88,7 @@ Velocity Mode AACPush
 Velocity Reverse2Strength 0.05
 Sprint AllDirections false
 Sprint CheckServerSide true
-WallClimb mode AAC
+WallClimb Mode Clip
 BufferSpeed MaxSpeed 3.0
 BufferSpeed Stairs true
 BufferSpeed StairsMode New
@@ -100,8 +100,8 @@ BufferSpeed Wall true
 BufferSpeed WallMode New
 BufferSpeed HeadBlock false
 BufferSpeed NoHurt true
-NoFall mode AAC_3_3_11
-LiquidWalk Mode AAC_3.3.11
+NoFall mode AAC3.3.11
+LiquidWalk Mode AAC3.3.11
 # Toggles
 Zoot toggle false
 Regen toggle false

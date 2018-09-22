@@ -71,7 +71,7 @@ KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura FOV 180.0
-LiquidWalk Mode AAC_3.3.11
+LiquidWalk Mode AAC3.3.11
 NoFall Mode LAAC
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
@@ -107,7 +107,7 @@ Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
-Step Mode AAC_334
+Step Mode AAC3.3.4
 Step Height 1.0
 Step Delay 0
 Tower Mode Motion

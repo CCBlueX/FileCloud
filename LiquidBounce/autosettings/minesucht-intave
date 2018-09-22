@@ -212,7 +212,7 @@ KillAura FakeSharp false
 LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 4.88
-NoFall Mode AAC_3_3_11
+NoFall Mode AAC3.3.11
 NoRotateSet Confirm false
 NoRotateSet ConfirmIllegalRotation true
 NoRotateSet NoZero true
@@ -263,7 +263,7 @@ Step Height 1.0
 Step Delay 261
 Teleport Mode Minesucht
 Timer Speed 1.1
-Tower Mode FastMotion2
+Tower Mode ConstantMotion2
 Tower AutoBlock true
 Tower StayAutoBlock false
 Tower Swing true
@@ -272,4 +272,4 @@ Trigger MinCPS 8
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-WallClimb Mode AAC
+WallClimb Mode Clip

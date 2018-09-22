@@ -108,16 +108,16 @@ Step Height 2.0
 TNTBlock Fuse 10
 Teams ScoreboardTeam true
 Teams Color true
-Tower Mode FastMotion
+Tower Mode ConstantMotion
 Tower AutoBlock true
 Trigger MaxCPS 16
 Trigger MinCPS 14
 Velocity Mode Reverse2
 Velocity ReverseStrength 1.0
-WallClimb Mode AAC
+WallClimb Mode Clip
 WallSpeed Speed 1.7
 WaterSpeed Speed 1.2
-LiquidWalk Mode AAC_3.3.11
+LiquidWalk Mode AAC3.3.11
 #toggles
 antibot toggle false
 pingspoof toggle false

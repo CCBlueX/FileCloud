@@ -104,7 +104,7 @@ Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.5
 Step Delay 0
-Tower Mode LAAC
+Tower Mode AAC3.3.9
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true

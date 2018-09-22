@@ -59,7 +59,7 @@ Sprint AllDirections false
 Step Mode LAAC
 Step Height 1.0
 Step Delay 20
-Tower Mode FastMotion2
+Tower Mode ConstantMotion2
 Tower AutoBlock true
 Tower StayAutoBlock false
 Velocity Horizontal 0.17
@@ -69,5 +69,5 @@ Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
 Speed Mode SpartanYPort
 Fly Mode Spartan2
-WallClimb Mode AAC
+WallClimb Mode Clip
 IceSpeed Mode Spartan

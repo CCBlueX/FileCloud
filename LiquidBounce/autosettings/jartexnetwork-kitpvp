@@ -117,7 +117,7 @@ Step Height 1.0
 Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
-Tower Mode LAAC
+Tower Mode AAC3.3.9
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true

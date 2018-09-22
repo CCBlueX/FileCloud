@@ -84,7 +84,7 @@ Step Height 1.0
 Step Delay 0
 Teleport Mode Blink
 Timer Speed 1.1
-Tower Mode FastMotion
+Tower Mode ConstantMotion
 Tower AutoBlock true
 Tower Swing true
 Trigger MaxCPS 13
