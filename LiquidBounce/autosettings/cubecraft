@@ -107,4 +107,4 @@ AntiBot toggle true
 NoSlow toggle true
 Velocity toggle true
 PingSpoof toggle true
-Criticals toggle true
+Criticals toggle false
