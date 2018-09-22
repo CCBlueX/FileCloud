@@ -34,5 +34,10 @@
         "video": "https://img.liquidbounce.net/uxc/liquidbounce-b54.mp4",
         "poster": "https://img.liquidbounce.net/uxc/2018-07-27_21-46-46_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=391"  
+    },
+    "8": {
+        "title": "LiquidBounce 1.8.9 | b55",
+        "img": "https://img.liquidbounce.net/uxc/2018-09-23_00-21-48_vlc.jpg",
+        "changelogURL": "https://forum.ccbluex.net/thread.php?pid=1877"  
     }
 }
