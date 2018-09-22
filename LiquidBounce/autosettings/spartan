@@ -7,7 +7,7 @@ AutoArmor NoMove true
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
-Criticals Type jump
+Criticals Mode jump
 Criticals Delay 0
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 100
@@ -41,9 +41,9 @@ KillAura BlockRate 100
 KillAura Predict true
 KillAura PredictSize 1
 KillAura FakeSwing true
-LiquidWalk Type Dolphin
+LiquidWalk Mode Dolphin
 NoSlow Mode Spartan
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 180
 Scaffold MinDelay 130
 Scaffold AutoBlock true
@@ -59,7 +59,7 @@ Sprint AllDirections false
 Step Mode LAAC
 Step Height 1.0
 Step Delay 20
-Tower Type FastMotion2
+Tower Mode FastMotion2
 Tower AutoBlock true
 Tower StayAutoBlock false
 Velocity Horizontal 0.17
@@ -67,7 +67,7 @@ Velocity Vertical 0.19
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
-Speed Type SpartanYPort
+Speed Mode SpartanYPort
 Fly Mode Spartan2
 WallClimb Mode AAC
-IceSpeed Type Spartan
+IceSpeed Mode Spartan

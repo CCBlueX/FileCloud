@@ -27,7 +27,7 @@ InventoryCleaner MinDelay 50
 InventoryCleaner InvOpen false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-Criticals Type Packet
+Criticals Mode Packet
 Criticals Delay 250
 Criticals toggle true
 Fly Mode Mineplex
@@ -60,7 +60,7 @@ LongJump Mode Mineplex3
 LongJump Mode Mineplex3
 HighJump Mode Mineplex
 PingSpoof toggle true
-Scaffold Type Expand
+Scaffold Mode Expand
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
@@ -73,9 +73,9 @@ Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1
 Scaffold SpeedModifier 0.19
-Speed Type AAC7BHop
+Speed Mode AAC7BHop
 Step Mode NCP
-Tower Type Packet
+Tower Mode Packet
 Tower AutoBlock true
 Velocity Horizontal 0
 Velocity Vertical 0

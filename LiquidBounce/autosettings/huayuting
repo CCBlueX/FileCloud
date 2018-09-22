@@ -5,7 +5,7 @@ AutoArmor ItemDelay 1300
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
-Criticals Type NoGround
+Criticals Mode NoGround
 Criticals Delay 50
 Fucker Instant true
 Fucker ThroughWalls none
@@ -43,7 +43,7 @@ NoSlow Sword Vanilla
 NoSlow Consume AAC
 NoSlow Bow AAC
 NoSlow Soulsand false
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold Sprint false
 Scaffold Eagle false
 Scaffold BlocksToEagle 3
@@ -58,12 +58,12 @@ Scaffold Swing false
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold ZitterMode Smooth
-Speed Type Custom
+Speed Mode Custom
 Speed CustomSpeed 0.41	
 Speed CustomY 0.41
 Speed CustomTimer 1.0
 Speed CustomStrafe true
-Tower Type Motion
+Tower Mode Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
 Velocity Horizontal 0.0

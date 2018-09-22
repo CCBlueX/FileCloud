@@ -36,11 +36,11 @@ BufferSpeed HeadBlockBoost 1.8
 BufferSpeed Slime true
 BufferSpeed AirStrafe true
 BufferSpeed NoHurt true
-Criticals Type HypixelPacket
+Criticals Mode HypixelPacket
 Criticals Delay 0
 FastClimb Bypass Normal
 FastStairs Mode LAAC
-IceSpeed Type NCP
+IceSpeed Mode NCP
 KillAura MaxCPS 15
 KillAura MinCPS 9
 KillAura HurtTime 8
@@ -71,7 +71,7 @@ KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura Mark false
 KillAura FakeSharp true
-LiquidWalk Type Spartan
+LiquidWalk Mode Spartan
 LongJump Mode AACv3
 NoFall Mode NoGround
 NoSlow Sword Custom
@@ -81,7 +81,7 @@ NoSlow Soulsand false
 NoSlow CustomReducement 0.45
 NoWeb Mode Rewi
 ReverseStep Motion 1.0
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 305
 Scaffold MinDelay 300
 Scaffold AutoBlock true
@@ -96,7 +96,7 @@ Scaffold Timer 1.0
 Scaffold SpeedModifier 3.5
 Scaffold Counter true
 Scaffold Mark false
-Speed Type AAC5BHop
+Speed Mode AAC5BHop
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -104,7 +104,7 @@ Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.5
 Step Delay 0
-Tower Type LAAC
+Tower Mode LAAC
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true

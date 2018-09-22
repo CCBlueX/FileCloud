@@ -24,7 +24,7 @@ ChestAura Delay 500
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestAura Chest 54
-Criticals Type Jump
+Criticals Mode Jump
 Criticals Delay 0
 FastUse Mode AAC
 Fly Mode TeleportRewinside
@@ -82,7 +82,7 @@ KillAura FakeSharp true
 KillAura Predict true
 KillAura PredictSize 1
 KillAura FakeSwing false
-LiquidWalk Type NCP
+LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 3.0
 NoFall Mode LAAC
@@ -94,7 +94,7 @@ NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 100
 Scaffold MinDelay 50
 Scaffold AutoBlock true
@@ -113,7 +113,7 @@ Scaffold ZitterStrength 0.072
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.179
 Scaffold Counter true
-Speed Type NCPHop
+Speed Mode NCPHop
 Speed CustomSpeed 0.3
 Speed CustomY 2.19
 Speed CustomTimer 1.0
@@ -125,7 +125,7 @@ Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
-Tower Type Jump
+Tower Mode Jump
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true

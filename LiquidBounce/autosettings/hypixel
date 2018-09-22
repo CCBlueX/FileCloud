@@ -27,7 +27,7 @@ ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
 ChestStealer AutoClose true
-Criticals Type HypixelPacket
+Criticals Mode HypixelPacket
 Criticals Delay 0
 FastStairs Mode NCP
 FastStairs LongJump false
@@ -76,7 +76,7 @@ KillAura FakeSwing false
 KillAura SilentRotation true
 KillAura RandomCenter false
 KillAura FOV 180.0
-LiquidWalk Type NCP
+LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 4.5
 NoFall Mode SpoofGround
@@ -86,7 +86,7 @@ NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 PingSpoof Delay 750
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
@@ -101,7 +101,7 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Speed Type SlowHop
+Speed Mode SlowHop
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -111,7 +111,7 @@ Step Height 1.0
 Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
-Tower Type MotionTP
+Tower Mode MotionTP
 Tower AutoBlock true
 Tower StayAutoBlock false
 Velocity Horizontal 0.0

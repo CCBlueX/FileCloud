@@ -15,7 +15,7 @@ ChestAura ThroughWalls false
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
-Criticals Type Jump
+Criticals Mode Jump
 FastClimb Bypass LAAC
 FastUse Mode AAC
 Fly Mode AAC3.3.12
@@ -24,7 +24,7 @@ Fucker ThroughWalls none
 Fucker Swing true
 Fucker Surroundings true
 HitBox Size 0.4
-IceSpeed Type AAC
+IceSpeed Mode AAC
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
 InventoryCleaner InvOpen true
@@ -63,7 +63,7 @@ NoSlow Consume AAC
 NoSlow Bow AAC
 NoSlow Soulsand false
 NoWeb Mode AAC
-Scaffold Type Expand
+Scaffold Mode Expand
 Scaffold ExpandLength 1
 Scaffold Sprint true
 Scaffold MinDelay 0
@@ -75,9 +75,9 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold KeepRotation false
 Scaffold Zitter false
-Speed Type AACLowHop3
+Speed Mode AACLowHop3
 Step Mode AAC_334
-Tower Type Jump
+Tower Mode Jump
 Tower AutoBlock true
 Tower StayAutoBlock true
 Trigger MaxCPS 12
@@ -101,7 +101,7 @@ BufferSpeed WallMode New
 BufferSpeed HeadBlock false
 BufferSpeed NoHurt true
 NoFall mode AAC_3_3_11
-LiquidWalk type AAC_3.3.11
+LiquidWalk Mode AAC_3.3.11
 # Toggles
 Zoot toggle false
 Regen toggle false

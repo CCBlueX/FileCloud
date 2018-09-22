@@ -20,7 +20,7 @@ ChestStealer TakeRandomized false
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
 ChestStealer AutoClose true
-Criticals Type Packet
+Criticals Mode Packet
 Criticals Delay 500
 Fly Mode NeruxVace
 Fly NeruxVace-Ticks 8
@@ -80,7 +80,7 @@ NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 NoWeb Mode AAC
 PingSpoof Delay 0
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
@@ -96,7 +96,7 @@ Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Speed Type AACLowHop3
+Speed Mode AACLowHop3
 Speed CustomSpeed 0.2
 Speed CustomY 0.42
 Speed CustomTimer 0.98
@@ -113,7 +113,7 @@ Step Height 1.0
 Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
-Tower Type LAAC
+Tower Mode LAAC
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true

@@ -158,7 +158,7 @@ ChestStealer NoCompass false
 ChestStealer AutoClose true
 ConsoleSpammer Mode Payload
 ConsoleSpammer Delay 0
-Criticals Type HypixelPacket
+Criticals Mode HypixelPacket
 Criticals Delay 0
 Damage Mode NCP
 FastClimb Bypass Normal
@@ -174,7 +174,7 @@ Fucker NoHit true
 HighJump Height 1.8
 HighJump Mode Vanilla
 HitBox Size 0.4
-IceSpeed Type AAC
+IceSpeed Mode AAC
 InventoryCleaner MaxDelay 66
 InventoryCleaner MinDelay 16
 InventoryCleaner OpenInv false
@@ -209,7 +209,7 @@ KillAura RandomCenter false
 KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp false
-LiquidWalk Type NCP
+LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 4.88
 NoFall Mode AAC_3_3_11
@@ -223,7 +223,7 @@ NoSlow Soulsand true
 NoSlow CustomReducement 0.22
 NoWeb Mode AAC
 Reach Reach 5.75
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
@@ -246,7 +246,7 @@ ServerCrasher Mode AACNew
 SlimeJump Motion 0.42
 SlimeJump Mode Add
 Sneak Mode Switch
-Speed Type NCPHop
+Speed Mode NCPHop
 Speed CustomSpeed 0.38
 Speed CustomY 0.4
 Speed CustomTimer 0.27
@@ -261,9 +261,9 @@ Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.0
 Step Delay 261
-Teleport Type Minesucht
+Teleport Mode Minesucht
 Timer Speed 1.1
-Tower Type FastMotion2
+Tower Mode FastMotion2
 Tower AutoBlock true
 Tower StayAutoBlock false
 Tower Swing true

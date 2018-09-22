@@ -60,7 +60,7 @@ KillAura FOV 180.0
 KillAura Predict true
 KillAura PredictSize 1
 KillAura FakeSwing true
-LiquidWalk Type NCP
+LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 3.0
 NoSlow Sword NCP
@@ -69,7 +69,7 @@ NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 PingSpoof Delay 750
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 125
 Scaffold MinDelay 100
 Scaffold AutoBlock true
@@ -83,13 +83,13 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 0.8
 Scaffold SpeedModifier 1
-Speed Type SlowHop
+Speed Mode SlowHop
 Step Mode NCP
 Step Height 3.0
 Step Delay 119
 Teams ScoreboardTeam true
 Teams Color true
-Tower Type Motion
+Tower Mode Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
@@ -98,7 +98,7 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
-Criticals Type NoGround
+Criticals Mode NoGround
 FastClimb Bypass Normal
 NoFall Mode SpoofGround
 FastUse Mode AAC

@@ -29,7 +29,7 @@ ChestAura ThroughWalls true
 ChestStealer MaxDelay 100
 ChestStealer MinDelay 0
 ChestStealer TakeRandomized false
-Criticals Type Jump
+Criticals Mode Jump
 FastClimb Bypass OAAC
 FastSlabs Boost 1.7
 FastSlabs LongJump false
@@ -41,7 +41,7 @@ HighJump Height 4.1
 HighJump Mode Vanilla
 HighJump OnlyGlassPane true
 HitBox Size 0.4
-IceSpeed Type AAC
+IceSpeed Mode AAC
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 100
 InventoryCleaner InvOpen true
@@ -87,7 +87,7 @@ NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
 PingSpoof Delay 3500
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold Sprint false
 Scaffold Zitter false
 Scaffold Eagle false
@@ -101,14 +101,14 @@ Scaffold Boost 0
 Scaffold SpeedModifier 1
 SnowSpeed LayerSpeed 1.4
 Spammer Delay 60
-Speed Type AAC4BHop
+Speed Mode AAC4BHop
 Sprint AllDirections true
 Step Mode LAAC
 Step Height 2.0
 TNTBlock Fuse 10
 Teams ScoreboardTeam true
 Teams Color true
-Tower Type FastMotion
+Tower Mode FastMotion
 Tower AutoBlock true
 Trigger MaxCPS 16
 Trigger MinCPS 14
@@ -117,7 +117,7 @@ Velocity ReverseStrength 1.0
 WallClimb Mode AAC
 WallSpeed Speed 1.7
 WaterSpeed Speed 1.2
-LiquidWalk type AAC_3.3.11
+LiquidWalk Mode AAC_3.3.11
 #toggles
 antibot toggle false
 pingspoof toggle false

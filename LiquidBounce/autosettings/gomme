@@ -2,7 +2,7 @@
 load aac
 
 AutoArmor SimulateInventory true
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold Sprint false
 Scaffold Eagle false
 Scaffold MinDelay 250

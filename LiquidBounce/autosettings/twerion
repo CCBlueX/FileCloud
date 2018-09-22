@@ -29,7 +29,7 @@ ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
-Criticals Type Jump
+Criticals Mode Jump
 Criticals Delay 0
 FastUse Mode AAC
 Fly Mode AACv3
@@ -86,7 +86,7 @@ KillAura RandomCenter true
 KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
-LiquidWalk Type AAC_3.3.11
+LiquidWalk Mode AAC_3.3.11
 LongJump Mode AACv3
 LongJump NCPBoost 3.0
 NoFall Mode LAAC
@@ -98,7 +98,7 @@ NoSlow Consume AAC
 NoSlow Bow AAC
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
-Scaffold Type Normal
+Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
@@ -117,7 +117,7 @@ Scaffold ZitterStrength 0.072
 Scaffold Timer 0.9
 Scaffold SpeedModifier 1.179
 Scaffold Counter true
-Speed Type AAC6BHop
+Speed Mode AAC6BHop
 Speed CustomSpeed 0.3
 Speed CustomY 2.19
 Speed CustomTimer 1.0
@@ -129,7 +129,7 @@ Sprint CheckServerSide true
 Step Mode AAC_334
 Step Height 1.0
 Step Delay 0
-Tower Type Jump
+Tower Mode Jump
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
