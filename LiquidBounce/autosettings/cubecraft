@@ -71,8 +71,8 @@ NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 PingSpoof Delay 750
 Scaffold Mode Normal
-Scaffold MaxDelay 125
-Scaffold MinDelay 100
+Scaffold MaxDelay 0
+Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
@@ -82,9 +82,11 @@ Scaffold Eagle false
 Scaffold PlaceableDelay false
 Scaffold KeepRotation true
 Scaffold Zitter false
-Scaffold Timer 0.8
+Scaffold Timer 0.95
 Scaffold SpeedModifier 1
 Speed Mode SlowHop
+Sprint AllDirections false
+Sprint CheckServerSide true
 Step Mode NCP
 Step Height 3.0
 Step Delay 119
