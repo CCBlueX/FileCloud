@@ -121,3 +121,4 @@ Velocity Mode Simple
 AntiBot toggle true
 Criticals toggle true
 PingSpoof toggle true
+NoFall toggle false
