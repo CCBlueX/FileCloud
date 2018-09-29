@@ -12,8 +12,8 @@ AutoClicker MinCPS 8
 AutoPot OpenInv true
 AutoSoup OpenInv true
 ChestAura ThroughWalls false
-ChestStealer MaxDelay 150
-ChestStealer MinDelay 100
+ChestStealer MaxDelay 0
+ChestStealer MinDelay 0
 ChestStealer TakeRandomized true
 Criticals Mode Jump
 FastClimb Bypass LAAC
