@@ -1,0 +1,11 @@
+# AutoSettings for XorAntiCheat (https://www.spigotmc.org/resources/beta-xoranticheat-stop-hackers-on-your-server.60955/)
+# Client Version: b56 or older
+# Minecraft Version: 1.8.9
+
+# Load Vanilla settings
+load vanilla
+
+# Bypass everything (ezpz lol)
+PingSpoof Delay 1000
+PingSpoof MaxDelay 1500
+PingSpoof MinDelay 1000
