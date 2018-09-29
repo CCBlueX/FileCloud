@@ -241,6 +241,7 @@ NoWeb toggle true
 PerfectHorseJump toggle true
 Sprint toggle true
 Step toggle true
+Criticals toggle true
 
 # Targets
 targetDead false
