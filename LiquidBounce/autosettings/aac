@@ -1,6 +1,7 @@
 # AutoSettings for Advanced AntiCheat
 # Tested AAC 3.5.0 on test.kons.co and poke.sexy
 
+# Settings
 AutoArmor MaxDelay 0
 AutoArmor MinDelay 0
 AutoArmor ItemDelay 0
@@ -103,7 +104,8 @@ BufferSpeed HeadBlock false
 BufferSpeed NoHurt true
 NoFall mode AAC3.3.11
 LiquidWalk Mode AAC3.3.11
-# Toggles
+
+# Modules
 Zoot toggle false
 Regen toggle false
 PingSpoof toggle false
@@ -119,4 +121,6 @@ CivBreak toggle false
 ReverseStep toggle false
 AntiCactus toggle true
 WaterSpeed toggle false
+
+# Targets
 targetDead true
