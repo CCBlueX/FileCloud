@@ -15,3 +15,7 @@ Scaffold StayAutoBlock true
 Scaffold KeepRotation true
 Scaffold Zitter false
 targetDead true
+
+# Toggles
+SuperKnockback toggle false
+FastUse toggle false
