@@ -9,3 +9,4 @@ load vanilla
 PingSpoof Delay 1000
 PingSpoof MaxDelay 1500
 PingSpoof MinDelay 1000
+PingSpoof toggle true
