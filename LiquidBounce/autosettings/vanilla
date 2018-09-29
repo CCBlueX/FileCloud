@@ -232,8 +232,8 @@ AntiCactus toggle true
 FastClimb toggle true
 Regen toggle true
 Zoot toggle true
-VehicleOneHit true
-SuperKnockback true
+VehicleOneHit toggletrue
+SuperKnockback toggle true
 PingSpoof toggle false
 NoJumpDelay toggle true
 NoSlow toggle true
