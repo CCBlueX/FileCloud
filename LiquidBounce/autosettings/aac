@@ -1,9 +1,9 @@
 # AutoSettings for Advanced AntiCheat
 # Tested AAC 3.5.0 on test.kons.co and poke.sexy
 
-AutoArmor MaxDelay 100
-AutoArmor MinDelay 75
-AutoArmor ItemDelay 1300
+AutoArmor MaxDelay 0
+AutoArmor MinDelay 0
+AutoArmor ItemDelay 0
 AutoArmor InvOpen false
 AutoArmor SimulateInventory false
 AutoArmor NoMove false
