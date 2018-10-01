@@ -40,7 +40,7 @@ KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Switch
 KillAura MultiMode NCP
-KillAura ThroughWalls false
+KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
@@ -110,4 +110,4 @@ AntiBot toggle true
 NoSlow toggle true
 Velocity toggle true
 PingSpoof toggle true
-Criticals toggle false
+Criticals toggle true
