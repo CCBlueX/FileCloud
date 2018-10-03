@@ -15,6 +15,13 @@ AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
 AutoSword SpoofItem false
+AutoArmor MaxDelay 200
+AutoArmor MinDelay 100
+AutoArmor InvOpen true
+AutoArmor SimulateInventory true
+AutoArmor NoMove false
+AutoArmor ItemDelay 300
+AutoArmor Hotbar true
 ChestAura Delay 50
 ChestAura ThroughWalls false
 ChestAura VisualSwing false
