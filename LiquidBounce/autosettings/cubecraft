@@ -144,6 +144,8 @@ step toggle true
 superknockback toggle true
 nofall toggle false
 bufferspeed toggle false
+Derp toggle false
+SkinDerp toggle false
 chat Dont use NoFall.
 chat You can get out of the box with .vclip -2.67 (Credits to CzechHek)
 chat Settings made by scorpion3013 [KLL] | 02.10.2018
