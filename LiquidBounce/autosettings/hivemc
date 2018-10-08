@@ -87,7 +87,8 @@ NoSlow Sword Vanilla
 NoSlow Consume AAC
 NoSlow Bow AAC
 NoWeb Mode AAC
-PingSpoof Delay 3500
+PingSpoof MaxDelay 1200
+PingSpoof MinDelay 1000
 Scaffold Mode Normal
 Scaffold Sprint false
 Scaffold Zitter false

@@ -126,6 +126,8 @@ NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 NoWeb Mode AAC
 PingSpoof Delay 1000
+PingSpoof MaxDelay 1200
+PingSpoof MinDelay 1000
 Scaffold Mode Expand
 Scaffold MaxDelay 0
 Scaffold MinDelay 0

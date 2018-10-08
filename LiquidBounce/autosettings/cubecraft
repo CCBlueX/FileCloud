@@ -66,8 +66,9 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
-KillAura BlockRate 5
+KillAura AutoBlock true
+KillAura InteractAutoBlock true
+KillAura BlockRate 100
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored false
@@ -88,12 +89,14 @@ LiquidWalk Mode NCP
 NoRotateSet Confirm false
 NoRotateSet ConfirmIllegalRotation true
 NoRotateSet NoZero true
-NoSlow Sword NCP
+NoSlow Sword Vanilla
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
 NoWeb Mode AAC
 PingSpoof Delay 1200
+PingSpoof MaxDelay 1200
+PingSpoof MinDelay 1200
 ReverseStep Motion 1
 Scaffold Mode Normal
 Scaffold MaxDelay 0

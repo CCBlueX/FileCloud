@@ -84,7 +84,6 @@ NoSlow Bow OFF
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
 NoWeb Mode AAC
-PingSpoof Delay 0
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0

@@ -85,7 +85,8 @@ NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.6
-PingSpoof Delay 750
+PingSpoof MaxDelay 750
+PingSpoof MinDelay 500
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
