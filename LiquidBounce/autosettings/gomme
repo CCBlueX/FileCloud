@@ -23,5 +23,5 @@ targetDead true
 Velocity Mode AAC
 
 # Toggles
-SuperKnockback toggle false
+SuperKnockback toggle true
 FastUse toggle false
