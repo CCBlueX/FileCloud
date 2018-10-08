@@ -40,4 +40,11 @@
         "img": "https://img.liquidbounce.net/uxc/2018-09-23_00-21-48_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=1877"  
     }
+    ,
+    "9": {
+        "title": "LiquidBounce 1.8.9 | b56",
+        "video": "https://img.ccbluex.net/moc/1.8.0_51%202018.10.08%20-%2020.14.22.03.mp4",
+        "poster": "https://img.liquidbounce.net/uxc/2018-10-08_21-02-01_chrome.jpg",
+        "changelogURL": "https://forum.ccbluex.net/thread.php?id=653"  
+    }
 }
