@@ -94,7 +94,7 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint true
 Scaffold Swing false
-Scaffold Search true
+Scaffold Search false
 Scaffold Eagle false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
@@ -123,3 +123,4 @@ AntiBot toggle true
 Criticals toggle true
 PingSpoof toggle true
 NoFall toggle false
+chat Do NOT use Scaffold diagonally if you do not want to get banned by WatchDog eventually.
