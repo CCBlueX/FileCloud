@@ -143,8 +143,6 @@ noslow toggle true
 velocity toggle true
 Pingspoof toggle true
 criticals toggle true
-step toggle true
-superknockback toggle true
 nofall toggle false
 bufferspeed toggle false
 Derp toggle false
