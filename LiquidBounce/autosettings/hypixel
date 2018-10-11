@@ -59,7 +59,7 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura InteractAutoBlock true
 KillAura BlockRate 100
 KillAura AAC false
