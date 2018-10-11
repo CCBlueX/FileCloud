@@ -59,8 +59,9 @@ KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
-KillAura BlockRate 60
+KillAura AutoBlock true
+KillAura InteractAutoBlock true
+KillAura BlockRate 100
 KillAura AAC false
 KillAura RayCast true
 KillAura RayCastIgnored false
@@ -75,12 +76,13 @@ KillAura MinTurnSpeed 60.0
 KillAura FakeSwing false
 KillAura SilentRotation true
 KillAura RandomCenter false
+KillAura Outborder false
 KillAura FOV 180.0
 LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 4.5
 NoFall Mode SpoofGround
-NoSlow Sword Off
+NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
@@ -123,4 +125,5 @@ AntiBot toggle true
 Criticals toggle true
 PingSpoof toggle true
 NoFall toggle false
+NoSlow toggle true
 chat Do NOT use Scaffold diagonally if you do not want to get banned by WatchDog eventually.
