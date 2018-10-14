@@ -36,7 +36,7 @@ Criticals Mode Packet
 Criticals Delay 350
 FastBreak BreakDamage 0.85
 FastUse Mode NCP
-Fly Mode CubeCraft
+Fly Mode InfinityVCubeCraft
 Fucker id 122
 Fucker Instant false
 Fucker ThroughWalls Around
