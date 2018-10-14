@@ -137,7 +137,9 @@ Tower TeleportNoMotion false
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-
+VClip Mode Teleport
+VClip Y -2.67
+#toggles
 antibot toggle true
 noslow toggle true
 velocity toggle true
