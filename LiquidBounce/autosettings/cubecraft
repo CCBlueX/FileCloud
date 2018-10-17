@@ -14,26 +14,33 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
-AutoSword SpoofItem false
+AtAllProvider MaxDelay 3214
+AtAllProvider MinDelay 2857
 AutoArmor MaxDelay 200
 AutoArmor MinDelay 100
 AutoArmor InvOpen true
-AutoArmor SimulateInventory true
+AutoArmor SimulateInventory false
 AutoArmor NoMove false
 AutoArmor ItemDelay 300
 AutoArmor Hotbar true
+AutoPot OpenInv true
+AutoPot Mode Normal
+AutoRespawn Instant false
+AutoSoup OpenInv true
+AutoWeapon SpoofItem false
 ChestAura Delay 50
 ChestAura ThroughWalls false
 ChestAura VisualSwing false
 ChestAura Chest 54
 ChestStealer MaxDelay 111
-ChestStealer MinDelay 50
+ChestStealer MinDelay 55
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
 ChestStealer AutoClose true
+ChestStealer ChestTitle false
 Criticals Mode Packet
-Criticals Delay 350
+Criticals Delay 450
 FastBreak BreakDamage 0.85
 FastUse Mode NCP
 Fly Mode InfinityVCubeCraft
@@ -43,22 +50,21 @@ Fucker ThroughWalls Around
 Fucker Swing true
 Fucker Surroundings false
 Fucker Action Destroy
-Fucker NoHit false
-HitBox Size 0.4
+Fucker NoHit true
 InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen true
 InventoryCleaner SimulateInventory false
 InventoryCleaner NoMove false
 InventoryCleaner Hotbar true
-InventoryCleaner RandomSlot true
+InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 12
 KillAura MinCPS 8
-KillAura HurtTime 10
-KillAura Range 5.55
+KillAura HurtTime 8
+KillAura Range 5.1
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Single
@@ -71,33 +77,33 @@ KillAura InteractAutoBlock true
 KillAura BlockRate 100
 KillAura AAC true
 KillAura RayCast true
-KillAura RayCastIgnored false
-KillAura LivingRayCast true
+KillAura RayCastIgnored true
+KillAura LivingRayCast false
 KillAura Predict true
 KillAura PredictSize 1.0
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
-KillAura MaxTurnSpeed 80.69
-KillAura MinTurnSpeed 40.00
+KillAura MaxTurnSpeed 60.0
+KillAura MinTurnSpeed 40.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
 LiquidWalk Mode NCP
-NoRotateSet Confirm false
+NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation true
 NoRotateSet NoZero true
-NoSlow Sword Vanilla
+NoSlow Sword Custom
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
+NoSlow CustomReducement 0.31
 NoWeb Mode AAC
-PingSpoof Delay 1200
 PingSpoof MaxDelay 1200
 PingSpoof MinDelay 1200
-ReverseStep Motion 1
+ReverseStep Motion 1.0
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
@@ -112,6 +118,9 @@ Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
 Scaffold KeepRotation false
 Scaffold Zitter false
+Scaffold ZitterMode Smooth
+Scaffold ZitterSpeed 0.13
+Scaffold ZitterStrength 0.072
 Scaffold Timer 0.95
 Scaffold SpeedModifier 1.0
 Sneak Mode Legit
@@ -134,11 +143,12 @@ Tower TeleportHeight 1.12
 Tower TeleportDelay 2
 Tower TeleportGround true
 Tower TeleportNoMotion false
+VClip Mode Teleport
+VClip Y 4
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-VClip Mode Teleport
-VClip Y -2.67
+
 #toggles
 antibot toggle true
 noslow toggle true
@@ -149,6 +159,9 @@ nofall toggle false
 bufferspeed toggle false
 Derp toggle false
 SkinDerp toggle false
+superknockback toggle false
 chat Dont use NoFall.
-chat You can get out of the box with .vclip -2.67 (Credits to CzechHek)
-chat Settings made by scorpion3013 [KLL] | 02.10.2018
+chat Use the vclip module to get out of the box.
+chat Config tested for 40mins without a ban.
+chat SuperKnockBack is toggled off cause it seems to have a delayed ban.
+chat Settings made by \u00A74scopion3013\u00A77 [\u00A7bKLL\u00A77]\u00A7e | 17.10.2018
