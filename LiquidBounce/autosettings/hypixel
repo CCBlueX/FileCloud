@@ -52,7 +52,7 @@ KillAura MaxCPS 11
 KillAura MinCPS 9
 KillAura HurtTime 10
 KillAura Range 4.15
-KillAura RangeSprintReducement 0.0
+KillAura RangeSprintReducement 0.1
 KillAura Priority Distance
 KillAura TargetMode Switch
 KillAura MultiMode NCP
@@ -62,9 +62,9 @@ KillAura KeepSprint true
 KillAura AutoBlock false
 KillAura InteractAutoBlock true
 KillAura BlockRate 100
-KillAura AAC false
+KillAura AAC true
 KillAura RayCast true
-KillAura RayCastIgnored false
+KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura Predict true
 KillAura PredictSize 1.0
