@@ -112,7 +112,7 @@ Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing true
 Scaffold Search true
-Scaffold Eagle false
+Scaffold Eagle true
 Scaffold PlaceableDelay false
 Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
