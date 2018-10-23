@@ -99,7 +99,7 @@ NoSlow Sword Custom
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
-NoSlow CustomReducement 0.31
+NoSlow CustomReducement 0.15
 NoWeb Mode AAC
 PingSpoof MaxDelay 1200
 PingSpoof MinDelay 1200
