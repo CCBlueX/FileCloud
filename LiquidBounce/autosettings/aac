@@ -123,6 +123,7 @@ CivBreak toggle false
 ReverseStep toggle false
 AntiCactus toggle true
 WaterSpeed toggle false
+NoRotateSet toggle true
 
 # Targets
 targetDead true
