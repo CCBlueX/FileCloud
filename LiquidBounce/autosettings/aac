@@ -104,6 +104,8 @@ BufferSpeed HeadBlock false
 BufferSpeed NoHurt true
 NoFall mode AAC3.3.11
 LiquidWalk Mode AAC3.3.11
+Teleport Mode AAC3.5.0
+Phase Mode AAC3.5.0
 
 # Modules
 Zoot toggle false
