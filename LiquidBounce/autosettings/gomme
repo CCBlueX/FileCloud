@@ -20,7 +20,8 @@ Scaffold Zitter false
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 targetDead true
-Velocity Mode AAC
+Velocity Mode AACZero
+Teleport Mode AAC3.5.0
 
 # Toggles
 SuperKnockback toggle true
