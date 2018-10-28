@@ -51,5 +51,11 @@
         "video": "https://img.liquidbounce.net/uxc/liquidlauncher-cc-fly.mp4",
         "poster": "https://img.liquidbounce.net/uxc/2018-10-14_18-19-19_chrome.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=2345"  
+    },
+    "11": {
+        "title": "LiquidBounce 1.8.9 | b58",
+        "video": "https://img.ccbluex.net/moc/2018-10-28_23-02-29.mp4",
+        "poster": "https://img.liquidbounce.net/uxc/2018-10-28_23-43-01_chrome.png",
+        "changelogURL": "https://forum.ccbluex.net/thread.php?pid=2707#p2707"
     }
 }
