@@ -21,6 +21,11 @@ ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 targetDead true
 Velocity Mode AACZero
+NoSlow Sword Vanilla
+KillAura AutoBlock true
+KillAura InteractAutoBlock false
+Tower Mode Jump
+Tower JumpMotion 0.41
 
 # Toggles
 SuperKnockback toggle true
