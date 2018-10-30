@@ -26,6 +26,9 @@ KillAura AutoBlock true
 KillAura InteractAutoBlock false
 Tower Mode Jump
 Tower JumpMotion 0.41
+Fucker Instant true
+Fucker ThroughWalls Around
+Fucker Surroundings false
 
 # Toggles
 SuperKnockback toggle true
