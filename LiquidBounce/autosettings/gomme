@@ -20,7 +20,8 @@ Scaffold Zitter false
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 targetDead true
-Velocity Mode AACZero
+# Waiting for https://github.com/CCBlueX/LiquidBounce1.8-Issues/issues/2699
+# Velocity Mode AACZero
 NoSlow Sword Vanilla
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
