@@ -22,6 +22,7 @@ ChestStealer MinDelay 100
 targetDead true
 # Waiting for https://github.com/CCBlueX/LiquidBounce1.8-Issues/issues/2699
 # Velocity Mode AACZero
+Velocity Mode AAC
 NoSlow Sword Vanilla
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
