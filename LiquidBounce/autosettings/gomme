@@ -26,7 +26,7 @@ Velocity Mode AAC
 NoSlow Sword Vanilla
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
-KillAura BlockRate 100
+KillAura BlockRate 75
 Tower Mode Jump
 Tower JumpMotion 0.41
 Fucker Instant true
