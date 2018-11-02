@@ -6,7 +6,7 @@ AutoArmor MinDelay 75
 AutoArmor ItemDelay 1300
 AutoArmor SimulateInventory true
 Scaffold Mode Normal
-Scaffold Sprint true
+Scaffold Sprint false
 Scaffold Eagle false
 Scaffold MinDelay 175
 Scaffold MaxDelay 80
