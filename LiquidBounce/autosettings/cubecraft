@@ -153,7 +153,7 @@ Velocity Mode Simple
 antibot toggle true
 noslow toggle true
 velocity toggle true
-Pingspoof toggle true
+Pingspoof toggle false
 criticals toggle true
 nofall toggle false
 bufferspeed toggle false
