@@ -125,5 +125,8 @@ AntiCactus toggle true
 WaterSpeed toggle false
 NoRotateSet toggle true
 
+# AAC KillAura 3.6.3 "tried to deal additonal knockback"
+SuperKnockback toggle false
+
 # Targets
 targetDead true
