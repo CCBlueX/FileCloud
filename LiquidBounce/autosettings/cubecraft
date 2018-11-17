@@ -1,4 +1,4 @@
-#autosetttings for cubecraft.net
+# autosettings for cubecraft.net
 AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot EntityID false
@@ -14,26 +14,15 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
-AtAllProvider MaxDelay 3214
-AtAllProvider MinDelay 2857
-AutoArmor MaxDelay 200
-AutoArmor MinDelay 100
-AutoArmor InvOpen true
-AutoArmor SimulateInventory false
+AutoArmor MaxDelay 35
+AutoArmor MinDelay 20
+AutoArmor InvOpen false
+AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 300
 AutoArmor Hotbar true
-AutoPot OpenInv true
-AutoPot Mode Normal
-AutoRespawn Instant false
-AutoSoup OpenInv true
-AutoWeapon SpoofItem false
-ChestAura Delay 50
-ChestAura ThroughWalls false
-ChestAura VisualSwing false
-ChestAura Chest 54
-ChestStealer MaxDelay 111
-ChestStealer MinDelay 55
+ChestStealer MaxDelay 20
+ChestStealer MinDelay 20
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
@@ -41,7 +30,9 @@ ChestStealer AutoClose true
 ChestStealer ChestTitle false
 Criticals Mode Packet
 Criticals Delay 450
-FastBreak BreakDamage 0.85
+FastClimb Mode Normal
+FastStairs Mode NCP
+FastStairs LongJump false
 FastUse Mode NCP
 Fly Mode InfinityVCubeCraft
 Fucker id 122
@@ -52,26 +43,25 @@ Fucker Surroundings false
 Fucker Action Destroy
 Fucker NoHit true
 InventoryCleaner MaxDelay 75
-InventoryCleaner MinDelay 75
-InventoryCleaner InvOpen true
-InventoryCleaner SimulateInventory false
+InventoryCleaner MinDelay 45
+InventoryCleaner InvOpen false
+InventoryCleaner SimulateInventory true
 InventoryCleaner NoMove false
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
-InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 8
-KillAura Range 5.1
+KillAura Range 5.5
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Single
 KillAura MultiMode NCP
 KillAura ThroughWalls false
 KillAura Swing true
-KillAura KeepSprint true
+KillAura KeepSprint false
 KillAura AutoBlock true
 KillAura InteractAutoBlock true
 KillAura BlockRate 100
@@ -92,18 +82,14 @@ KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
 LiquidWalk Mode NCP
-NoRotateSet Confirm true
-NoRotateSet ConfirmIllegalRotation true
-NoRotateSet NoZero true
+LongJump Mode NCP
+LongJump NCPBoost 3.02
+NoFall Mode SpoofGround
 NoSlow Sword Custom
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
 NoSlow CustomReducement 0.15
-NoWeb Mode AAC
-PingSpoof MaxDelay 1200
-PingSpoof MinDelay 1200
-ReverseStep Motion 1.0
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
@@ -114,18 +100,16 @@ Scaffold Swing true
 Scaffold Search true
 Scaffold Eagle true
 Scaffold PlaceableDelay false
-Scaffold BlocksToEagle 0
+Scaffold BlocksToEagle 1
 Scaffold ExpandLength 1
-Scaffold KeepRotation false
+Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold ZitterMode Smooth
-Scaffold ZitterSpeed 0.13
-Scaffold ZitterStrength 0.072
-Scaffold Timer 0.95
+Scaffold ZitterSpeed 0.1
+Scaffold ZitterStrength 0.05
+Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Sneak Mode Legit
-Sneak StopMove true
-Speed Mode NCPHop
+Speed Mode OnGround
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -133,35 +117,60 @@ Sprint CheckServerSide true
 Step Mode NCP
 Step Height 4.5
 Step Delay 120
-Teams ScoreboardTeam true
-Teams Color true
 Tower Mode Teleport
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
+Tower JumpMotion 0.4
+Tower ConstantMotion 1.0
+Tower ConstantMotionJumpGround 0.76
 Tower TeleportHeight 1.12
 Tower TeleportDelay 2
 Tower TeleportGround true
 Tower TeleportNoMotion false
-VClip Mode Teleport
-VClip Y 4
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
+Velocity ReverseStrength 0.5
+Velocity Reverse2Strength 0.05
+# toggles
+VehicleOneHit toggle true
+FastClimb toggle true
+InventoryMove toggle true
+LiquidWalk toggle true
+NoSlow toggle true
+NoWeb toggle true
+AntiBot toggle true
+MidClick toggle true
+AntiCactus toggle true
+FastUse toggle true
+Reach toggle true
+AutoArmor toggle true
+Criticals toggle true
+SuperKnockback toggle true
+Velocity toggle true
+ESP toggle true
+Fullbright toggle true
+HUD toggle true
+HeadRotations toggle true
+ItemESP toggle true
+Projectiles toggle true
+StorageESP toggle true
+AntiBlind toggle true
+CameraClip toggle true
+TrueSight toggle true
+NoFall toggle false
+PingSpoof toggle false
+targetPlayer true
+targetMobs true
+targetAnimals false
+targetDead false
 
-#toggles
-antibot toggle true
-noslow toggle true
-velocity toggle true
-Pingspoof toggle false
-criticals toggle true
-nofall toggle false
-bufferspeed toggle false
-Derp toggle false
-SkinDerp toggle false
-superknockback toggle false
 chat Dont use NoFall.
 chat Use the vclip module to get out of the box.
-chat Config tested for 40mins without a ban.
-chat SuperKnockBack is toggled off cause it seems to have a delayed ban.
-chat Settings made by \u00A74scopion3013\u00A77 [\u00A7bKLL\u00A77]\u00A7e | 17.10.2018
+chat Pingspoof is toggled off, cause it seems to got fixed.
+chat Config tested for 2hours without a ban.
+chat Don't use killaura while is speed enabled.
+chat Only use scaffold straight. 
+chat Tower should only be used for ~25 blocks.
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 17.11.2018
