@@ -95,6 +95,7 @@ KillAura Priority Direction
 KillAura TargetMode Switch
 KillAura MultiMode NCP
 KillAura ThroughWalls true
+KillAura ThroughWallsRange 5.69
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true

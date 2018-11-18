@@ -23,6 +23,7 @@ InventoryCleaner MaxDelay 100
 InventoryMove AACAdditionPro false
 KillAura KeepSprint true
 KillAura ThroughWalls true
+KillAura ThroughWallsRange 3.8
 KillAura AAC false
 KillAura MultiMode NCP
 KillAura HurtTime true

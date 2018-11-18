@@ -18,6 +18,7 @@ ChestStealer MinDelay 2
 InventoryMove AACAdditionPro true
 KillAura KeepSprint true
 KillAura ThroughWalls true
+KillAura ThroughWallsRange 4.2
 KillAura AAC true
 KillAura MultiMode Vanilla
 KillAura Range 4.2

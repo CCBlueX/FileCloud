@@ -59,7 +59,7 @@ KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Single
 KillAura MultiMode NCP
-KillAura ThroughWalls false
+KillAura ThroughWallsRange 0
 KillAura Swing true
 KillAura KeepSprint false
 KillAura AutoBlock true

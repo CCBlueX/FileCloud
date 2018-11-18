@@ -125,6 +125,7 @@ KillAura Priority Health
 KillAura TargetMode Multi
 KillAura MultiMode Vanilla
 KillAura ThroughWalls true
+KillAura ThroughWallsRange 8
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true

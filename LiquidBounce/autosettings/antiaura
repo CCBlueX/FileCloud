@@ -50,6 +50,7 @@ KillAura Priority Direction
 KillAura TargetMode Switch
 KillAura MultiMode Vanilla
 KillAura ThroughWalls true
+KillAura ThroughWallsRange 4.35
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
