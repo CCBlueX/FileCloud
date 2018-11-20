@@ -4,7 +4,7 @@ Fly Mark true
 Fucker id 122
 Step Mode NCP
 Kick Mode Quit
-NoSlow Bow NCP
+NoSlow Bow Custom
 NoWeb Mode AAC
 Step Delay 120
 AutoPot Delay 0
@@ -53,7 +53,7 @@ AutoPot Health 15.0
 AutoPot Mode Normal
 BlockWalk Snow true
 BowAimbot Mark true
-Criticals Delay 450
+Criticals Delay 250
 FastStairs Mode NCP
 KillAura HurtTime 8
 KillAura Mark false
@@ -74,7 +74,7 @@ AutoClicker MinCPS 8
 AutoLeave Health 8.0
 AutoSoup Health 15.0
 Fucker Instant false
-KillAura Swing false
+KillAura Swing true
 Scaffold Mode Normal
 Scaffold Search true
 Tower AutoBlock true
@@ -91,7 +91,7 @@ AutoSoup OpenInv true
 Blink PulseDelay 1000
 BlockWalk Cobweb true
 BowAimbot Silent true
-Criticals Mode Packet
+Criticals Mode Hop
 FastClimb Mode Normal
 Fly VanillaSpeed 1.39
 Fly MineplexSpeed 1.0
@@ -242,4 +242,4 @@ chat Tower should only be used for ~25 blocks.
 chat Don't use killaura while speed is enable.
 chat Use the vclip module to get out of the box.
 chat Pingspoof is toggled off, cause it seems to got fixed.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 18.11.2018
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 20.11.2018
