@@ -107,7 +107,7 @@ KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura HurtTime 8
 KillAura InteractAutoBlock true
-KillAura KeepSprint tue
+KillAura KeepSprint true
 KillAura LivingRayCast false
 KillAura Mark false
 KillAura MaxCPS 12
@@ -231,8 +231,10 @@ zoot toggle false
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
+chat Cubecraft can ip ban you for so 10 min.
 chat Tower should only be used for ~25 blocks.
 chat Don't use killaura while speed is enable.
 chat Use the vclip module to get out of the box.
 chat Pingspoof is toggled off, cause it seems to got fixed.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 22.11.2018
+chat The Settings are not for eggwars
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 23.11.2018
