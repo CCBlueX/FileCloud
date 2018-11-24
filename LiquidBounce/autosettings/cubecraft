@@ -15,7 +15,7 @@ AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot WasInvisible false
 AutoArmor Hotbar true
-AutoArmor InvOpen false
+AutoArmor InvOpen true
 AutoArmor ItemDelay 300
 AutoArmor MaxDelay 50
 AutoArmor MinDelay 30
@@ -88,7 +88,7 @@ GhostHand id 122
 HitBox Size 0.4
 IceSpeed Mode NCP
 InventoryCleaner Hotbar true
-InventoryCleaner InvOpen false
+InventoryCleaner InvOpen true
 InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 45
 InventoryCleaner NoMove false
@@ -191,7 +191,7 @@ Tower Mode Teleport
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
-Tower TeleportDelay 2
+Tower TeleportDelay 3
 Tower TeleportGround true
 Tower TeleportHeight 1.12
 Tower TeleportNoMotion false
