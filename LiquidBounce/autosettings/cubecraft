@@ -118,7 +118,7 @@ KillAura MultiMode NCP
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura Outborder false
-KillAura Predict true
+KillAura Predict false
 KillAura PredictSize 1.0
 KillAura Priority Health
 KillAura RandomCenter false
@@ -187,7 +187,7 @@ Tower AutoBlock true
 Tower ConstantMotion 1.0
 Tower ConstantMotionJumpGround 0.76
 Tower JumpMotion 0.4
-Tower Mode Teleport
+Tower Mode Motion
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
@@ -231,10 +231,9 @@ zoot toggle false
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
-chat Cubecraft can ip ban you for so 10 min.
-chat Tower should only be used for ~25 blocks.
+chat Cubecraft can ip ban you for so 10-20 min.
 chat Don't use killaura while speed is enable.
 chat Use the vclip module to get out of the box.
 chat Pingspoof is toggled off, cause it seems to got fixed.
 chat The Settings are not for eggwars
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 23.11.2018
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 25.11.2018
