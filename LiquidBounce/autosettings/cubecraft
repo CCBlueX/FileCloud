@@ -21,20 +21,6 @@ AutoArmor MaxDelay 50
 AutoArmor MinDelay 30
 AutoArmor NoMove false
 AutoArmor SimulateInventory true
-AutoClicker Left true
-AutoClicker MaxCPS 12
-AutoClicker MinCPS 8
-AutoClicker Right true
-AutoLeave Health 8.0
-AutoLeave Mode Quit
-AutoPot Delay 0
-AutoPot Health 15.0
-AutoPot Mode Normal
-AutoRespawn Instant false
-AutoSoup Delay 0
-AutoSoup Health 15.0
-AutoSoup OpenInv true
-AutoWeapon SpoofItem false
 Blink Pulse false
 Blink PulseDelay 1000
 BlockWalk Cobweb true
@@ -57,9 +43,6 @@ ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
 Criticals Delay 250
 Criticals Mode Hop
-Damage Damage 1
-Damage Mode NCP
-Derp Spinny true
 FastBreak BreakDamage 1.0
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
@@ -77,14 +60,6 @@ Fly Mode NeruxVace
 Fly NCPMotion 0.0
 Fly NeruxVace-Ticks 5
 Fly VanillaSpeed 1.39
-Fucker Action Destroy
-Fucker id 122
-Fucker Instant false
-Fucker NoHit true
-Fucker Surroundings true
-Fucker Swing false
-Fucker ThroughWalls None
-GhostHand id 122
 HitBox Size 0.4
 IceSpeed Mode NCP
 InventoryCleaner Hotbar true
@@ -97,7 +72,6 @@ InventoryCleaner SimulateInventory true
 InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-Kick Mode Quit
 KillAura AAC true
 KillAura AutoBlock true
 KillAura BlockRate 100
@@ -109,7 +83,6 @@ KillAura HurtTime 8
 KillAura InteractAutoBlock true
 KillAura KeepSprint true
 KillAura LivingRayCast false
-KillAura Mark false
 KillAura MaxCPS 12
 KillAura MaxTurnSpeed 60.0
 KillAura MinCPS 8
@@ -120,9 +93,9 @@ KillAura NoInvDelay 200
 KillAura Outborder false
 KillAura Predict false
 KillAura PredictSize 1.0
-KillAura Priority Health
+KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.50
+KillAura Range 5.45
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -135,14 +108,12 @@ LongJump Mode NCP
 LongJump NCPBoost 3.00
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
-NoRotateSet NoZero true
 NoSlow Bow Custom
 NoSlow Consume NCP
 NoSlow CustomReducement 0.15
 NoSlow Soulsand true
 NoSlow Sword Custom
 NoWeb Mode AAC
-Nuker Radius 5.2
 Reach Reach 4.8
 ReverseStep Motion 1.0
 Scaffold AutoBlock true
@@ -153,9 +124,9 @@ Scaffold KeepRotation true
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold Mode Normal
-Scaffold PlaceableDelay false
+Scaffold PlaceableDelay true
 Scaffold Search true
-Scaffold SpeedModifier 1.0
+Scaffold SpeedModifier 1.15
 Scaffold Sprint false
 Scaffold StayAutoBlock true
 Scaffold Swing true
@@ -204,7 +175,6 @@ Velocity ReverseStrength 0.5
 Velocity Vertical 0.0
 WallClimb CheckerClimbMotion 0.0
 WaterFly Motion 0.5
-WaterSpeed Speed 1.26
 
 # toggles
 AntiBot toggle true
@@ -224,16 +194,15 @@ Step toggle true
 SuperKnockback toggle true
 targetDead false
 targetPlayer true
+Vehicleonehit toggle true
 Velocity toggle true
 zoot toggle false
-
 
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
-chat Cubecraft can ip ban you for so 10-20 min.
 chat Don't use killaura while speed is enable.
 chat Use the vclip module to get out of the box.
 chat Pingspoof is toggled off, cause it seems to got fixed.
-chat The Settings are not for eggwars
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 25.11.2018
+chat The Settings are not for eggwars and for a little more info check out the changelog.
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 27.11.2018
