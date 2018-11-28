@@ -102,7 +102,7 @@ BufferSpeed Wall true
 BufferSpeed WallMode New
 BufferSpeed HeadBlock false
 BufferSpeed NoHurt true
-NoFall mode AAC3.3.11
+NoFall mode AAC3.3.15
 LiquidWalk Mode AAC3.3.11
 Teleport Mode AAC3.5.0
 Phase Mode AAC3.5.0
