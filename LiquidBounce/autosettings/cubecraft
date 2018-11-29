@@ -23,8 +23,6 @@ AutoArmor NoMove false
 AutoArmor SimulateInventory true
 Blink Pulse false
 Blink PulseDelay 1000
-BlockWalk Cobweb true
-BlockWalk Snow true
 BowAimbot Mark true
 BowAimbot Predict true
 BowAimbot PredictSize 5.0
@@ -81,7 +79,7 @@ KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura HurtTime 8
 KillAura InteractAutoBlock true
-KillAura KeepSprint true
+KillAura KeepSprint false
 KillAura LivingRayCast false
 KillAura MaxCPS 12
 KillAura MaxTurnSpeed 60.0
@@ -95,7 +93,7 @@ KillAura Predict false
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.45
+KillAura Range 5.44
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -126,7 +124,7 @@ Scaffold MinDelay 0
 Scaffold Mode Normal
 Scaffold PlaceableDelay true
 Scaffold Search true
-Scaffold SpeedModifier 1.15
+Scaffold SpeedModifier 1.05
 Scaffold Sprint false
 Scaffold StayAutoBlock true
 Scaffold Swing true
@@ -144,21 +142,17 @@ Speed CustomTimer 1.0
 Speed CustomY 0.2
 Speed MineplexGround-Speed 0.65
 Speed Mode SNCPBHop
-Sprint AllDirections false
-Sprint Blindness true
-Sprint CheckServerSide true
 Sprint Food true
 Step Delay 120
 Step Height 4.5
 Step Mode NCP
 Teams Color true
 Teams ScoreboardTeam true
-Teleport Mode Blink
 Tower AutoBlock true
 Tower ConstantMotion 1.0
 Tower ConstantMotionJumpGround 0.76
 Tower JumpMotion 0.4
-Tower Mode Motion
+Tower Mode AAC3.3.9
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
@@ -166,15 +160,13 @@ Tower TeleportDelay 3
 Tower TeleportGround true
 Tower TeleportHeight 1.12
 Tower TeleportNoMotion false
-VClip Mode Teleport
-VClip Y 4.0
+VClip Mode AAC3.3.9
+VClip Y -2.70
 Velocity Horizontal 0.0
 Velocity Mode Simple
 Velocity Reverse2Strength 0.05
 Velocity ReverseStrength 0.5
 Velocity Vertical 0.0
-WallClimb CheckerClimbMotion 0.0
-WaterFly Motion 0.5
 
 # toggles
 AntiBot toggle true
@@ -198,11 +190,13 @@ Vehicleonehit toggle true
 Velocity toggle true
 zoot toggle false
 
-chat &lChangelog with more info: https://pastebin.com/zeAGDw3Q
+chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
 chat Don't use killaura while speed is enable.
 chat Use the vclip module to get out of the box.
-chat Pingspoof is toggled off, cause it seems to got fixed.
-chat The Settings are not for Eggwars.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 27.11.2018
+chat The settings are not for Eggwars
+chat For Improve settings contact: Barbiehunter#1337
+chat step fixed, you can use it with Pingspoof but you become much autobans
+chat For more infos check the changelog
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 29.11.2018
