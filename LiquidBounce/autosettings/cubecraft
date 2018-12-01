@@ -28,8 +28,6 @@ BowAimbot Predict true
 BowAimbot PredictSize 5.0
 BowAimbot Priority Direction
 BowAimbot Silent true
-ChestAura Chest 54
-ChestAura Delay 50
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestStealer AutoClose true
@@ -39,12 +37,11 @@ ChestStealer MinDelay 40
 ChestStealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
+Criticals Mode Packet
 Criticals Delay 250
-Criticals Mode Hop
 FastBreak BreakDamage 1.0
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
-FastStairs Mode NCP
 FastUse Mode NCP
 Fly AAC3.3.12-Motion 10.0
 Fly AAC3.3.13-Motion 10.0
@@ -58,8 +55,6 @@ Fly Mode NeruxVace
 Fly NCPMotion 0.0
 Fly NeruxVace-Ticks 5
 Fly VanillaSpeed 1.39
-HitBox Size 0.4
-IceSpeed Mode NCP
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen true
 InventoryCleaner MaxDelay 75
@@ -71,14 +66,14 @@ InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura AAC true
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura BlockRate 100
 KillAura FailRate 0.0
 KillAura FakeSharp false
-KillAura FakeSwing true
+KillAura FakeSwing false
 KillAura FOV 180.0
 KillAura HurtTime 8
-KillAura InteractAutoBlock true
+KillAura InteractAutoBlock false
 KillAura KeepSprint false
 KillAura LivingRayCast false
 KillAura MaxCPS 12
@@ -89,11 +84,11 @@ KillAura MultiMode NCP
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura Outborder false
-KillAura Predict false
+KillAura Predict true
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.44
+KillAura Range 5.4
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -102,8 +97,6 @@ KillAura Swing true
 KillAura TargetMode Single
 KillAura ThroughWallsRange 0.0
 LiquidWalk Mode NCP
-LongJump Mode NCP
-LongJump NCPBoost 3.00
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
 NoSlow Bow Custom
@@ -113,18 +106,17 @@ NoSlow Soulsand true
 NoSlow Sword Custom
 NoWeb Mode AAC
 Reach Reach 4.8
-ReverseStep Motion 1.0
 Scaffold AutoBlock true
 Scaffold BlocksToEagle 1
 Scaffold Eagle true
 Scaffold ExpandLength 1
 Scaffold KeepRotation true
-Scaffold MaxDelay 0
-Scaffold MinDelay 0
+Scaffold MaxDelay 111
+Scaffold MinDelay 69
 Scaffold Mode Normal
 Scaffold PlaceableDelay true
 Scaffold Search true
-Scaffold SpeedModifier 1.05
+Scaffold SpeedModifier 0.9
 Scaffold Sprint false
 Scaffold StayAutoBlock true
 Scaffold Swing true
@@ -152,7 +144,7 @@ Tower AutoBlock true
 Tower ConstantMotion 1.0
 Tower ConstantMotionJumpGround 0.76
 Tower JumpMotion 0.4
-Tower Mode AAC3.3.9
+Tower Mode Jump
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
@@ -194,9 +186,9 @@ chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
 chat Don't use killaura while speed is enable.
-chat Use the vclip module to get out of the box.
 chat The settings are not for Eggwars
 chat For Improve settings contact: Barbiehunter#1337
-chat step fixed, you can use it with Pingspoof but you become much autobans
+chat step fixed, you can use it with Pingspoof but you can become much autobans
 chat For more infos check the changelog
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 29.11.2018
+chat Use the vclip module to get out of the box.
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 01.12.2018
