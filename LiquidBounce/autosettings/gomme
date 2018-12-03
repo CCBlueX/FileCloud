@@ -21,7 +21,7 @@ ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 targetDead true
 # Velocity Mode AACZero
-Velocity Mode AAC
+Velocity Mode AACPush
 NoSlow Sword AAC
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
