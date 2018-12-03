@@ -23,13 +23,10 @@ AutoArmor NoMove false
 AutoArmor SimulateInventory true
 Blink Pulse false
 Blink PulseDelay 1000
-BowAimbot Mark true
 BowAimbot Predict true
 BowAimbot PredictSize 5.0
 BowAimbot Priority Direction
 BowAimbot Silent true
-ChestAura Chest 54
-ChestAura Delay 50
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestStealer AutoClose true
@@ -40,11 +37,9 @@ ChestStealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
 Criticals Delay 250
-Criticals Mode Hop
-FastBreak BreakDamage 1.0
+Criticals Mode Packet
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
-FastStairs Mode NCP
 FastUse Mode NCP
 Fly AAC3.3.12-Motion 10.0
 Fly AAC3.3.13-Motion 10.0
@@ -52,7 +47,6 @@ Fly AACSpeed 0.3
 Fly HypixelLatest-Boost true
 Fly HypixelLatest-BoostDelay 1200
 Fly HypixelLatest-BoostTimer 1.0
-Fly Mark true
 Fly MineplexSpeed 1.0
 Fly Mode NeruxVace
 Fly NCPMotion 0.0
@@ -65,8 +59,6 @@ Fucker NoHit true
 Fucker Surroundings false
 Fucker Swing false
 Fucker ThroughWalls None
-HitBox Size 0.4
-IceSpeed Mode NCP
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen true
 InventoryCleaner MaxDelay 75
@@ -100,7 +92,7 @@ KillAura Predict false
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.44
+KillAura Range 5.40
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -170,6 +162,8 @@ Tower TeleportDelay 3
 Tower TeleportGround true
 Tower TeleportHeight 1.12
 Tower TeleportNoMotion false
+VClip Mode Teleport
+VClip Y -2.7
 Velocity Horizontal 0.0
 Velocity Mode Simple
 Velocity Reverse2Strength 0.05
@@ -202,5 +196,5 @@ zoot toggle false
 chat Dont use NoFall.
 chat Only use scaffold straight.
 chat Don't use killaura while speed is enable.
-chat Pingspoof is toggled off, cause it seems to got fixed.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 27.11.2018
+chat Use the vclip module to get out of the box. (its can kick you sometimes)
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 03.12.2018
