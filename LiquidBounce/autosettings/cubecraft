@@ -37,8 +37,8 @@ ChestStealer MinDelay 40
 ChestStealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
-Criticals Mode Packet
 Criticals Delay 250
+Criticals Mode Packet
 FastBreak BreakDamage 1.0
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
@@ -66,15 +66,15 @@ InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura AAC true
-KillAura AutoBlock false
+KillAura AutoBlock true
 KillAura BlockRate 100
 KillAura FailRate 0.0
 KillAura FakeSharp false
-KillAura FakeSwing false
+KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura HurtTime 8
-KillAura InteractAutoBlock false
-KillAura KeepSprint false
+KillAura InteractAutoBlock true
+KillAura KeepSprint true
 KillAura LivingRayCast false
 KillAura MaxCPS 12
 KillAura MaxTurnSpeed 60.0
@@ -88,7 +88,7 @@ KillAura Predict true
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.4
+KillAura Range 5.5
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -111,12 +111,12 @@ Scaffold BlocksToEagle 1
 Scaffold Eagle true
 Scaffold ExpandLength 1
 Scaffold KeepRotation true
-Scaffold MaxDelay 111
-Scaffold MinDelay 69
+Scaffold MaxDelay 0
+Scaffold MinDelay 0
 Scaffold Mode Normal
 Scaffold PlaceableDelay true
 Scaffold Search true
-Scaffold SpeedModifier 0.9
+Scaffold SpeedModifier 1.05
 Scaffold Sprint false
 Scaffold StayAutoBlock true
 Scaffold Swing true
@@ -135,8 +135,8 @@ Speed CustomY 0.2
 Speed MineplexGround-Speed 0.65
 Speed Mode SNCPBHop
 Sprint Food true
-Step Delay 120
-Step Height 4.5
+Step Delay 300
+Step Height 1.5
 Step Mode NCP
 Teams Color true
 Teams ScoreboardTeam true
@@ -152,8 +152,8 @@ Tower TeleportDelay 3
 Tower TeleportGround true
 Tower TeleportHeight 1.12
 Tower TeleportNoMotion false
-VClip Mode AAC3.3.9
-VClip Y -2.70
+VClip Mode Teleport
+VClip Y -2.7
 Velocity Horizontal 0.0
 Velocity Mode Simple
 Velocity Reverse2Strength 0.05
@@ -187,8 +187,6 @@ chat Dont use NoFall.
 chat Only use scaffold straight.
 chat Don't use killaura while speed is enable.
 chat The settings are not for Eggwars
-chat For Improve settings contact: Barbiehunter#1337
-chat step fixed, you can use it with Pingspoof but you can become much autobans
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337 & NichtVorhanden#0815\u00A77  | 01.12.2018
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 03.12.2018
