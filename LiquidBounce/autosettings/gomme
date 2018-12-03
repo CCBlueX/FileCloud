@@ -23,10 +23,10 @@ targetDead true
 # Waiting for https://github.com/CCBlueX/LiquidBounce1.8-Issues/issues/2699
 # Velocity Mode AACZero
 Velocity Mode AAC
-NoSlow Sword Vanilla
+NoSlow Sword AAC
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
-KillAura BlockRate 75
+KillAura BlockRate 100
 Tower Mode Jump
 Tower JumpMotion 0.41
 Fucker Instant true
