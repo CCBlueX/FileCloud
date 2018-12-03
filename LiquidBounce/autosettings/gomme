@@ -20,7 +20,6 @@ Scaffold Zitter false
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
 targetDead true
-# Waiting for https://github.com/CCBlueX/LiquidBounce1.8-Issues/issues/2699
 # Velocity Mode AACZero
 Velocity Mode AAC
 NoSlow Sword AAC
