@@ -200,6 +200,7 @@ TNTBlock Fuse 10
 TNTBlock AutoSword true
 Teams ScoreboardTeam false
 Teams Color true
+Teleport Mode AAC3.5.0
 Timer Speed 2.0
 Tower Mode Jump
 Tower AutoBlock true
@@ -242,5 +243,5 @@ MultiActions toggle false
 
 chat Original config from https://www.youtube.com/channel/UCX3lqoctZz1HbxJJ7JHD5Jg (Hacker)
 chat Edited by nintendocustom
-chat Last check 13.10.2018 4pm
+chat Last check 15.12.2018
 chat This config didn't work on bedwars 4v4v4v4 and solo!
