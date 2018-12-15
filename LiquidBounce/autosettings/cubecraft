@@ -20,14 +20,6 @@ AutoArmor ItemDelay 300
 AutoArmor MaxDelay 50
 AutoArmor MinDelay 30
 AutoArmor NoMove false
-AutoArmor SimulateInventory true
-Blink Pulse false
-Blink PulseDelay 1000
-BowAimbot Mark true
-BowAimbot Predict true
-BowAimbot PredictSize 5.0
-BowAimbot Priority Direction
-BowAimbot Silent true
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestStealer AutoClose true
@@ -39,22 +31,10 @@ ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
 Criticals Delay 250
 Criticals Mode Packet
-FastBreak BreakDamage 1.0
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
 FastUse Mode NCP
-Fly AAC3.3.12-Motion 10.0
-Fly AAC3.3.13-Motion 10.0
-Fly AACSpeed 0.3
-Fly HypixelLatest-Boost true
-Fly HypixelLatest-BoostDelay 1200
-Fly HypixelLatest-BoostTimer 1.0
-Fly Mark true
-Fly MineplexSpeed 1.0
-Fly Mode NeruxVace
-Fly NCPMotion 0.0
-Fly NeruxVace-Ticks 5
-Fly VanillaSpeed 1.39
+Fly Mode Cubecraft
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen true
 InventoryCleaner MaxDelay 75
@@ -62,7 +42,6 @@ InventoryCleaner MinDelay 45
 InventoryCleaner NoMove false
 InventoryCleaner RandomSlot false
 InventoryCleaner SimulateInventory true
-InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura AAC true
@@ -84,11 +63,11 @@ KillAura MultiMode NCP
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura Outborder false
-KillAura Predict true
+KillAura Predict false
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.5
+KillAura Range 5.40
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -96,61 +75,44 @@ KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
 KillAura ThroughWallsRange 0.0
-LiquidWalk Mode NCP
-NoRotateSet Confirm true
-NoRotateSet ConfirmIllegalRotation false
 NoSlow Bow Custom
 NoSlow Consume NCP
 NoSlow CustomReducement 0.15
 NoSlow Soulsand true
 NoSlow Sword Custom
 NoWeb Mode AAC
-Reach Reach 4.8
-Scaffold AutoBlock true
-Scaffold BlocksToEagle 1
-Scaffold Eagle true
-Scaffold ExpandLength 1
-Scaffold KeepRotation true
-Scaffold MaxDelay 0
-Scaffold MinDelay 0
 Scaffold Mode Normal
-Scaffold PlaceableDelay true
-Scaffold Search true
-Scaffold SpeedModifier 1.05
-Scaffold Sprint false
+Scaffold MaxDelay 20
+Scaffold MinDelay 40
+Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Swing true
-Scaffold Timer 1.0
+Scaffold Sprint true
+Scaffold Swing false
+Scaffold Search false
+Scaffold Eagle true
+Scaffold PlaceableDelay true
+Scaffold KeepRotation true
 Scaffold Zitter false
-Scaffold ZitterMode Smooth
-Scaffold ZitterSpeed 0.1
-Scaffold ZitterStrength 0.05
-Speed AAC-PortLength 1.0
-Speed AACGround-Timer 3.0
-Speed CubeCraft-PortLength 1.0
+Scaffold Timer 1.0
+Scaffold SpeedModifier 1.0
 Speed CustomSpeed 0.8
 Speed CustomStrafe true
 Speed CustomTimer 1.0
 Speed CustomY 0.2
 Speed MineplexGround-Speed 0.65
-Speed Mode SNCPBHop
+Speed Mode Hypixelhop
 Sprint Food true
-Step Delay 300
+Step Delay 310
 Step Height 1.5
 Step Mode NCP
 Teams Color true
 Teams ScoreboardTeam true
 Tower AutoBlock true
-Tower ConstantMotion 1.0
-Tower ConstantMotionJumpGround 0.76
 Tower JumpMotion 0.4
 Tower Mode Jump
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
-Tower TeleportDelay 3
-Tower TeleportGround true
-Tower TeleportHeight 1.12
 Tower TeleportNoMotion false
 VClip Mode Teleport
 VClip Y -2.7
@@ -162,6 +124,7 @@ Velocity Vertical 0.0
 
 # toggles
 AntiBot toggle true
+Fucker toggle false
 AutoArmor toggle true
 Criticals toggle true
 FastClimb toggle true
@@ -178,7 +141,6 @@ Step toggle true
 SuperKnockback toggle true
 targetDead false
 targetPlayer true
-Vehicleonehit toggle true
 Velocity toggle true
 zoot toggle false
 
@@ -189,4 +151,4 @@ chat Don't use killaura while speed is enable.
 chat The settings are not for Eggwars
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 03.12.2018
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 15.12.2018
