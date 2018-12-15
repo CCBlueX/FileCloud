@@ -241,7 +241,7 @@ ConsoleSpammer toggle false
 ItemTeleport toggle false
 MultiActions toggle false
 
-chat This config &2didn't work &eon &2bedwars 4v4v4v4 &eand &2solo!
-chat If you want to play BW 4v4v4v4 or solo, type .settings mcgamster2
-chat Last update 15.12.2018
+chat This config &4didn't work &eon &4bedwars 4v4v4v4 &eand &4solo!
+chat If you want to play BW 4v4v4v4 or solo, type &a.settings mcgamster2
+chat Last update &b15.12.2018
 chat Config created by &cNintendocustom
