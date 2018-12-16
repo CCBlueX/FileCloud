@@ -1,4 +1,4 @@
-#autoseetings for hypixel.net
+# AutoSettings for hypixel.net
 AntiBot Tab false
 AntiBot TabMode Contains
 AntiBot EntityID false
@@ -115,13 +115,16 @@ Step Height 1.0
 Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
-Tower Mode MotionTP
+Tower Mode Jump
+Tower JumpMotion 0.37
+Tower JumpDelay 0
 Tower AutoBlock true
 Tower StayAutoBlock false
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-#toggles
+
+# Toggles
 AntiBot toggle true
 Criticals toggle true
 PingSpoof toggle true
