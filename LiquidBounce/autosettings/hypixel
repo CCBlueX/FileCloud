@@ -127,4 +127,7 @@ Criticals toggle true
 PingSpoof toggle true
 NoFall toggle false
 NoSlow toggle true
+Regen toggle false
+Zoot toggle false
+FastClimb toggle false
 chat Do NOT use Scaffold diagonally if you do not want to get banned by WatchDog eventually.
