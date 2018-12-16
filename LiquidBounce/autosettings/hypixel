@@ -116,7 +116,7 @@ Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
 Tower Mode Jump
-Tower JumpMotion 0.37
+Tower JumpMotion 0.38
 Tower JumpDelay 0
 Tower AutoBlock true
 Tower StayAutoBlock false
