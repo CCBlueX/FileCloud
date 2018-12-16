@@ -59,7 +59,7 @@ ChestStealer TakeRandomized false
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
 ChestStealer AutoClose true
-CivBreak Air-Reset false
+CivBreak Air-Reset true
 CivBreak Range-Reset false
 Criticals Mode Packet
 Criticals Delay 105
