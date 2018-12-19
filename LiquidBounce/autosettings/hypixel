@@ -105,7 +105,7 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Speed Mode SlowHop
+Speed Mode HypixelHop
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
