@@ -60,10 +60,9 @@ KillAura ThroughWalls true
 KillAura ThroughWallsRange 4.15
 KillAura Swing true
 KillAura KeepSprint true
-# Currently testing...
-KillAura AutoBlock true
+KillAura AutoBlock false
 KillAura InteractAutoBlock true
-KillAura BlockRate 30
+KillAura BlockRate 100
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
