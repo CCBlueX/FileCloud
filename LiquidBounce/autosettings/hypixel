@@ -53,7 +53,7 @@ KillAura MinCPS 9
 KillAura HurtTime 10
 KillAura Range 4.15
 KillAura RangeSprintReducement 0.1
-KillAura Priority Distance
+KillAura Priority Health
 KillAura TargetMode Switch
 KillAura MultiMode NCP
 KillAura ThroughWalls true
