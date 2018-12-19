@@ -21,7 +21,7 @@ AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 0
 AutoArmor Hotbar true
-ChestStealer MaxDelay 150
+ChestStealer MaxDelay 125
 ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
