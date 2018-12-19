@@ -68,7 +68,8 @@ KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura Predict true
-KillAura PredictSize 1.0
+KillAura MaxPredictSize 1.5
+KillAura MinPredictSize 0.5
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
 KillAura FailRate 0.0
