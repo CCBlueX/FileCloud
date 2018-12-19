@@ -60,9 +60,10 @@ KillAura ThroughWalls true
 KillAura ThroughWallsRange 4.15
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
+# Currently testing...
+KillAura AutoBlock true
 KillAura InteractAutoBlock true
-KillAura BlockRate 100
+KillAura BlockRate 30
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -84,11 +85,11 @@ LiquidWalk Mode NCP
 LongJump Mode NCP
 LongJump NCPBoost 4.5
 NoFall Mode SpoofGround
-NoSlow Sword Vanilla
+NoSlow Sword Custom
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
-NoSlow CustomReducement 0.6
+NoSlow CustomReducement 0.21
 PingSpoof MaxDelay 750
 PingSpoof MinDelay 500
 Scaffold Mode Normal
