@@ -14,8 +14,8 @@ AntiBot WasInvisible false
 AntiBot Armor false
 AntiBot Ping false
 AntiBot NeedHit false
-AutoArmor MaxDelay 200
-AutoArmor MinDelay 100
+AutoArmor MaxDelay 125
+AutoArmor MinDelay 75
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
@@ -40,7 +40,7 @@ Fucker Swing true
 Fucker Surroundings true
 Fucker Action Destroy
 Fucker NoHit true
-InventoryCleaner MaxDelay 150
+InventoryCleaner MaxDelay 125
 InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen true
 InventoryCleaner SimulateInventory true
