@@ -23,7 +23,7 @@ AutoArmor NoMove false
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestStealer AutoClose true
-ChestStealer ChestTitle false
+ChestStealer ChestTitle true
 ChestStealer MaxDelay 50
 ChestStealer MinDelay 40
 ChestStealer NoCompass true
@@ -54,6 +54,7 @@ KillAura FOV 180.0
 KillAura HurtTime 8
 KillAura InteractAutoBlock true
 KillAura KeepSprint true
+Killaura LimitedMultiTargets 2
 KillAura LivingRayCast false
 KillAura MaxCPS 12
 KillAura MaxTurnSpeed 60.0
@@ -81,6 +82,7 @@ NoSlow CustomReducement 0.15
 NoSlow Soulsand true
 NoSlow Sword Custom
 NoWeb Mode AAC
+Scaffold AirSafe true
 Scaffold AutoBlock true
 Scaffold Eagle true
 Scaffold KeepRotation true
@@ -95,7 +97,7 @@ Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold Timer 1.0
 Scaffold Zitter false
-Speed Mode NCPHop
+Speed Mode NCPFHop
 Sprint Food true
 Step Delay 310
 Step Height 1.5
@@ -109,6 +111,7 @@ Tower StopWhenBlockAbove true
 Tower Swing true
 Tower TeleportGround true
 Tower TeleportNoMotion false
+Tower Timer 1.20
 VClip Mode Teleport
 VClip Y -2.7
 Velocity Horizontal 0.0
@@ -141,9 +144,8 @@ Velocity toggle true
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
-chat Don't use killaura while speed is enable.
-chat The settings are not for Eggwars
+chat You can use the settings for Eggwars.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
-chat &lToggle antiforge on or you could get banned
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 16.12.2018
+chat &lToggle antiforge on or you could get banned.
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 20.12.2018
