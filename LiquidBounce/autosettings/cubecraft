@@ -23,7 +23,7 @@ AutoArmor NoMove false
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestStealer AutoClose true
-ChestStealer ChestTitle true
+ChestStealer ChestTitle false
 ChestStealer MaxDelay 50
 ChestStealer MinDelay 40
 ChestStealer NoCompass true
@@ -97,7 +97,7 @@ Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold Timer 1.0
 Scaffold Zitter false
-Speed Mode NCPFHop
+Speed Mode NCPHop
 Sprint Food true
 Step Delay 310
 Step Height 1.5
@@ -105,13 +105,14 @@ Step Mode NCP
 Teams Color true
 Teams ScoreboardTeam true
 Tower AutoBlock true
+Tower JumpDelay 0
 Tower Mode AAC3.3.9
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
 Tower TeleportGround true
 Tower TeleportNoMotion false
-Tower Timer 1.20
+Tower Timer 1.18
 VClip Mode Teleport
 VClip Y -2.7
 Velocity Horizontal 0.0
