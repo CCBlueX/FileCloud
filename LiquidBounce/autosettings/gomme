@@ -8,8 +8,8 @@ AutoArmor SimulateInventory true
 Scaffold Mode Normal
 Scaffold Sprint false
 Scaffold Eagle false
-Scaffold MinDelay 175
-Scaffold MaxDelay 80
+Scaffold MaxDelay 175
+Scaffold MinDelay 80
 Scaffold PlaceableDelay false
 Scaffold SpeedModifier 0.80
 Scaffold Timer 1
