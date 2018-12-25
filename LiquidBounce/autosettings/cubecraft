@@ -51,24 +51,24 @@ KillAura FailRate 0.0
 KillAura FakeSharp false
 KillAura FakeSwing true
 KillAura FOV 180.0
-KillAura HurtTime 8
+KillAura HurtTime 10
 KillAura InteractAutoBlock true
 KillAura KeepSprint true
-Killaura LimitedMultiTargets 2
+Killaura LimitedMultiTargets 1
 KillAura LivingRayCast false
-KillAura MaxCPS 12
+KillAura MaxCPS 13
 KillAura MaxTurnSpeed 60.0
-KillAura MinCPS 8
+KillAura MinCPS 9
 KillAura MinTurnSpeed 40.0
 KillAura MultiMode NCP
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura Outborder false
-KillAura Predict false
+KillAura Predict true
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.45
+KillAura Range 5.44
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -86,11 +86,11 @@ Scaffold AirSafe true
 Scaffold AutoBlock true
 Scaffold Eagle true
 Scaffold KeepRotation true
-Scaffold MaxDelay 10
-Scaffold MinDelay 20
+Scaffold MaxDelay 12
+Scaffold MinDelay 21
 Scaffold Mode Normal
 Scaffold PlaceableDelay true
-Scaffold Search true
+Scaffold Search false
 Scaffold SpeedModifier 1.0
 Scaffold Sprint false
 Scaffold StayAutoBlock true
@@ -148,5 +148,5 @@ chat Only use scaffold straight.
 chat You can use the settings for Eggwars.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
-chat &lToggle antiforge on or you could get banned.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 20.12.2018
+chat &lTOGGLE ANTIFROGE ON OR YOU COULD GET BANNED.
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 25.12.2018
