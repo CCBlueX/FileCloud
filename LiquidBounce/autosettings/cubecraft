@@ -80,7 +80,7 @@ NoSlow Bow Custom
 NoSlow Consume NCP
 NoSlow CustomReducement 0.15
 NoSlow Soulsand true
-NoSlow Sword Custom
+NoSlow Sword NCP
 NoWeb Mode AAC
 Scaffold AirSafe true
 Scaffold AutoBlock true
@@ -136,8 +136,6 @@ NoSlow toggle true
 NoWeb toggle true
 PingSpoof toggle false
 Regen toggle false
-Step toggle true
-SuperKnockback toggle true
 targetDead false
 targetPlayer true
 Velocity toggle true
