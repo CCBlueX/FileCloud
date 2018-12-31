@@ -1,5 +1,6 @@
 # AutoSettings for HiveMC NCP
 load ncp
 
+KillAura Range 7
 Speed Mode NCPBHop
 Fly Mode Hypixel
