@@ -139,6 +139,7 @@ Regen toggle false
 targetDead false
 targetPlayer true
 Velocity toggle true
+FastUse toggle false
 
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
