@@ -2,5 +2,6 @@
 load ncp
 
 KillAura Range 7
+KillAura TargetMode Single
 Speed Mode NCPBHop
 Fly Mode Hypixel
