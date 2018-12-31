@@ -36,3 +36,6 @@ Fucker Surroundings false
 SuperKnockback toggle true
 FastUse toggle false
 FastClimb toggle false
+
+# Chat
+chat Use .settings gomme-vel when you are playing BedWars, SkyWars or a another gamemode with disabled velocity check.
