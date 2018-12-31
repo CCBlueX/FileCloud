@@ -79,6 +79,8 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 AutoSoup OpenInv false
 AutoPot OpenInv false
+
+# Toggle
 FastClimb toggle false
 Zoot toggle false
 Regen toggle false
@@ -86,3 +88,5 @@ AntiBot toggle false
 NoSlow toggle true
 SuperKnockback toggle true
 NoWeb toggle false
+BufferSpeed toggle false
+WaterSpeed toggle false
