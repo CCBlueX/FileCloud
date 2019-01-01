@@ -22,7 +22,7 @@ ChestStealer MinDelay 100
 targetDead true
 # Velocity Mode AACZero
 Velocity Mode AACPush
-NoSlow Sword AAC
+NoSlow Sword NCP
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
 KillAura BlockRate 100
@@ -31,6 +31,7 @@ Tower JumpMotion 0.41
 Fucker Instant true
 Fucker ThroughWalls Around
 Fucker Surroundings false
+Fucker id 26
 
 # Toggles
 SuperKnockback toggle true
