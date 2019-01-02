@@ -76,7 +76,7 @@ KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
 KillAura ThroughWallsRange 0.0
-NoSlow Bow Custom
+NoSlow Bow NCP
 NoSlow Consume NCP
 NoSlow CustomReducement 0.15
 NoSlow Soulsand true
@@ -99,7 +99,7 @@ Scaffold Timer 1.0
 Scaffold Zitter false
 Speed Mode NCPHop
 Sprint Food true
-Step Delay 310
+Step Delay 315
 Step Height 1.5
 Step Mode NCP
 Teams Color true
@@ -139,8 +139,9 @@ Regen toggle false
 targetDead false
 targetPlayer true
 Velocity toggle true
-FastUse toggle false
+Superknockback toggle true
 
+# Chat
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
@@ -148,4 +149,4 @@ chat You can use the settings for Eggwars.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
 chat &lTOGGLE ANTIFROGE ON OR YOU COULD GET BANNED.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 25.12.2018
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 02.01.2019
