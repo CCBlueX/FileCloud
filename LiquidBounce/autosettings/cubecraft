@@ -68,7 +68,7 @@ KillAura Predict true
 KillAura PredictSize 1.0
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.44
+KillAura Range 5.46
 KillAura RangeSprintReducement 0.0
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -76,9 +76,8 @@ KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
 KillAura ThroughWallsRange 0.0
-NoSlow Bow Custom
+NoSlow Bow NCP
 NoSlow Consume NCP
-NoSlow CustomReducement 0.15
 NoSlow Soulsand true
 NoSlow Sword NCP
 NoWeb Mode AAC
@@ -86,8 +85,8 @@ Scaffold AirSafe true
 Scaffold AutoBlock true
 Scaffold Eagle true
 Scaffold KeepRotation true
-Scaffold MaxDelay 12
-Scaffold MinDelay 21
+Scaffold MaxDelay 10
+Scaffold MinDelay 25
 Scaffold Mode Normal
 Scaffold PlaceableDelay true
 Scaffold Search false
@@ -97,9 +96,10 @@ Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold Timer 1.0
 Scaffold Zitter false
+scaffold BlocksToEagle 1
 Speed Mode NCPHop
 Sprint Food true
-Step Delay 310
+Step Delay 315
 Step Height 1.5
 Step Mode NCP
 Teams Color true
@@ -112,7 +112,7 @@ Tower StopWhenBlockAbove true
 Tower Swing true
 Tower TeleportGround true
 Tower TeleportNoMotion false
-Tower Timer 1.18
+Tower Timer 1.17
 VClip Mode Teleport
 VClip Y -2.7
 Velocity Horizontal 0.0
@@ -139,8 +139,9 @@ Regen toggle false
 targetDead false
 targetPlayer true
 Velocity toggle true
-FastUse toggle false
+Superknockback toggle true
 
+# Chat
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
@@ -148,4 +149,4 @@ chat You can use the settings for Eggwars.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
 chat &lTOGGLE ANTIFROGE ON OR YOU COULD GET BANNED.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 25.12.2018
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 02.01.2019
