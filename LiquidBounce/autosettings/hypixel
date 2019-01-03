@@ -116,11 +116,11 @@ Step Height 1.0
 Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
-Tower Mode Jump
+Tower Mode AAC3.3.9
 Tower JumpMotion 0.38
 Tower JumpDelay 0
 Tower AutoBlock true
-Tower StayAutoBlock false
+Tower StayAutoBlock true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
