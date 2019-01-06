@@ -29,7 +29,7 @@ ChestStealer MinDelay 40
 ChestStealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
-Criticals Delay 250
+Criticals Delay 320
 Criticals Mode Packet
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
@@ -48,7 +48,7 @@ KillAura AAC true
 KillAura AutoBlock true
 KillAura BlockRate 100
 KillAura FailRate 0.0
-KillAura FakeSharp false
+KillAura FakeSharp true
 KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura HurtTime 10
@@ -58,45 +58,46 @@ Killaura LimitedMultiTargets 1
 KillAura LivingRayCast false
 KillAura MaxCPS 13
 KillAura MaxTurnSpeed 60.0
-KillAura MinCPS 9
+KillAura MinCPS 10
 KillAura MinTurnSpeed 40.0
 KillAura MultiMode NCP
 KillAura NoInvAttack true
 KillAura NoInvDelay 200
 KillAura Outborder false
-KillAura Predict true
-KillAura PredictSize 1.0
+KillAura Predict false
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.46
-KillAura RangeSprintReducement 0.0
+KillAura Range 5.44
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
-KillAura ThroughWallsRange 0.0
+NoRotateSet Confirm True
+NoRotateSet ConfirmIllegalRotation false
+NoRotateSet NoZero True
 NoSlow Bow NCP
 NoSlow Consume NCP
+NoSlow CustomReducement 0.15
 NoSlow Soulsand true
 NoSlow Sword NCP
 NoWeb Mode AAC
 Scaffold AirSafe true
 Scaffold AutoBlock true
+scaffold BlocksToEagle 2
 Scaffold Eagle true
 Scaffold KeepRotation true
-Scaffold MaxDelay 10
-Scaffold MinDelay 25
+Scaffold MaxDelay 20
+Scaffold MinDelay 40
 Scaffold Mode Normal
 Scaffold PlaceableDelay true
 Scaffold Search false
-Scaffold SpeedModifier 1.0
+Scaffold SpeedModifier 1.00
 Scaffold Sprint false
 Scaffold StayAutoBlock true
 Scaffold Swing true
 Scaffold Timer 1.0
 Scaffold Zitter false
-scaffold BlocksToEagle 1
 Speed Mode NCPHop
 Sprint Food true
 Step Delay 315
@@ -106,13 +107,16 @@ Teams Color true
 Teams ScoreboardTeam true
 Tower AutoBlock true
 Tower JumpDelay 0
-Tower Mode AAC3.3.9
+Tower JumpMotion 0.37
+Tower Mode Teleport
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
+Tower TeleportDelay 4
 Tower TeleportGround true
+Tower TeleportHeight 1.26
 Tower TeleportNoMotion false
-Tower Timer 1.17
+Tower Timer 2.40
 VClip Mode Teleport
 VClip Y -2.7
 Velocity Horizontal 0.0
@@ -149,4 +153,4 @@ chat You can use the settings for Eggwars.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
 chat &lTOGGLE ANTIFROGE ON OR YOU COULD GET BANNED.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 02.01.2019
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 06.01.2019
