@@ -56,7 +56,7 @@ KillAura InteractAutoBlock true
 KillAura KeepSprint true
 Killaura LimitedMultiTargets 1
 KillAura LivingRayCast false
-KillAura MaxCPS 13
+KillAura MaxCPS 10
 KillAura MaxTurnSpeed 60.0
 KillAura MinCPS 10
 KillAura MinTurnSpeed 40.0
@@ -67,12 +67,14 @@ KillAura Outborder false
 KillAura Predict false
 KillAura Priority Direction
 KillAura RandomCenter false
-KillAura Range 5.44
+KillAura Range 5.45
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
+KillAura ThroughWalls false
+KillAura ThroughWallsRange 0.00
 NoRotateSet Confirm True
 NoRotateSet ConfirmIllegalRotation false
 NoRotateSet NoZero True
@@ -100,11 +102,9 @@ Scaffold Timer 1.0
 Scaffold Zitter false
 Speed Mode NCPHop
 Sprint Food true
-Step Delay 315
+Step Delay 320
 Step Height 1.5
 Step Mode NCP
-Teams Color true
-Teams ScoreboardTeam true
 Tower AutoBlock true
 Tower JumpDelay 0
 Tower JumpMotion 0.37
@@ -116,7 +116,7 @@ Tower TeleportDelay 4
 Tower TeleportGround true
 Tower TeleportHeight 1.26
 Tower TeleportNoMotion false
-Tower Timer 2.40
+Tower Timer 2.10
 VClip Mode Teleport
 VClip Y -2.7
 Velocity Horizontal 0.0
@@ -149,8 +149,7 @@ Superknockback toggle true
 chat &lChangelog: https://pastebin.com/apxvZRRt
 chat Dont use NoFall.
 chat Only use scaffold straight.
-chat You can use the settings for Eggwars.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
 chat &lTOGGLE ANTIFROGE ON OR YOU COULD GET BANNED.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 06.01.2019
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 28.01.2019
