@@ -116,7 +116,7 @@ Step Height 1.0
 Step Delay 0
 Teams ScoreboardTeam true
 Teams Color true
-Tower Mode AAC3.3.9
+Tower Mode Jump
 Tower JumpMotion 0.38
 Tower JumpDelay 0
 Tower AutoBlock true
@@ -134,3 +134,4 @@ NoSlow toggle true
 Regen toggle false
 Zoot toggle false
 FastClimb toggle false
+chat &lTOWER SEEMS TO BE AUTOBANNING AT THE MOMENT!
