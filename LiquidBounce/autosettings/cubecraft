@@ -124,6 +124,7 @@ Velocity Mode Simple
 Velocity Reverse2Strength 0.05
 Velocity ReverseStrength 0.5
 Velocity Vertical 0.0
+NoFall Mode Cubecraft
 
 # toggles
 AntiBot toggle true
@@ -135,7 +136,7 @@ Fly toggle false
 Fucker toggle false
 InventoryMove toggle true
 Liquidwalk toggle false
-NoFall toggle false
+NoFall toggle true
 NoSlow toggle true
 NoWeb toggle true
 PingSpoof toggle false
@@ -147,7 +148,6 @@ Superknockback toggle true
 
 # Chat
 chat &lChangelog: https://pastebin.com/apxvZRRt
-chat Dont use NoFall.
 chat Only use scaffold straight.
 chat For more infos check the changelog
 chat Use the vclip module to get out of the box.
