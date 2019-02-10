@@ -32,8 +32,7 @@ Criticals Delay 0
 FastStairs Mode NCP
 FastStairs LongJump false
 FastUse Mode AAC
-Fly Mode LatestHypixel
-Fly HypixelLatest-Boost false
+Fly Mode BoostHypixel
 Fucker id 26
 Fucker Instant false
 Fucker ThroughWalls None
