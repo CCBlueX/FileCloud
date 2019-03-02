@@ -1,3 +1,5 @@
+# AutoSettings for play.mcyc.win
+
 
 AbortBreaking toggle true
 Aimbot Range 256.0
@@ -31,15 +33,15 @@ AtAllProvider MaxDelay 500
 AtAllProvider MinDelay 0
 AtAllProvider Retry true
 AtAllProvider toggle false
-AutoArmor MaxDelay 224
-AutoArmor MinDelay 96
+AutoArmor MaxDelay 163
+AutoArmor MinDelay 84
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 1300
 AutoArmor Hotbar true
 AutoArmor toggle true
-AutoBow toggle true
+AutoBow toggle false
 AutoBreak toggle false
 AutoClicker MaxCPS 13
 AutoClicker MinCPS 8
@@ -54,15 +56,16 @@ AutoLeave toggle false
 AutoPot Health 5.0
 AutoPot Delay 150
 AutoPot OpenInv false
+AutoPot NoAir false
 AutoPot Mode Normal
 AutoPot toggle false
-AutoRespawn Instant false
+AutoRespawn Instant true
 AutoRespawn toggle true
 AutoSoup Health 6.51
 AutoSoup Delay 150
 AutoSoup OpenInv false
 AutoSoup toggle false
-AutoTool toggle false
+AutoTool toggle true
 AutoWalk toggle false
 AutoWeapon SpoofItem true
 AutoWeapon toggle false
@@ -78,7 +81,7 @@ BowAimbot Predict true
 BowAimbot PredictSize 3.66
 BowAimbot Priority Direction
 BowAimbot Mark true
-BowAimbot toggle true
+BowAimbot toggle false
 BufferSpeed SpeedLimit true
 BufferSpeed MaxSpeed 1.0
 BufferSpeed Buffer false
@@ -119,10 +122,12 @@ ChestStealer NoCompass false
 ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 0
 ChestStealer AutoCloseMinDelay 0
+ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
 ChestStealer toggle false
 CivBreak Air-Reset true
 CivBreak Range-Reset true
+CivBreak Rotations true
 CivBreak toggle false
 ComponentOnHover toggle true
 ConsoleSpammer Mode Payload
@@ -158,7 +163,7 @@ FastStairs toggle true
 FastUse Mode AAC
 FastUse toggle false
 Fly Mode AAC3.3.12-Glide
-Fly VanillaSpeed 0.41
+Fly VanillaSpeed 0.9
 Fly VanillaKickBypass true
 Fly MineplexSpeed 1.0
 Fly NCPMotion 0.98
@@ -177,6 +182,7 @@ Fucker id 26
 Fucker Instant false
 Fucker ThroughWalls None
 Fucker Swing true
+Fucker Rotations true
 Fucker Surroundings false
 Fucker Action Destroy
 Fucker NoHit true
@@ -228,7 +234,7 @@ Kick toggle false
 KillAura MaxCPS 16
 KillAura MinCPS 9
 KillAura HurtTime 7
-KillAura Range 4.04
+KillAura Range 4.55
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
@@ -250,13 +256,13 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 3.48
 KillAura LimitedMultiTargets 0
-KillAura MaxTurnSpeed 29.02
-KillAura MinTurnSpeed 21.23
+KillAura MaxTurnSpeed 50.81
+KillAura MinTurnSpeed 30.57
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
-KillAura Outborder false
-KillAura FOV 104.87
+KillAura Outborder true
+KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
 KillAura toggle false
@@ -276,7 +282,7 @@ NoClip toggle false
 NoFall Mode AAC3.3.15
 NoFall toggle false
 NoFriends toggle false
-NoJumpDelay toggle false
+NoJumpDelay toggle true
 NoPitchLimit toggle false
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation true
@@ -286,7 +292,7 @@ NoSlow Sword Custom
 NoSlow Consume Custom
 NoSlow Bow Custom
 NoSlow Soulsand false
-NoSlow CustomReducement 0.58
+NoSlow CustomReducement 0.59
 NoSlow toggle true
 NoWeb Mode LAAC
 NoWeb toggle false
@@ -322,11 +328,12 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing true
-Scaffold Search true
+Scaffold Search false
 Scaffold Eagle true
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
+Scaffold Rotations true
 Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold ZitterMode Teleport
@@ -339,7 +346,7 @@ Scaffold AirSafe false
 Scaffold Counter true
 Scaffold Mark false
 Scaffold toggle false
-ServerCrasher Mode BookFlood
+ServerCrasher Mode WorldEdit
 ServerCrasher toggle false
 SkinDerp Delay 166
 SkinDerp Hat true
@@ -351,12 +358,12 @@ SkinDerp RightSleeve true
 SkinDerp toggle false
 SlimeJump Motion 0.98
 SlimeJump Mode Add
-SlimeJump toggle true
+SlimeJump toggle false
 Sneak Mode Legit
 Sneak StopMove false
 Sneak toggle false
 Speed Mode Custom
-Speed CustomSpeed 0.37
+Speed CustomSpeed 0.425
 Speed CustomY 0.42
 Speed CustomTimer 1.0
 Speed CustomStrafe false
@@ -378,7 +385,7 @@ Step Delay 0
 Step toggle false
 Strafe toggle false
 SuperKnockback toggle false
-TNTBlock Fuse 9
+TNTBlock Fuse 44
 TNTBlock AutoSword true
 TNTBlock toggle true
 Teams ScoreboardTeam true
@@ -388,9 +395,9 @@ Teleport Mode AAC3.5.0
 Teleport Button Left
 Teleport toggle false
 TeleportHit toggle false
-Timer Speed 0.75
+Timer Speed 1.01
 Timer toggle false
-Tower Mode Jump
+Tower Mode ConstantMotion
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
@@ -398,8 +405,8 @@ Tower StopWhenBlockAbove true
 Tower Timer 1.0
 Tower JumpMotion 0.42
 Tower JumpDelay 0
-Tower ConstantMotion 0.44
-Tower ConstantMotionJumpGround 0.88
+Tower ConstantMotion 0.42
+Tower ConstantMotionJumpGround 0.76
 Tower TeleportHeight 1.07
 Tower TeleportDelay 1
 Tower TeleportGround true
@@ -418,6 +425,8 @@ Velocity Vertical 0.0
 Velocity Mode AACPush
 Velocity ReverseStrength 0.98
 Velocity Reverse2Strength 0.02
+Velocity AACPushXZReducer 2.5
+Velocity AACPushYReducer true
 Velocity toggle true
 WallClimb Mode Clip
 WallClimb ClipMode Jump
@@ -432,17 +441,3 @@ Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir true
 Zoot toggle false
-
-# Chat
-chat
-chat
-chat -----------------------------------------------------------------------------
-chat TNTBlock work bad in autofire TNT
-chat When you enable FastStairs, if you go down the stairs, you may get stuck in the stairs
-chat &lScaffold will be banned in BedWar
-chat \u00A74&lStrafe and Speed have better to turn off(false)
-chat Velocity AACPush may be checked if you always are hurt in air
-chat You can increase Range of KillAura appropriately(I will improve KillAura latter)
-chat -----------------------------------------------------------------------------
-chat
-chat
