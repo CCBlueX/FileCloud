@@ -1,4 +1,9 @@
 # autosettings for cubecraft.net
+Aimbot FOV 180.0
+Aimbot Jitter false
+Aimbot OnClick false
+Aimbot Range 5.5
+Aimbot TurnSpeed 5.0
 AntiBot Air false
 AntiBot Armor false
 AntiBot Color false
@@ -15,33 +20,44 @@ AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot WasInvisible false
 AutoArmor Hotbar true
-AutoArmor InvOpen true
+AutoArmor InvOpen false
 AutoArmor ItemDelay 300
 AutoArmor MaxDelay 50
-AutoArmor MinDelay 30
+AutoArmor MinDelay 40
 AutoArmor NoMove false
-ChestAura ThroughWalls false
-ChestAura VisualSwing true
+AutoArmor SimulateInventory true
+Blink Pulse true
+Blink PulseDelay 1000
 ChestStealer AutoClose true
-ChestStealer ChestTitle false
-ChestStealer MaxDelay 50
-ChestStealer MinDelay 40
-ChestStealer NoCompass true
+ChestStealer ChestTitle true
+Cheststealer CloseOnFull true
+ChestStealer MaxDelay 30
+ChestStealer MinDelay 20
+ChestStealer NoCompass false
+Cheststealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
-Criticals Delay 320
+Criticals Delay 300
 Criticals Mode Packet
-FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
 FastUse Mode NCP
-Fly Mode Cubecraft
+Fly Mode CubeCraft
+Fucker Action Destroy
+Fucker id 122
+Fucker Instant false
+Fucker NoHit false
+Fucker Rotations true
+Fucker Surroundings true
+Fucker Swing true
+Fucker ThroughWalls Around
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen true
-InventoryCleaner MaxDelay 75
-InventoryCleaner MinDelay 45
+InventoryCleaner MaxDelay 80
+InventoryCleaner MinDelay 75
 InventoryCleaner NoMove false
 InventoryCleaner RandomSlot false
 InventoryCleaner SimulateInventory true
+InventoryCleaner Sort true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura AAC true
@@ -54,57 +70,67 @@ KillAura FOV 180.0
 KillAura HurtTime 10
 KillAura InteractAutoBlock true
 KillAura KeepSprint true
-Killaura LimitedMultiTargets 1
 KillAura LivingRayCast false
-KillAura MaxCPS 10
+KillAura Mark true
+KillAura MaxCPS 13
 KillAura MaxTurnSpeed 60.0
-KillAura MinCPS 10
-KillAura MinTurnSpeed 40.0
+KillAura MinCPS 12
+KillAura MinTurnSpeed 60.0
 KillAura MultiMode NCP
 KillAura NoInvAttack true
-KillAura NoInvDelay 200
+KillAura NoInvDelay 180
 KillAura Outborder false
-KillAura Predict false
+KillAura Predict true
+KillAura PredictSize 1.5
 KillAura Priority Direction
-KillAura RandomCenter false
-KillAura Range 5.45
+KillAura RandomCenter true
+KillAura Range 5.60
+KillAura RangeSprintReducement 0.4
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
-KillAura ThroughWalls false
-KillAura ThroughWallsRange 0.00
-NoRotateSet Confirm True
-NoRotateSet ConfirmIllegalRotation false
-NoRotateSet NoZero True
-NoSlow Bow NCP
+KillAura ThroughWallsRange 0.5
+LongJump Mode NCP
+LongJump NCPBoost 3.0
+NoFall Mode Cubecraft
+NoRotateSet Confirm true
+NoRotateSet ConfirmIllegalRotation true
+NoRotateSet NoZero true
+NoSlow Bow Custom
 NoSlow Consume NCP
 NoSlow CustomReducement 0.15
 NoSlow Soulsand true
 NoSlow Sword NCP
-NoWeb Mode AAC
-Scaffold AirSafe true
+NoWeb Mode Rewi
+PingSpoof MaxDelay 600
+PingSpoof MinDelay 400
 Scaffold AutoBlock true
-scaffold BlocksToEagle 2
-Scaffold Eagle true
+Scaffold Eagle false
 Scaffold KeepRotation true
-Scaffold MaxDelay 20
-Scaffold MinDelay 40
-Scaffold Mode Normal
+Scaffold MaxDelay 25
+Scaffold MinDelay 15
+Scaffold Mode Rewinside
 Scaffold PlaceableDelay true
+scaffold Rotations true
 Scaffold Search false
 Scaffold SpeedModifier 1.00
-Scaffold Sprint false
+Scaffold Sprint true
 Scaffold StayAutoBlock true
 Scaffold Swing true
-Scaffold Timer 1.0
+Scaffold Timer 1.04
 Scaffold Zitter false
 Speed Mode NCPHop
+Sprint AllDirections false
+Sprint Blindness true
+Sprint CheckServerSide false
 Sprint Food true
-Step Delay 320
-Step Height 1.5
+Step Delay 100
+Step Height 4.5
 Step Mode NCP
+Teams Color true
+Teams ScoreboardTeam true
 Tower AutoBlock true
 Tower JumpDelay 0
 Tower JumpMotion 0.37
@@ -112,19 +138,18 @@ Tower Mode Teleport
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
-Tower TeleportDelay 4
+Tower TeleportDelay 3
 Tower TeleportGround true
-Tower TeleportHeight 1.26
+Tower TeleportHeight 1.00
 Tower TeleportNoMotion false
-Tower Timer 2.10
+Tower Timer 1.60
 VClip Mode Teleport
-VClip Y -2.7
+VClip Y 4.0
 Velocity Horizontal 0.0
 Velocity Mode Simple
 Velocity Reverse2Strength 0.05
 Velocity ReverseStrength 0.5
 Velocity Vertical 0.0
-NoFall Mode Cubecraft
 
 # toggles
 AntiBot toggle true
@@ -133,23 +158,20 @@ Criticals toggle true
 FastClimb toggle true
 FastUse toggle true
 Fly toggle false
-Fucker toggle false
 InventoryMove toggle true
-Liquidwalk toggle false
-NoFall toggle true
+NoFall toggle false
 NoSlow toggle true
-NoWeb toggle true
-PingSpoof toggle false
+PingSpoof toggle true
 Regen toggle false
+Step toggle true
+Superknockback toggle true
 targetDead false
 targetPlayer true
 Velocity toggle true
-Superknockback toggle true
 
-# Chat
-chat &lChangelog: https://pastebin.com/apxvZRRt
-chat Only use scaffold straight.
-chat For more infos check the changelog
-chat Use the vclip module to get out of the box.
-chat &lTOGGLE ANTIFROGE ON OR YOU COULD GET BANNED.
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 28.01.2019
+chat Works better with cubeyport or ccbhop (from EZhacks)
+chat Killaura can sometimes autoban you if you attack under a block
+chat Scaffold inspired by the EZhacks config
+chat &6&lTURN ON ANTIFORGE, BECAUSE YOU CAN BE AUTOBANNED
+chat The config works for Eggwars (but it can flag sometimes)
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 03.03.2019
