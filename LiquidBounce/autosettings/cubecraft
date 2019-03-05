@@ -26,15 +26,12 @@ AutoArmor MaxDelay 50
 AutoArmor MinDelay 40
 AutoArmor NoMove false
 AutoArmor SimulateInventory true
-Blink Pulse true
-Blink PulseDelay 1000
 ChestStealer AutoClose true
 ChestStealer ChestTitle true
 Cheststealer CloseOnFull true
 ChestStealer MaxDelay 30
-ChestStealer MinDelay 20
-ChestStealer NoCompass false
-Cheststealer NoCompass true
+ChestStealer MinDelay 25
+ChestStealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
 Criticals Delay 300
@@ -72,9 +69,9 @@ KillAura InteractAutoBlock true
 KillAura KeepSprint true
 KillAura LivingRayCast false
 KillAura Mark true
-KillAura MaxCPS 13
+KillAura MaxCPS 14
 KillAura MaxTurnSpeed 60.0
-KillAura MinCPS 12
+KillAura MinCPS 13
 KillAura MinTurnSpeed 60.0
 KillAura MultiMode NCP
 KillAura NoInvAttack true
@@ -94,11 +91,10 @@ KillAura TargetMode Single
 KillAura ThroughWallsRange 0.5
 LongJump Mode NCP
 LongJump NCPBoost 3.0
-NoFall Mode Cubecraft
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation true
 NoRotateSet NoZero true
-NoSlow Bow Custom
+NoSlow Bow NCP
 NoSlow Consume NCP
 NoSlow CustomReducement 0.15
 NoSlow Soulsand true
@@ -109,31 +105,29 @@ PingSpoof MinDelay 400
 Scaffold AutoBlock true
 Scaffold Eagle false
 Scaffold KeepRotation true
-Scaffold MaxDelay 25
-Scaffold MinDelay 15
+Scaffold MaxDelay 20
+Scaffold MinDelay 10
 Scaffold Mode Rewinside
 Scaffold PlaceableDelay true
 scaffold Rotations true
 Scaffold Search false
-Scaffold SpeedModifier 1.00
+Scaffold SpeedModifier 0.90
 Scaffold Sprint true
 Scaffold StayAutoBlock true
 Scaffold Swing true
-Scaffold Timer 1.04
+Scaffold Timer 1.10
 Scaffold Zitter false
 Speed Mode NCPHop
 Sprint AllDirections false
 Sprint Blindness true
 Sprint CheckServerSide false
 Sprint Food true
-Step Delay 100
+Step Delay 130
 Step Height 4.5
 Step Mode NCP
 Teams Color true
 Teams ScoreboardTeam true
 Tower AutoBlock true
-Tower JumpDelay 0
-Tower JumpMotion 0.37
 Tower Mode Teleport
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
@@ -142,7 +136,7 @@ Tower TeleportDelay 3
 Tower TeleportGround true
 Tower TeleportHeight 1.00
 Tower TeleportNoMotion false
-Tower Timer 1.60
+Tower Timer 1.80
 VClip Mode Teleport
 VClip Y 4.0
 Velocity Horizontal 0.0
@@ -170,8 +164,8 @@ targetPlayer true
 Velocity toggle true
 
 chat Works better with cubeyport or ccbhop (from EZhacks)
+chat Scaffold inspired by EZhacks config
 chat Killaura can sometimes autoban you if you attack under a block
-chat Scaffold inspired by the EZhacks config
-chat &6&lTURN ON ANTIFORGE, BECAUSE YOU CAN BE AUTOBANNED
 chat The config works for Eggwars (but it can flag sometimes)
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 03.03.2019
+chat &6&lTURN ON ANTIFORGE, BECAUSE YOU CAN BE AUTOBANNED
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 05.03.2019
