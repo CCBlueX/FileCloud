@@ -17,7 +17,6 @@ InventoryMove NoMoveClicks false
 InventoryMove toggle true
 ItemTeleport Mode Old
 ItemTeleport ResetAfterTP false
-ItemTeleport Button Middle
 KillAura MaxCPS 19
 KillAura MinCPS 16
 KillAura HurtTime 10
@@ -50,11 +49,8 @@ KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura Outborder false
 KillAura FOV 180.0
-KillAura Mark true
-KillAura FakeSharp false
 NoFall Mode NoGround
 NoFall toggle true
-NoFall bind L
 Scaffold Mode Normal
 Scaffold MaxDelay 105
 Scaffold MinDelay 100
@@ -77,15 +73,12 @@ Scaffold Timer 1.0
 Scaffold SpeedModifier 1.5
 Scaffold SameY true
 Scaffold AirSafe false
-Scaffold Counter true
-Scaffold Mark false
 Speed Mode AACGround
 Speed AACGround-Timer 5
 SuperKnockback toggle true
 Teams ScoreboardTeam true
 Teams Color true
 Teams toggle true
-Teams bind NONE
 Tower Mode Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
