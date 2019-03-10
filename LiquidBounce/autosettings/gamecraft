@@ -1,12 +1,6 @@
 # AutoSettings for play.mcyc.win
 
-
 AbortBreaking toggle true
-Aimbot Range 256.0
-Aimbot TurnSpeed 159.54
-Aimbot FOV 180.0
-Aimbot OnClick false
-Aimbot Jitter false
 Aimbot toggle false
 AirJump toggle false
 AirLadder toggle false
@@ -38,7 +32,7 @@ AutoArmor MinDelay 84
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
-AutoArmor ItemDelay 1300
+AutoArmor ItemDelay 909
 AutoArmor Hotbar true
 AutoArmor toggle true
 AutoBow toggle false
@@ -70,7 +64,7 @@ AutoWalk toggle false
 AutoWeapon SpoofItem true
 AutoWeapon toggle false
 BedGodMode toggle false
-Blink Pulse false
+Blink Pulse true
 Blink PulseDelay 500
 Blink toggle false
 BlockWalk Cobweb true
@@ -83,11 +77,11 @@ BowAimbot Priority Direction
 BowAimbot Mark true
 BowAimbot toggle false
 BufferSpeed SpeedLimit true
-BufferSpeed MaxSpeed 1.0
-BufferSpeed Buffer false
+BufferSpeed MaxSpeed 2.88
+BufferSpeed Buffer true
 BufferSpeed Stairs false
 BufferSpeed StairsBoost 1.1
-BufferSpeed StairsMode Old
+BufferSpeed StairsMode New
 BufferSpeed Slabs true
 BufferSpeed SlabsBoost 1.2
 BufferSpeed SlabsMode New
@@ -165,7 +159,7 @@ FastUse toggle false
 Fly Mode AAC3.3.12-Glide
 Fly VanillaSpeed 0.9
 Fly VanillaKickBypass true
-Fly MineplexSpeed 1.0
+Fly MineplexSpeed 7.04
 Fly NCPMotion 0.98
 Fly AACSpeed 0.02
 Fly AAC3.3.12-Motion 10.0
@@ -233,8 +227,8 @@ Kick Mode SelfHurt
 Kick toggle false
 KillAura MaxCPS 16
 KillAura MinCPS 9
-KillAura HurtTime 7
-KillAura Range 4.55
+KillAura HurtTime 8
+KillAura Range 4.95
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
@@ -256,8 +250,8 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 3.48
 KillAura LimitedMultiTargets 0
-KillAura MaxTurnSpeed 50.81
-KillAura MinTurnSpeed 30.57
+KillAura MaxTurnSpeed 180.0
+KillAura MinTurnSpeed 180.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
@@ -265,7 +259,7 @@ KillAura Outborder true
 KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
-KillAura toggle false
+KillAura toggle true
 LadderJump toggle false
 LiquidChat toggle false
 LiquidWalk Mode AAC3.3.11
@@ -304,21 +298,6 @@ Parkour toggle false
 PerfectHorseJump toggle false
 Phase Mode AAC3.5.0
 Phase toggle false
-PingSpoof MaxDelay 254
-PingSpoof MinDelay 169
-PingSpoof toggle false
-Plugins toggle false
-PotionSaver toggle false
-Reach Reach 99.0
-Reach toggle false
-Regen Mode Vanilla
-Regen Health 20
-Regen Food 11
-Regen Speed 100
-Regen NoAir true
-Regen toggle false
-ReverseStep Motion 0.21
-ReverseStep toggle false
 SafeWalk AirSafe false
 SafeWalk toggle false
 Scaffold Mode Expand
@@ -379,10 +358,10 @@ Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
 Sprint toggle true
-Step Mode Jump
+Step Mode NCP
 Step Height 1.0
-Step Delay 0
-Step toggle false
+Step Delay 333
+Step toggle true
 Strafe toggle false
 SuperKnockback toggle false
 TNTBlock Fuse 44
@@ -397,17 +376,17 @@ Teleport toggle false
 TeleportHit toggle false
 Timer Speed 1.01
 Timer toggle false
-Tower Mode ConstantMotion
+Tower Mode Jump
 Tower AutoBlock true
-Tower StayAutoBlock true
+Tower StayAutoBlock false
 Tower Swing true
 Tower StopWhenBlockAbove true
 Tower Timer 1.0
 Tower JumpMotion 0.42
 Tower JumpDelay 0
 Tower ConstantMotion 0.42
-Tower ConstantMotionJumpGround 0.76
-Tower TeleportHeight 1.07
+Tower ConstantMotionJumpGround 0.95
+Tower TeleportHeight 1.04
 Tower TeleportDelay 1
 Tower TeleportGround true
 Tower TeleportNoMotion true
@@ -416,8 +395,8 @@ Tower toggle false
 Trigger MaxCPS 10
 Trigger MinCPS 8
 Trigger toggle false
-VClip Mode Teleport
-VClip Y 0.1584
+VClip Mode Flag
+VClip Y -3.51
 VClip toggle false
 VehicleOneHit toggle false
 Velocity Horizontal 0.0
@@ -425,7 +404,7 @@ Velocity Vertical 0.0
 Velocity Mode AACPush
 Velocity ReverseStrength 0.98
 Velocity Reverse2Strength 0.02
-Velocity AACPushXZReducer 2.5
+Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
 Velocity toggle true
 WallClimb Mode Clip
@@ -437,7 +416,7 @@ WaterFly Motion 0.1
 WaterFly toggle false
 WaterSpeed Speed 1.1
 WaterSpeed toggle false
-Zoot BadEffects true
-Zoot Fire true
-Zoot NoAir true
-Zoot toggle false
+
+chat Scaffold can't work in BedWar,it will get banned
+chat Strafe have better to toggle off
+chat Step work not very good
