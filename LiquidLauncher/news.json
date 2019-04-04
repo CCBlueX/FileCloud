@@ -1,81 +1,81 @@
-{
-    "1": {
+[
+    {
         "title": "LiquidBounce 1.8.9 | b48",
         "img": "https://img.liquidbounce.net/uxc/2018-05-19_15-12-04_vlc.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=189"
     },
-    "2": {
+    {
         "title": "LiquidBounce 1.8.9 | b49",
         "img": "https://img.liquidbounce.net/uxc/2018-05-19_15.09.19.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=208"
     },
-    "3": {
+    {
         "title": "LiquidBounce 1.8.9 | b50",
         "img": "https://img.liquidbounce.net/uxc/2018-06-20_19-13-42_java.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=301"
     },
-    "4": {
+    {
         "title": "LiquidBounce 1.8.9 | b51",
         "img": "https://img.liquidbounce.net/uxc/2018-06-27_23-37-20_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=313"
     },
-    "5": {
+    {
         "title": "LiquidBounce 1.8.9 | b52",
         "img": "https://img.liquidbounce.net/uxc/2018-07-03_19-05-26_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=329"  
     },
-    "6": {
+    {
         "title": "LiquidBounce 1.8.9 | b53",
         "img": "https://img.liquidbounce.net/uxc/2018-08-30_21-26-47_vlc.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=365"  
     },
-    "7": {
+    {
         "title": "LiquidBounce 1.8.9 | b54",
         "video": "https://img.liquidbounce.net/uxc/liquidbounce-b54.mp4",
         "poster": "https://img.liquidbounce.net/uxc/2018-07-27_21-46-46_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=391"  
     },
-    "8": {
+    {
         "title": "LiquidBounce 1.8.9 | b55",
         "img": "https://img.liquidbounce.net/uxc/2018-09-23_00-21-48_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=1877"  
     },
-    "9": {
+    {
         "title": "LiquidBounce 1.8.9 | b56",
         "video": "https://img.ccbluex.net/moc/1.8.0_51%202018.10.08%20-%2020.14.22.03.mp4",
         "poster": "https://img.liquidbounce.net/uxc/2018-10-08_21-02-01_chrome.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=653"  
     },
-    "10": {
+    {
         "title": "LiquidBounce 1.8.9 | b57",
         "video": "https://img.liquidbounce.net/uxc/liquidlauncher-cc-fly.mp4",
         "poster": "https://img.liquidbounce.net/uxc/2018-10-14_18-19-19_chrome.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=2345"  
     },
-    "11": {
+    {
         "title": "LiquidBounce 1.8.9 | b58",
         "video": "https://img.ccbluex.net/moc/2018-10-28_23-02-29.mp4",
         "poster": "https://img.liquidbounce.net/uxc/2018-10-28_23-43-01_chrome.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=2707"
     },
-    "12": {
+    {
         "title": "LiquidBounce 1.8.9 | b59",
         "img": "https://img.liquidbounce.net/uxc/2018-11-18_17-30-03_java.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=831" 
     },
-    "13": {
+    {
         "title": "LiquidBounce 1.8.9 | b60",
         "img": "https://img.liquidbounce.net/uxc/2018-12-19_23-03-33_vlc.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=3351" 
     },
-    "14": {
+    {
         "title": "LiquidBounce 1.8.9 | b61",
         "img": "https://img.liquidbounce.net/uxc/PRjiDBjJ.jpg",
         "changelogURL": "https://forum.ccbluex.net/thread.php?id=1019" 
     },
-    "15": {
+    {
         "title": "LiquidBounce 1.8.9 | b62",
         "img": "https://img.liquidbounce.net/uxc/2019-03-10_16-14-11_java.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=4499" 
     }
-}
+]
