@@ -7,8 +7,8 @@ AutoArmor MinDelay 40
 AutoArmor NoMove false
 AutoArmor SimulateInventory true
 ChestStealer AutoClose true
-ChestStealer AutoCloseMaxDelay 0
-ChestStealer AutoCloseMinDelay 0
+ChestStealer AutoCloseMaxDelay 2
+ChestStealer AutoCloseMinDelay 1
 ChestStealer ChestTitle true
 Cheststealer CloseOnFull true
 ChestStealer MaxDelay 25
@@ -16,11 +16,12 @@ ChestStealer MinDelay 25
 ChestStealer NoCompass true
 ChestStealer OnlyItems false
 ChestStealer TakeRandomized true
+CivBreak Air-Reset true
+CivBreak Range-Reset false
+CivBreak Rotations true
 Criticals Delay 280
 Criticals Mode Packet
 FastClimb NormalSpeed 0.28
-FastStairs LongJump falseP
-FastStairs Mode NCP
 FastUse Mode NCP
 Fly Mode CubeCraft
 Fucker Action Destroy
@@ -34,13 +35,14 @@ Fucker ThroughWalls Around
 HighJump Height 5.0
 HighJump Mode Damage
 HighJump OnlyGlassPane false
+HitBox Size 0.4
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen true
-InventoryCleaner ItemDelay 0
+InventoryCleaner ItemDelay 5
 InventoryCleaner MaxDelay 70
 InventoryCleaner MinDelay 60
 InventoryCleaner NoMove false
-InventoryCleaner RandomSlot false
+InventoryCleaner RandomSlot true
 InventoryCleaner SimulateInventory true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
@@ -48,22 +50,19 @@ KillAura AAC true
 KillAura AutoBlock true
 KillAura BlockRate 100
 KillAura FailRate 0.0
-KillAura FakeSharp true
+KillAura FakeSharp false
 KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura HurtTime 10
 KillAura InteractAutoBlock true
 KillAura KeepSprint true
 KillAura LivingRayCast false
-KillAura MaxCPS 16
-KillAura MaxPredictSize 1.5
-KillAura MaxTurnSpeed 60.0
-KillAura MinCPS 17
-KillAura MinPredictSize 1.0
-KillAura MinTurnSpeed 60.0
+KillAura MaxCPS 17
+KillAura MaxTurnSpeed 180.0
+KillAura MinCPS 16
+KillAura MinTurnSpeed 180.0
 KillAura NoInvAttack true
-KillAura NoInvDelay 180
-KillAura Predict true
+KillAura Predict false
 KillAura RandomCenter true
 KillAura Range 5.6
 KillAura RangeSprintReducement 0.4
@@ -72,7 +71,7 @@ KillAura RayCastIgnored true
 KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
-KillAura ThroughWallsRange 0.9
+KillAura ThroughWallsRange 0.99
 LongJump AutoJump false
 LongJump Mode NCP
 LongJump NCPBoost 3.0
@@ -86,29 +85,29 @@ NoSlow Sword NCP
 NoWeb Mode Rewi
 PingSpoof MaxDelay 600
 PingSpoof MinDelay 400
-Scaffold AirSafe true
 Scaffold AutoBlock true
-Scaffold Counter true
 Scaffold Eagle false
+Scaffold ExpandLength 2
 Scaffold KeepRotation true
-Scaffold MaxDelay 15
-Scaffold MinDelay 10
-Scaffold Mode Rewinside
+Scaffold MaxDelay 10
+Scaffold MinDelay 11
+Scaffold Mode Expand
 Scaffold PlaceableDelay true
 Scaffold Rotations true
 Scaffold SameY false
 Scaffold Search false
-Scaffold SpeedModifier 0.85
+Scaffold SpeedModifier 1.4
 Scaffold Sprint true
 Scaffold StayAutoBlock true
 Scaffold Swing true
-Scaffold Timer 1.1
+Scaffold Timer 1.2
+Scaffold Zitter false
 Speed Mode NCPHop
 Sprint AllDirections true
 Sprint Blindness true
 Sprint CheckServerSide false
 Sprint Food true
-Step Delay 100
+Step Delay 150
 Step Height 4.5
 Step Mode NCP
 Tower AutoBlock true
@@ -134,6 +133,7 @@ Criticals toggle true
 FastClimb toggle true
 FastUse toggle true
 Fly toggle false
+HitBox toggle true
 InventoryMove toggle true
 NoFall toggle false
 NoSlow toggle true
@@ -145,8 +145,6 @@ targetDead false
 targetPlayer true
 Velocity toggle true
 
-chat Scaffold inspired by EZhacks config
-chat Killaura can sometimes autoban you if you attack under a block
-chat The config works for Eggwars (but it can flag sometimes)
-chat &6&lTURN ON ANTIFORGE, BECAUSE YOU CAN BE AUTOBANNED
-chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 16.03.2019
+chat Killaura can sometimes autoban you if you attack under a block.
+chat &6&lTURN ON ANTIFORGE, BECAUSE YOU CAN BE AUTOBANNED.
+chat Settings made by \u00A74&lDiscord: &6&lBarbiehunter#1337| 01.09.1939
