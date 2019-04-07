@@ -50,7 +50,7 @@ KillAura AAC true
 KillAura AutoBlock true
 KillAura BlockRate 100
 KillAura FailRate 0.0
-KillAura FakeSharp false
+KillAura FakeSharp true
 KillAura FakeSwing true
 KillAura FOV 180.0
 KillAura HurtTime 10
@@ -58,9 +58,9 @@ KillAura InteractAutoBlock true
 KillAura KeepSprint true
 KillAura LivingRayCast false
 KillAura MaxCPS 17
-KillAura MaxTurnSpeed 180.0
+KillAura MaxTurnSpeed 60.0
 KillAura MinCPS 16
-KillAura MinTurnSpeed 180.0
+KillAura MinTurnSpeed 60.0
 KillAura NoInvAttack true
 KillAura Predict false
 KillAura RandomCenter true
@@ -71,7 +71,7 @@ KillAura RayCastIgnored true
 KillAura SilentRotation true
 KillAura Swing true
 KillAura TargetMode Single
-KillAura ThroughWallsRange 0.99
+KillAura ThroughWallsRange 0.89
 LongJump AutoJump false
 LongJump Mode NCP
 LongJump NCPBoost 3.0
@@ -103,7 +103,7 @@ Scaffold Swing true
 Scaffold Timer 1.2
 Scaffold Zitter false
 Speed Mode NCPHop
-Sprint AllDirections true
+Sprint AllDirections false
 Sprint Blindness true
 Sprint CheckServerSide false
 Sprint Food true
@@ -136,6 +136,7 @@ Fly toggle false
 HitBox toggle true
 InventoryMove toggle true
 NoFall toggle false
+NoRotateSet toggle true
 NoSlow toggle true
 PingSpoof toggle true
 Regen toggle false
