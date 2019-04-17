@@ -77,5 +77,10 @@
         "title": "LiquidBounce 1.8.9 | b62",
         "img": "https://img.liquidbounce.net/uxc/2019-03-10_16-14-11_java.png",
         "changelogURL": "https://forum.ccbluex.net/thread.php?pid=4499" 
+    },
+    {
+        "title": "LiquidBounce 1.8.9 | b62 Lag-Fix",
+        "img": "https://img.liquidbounce.net/uxc/liquidbounce-lag-update.png",
+        "changelogURL": "https://forum.ccbluex.net/thread.php?id=1237"
     }
 ]
