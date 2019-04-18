@@ -105,14 +105,6 @@
         }
     },
     "11": {
-        "Name": "KonvexArtz",
-        "YouTubeName": "KonvexArtz",
-        "YouTubeURL": "https://www.youtube.com/DerFailer3000",
-        "Credits": {
-            "0": "Shared his SpeedlyRewinsideScaffoldwalk values with us."
-        }
-    },
-    "12": {
         "Name": "FinalException",
         "TwitterName": "@FinalException",
         "TwitterURL": "https://twitter.com/FinalException",
@@ -120,7 +112,7 @@
             "0": "Made his Mineplex Fly Open-Source."
         }
     },
-    "13": {
+    "12": {
         "Name": "Trol13337",
         "TwitterName": "@Trol13337",
         "TwitterURL": "https://twitter.com/trol13337",
@@ -128,16 +120,7 @@
             "0": "Shared his RewinsideTeleport Fly."
         }
     },
-    "14": {
-        "Name": "CoMoDe",
-        "YouTubeName": "CoMoDeYT",
-        "YouTubeURL": "https://www.youtube.com/channel/UCAjjwbGg2rp8bslCYSxAhPQ",
-        "Credits": {
-            "0": "Made AAC 3.3.12 Fly.",
-            "1": "Made AAC 3.3.12 Step."
-        }
-    },
-    "15": {
+    "13": {
         "Name": "Garkolym",
         "TwitterName": "@Garkolym",
         "TwitterURL": "https://twitter.com/Garkolym",
@@ -147,7 +130,7 @@
             "0": "Made HoloStand Open-Source."
         }
     },
-    "16": {
+    "14": {
         "Name": "scorpion3013",
         "TwitterName": "@scorpion3013",
         "TwitterURL": "https://twitter.com/scorpien3013",
@@ -156,7 +139,7 @@
             "1": "Shared his Mineplex LongJump"
         }
     },
-    "17": {
+    "15": {
         "Name": "ImDrops",
         "Credits": {
             "0": "Made AAC 3.3.12 Fly",
@@ -164,14 +147,14 @@
             "2": "Made AAC 3.3.12 Step"
         }
     },
-    "18": {
+    "16": {
         "Name": "CrackFileso",
         "Credits": {
             "0": "Made AAC 3.3.15 LowHop",
             "1": "Made AAC 3.3.9 ItemTeleport"
         }
     },
-    "19": {
+    "17": {
         "Name": "NichtVorhanden",
         "TwitterName": "@TanzisLiebling1",
         "TwitterURL": "https://twitter.com/TanzisLiebling1",
@@ -181,7 +164,7 @@
             "0": "Made AAC Push Velocity"
         }
     },
-    "20": {
+    "18": {
         "Name": "mattz",
         "Credits": {
             "0": "Made shader background: ice and fire"
