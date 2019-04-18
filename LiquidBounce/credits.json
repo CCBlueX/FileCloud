@@ -1,5 +1,5 @@
-{
-    "0": {
+[
+    {
         "Name": "MCmodding4K",
         "TwitterName": "@MCmodding4K",
         "TwitterURL": "https://twitter.com/MCmodding4K",
@@ -11,7 +11,7 @@
             "1": "Helped us with ClickGUI sliders."
         }
     },
-    "1": {
+    {
         "Name": "TheSlowly",
         "TwitterName": "@TheSlowlyDev",
         "TwitterURL": "https://twitter.com/theslowlydev",
@@ -21,7 +21,7 @@
             "0": "Made the ShaderESP"
         }
     },
-    "2": {
+    {
         "Name": "Vitox",
         "TwitterName": "@realVitox",
         "TwitterURL": "https://twitter.com/realViTox",
@@ -31,7 +31,7 @@
             "0": "Made his Particle System Open-Source (main menu)."
         }
     },
-    "3": {
+    {
         "Name": "JigsawDev",
         "TwitterName": "@JigsawClient",
         "TwitterURL": "https://twitter.com/JigsawClient",
@@ -42,7 +42,7 @@
             "0": "Helped us with a XRay Bug."
         }
     },
-    "4": {
+    {
         "Name": "Avenue",
         "TwitterName": "@avenue_mag_meme",
         "TwitterURL": "https://twitter.com/avenue_mag_meme",
@@ -52,7 +52,7 @@
             "2": "Shared his spider base with us."
         }
     },
-    "5": {
+    {
         "Name": "DarkAndBlue",
         "YouTubeName": "DarkAndBlue",
         "YouTubeURL": "https://www.youtube.com/channel/UCHoZMFzQkVNK8JnG_aylRkg",
@@ -60,7 +60,7 @@
             "0": "Helped us with AAC3 YPort Speed."
         }
     },
-    "6": {
+    {
         "Name": "Strezz",
         "TwitterName": "@STREZZS",
         "TwitterURL": "https://twitter.com/STREZZS",
@@ -72,13 +72,13 @@
             "1": "Helped us turning LiquidBounce into an forge injection client."
         }
     },
-    "7": {
+    {
         "Name": "TomatoClient",
         "Credits": {
             "0": "We are using Tomato's old NCP BHOP. Hope that's ok."
         }
     },
-    "8": {
+    {
         "Name": "LiquidDev",
         "YouTubeName": "LiquidDev",
         "YouTubeURL": "https://www.youtube.com/channel/UCEX4_SyETCXN-56HkM0aYQA",
@@ -86,7 +86,7 @@
             "0": "Made his NCP Tower Open-Source."
         }
     },
-    "9": {
+    {
         "Name": "DasCanard",
         "TwitterName": "@DasC4nard",
         "TwitterURL": "https://twitter.com/DasC4nard",
@@ -94,7 +94,7 @@
             "0": "Shared his AAC 3.2.1 WallSpeed with us."
         }
     },
-    "10": {
+    {
         "Name": "nxtByte",
         "TwitterName": "@itsBen_YT",
         "TwitterURL": "https://twitter.com/itsBen_YT",
@@ -104,7 +104,7 @@
             "0": "Shared his Minesucht fly with us."
         }
     },
-    "11": {
+    {
         "Name": "FinalException",
         "TwitterName": "@FinalException",
         "TwitterURL": "https://twitter.com/FinalException",
@@ -112,7 +112,7 @@
             "0": "Made his Mineplex Fly Open-Source."
         }
     },
-    "12": {
+    {
         "Name": "Trol13337",
         "TwitterName": "@Trol13337",
         "TwitterURL": "https://twitter.com/trol13337",
@@ -120,7 +120,7 @@
             "0": "Shared his RewinsideTeleport Fly."
         }
     },
-    "13": {
+    {
         "Name": "Garkolym",
         "TwitterName": "@Garkolym",
         "TwitterURL": "https://twitter.com/Garkolym",
@@ -130,7 +130,7 @@
             "0": "Made HoloStand Open-Source."
         }
     },
-    "14": {
+    {
         "Name": "scorpion3013",
         "TwitterName": "@scorpion3013",
         "TwitterURL": "https://twitter.com/scorpien3013",
@@ -139,7 +139,7 @@
             "1": "Shared his Mineplex LongJump"
         }
     },
-    "15": {
+    {
         "Name": "ImDrops",
         "Credits": {
             "0": "Made AAC 3.3.12 Fly",
@@ -147,14 +147,14 @@
             "2": "Made AAC 3.3.12 Step"
         }
     },
-    "16": {
+    {
         "Name": "CrackFileso",
         "Credits": {
             "0": "Made AAC 3.3.15 LowHop",
             "1": "Made AAC 3.3.9 ItemTeleport"
         }
     },
-    "17": {
+    {
         "Name": "NichtVorhanden",
         "TwitterName": "@TanzisLiebling1",
         "TwitterURL": "https://twitter.com/TanzisLiebling1",
@@ -164,10 +164,10 @@
             "0": "Made AAC Push Velocity"
         }
     },
-    "18": {
+    {
         "Name": "mattz",
         "Credits": {
             "0": "Made shader background: ice and fire"
         }
     }
-}
+]
