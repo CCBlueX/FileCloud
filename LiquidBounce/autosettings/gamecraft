@@ -203,8 +203,8 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 5.0
 KillAura LimitedMultiTargets 0
-KillAura MaxTurnSpeed 15.0
-KillAura MinTurnSpeed 10.0
+KillAura MaxTurnSpeed 12.0
+KillAura MinTurnSpeed 9.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
