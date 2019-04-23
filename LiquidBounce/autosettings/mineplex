@@ -129,7 +129,7 @@ KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura Predict true
-KillAura MaxPredictSize 1.0
+KillAura MaxPredictSize 1.4
 KillAura MinPredictSize 1.0
 KillAura NoInvAttack false
 KillAura NoInvDelay 100
@@ -166,14 +166,15 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing true
-Scaffold Search true
+Scaffold Search false
 Scaffold Eagle false
 Scaffold PlaceableDelay false
+Scaffold BlocksToEagle 0
 Scaffold Rotations false
 Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.96
+Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold AirSafe true
 Sneak Mode Vanilla
@@ -184,7 +185,7 @@ Sprint Blindness true
 Sprint Food false
 Sprint CheckServerSide true
 Step Mode AAC
-Step Height 2.0
+Step Height 1.0
 Step Delay 352
 TNTBlock Fuse 10
 TNTBlock AutoSword true
@@ -285,4 +286,4 @@ targetDead true
 
 chat Note: Criticals have no effect if you use them with nofall
 chat Dont use the speed in combat. (You will deal no damage)
-chat Settings made by scorpion3013 [KLL] | 26.02.2019
+chat Settings made by scorpion3013 [KLL] | 21.04.2019
