@@ -99,7 +99,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Sprint true
+Scaffold Sprint false
 Scaffold Swing false
 Scaffold Search false
 Scaffold Eagle false
