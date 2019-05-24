@@ -96,8 +96,9 @@ Phase Mode Skip
 PingSpoof MaxDelay 750
 PingSpoof MinDelay 500
 Scaffold Mode Normal
-Scaffold MaxDelay 0
-Scaffold MinDelay 0
+Scaffold MaxDelay 10
+Scaffold MinDelay 5
+# ^ Zur Sicherheit. Sollte Fastplace Flags verhindern.
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
@@ -107,9 +108,16 @@ Scaffold Eagle false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
 Scaffold KeepRotation true
-Scaffold Zitter false
+Scaffold Zitter true
+Scaffold ZitterMode Teleport
+Scaffold ZitterSpeed 0.225
+Scaffold ZitterStrength 0.001
+# ^ Macht Zittern unmerklich
 Scaffold Timer 1.0
-Scaffold SpeedModifier 1.0
+Scaffold SpeedModifier -1.0e-45
+# ^ Unterbricht für einen Sekundenbruchteil das Schnellerwerden, sollte Flags unterbinden 
+# Der Scaffold ist noch zu verbessern. Ich konnte keine Flags feststellen. Ist von Discord-Nutzern als nicht autobannend bewertet worden.
+# Kommentare nach etwaiger Aufnahme bitte entfernen.
 Speed Mode HypixelHop
 Sprint AllDirections false
 Sprint Blindness true
