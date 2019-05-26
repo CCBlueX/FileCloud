@@ -77,7 +77,7 @@ Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
-Scaffold Swing true
+Scaffold Swing false
 Scaffold Search false
 Scaffold Eagle false
 Scaffold PlaceableDelay true
@@ -90,7 +90,7 @@ Scaffold ZitterMode Teleport
 Scaffold ZitterSpeed 0.1
 Scaffold ZitterStrength 0.1
 Scaffold Timer 1.05
-Scaffold SpeedModifier 1.0
+Scaffold SpeedModifier 1.25
 Scaffold SameY false
 Scaffold AirSafe false
 Speed Mode NCPHop
