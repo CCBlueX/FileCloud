@@ -90,7 +90,7 @@ Scaffold ZitterMode Teleport
 Scaffold ZitterSpeed 0.1
 Scaffold ZitterStrength 0.1
 Scaffold Timer 1.05
-Scaffold SpeedModifier 1.25
+Scaffold SpeedModifier 1
 Scaffold SameY false
 Scaffold AirSafe false
 Speed Mode NCPHop
