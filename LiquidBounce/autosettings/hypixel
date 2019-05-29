@@ -58,13 +58,11 @@ KillAura Range 4.31
 KillAura ThroughWallsRange 4.15
 KillAura RangeSprintReducement 0.15
 KillAura Priority Health
-KillAura TargetMode Switch
 KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
-KillAura InteractAutoBlock true
-KillAura BlockRate 88
+KillAura InteractAutoBlock false
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -112,7 +110,7 @@ Scaffold ZitterMode Teleport
 Scaffold ZitterSpeed 0.225
 Scaffold ZitterStrength 0.001
 Scaffold Timer 1.0
-Scaffold SpeedModifier -1.0e-45
+Scaffold SpeedModifier -1.0e-40
 Speed Mode HypixelHop
 Sprint AllDirections false
 Sprint Blindness true
@@ -142,6 +140,7 @@ NoSlow toggle true
 Regen toggle false
 Zoot toggle false
 FastClimb toggle false
-
-chat &lTOWER SEEMS TO BE AUTOBANNING AT THE MOMENT! DO NOT USE IT!
+chat &k&labc
+chat &4&lTOWER SEEMS TO BE AUTOBANNING AT THE MOMENT! DO NOT USE IT!
 chat &c&lHypixelBoost still works if you enable fly while walking!
+chat &k&labc
