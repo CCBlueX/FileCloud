@@ -102,7 +102,6 @@ KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.1
 KillAura Priority Distance
 KillAura TargetMode Switch
-KillAura MultiMode Vanilla
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
@@ -243,9 +242,10 @@ WallClimb toggle false
 WaterFly toggle false
 WaterSpeed toggle false
 ReverseStep toggle false
-
+chat &4&k------------------------------------------------------------------
 chat This is only a &4beta version &eplease report bugs!
 chat Just write me a discord message &aNintendo Custom#0564
 chat Use this configuration &4only &eif the server use &4AAC version 3.5.0
 chat Last update 15.12.2018
 chat Config created by &cNintendocustom
+chat &4&k-------------------------------------------------------------------
