@@ -345,8 +345,8 @@ Velocity toggle true
 targetDead true
 
 chat __________________________________________________________________
-chat Scaffold can't work in BedWars,it will get banned
-chat Strafe have better to toggle off
-chat Step work not very good(Flagged)
-chat FastStairs will be detected If you walk a stair horizontally
+chat Scaffold won't work in BedWars, it will Autoban.
+chat You should better toggle off Strafe.
+chat Step flags.
+chat FastStairs will be detected if you walk a Stair horizontally.
 chat __________________________________________________________________
