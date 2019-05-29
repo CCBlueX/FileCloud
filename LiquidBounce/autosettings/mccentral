@@ -36,10 +36,7 @@ Criticals Delay 0
 Criticals Mode Jump
 FastUse Mode AAC
 Fly AAC3.3.12-Motion 8.54
-Fly AAC3.3.13-Motion 8.38
-Fly AACSpeed 0.3
 Fly Mode AAC3.3.12
-HitBox Size 0.4
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen false
 InventoryCleaner MaxDelay 100
@@ -64,7 +61,6 @@ KillAura MaxCPS 14
 KillAura MaxTurnSpeed 180.0
 KillAura MinCPS 10
 KillAura MinTurnSpeed 180.0
-KillAura MultiMode Vanilla
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura Outborder true
@@ -105,10 +101,6 @@ Scaffold StayAutoBlock true
 Scaffold Swing false
 Scaffold Timer 1.0
 Scaffold Zitter false
-Speed CustomSpeed 0.8
-Speed CustomStrafe true
-Speed CustomTimer 1.0
-Speed CustomY 0.2
 Speed Mode AAC5BHop
 Sprint AllDirections false
 Sprint Blindness true
@@ -126,8 +118,6 @@ Tower StopWhenBlockAbove true
 Tower Swing true
 Velocity Horizontal 0.0
 Velocity Mode Simple
-Velocity Reverse2Strength 0.05
-Velocity ReverseStrength 1.0
 Velocity Vertical 0.02
 
 # toggles
