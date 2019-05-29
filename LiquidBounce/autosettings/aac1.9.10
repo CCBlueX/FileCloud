@@ -78,7 +78,6 @@ Scaffold Swing true
 Scaffold ExpandLenght 2
 Scaffold KeepRotation false
 Scaffold Sprint true
-Scaffold Boost 0
 Speed Mode OldAACBHop
 Sprint AllDirections true
 Step Mode LAAC
