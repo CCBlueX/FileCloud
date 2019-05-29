@@ -84,8 +84,6 @@ Tower AutoBlock true
 Tower StayAutoBlock true
 Trigger MaxCPS 12
 Trigger MinCPS 8
-Velocity Horizontal 0.4
-Velocity Vertical 0.4
 Velocity Mode AACPush
 Velocity Reverse2Strength 0.05
 Sprint AllDirections false
