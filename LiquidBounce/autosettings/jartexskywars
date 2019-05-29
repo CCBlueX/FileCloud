@@ -91,7 +91,7 @@ Scaffold KeepRotation false
 Scaffold Zitter true
 Scaffold ZitterMode Teleport
 Scaffold ZitterSpeed 0.13
-Scaffold ZitterStrength 0.05
+Scaffold ZitterStrength 1e-45
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.2
 Scaffold SameY false
@@ -114,16 +114,6 @@ Tower StopWhenBlockAbove true
 Tower Timer 1.0
 Tower JumpMotion 0.42
 Tower JumpDelay 0
-Tower ConstantMotion 0.42
-Tower ConstantMotionJumpGround 0.79
-Tower TeleportHeight 1.15
-Tower TeleportDelay 0
-Tower TeleportGround true
-Tower TeleportNoMotion false
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-Velocity ReverseStrength 1.0
-Velocity Reverse2Strength 0.05
-Velocity AACPushXZReducer 2.0
-Velocity AACPushYReducer true
