@@ -46,7 +46,6 @@ KillAura Range 4.90
 KillAura RangeSprintReducement 0.15
 KillAura Priority Direction
 KillAura TargetMode Switch
-KillAura MultiMode NCP
 KillAura ThroughWallsRange 0
 KillAura Swing true
 KillAura KeepSprint true
@@ -97,13 +96,6 @@ Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
 Speed Mode AACLowHop3
-Speed CustomSpeed 0.2
-Speed CustomY 0.42
-Speed CustomTimer 0.98
-Speed CustomStrafe true
-Speed AAC-PortLength 2.99
-Speed AACGround-Timer 2.42
-Speed CubeCraft-PortLength 1.0
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -135,7 +127,9 @@ regen toggle false
 zoot toggle false
 criticals toggle false
 antibot toggle false
-chat You can turn off Sprint CheckServerSide but this could result a ban
-chat ---------
+chat &4&k---------
+chat You can turn off Sprint CheckServerSide but this could result a ban.
+chat &4&k---------
 chat If you are playing kitpvp use
-chat .config jartexnetwork-kitpvp
+chat .config load jartexnetwork-kitpvp
+chat &4&k---------
