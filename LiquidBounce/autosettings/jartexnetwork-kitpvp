@@ -100,14 +100,6 @@ Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Speed Mode AACLowHop3
-Speed CustomSpeed 0.2
-Speed CustomY 0.42
-Speed CustomTimer 0.98
-Speed CustomStrafe true
-Speed AAC-PortLength 2.99
-Speed AACGround-Timer 2.42
-Speed CubeCraft-PortLength 1.0
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -121,8 +113,6 @@ Tower Mode AAC3.3.9
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
-Velocity Horizontal .10
-Velocity Vertical .10
 Velocity Mode Reverse2
 Velocity Reverse2Strength 0.1
 #toggles
@@ -140,4 +130,4 @@ derp toggle false
 regen toggle false
 zoot toggle false
 antibot toggle false
-chat You can use Autopot if you want
+chat &4You can use Autopot if you want.
