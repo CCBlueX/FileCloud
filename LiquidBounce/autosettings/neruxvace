@@ -11,7 +11,6 @@ Criticals Mode Packet
 Criticals Delay 0
 FastUse Mode NCP
 Fly Mode NeruxVace
-Fly NCPMotion 0.0
 IceSpeed Mode NCP
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 75
@@ -44,7 +43,6 @@ KillAura FOV 180.0
 KillAura MaxTurnSpeed 180
 KillAura MinTurnSpeed 180
 KillAura RandomCenter false
-KillAura BlockRate 100
 KillAura Predict true
 KillAura PredictSize 1
 KillAura FakeSwing true
