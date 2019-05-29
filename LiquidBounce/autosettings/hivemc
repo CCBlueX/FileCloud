@@ -102,7 +102,6 @@ KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
 KillAura TargetMode Switch
-KillAura MultiMode Vanilla
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
