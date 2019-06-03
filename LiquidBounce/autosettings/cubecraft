@@ -76,7 +76,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
-Scaffold Sprint false
+Scaffold Sprint true
 Scaffold Swing false
 Scaffold Search false
 Scaffold Eagle false
@@ -85,14 +85,16 @@ Scaffold BlocksToEagle 5
 Scaffold ExpandLength 1
 Scaffold Rotations true
 Scaffold KeepRotation true
-Scaffold Zitter false
+Scaffold Zitter true
 Scaffold ZitterMode Teleport
-Scaffold ZitterSpeed 0.1
-Scaffold ZitterStrength 0.1
+Scaffold ZitterSpeed 0.05
+Scaffold ZitterStrength 0.01
 Scaffold Timer 1.05
-Scaffold SpeedModifier 1
+Scaffold SpeedModifier 3.0
 Scaffold SameY false
 Scaffold AirSafe false
+Scaffold Counter true
+Scaffold Mark false
 Speed Mode NCPHop
 Sprint AllDirections false
 Sprint Blindness true
@@ -136,3 +138,4 @@ targetPlayer true
 Velocity toggle true
 
 chat &6&lTower might autoban! Do not use it!
+chat &e&lTIP: You may disable Sprint in scaffold if you have bad internet.
