@@ -52,25 +52,25 @@ InventoryCleaner RandomSlot true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 14
-KillAura MinCPS 10
+KillAura MinCPS 7
 KillAura HurtTime 10
 KillAura Range 4.31
 KillAura ThroughWallsRange 4.15
 KillAura RangeSprintReducement 0.15
 KillAura Priority Health
-KillAura TargetMode Switch
+KillAura TargetMode Single
 KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
+KillAura AutoBlock true
 KillAura InteractAutoBlock true
-KillAura BlockRate 88
+KillAura BlockRate 67
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura Predict true
-KillAura MaxPredictSize 1.5
+KillAura MaxPredictSize 1.12
 KillAura MinPredictSize 0.5
 KillAura NoInvAttack false
 KillAura NoInvDelay 200
@@ -135,7 +135,7 @@ Velocity Mode Simple
 
 # Toggles
 AntiBot toggle true
-Criticals toggle true
+Criticals toggle false
 PingSpoof toggle true
 NoFall toggle false
 NoSlow toggle true
@@ -144,4 +144,5 @@ Zoot toggle false
 FastClimb toggle false
 
 chat &lTOWER SEEMS TO BE AUTOBANNING AT THE MOMENT! DO NOT USE IT!
+chat &lCRITICALS SEEMS TO BE AUTOBANNING AT THE MOMENT! DO NOT USE IT!
 chat &c&lHypixelBoost still works if you enable fly while walking!
