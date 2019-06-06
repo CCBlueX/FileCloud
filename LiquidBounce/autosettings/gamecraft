@@ -109,7 +109,7 @@ ControllerControl ControllerID 0
 ControllerControl RotationSpeed 0.2
 ControllerControl toggle false
 Criticals Mode NoGround
-Criticals Delay 33
+Criticals Delay 30
 Criticals toggle false
 Damage Mode AAC
 Damage Damage 1
@@ -121,7 +121,7 @@ FastBow toggle false
 FastBreak BreakDamage 0.1
 FastBreak toggle false
 FastClimb Mode Normal
-FastClimb NormalSpeed 0.1698
+FastClimb NormalSpeed 0.16
 FastClimb toggle true
 FastPlace Speed 1
 FastPlace toggle false
@@ -170,7 +170,7 @@ IceSpeed toggle false
 InventoryCleaner toggle false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks true
-InventoryMove toggle false
+InventoryMove toggle true
 ItemTeleport Mode New
 ItemTeleport ResetAfterTP false
 ItemTeleport Button Middle
@@ -179,37 +179,37 @@ KeepContainer toggle false
 Kick Mode SelfHurt
 Kick toggle false
 KillAura MaxCPS 16
-KillAura MinCPS 9
-KillAura HurtTime 7
-KillAura Range 4.95
+KillAura MinCPS 10
+KillAura HurtTime 8
+KillAura Range 5.50
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
-KillAura TargetMode Single
+KillAura TargetMode Switch
 KillAura MultiMode Vanilla
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
-KillAura InteractAutoBlock false
+KillAura InteractAutoBlock true
 KillAura BlockRate 100
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura LivingRayCast true
 KillAura Predict true
-KillAura MaxPredictSize 1.5
+KillAura MaxPredictSize 1.4
 KillAura MinPredictSize 1.0
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
-KillAura FailRate 5.0
+KillAura FailRate 1.5
 KillAura LimitedMultiTargets 0
-KillAura MaxTurnSpeed 13.0
+KillAura MaxTurnSpeed 15.5
 KillAura MinTurnSpeed 9.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura Outborder true
-KillAura FOV 120.0
+KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp true
 KillAura toggle true
@@ -239,7 +239,7 @@ NoSlow Sword Custom
 NoSlow Consume Custom
 NoSlow Bow Custom
 NoSlow Soulsand false
-NoSlow CustomReducement 0.59
+NoSlow CustomReducement 0.60
 NoSlow toggle true
 NoWeb Mode LAAC
 NoWeb toggle false
@@ -300,9 +300,9 @@ Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
 Sprint toggle true
-Step Mode NCP
+Step Mode AAC3.3.4
 Step Height 1.0
-Step Delay 333
+Step Delay 350
 Step toggle true
 Strafe toggle false
 SuperKnockback toggle false
@@ -316,7 +316,7 @@ Teleport Mode AAC3.5.0
 Teleport Button Left
 Teleport toggle false
 TeleportHit toggle false
-Timer Speed 1.01
+Timer Speed 0.05
 Timer toggle false
 Tower Mode Jump
 Tower AutoBlock true
@@ -324,7 +324,7 @@ Tower StayAutoBlock false
 Tower Swing true
 Tower StopWhenBlockAbove true
 Tower Timer 1.0
-Tower JumpMotion 0.42
+Tower JumpMotion 0.41
 Tower JumpDelay 0
 Tower ConstantMotion 0.42
 Tower ConstantMotionJumpGround 0.95
@@ -339,7 +339,7 @@ Velocity Vertical 0.0
 Velocity Mode AACPush
 Velocity ReverseStrength 0.98
 Velocity Reverse2Strength 0.02
-Velocity AACPushXZReducer 2.10
+Velocity AACPushXZReducer 2.25
 Velocity AACPushYReducer true
 Velocity toggle true
 
@@ -348,7 +348,7 @@ targetDead true
 
 chat __________________________________________________________________
 chat Scaffold can't work in BedWar,it will get banned
-chat Strafe have better to toggle off
-chat Step work not very good(Flagged)
+chat Strafe can turn on
+chat Step now is used in conjunction with AACStep in its script: https://forum.ccbluex.net/thread.php?id=1261
 chat FastStairs will be detected If you walk a stair horizontally
 chat __________________________________________________________________
