@@ -31,6 +31,8 @@ ChestStealer AutoCloseMaxDelay 2
 ChestStealer AutoCloseMinDelay 1
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle true
+Criticals Mode NoGround
+Criticals Delay 0
 Fly Mode LatestHypixel
 Fly HypixelLatest-Boost false
 Fly HypixelLatest-BoostDelay 475
@@ -79,7 +81,7 @@ KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
 LiquidWalk Mode NCP
-NoFall Mode SpoofGround
+NoFall Mode NoGround
 NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
@@ -131,9 +133,9 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 #toggles
 AntiBot toggle true
-Criticals toggle false
+Criticals toggle true
 PingSpoof toggle true
-NoFall toggle false
+NoFall toggle true
 NoSlow toggle true
 Regen toggle false
 Zoot toggle false
