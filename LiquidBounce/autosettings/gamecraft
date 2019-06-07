@@ -39,10 +39,10 @@ AutoBow toggle false
 AutoBreak toggle false
 AutoTool toggle true
 AutoWalk toggle false
-AutoWeapon SpoofItem true
-AutoWeapon toggle false
+AutoWeapon SpoofItem false
+AutoWeapon toggle true
 BedGodMode toggle false
-Blink Pulse true
+Blink Pulse false
 Blink PulseDelay 500
 Blink toggle false
 BlockWalk Cobweb true
@@ -54,28 +54,6 @@ BowAimbot PredictSize 3.66
 BowAimbot Priority Direction
 BowAimbot Mark true
 BowAimbot toggle false
-BufferSpeed SpeedLimit true
-BufferSpeed MaxSpeed 2.88
-BufferSpeed Buffer true
-BufferSpeed Stairs false
-BufferSpeed StairsBoost 1.1
-BufferSpeed StairsMode New
-BufferSpeed Slabs true
-BufferSpeed SlabsBoost 1.2
-BufferSpeed SlabsMode New
-BufferSpeed Ice true
-BufferSpeed IceBoost 1.02
-BufferSpeed Snow false
-BufferSpeed SnowBoost 2.0
-BufferSpeed SnowPort false
-BufferSpeed Wall true
-BufferSpeed WallBoost 1.3
-BufferSpeed WallMode New
-BufferSpeed HeadBlock false
-BufferSpeed HeadBlockBoost 1.87
-BufferSpeed Slime true
-BufferSpeed AirStrafe true
-BufferSpeed NoHurt true
 BufferSpeed toggle false
 BugUp Mode FlyFlag
 BugUp FallDistance 3.27
@@ -116,15 +94,13 @@ Damage Damage 1
 Damage toggle false
 Eagle toggle false
 FarmKingBot toggle false
-FastBow Packets 3
 FastBow toggle false
-FastBreak BreakDamage 0.1
 FastBreak toggle false
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.16
-FastClimb toggle true
+FastClimb toggle false
 FastPlace Speed 1
-FastPlace toggle false
+FastPlace toggle true
 FastStairs Mode NCP
 FastStairs LongJump false
 FastStairs toggle true
@@ -156,32 +132,23 @@ Fucker Action Destroy
 Fucker NoHit true
 Fucker toggle false
 Ghost toggle false
-GhostHand id 32
 GhostHand toggle false
 GodMode toggle false
-HighJump Height 1.6
-HighJump Mode DAC
-HighJump OnlyGlassPane false
 HighJump toggle false
-HitBox Size 0.38
 HitBox toggle false
-IceSpeed Mode NCP
 IceSpeed toggle false
 InventoryCleaner toggle false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks true
 InventoryMove toggle true
-ItemTeleport Mode New
-ItemTeleport ResetAfterTP false
-ItemTeleport Button Middle
 ItemTeleport toggle false
 KeepContainer toggle false
 Kick Mode SelfHurt
 Kick toggle false
 KillAura MaxCPS 16
 KillAura MinCPS 10
-KillAura HurtTime 8
-KillAura Range 5.50
+KillAura HurtTime 7
+KillAura Range 5.0
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
@@ -203,8 +170,8 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 1.5
 KillAura LimitedMultiTargets 0
-KillAura MaxTurnSpeed 15.5
-KillAura MinTurnSpeed 9.0
+KillAura MaxTurnSpeed 12.5
+KillAura MinTurnSpeed 8.5
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter true
@@ -229,11 +196,11 @@ NoClip toggle false
 NoFall Mode AAC3.3.15
 NoFall toggle false
 NoFriends toggle false
-NoJumpDelay toggle true
+NoJumpDelay toggle false
 NoPitchLimit toggle false
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation true
-NoRotateSet NoZero true
+NoRotateSet NoZero false
 NoRotateSet toggle true
 NoSlow Sword Custom
 NoSlow Consume Custom
@@ -250,30 +217,6 @@ Phase Mode AAC3.5.0
 Phase toggle false
 SafeWalk AirSafe false
 SafeWalk toggle false
-Scaffold Mode Normal
-Scaffold MaxDelay 546
-Scaffold MinDelay 386
-Scaffold AutoBlock true
-Scaffold StayAutoBlock true
-Scaffold Sprint false
-Scaffold Swing true
-Scaffold Search true
-Scaffold Eagle false
-Scaffold PlaceableDelay true
-Scaffold BlocksToEagle 0
-Scaffold ExpandLength 1
-Scaffold Rotations true
-Scaffold KeepRotation true
-Scaffold Zitter false
-Scaffold ZitterMode Teleport
-Scaffold ZitterSpeed 0.2
-Scaffold ZitterStrength 0.072
-Scaffold Timer 0.85
-Scaffold SpeedModifier 0.33
-Scaffold SameY false
-Scaffold AirSafe false
-Scaffold Counter true
-Scaffold Mark false
 Scaffold toggle false
 ServerCrasher Mode WorldEdit
 ServerCrasher toggle false
@@ -284,10 +227,10 @@ Sneak Mode Legit
 Sneak StopMove false
 Sneak toggle false
 Speed Mode Custom
-Speed CustomSpeed 0.425
-Speed CustomY 0.42
+Speed CustomSpeed 0.41
+Speed CustomY 0.415
 Speed CustomTimer 1.0
-Speed CustomStrafe false
+Speed CustomStrafe true
 Speed CustomResetXZ true
 Speed CustomResetY true
 Speed AAC-PortLength 1.0
@@ -304,7 +247,7 @@ Step Mode AAC3.3.4
 Step Height 1.0
 Step Delay 350
 Step toggle true
-Strafe toggle false
+Strafe toggle true
 SuperKnockback toggle false
 TNTBlock Fuse 44
 TNTBlock AutoSword true
@@ -348,7 +291,7 @@ targetDead true
 
 chat __________________________________________________________________
 chat Scaffold can't work in BedWar,it will get banned
-chat Strafe can turn on
+chat Strafe can turn on now
 chat Step now is used in conjunction with AACStep in its script: https://forum.ccbluex.net/thread.php?id=1261
 chat FastStairs will be detected If you walk a stair horizontally
 chat __________________________________________________________________
