@@ -21,8 +21,7 @@ KillAura Range 4.04
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
 KillAura TargetMode Switch
-KillAura MultiMode Vanilla
-KillAura ThroughWallsRange 0
+KillAura ThroughWallsRange 0.51
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
@@ -38,7 +37,6 @@ KillAura MinTurnSpeed 60
 KillAura RandomCenter true
 KillAura Outborder true
 KillAura FOV 180.0
-KillAura BlockRate 100
 KillAura Predict true
 KillAura PredictSize 1
 KillAura FakeSwing true
