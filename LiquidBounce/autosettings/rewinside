@@ -104,11 +104,11 @@ Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
-Tower Type FastMotion2
+Tower Mode Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
-Velocity Horizontal 0.0
+Velocity Horizontal -0.01
 Velocity Vertical 1.0
 Velocity Mode Simple
 
