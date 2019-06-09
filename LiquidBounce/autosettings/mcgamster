@@ -42,7 +42,6 @@ AutoSoup Health 12.0
 AutoSoup Delay 77
 AutoSoup OpenInv true
 Blink Pulse false
-Blink PulseDelay 500
 BlockWalk Cobweb false
 BlockWalk Snow true
 BowAimbot Silent true
@@ -122,7 +121,6 @@ KillAura Range 4.81
 KillAura RangeSprintReducement 0.1
 KillAura Priority Distance
 KillAura TargetMode Switch
-KillAura MultiMode Vanilla
 KillAura ThroughWalls true
 KillAura ThroughWallsRange 4.81
 KillAura Swing true
@@ -175,9 +173,6 @@ Scaffold BlocksToEagle 0
 Scaffold ExpandLength 4
 Scaffold KeepRotation false
 Scaffold Zitter false
-Scaffold ZitterMode Smooth
-Scaffold ZitterSpeed 0.1
-Scaffold ZitterStrength 0.05
 Scaffold Timer 2.02
 Scaffold SpeedModifier 1.69
 SlimeJump Motion 1.0
@@ -242,6 +237,6 @@ ItemTeleport toggle false
 MultiActions toggle false
 
 chat This config &4didn't work &eon &4bedwars 4v4v4v4 &eand &4solo!
-chat If you want to play BW 4v4v4v4 or solo, type &a.settings mcgamster2
+chat If you want to play BW 4v4v4v4 or solo, type &a.config load mcgamster2
 chat Last update &b15.12.2018
 chat Config created by &cNintendocustom
