@@ -33,12 +33,6 @@ Criticals Mode Jump
 Criticals Delay 0
 FastUse Mode AAC
 Fly Mode AACv3
-Fly VanillaSpeed 0.7
-Fly MineplexSpeed 1.0
-Fly NCPMotion 0.0
-Fly AACSpeed 0.3
-Fly AAC3.3.12-Motion 10.0
-Fly AAC3.3.13-Motion 10.0
 Fly Mark true
 Fucker id 26
 Fucker Instant false
@@ -68,7 +62,6 @@ KillAura ThroughWallsRange 0
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
-KillAura BlockRate 35
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored false
