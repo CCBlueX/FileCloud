@@ -25,8 +25,7 @@ KillAura KeepSprint true
 KillAura ThroughWalls true
 KillAura ThroughWallsRange 3.8
 KillAura AAC false
-KillAura MultiMode NCP
-KillAura HurtTime true
+KillAura HurtTime 7
 KillAura Range 3.8
 KillAura Priority Distance
 KillAura FOV 180.0
@@ -60,6 +59,4 @@ Teleport Mode Rewinside
 Tower AutoBlock true
 Tower Swing false
 Tower Mode Jump
-Velocity Horizontal 0.0
-Velocity AAC false
-Velocity Vertical 1.0
+Velocity Mode AACPush
