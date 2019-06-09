@@ -50,12 +50,10 @@ KillAura Range 4.04
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
 KillAura TargetMode Switch
-KillAura MultiMode Vanilla
 KillAura ThroughWallsRange 0
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
-KillAura BlockRate 35
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored false
@@ -76,7 +74,6 @@ NoSlow Sword NCP
 NoSlow Consume Vanilla
 NoSlow Bow NCP
 NoSlow Soulsand true
-NoSlow CustomReducement 0.51
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
@@ -88,7 +85,6 @@ Scaffold PlaceableDelay false
 Scaffold BlocksToEagle 10
 Scaffold KeepRotation false
 Scaffold Timer 1.0
-Scaffold Boost 0.179
 Speed Mode AAC7BHop
 Step Mode AAC
 Step Height 1.0
@@ -97,10 +93,7 @@ Tower Mode Jump
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
-Velocity Horizontal 0.5
-Velocity Vertical 0.5
 Velocity Mode AAC
-Velocity ReverseStrength 0.5
-Velocity Reverse2Strength 0.05
 #toggles
 AntiBot toggle true
+chat &c&lFor Minesucht's Intave use minesucht-intave.
