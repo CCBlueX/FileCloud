@@ -25,7 +25,6 @@ KillAura Range 4.1
 KillAura RangeSprintReducement 0.0
 KillAura Priority Health
 KillAura TargetMode Switch
-KillAura MultiMode NCP
 KillAura ThroughWalls true
 KillAura ThroughWallsRange 4.1
 KillAura Swing true
@@ -61,7 +60,6 @@ Scaffold KeepRotation false
 Scaffold Eagle false
 Scaffold Zitter false
 Scaffold Timer 1
-Scaffold Boost 0
 Scaffold SpeedModifier 1.1
 ServerCrasher Mode AACNew
 Speed Mode NCPHop
