@@ -120,7 +120,8 @@ Tower Mode Jump
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-#toggles
+FastUse Mode AAC
+# Toggle
 AntiBot toggle true
 Criticals toggle true
 PingSpoof toggle true
