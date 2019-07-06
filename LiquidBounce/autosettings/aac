@@ -87,7 +87,8 @@ Trigger MinCPS 8
 Velocity Horizontal 0.4
 Velocity Vertical 0.4
 Velocity Mode AACPush
-Velocity Reverse2Strength 0.05
+Velocity AACPushXZReducer 2
+Velocity AACPushYReducer false
 Sprint AllDirections false
 Sprint CheckServerSide true
 WallClimb Mode Clip
