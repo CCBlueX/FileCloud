@@ -269,14 +269,14 @@
     },"1.12.2": {
         "b1": {
             "forge": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar",
-            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E1.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E3.jar",
             "liquidBounce": "http://dl.ccbluex.net/download/skip/index.php?target=9ec744f8b",
             "liquidBounceHash": "9f64db20037b5de3647674ce32c36f71",
             "configFolder": "LiquidBounce-1.12.2"
         },
     	"b2": {
             "forge": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar",
-            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E1.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E3.jar",
             "liquidBounce": "http://dl.ccbluex.net/download/skip/index.php?target=024483d13",
             "liquidBounceHash": "82223cd96b57f450181de644ecf2e8c5",
             "configFolder": "LiquidBounce-1.12.2"
