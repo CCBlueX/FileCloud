@@ -55,7 +55,7 @@ KillAura RandomCenter true
 KillAura Outborder true
 KillAura Predict true
 KillAura PredictSize 1.5
-KillAura NoInvAttack true
+KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FOV 180.0
 KillAura FakeSwing true
