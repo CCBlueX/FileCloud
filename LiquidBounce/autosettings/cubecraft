@@ -122,6 +122,8 @@ Tower TeleportGround true
 Tower TeleportHeight 1.0
 Tower TeleportNoMotion false
 Tower Timer 1.0
+Tower Rotations true
+Tower KeepRotation true
 Velocity Horizontal 0.0
 Velocity Mode Simple
 Velocity Vertical 0.0
