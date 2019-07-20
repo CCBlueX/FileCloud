@@ -75,7 +75,7 @@ KillAura MaxTurnSpeed 173.61
 KillAura MinTurnSpeed 156.03
 KillAura FakeSwing false
 KillAura SilentRotation true
-KillAura RandomCenter false
+KillAura RandomCenter true
 KillAura Outborder false
 KillAura FOV 180.0
 LiquidWalk Mode NCP
