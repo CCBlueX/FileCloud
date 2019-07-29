@@ -1,2 +1,2 @@
-var exampleCommand = new ExampleCommmand();
+var exampleCommand = new ExampleCommand();
 var exampleCommandClient;
