@@ -1,0 +1,1 @@
+var exampleTab = new ExampleTab();

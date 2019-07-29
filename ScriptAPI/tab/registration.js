@@ -1,0 +1,1 @@
+creativeTabs.registerTab(exampleTab);

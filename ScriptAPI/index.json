@@ -1,0 +1,19 @@
+{
+    "module": {
+        "class": "module/class.js",
+        "instantiation": "module/instantiation.js",
+        "registration": "module/registration.js",
+        "unregistration": "module/unregistration.js"
+    },
+    "command": {
+        "class": "command/class.js",
+        "instantiation": "command/instantiation.js",
+        "registration": "command/registration.js",
+        "unregistration": "command/unregistration.js"
+    },
+    "tab": {
+        "class": "tab/class.js",
+        "instantiation": "tab/instantiation.js",
+        "registration": "tab/registration.js"
+    }
+}

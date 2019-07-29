@@ -1,0 +1,1 @@
+exampleModuleClient = moduleManager.registerModule(exampleModule);

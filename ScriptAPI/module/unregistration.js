@@ -1,0 +1,1 @@
+moduleManager.unregisterModule(exampleModuleClient);
