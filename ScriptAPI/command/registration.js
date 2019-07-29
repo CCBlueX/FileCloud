@@ -1,1 +1,1 @@
-exampleCommandClient = commandManager.registerModule(exampleCommand);
+exampleCommandClient = commandManager.registerCommand(exampleCommand);
