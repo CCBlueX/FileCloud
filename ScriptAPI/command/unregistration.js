@@ -1,1 +1,1 @@
-commandManager.unregisterModule(exampleCommandClient);
+commandManager.unregisterCommand(exampleCommandClient);
