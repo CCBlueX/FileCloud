@@ -3,7 +3,6 @@ var scriptAuthor = "{projectAuthor}";
 var scriptVersion = {projectVersion};
 
 {moduleClass}{commandClass}{tabClass}
-
 {moduleInstantiation}{commandInstantiation}{tabInstantiation}
 
 function onLoad() {
