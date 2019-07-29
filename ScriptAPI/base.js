@@ -1,5 +1,5 @@
-var scriptName = {projectName};
-var scriptAuthor = {projectAuthor};
+var scriptName = "{projectName}";
+var scriptAuthor = "{projectAuthor}";
 var scriptVersion = {projectVersion};
 
 {moduleClass}{commandClass}{tabClass}
