@@ -142,3 +142,10 @@ Fly toggle false
 Criticals toggle true
 Safewalk toggle true
 chat &6Have fun
+chat &6 Note's:
+chat &6- Don't use the fly too often with the speed together in a round, you can be kicked.
+chat &6- Don't use the scaffold too often with the Killaura, you can be banned.
+chat &6- Once you burn, you may be flagged with criticals, but you don't get a kick.
+chat &6- With Knockback you have to move a bit regularly, otherwise you will be dragged back.
+chat &6- When scaffolding, you have to be careful that as soon as you don't hear the blocks that are set, you have to go back, otherwise you fly down.
+chat &6- This config is practically only made for Skywars.
