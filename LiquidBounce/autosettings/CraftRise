@@ -488,11 +488,13 @@ Teleport toggle false
 VehicleOneHit toggle false
 
 chat &c&lTURN ON ANTIFORGE, OTHERWISE YOU CANT JOIN SERVER!
+chat &c&lToggles, not mean "You cant use this module" you can use other popular modules, it is just for make settings default
 chat &6&lSettings made by Teals53 | 09.09.2019
 chat &2&lIf you have any suggestion or question you can contact me from Discord &3&lTeals53#1508
 chat &9&lYou can come this server for detailed usage and guide https://discord.gg/jrVXU2Q
 chat ------------------------------------------
 chat &c&lANTIFORGEYI ACMASSANIZ SUNUCUYA GIREMEZSINIZ!
+chat &c&lToggleler "Bu modulu kullanamazsiniz" anlamina gelmez, bu sadece ayarlari normale cevirmek icindir, diger populer modulleri kullanabilirsiniz
 chat &6&lBu ayarlar Teals53 tarafindan yapilmistir | 09.09.2019
 chat &2&lHerhangi bir sorunuz yada oneriniz varsa bana Discorddan ulasabilirsiniz &3&lTeals53#1508
 chat &9&lDetayli kullanim ve rehber icin buraya gelebilirsiniz https://discord.gg/jrVXU2Q
