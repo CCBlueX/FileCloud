@@ -19,12 +19,12 @@ AntiBot TabMode Contains
 AntiBot EntityID true
 AntiBot Color false
 AntiBot LivingTime false
-AntiBot Ground false
-AntiBot Air false
+AntiBot Ground true
+AntiBot Air true
 AntiBot InvaildGround false
 AntiBot Swing false
 AntiBot Health false
-AntiBot Derp false
+AntiBot Derp true
 AntiBot WasInvisible true
 AntiBot Armor false
 AntiBot Ping false
@@ -182,8 +182,8 @@ ItemTeleport Mode New
 ItemTeleport ResetAfterTP true
 ItemTeleport Button Middle
 Kick Mode Quit
-KillAura MaxCPS 15
-KillAura MinCPS 10
+KillAura MaxCPS 12
+KillAura MinCPS 8
 KillAura HurtTime 7
 KillAura Range 3.25
 KillAura ThroughWallsRange 0.0
@@ -205,7 +205,7 @@ KillAura MaxPredictSize 1.0
 KillAura MinPredictSize 1.0
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
-KillAura FailRate 10.0
+KillAura FailRate 5.0
 KillAura LimitedMultiTargets 0
 KillAura MaxTurnSpeed 30.0
 KillAura MinTurnSpeed 20.0
@@ -286,7 +286,7 @@ Spammer MaxDelay 5000
 Spammer MinDelay 4000
 Spammer Message Teals53
 Spammer Custom false
-Speed Mode AACHop3.5.0
+Speed Mode NCPBHop
 Speed CustomSpeed 1.6
 Speed CustomY 0.0
 Speed CustomTimer 1.0
@@ -309,7 +309,7 @@ TNTBlock Fuse 10
 TNTBlock Range 9.0
 TNTBlock AutoSword true
 Teams ScoreboardTeam true
-Teams Color true
+Teams Color false
 Teleport Mode AAC3.5.0
 Teleport Button Middle
 Timer Speed 2.0
@@ -333,9 +333,9 @@ Tower TeleportNoMotion false
 Tower Counter true
 Trigger MaxCPS 12
 Trigger MinCPS 8
-Velocity Horizontal 0.4
-Velocity Vertical 0.4
-Velocity Mode AACPush
+Velocity Horizontal 0.0
+Velocity Vertical 0.0
+Velocity Mode Simple
 Velocity ReverseStrength 1.0
 Velocity Reverse2Strength 0.05
 Velocity AACPushXZReducer 2.0
@@ -397,7 +397,7 @@ Fly toggle false
 Freeze toggle false
 HighJump toggle false
 IceSpeed toggle false
-InventoryMove toggle true
+InventoryMove toggle false
 LadderJump toggle false
 LiquidWalk toggle true
 LongJump toggle false
@@ -413,7 +413,7 @@ SlimeJump toggle false
 Sneak toggle false
 Speed toggle false
 Sprint toggle true
-Step toggle true
+Step toggle false
 Strafe toggle true
 WallClimb toggle false
 WallGlide toggle false
@@ -488,12 +488,14 @@ Teleport toggle false
 VehicleOneHit toggle false
 
 chat &c&lTURN ON ANTIFORGE, OTHERWISE YOU CANT JOIN SERVER!
+chat &c&lDONT USE VELOCITY, INVENTORYMOVE, STEP OR SPEED AND SPEED POTION!
 chat &c&lToggles, not mean "You cant use this module" you can use other popular modules, it is just for make settings default
 chat &6&lSettings made by Teals53 | 09.09.2019
 chat &2&lIf you have any suggestion or question you can contact me from Discord &3&lTeals53#1508
 chat &9&lYou can come this server for detailed usage and guide https://discord.gg/jrVXU2Q
 chat ------------------------------------------
 chat &c&lANTIFORGEYI ACMASSANIZ SUNUCUYA GIREMEZSINIZ!
+chat &c&lVELOCITY, INVENTORYMOVE, STEP, SPEED YADA HIZ IKSIRI KULLANMAYIN!
 chat &c&lToggleler "Bu modulu kullanamazsiniz" anlamina gelmez, bu sadece ayarlari normale cevirmek icindir, diger populer modulleri kullanabilirsiniz
 chat &6&lBu ayarlar Teals53 tarafindan yapilmistir | 09.09.2019
 chat &2&lHerhangi bir sorunuz yada oneriniz varsa bana Discorddan ulasabilirsiniz &3&lTeals53#1508
