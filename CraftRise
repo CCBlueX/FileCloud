@@ -185,7 +185,7 @@ Kick Mode Quit
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 7
-KillAura Range 3.5
+KillAura Range 3.25
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.4
 KillAura Priority Direction
