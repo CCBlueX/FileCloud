@@ -309,7 +309,7 @@ TNTBlock Fuse 10
 TNTBlock Range 9.0
 TNTBlock AutoSword true
 Teams ScoreboardTeam true
-Teams Color true
+Teams Color false
 Teleport Mode AAC3.5.0
 Teleport Button Middle
 Timer Speed 2.0
