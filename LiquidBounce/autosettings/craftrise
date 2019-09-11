@@ -184,10 +184,10 @@ ItemTeleport Button Middle
 Kick Mode Quit
 KillAura MaxCPS 12
 KillAura MinCPS 8
-KillAura HurtTime 7
-KillAura Range 3.25
+KillAura HurtTime 10
+KillAura Range 3.0
 KillAura ThroughWallsRange 0.0
-KillAura RangeSprintReducement 0.4
+KillAura RangeSprintReducement 0.1
 KillAura Priority Direction
 KillAura TargetMode Single
 KillAura MultiMode Vanilla
@@ -488,14 +488,14 @@ Teleport toggle false
 VehicleOneHit toggle false
 
 chat &c&lTURN ON ANTIFORGE, OTHERWISE YOU CANT JOIN SERVER!
-chat &c&lDONT USE VELOCITY, INVENTORYMOVE, STEP OR SPEED AND SPEED POTION!
+chat &c&lDONT USE VELOCITY, INVENTORYMOVE, STEP OR SPEED AND SPEED POTION AND IDK BUT MAYBE STRAFE MAKE AUTOBAN!
 chat &c&lToggles, not mean "You cant use this module" you can use other popular modules, it is just for make settings default
 chat &6&lSettings made by Teals53 | 09.09.2019
 chat &2&lIf you have any suggestion or question you can contact me from Discord &3&lTeals53#1508
 chat &9&lYou can come this server for detailed usage and guide https://discord.gg/jrVXU2Q
 chat ------------------------------------------
 chat &c&lANTIFORGEYI ACMASSANIZ SUNUCUYA GIREMEZSINIZ!
-chat &c&lVELOCITY, INVENTORYMOVE, STEP, SPEED YADA HIZ IKSIRI KULLANMAYIN!
+chat &c&lVELOCITY, INVENTORYMOVE, STEP, SPEED YADA HIZ IKSIRI KULLANMAYIN VE BILMIYORUM FAKAT SANIRIM STRAFE AUTOBANA SEBEP OLUYOR!
 chat &c&lToggleler "Bu modulu kullanamazsiniz" anlamina gelmez, bu sadece ayarlari normale cevirmek icindir, diger populer modulleri kullanabilirsiniz
 chat &6&lBu ayarlar Teals53 tarafindan yapilmistir | 09.09.2019
 chat &2&lHerhangi bir sorunuz yada oneriniz varsa bana Discorddan ulasabilirsiniz &3&lTeals53#1508
