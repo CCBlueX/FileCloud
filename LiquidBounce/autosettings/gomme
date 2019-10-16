@@ -4,6 +4,7 @@ load aac
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 75
 AutoArmor ItemDelay 1300
+AutoArmor Hotbar true
 AutoArmor SimulateInventory true
 Scaffold Mode Normal
 Scaffold Sprint false
