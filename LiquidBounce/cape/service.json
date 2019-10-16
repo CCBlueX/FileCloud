@@ -1,7 +1,7 @@
 {
-   "serviceType":"list",
+   "serviceType":"api",
    "api": {
-      "url":"http://capesapi.com/api/v1/%s/getCape"
+      "url":"http://capes.liquidbounce.net:7882/api/v1/cape/uuid/%s"
    },
    "users": {
       "f7ce7960f7b948e282797f468f321c08":"http://dl.ccbluex.net/download/img/capes/marco.png",
