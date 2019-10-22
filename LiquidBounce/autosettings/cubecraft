@@ -19,7 +19,7 @@ Criticals Mode HypixelPacket
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
 FastUse Mode NCP
-Fly Mode CubeCraft
+Fly Mode NCP
 HitBox Size 0.4
 InventoryCleaner Hotbar true
 InventoryCleaner InvOpen true
@@ -44,10 +44,10 @@ KillAura KeepSprint true
 KillAura LimitedMultiTargets 0
 KillAura LivingRayCast false
 KillAura Mark true
-KillAura MaxCPS 20
+KillAura MaxCPS 10
 KillAura MaxPredictSize 1.0
 KillAura MaxTurnSpeed 180.0
-KillAura MinCPS 20
+KillAura MinCPS 10
 KillAura MinPredictSize 1.0
 KillAura MinTurnSpeed 180.0
 KillAura MultiMode NCP
@@ -76,28 +76,6 @@ NoSlow Sword NCP
 NoWeb Mode Rewi
 PingSpoof MaxDelay 600
 PingSpoof MinDelay 400
-Scaffold AirSafe true
-Scaffold AutoBlock true
-Scaffold BlocksToEagle 10
-Scaffold Eagle true
-Scaffold ExpandLength 2
-Scaffold KeepRotation true
-Scaffold MaxDelay 150
-Scaffold MinDelay 150
-Scaffold Mode Rewinside
-Scaffold PlaceableDelay true
-Scaffold Rotations true
-Scaffold SameY false
-Scaffold Search false
-Scaffold SpeedModifier 2.0
-Scaffold Sprint true
-Scaffold StayAutoBlock true
-Scaffold Swing true
-Scaffold Timer 1.45
-Scaffold Zitter false
-Scaffold ZitterMode Teleport
-Scaffold ZitterSpeed 0.1
-Scaffold ZitterStrength 0.1
 Speed Mode NCPHop
 Sprint AllDirections false
 Sprint Blindness true
@@ -113,7 +91,7 @@ Tower ConstantMotion 0.42
 Tower ConstantMotionJumpGround 0.79
 Tower JumpDelay 0
 Tower JumpMotion 0.42
-Tower Mode Motion
+Tower Mode Jump
 Tower StayAutoBlock true
 Tower StopWhenBlockAbove true
 Tower Swing true
@@ -127,6 +105,8 @@ Tower KeepRotation true
 Velocity Horizontal 0.0
 Velocity Mode Simple
 Velocity Vertical 0.0
+LongJump Mode NCP
+LongJump NCPBoost 1.93
 
 # toggles
 AntiBot toggle false
@@ -138,13 +118,12 @@ Hitbox toggle true
 NoFall toggle false
 NoRotateSet toggle true
 NoSlow toggle true
-PingSpoof toggle true
+PingSpoof toggle false
 Regen toggle false
 targetDead false
 targetPlayer true
 Velocity toggle true
 
 
-chat &6&lDON'T USE TOWER!
 chat &6&lTURN ON ANTIFORGE, BECAUSE YOU CAN BE AUTOBANNED!
-chat Settings made by &6&lAnonymus| 01.09.1939
+chat Don't use things like Scaffold and Tower because they will get you autobanned. Use Eagle instead
