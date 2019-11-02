@@ -2,6 +2,7 @@
 # CraftRise için otomatik ayarlamalar.
 
 # Settings;
+# Ayarlar;
 
 Aimbot Range 3.44
 Aimbot TurnSpeed 6.11
@@ -15,7 +16,7 @@ AirJump toggle false
 AirLadder toggle false
 AntiAFK toggle false
 AntiBot Tab true
-AntiBot TabMode Contains
+AntiBot TabMode Equals
 AntiBot EntityID true
 AntiBot Color false
 AntiBot LivingTime true
@@ -39,8 +40,8 @@ AtAllProvider toggle false
 AutoArmor MaxDelay 109
 AutoArmor MinDelay 109
 AutoArmor InvOpen true
-AutoArmor SimulateInventory false
-AutoArmor NoMove true
+AutoArmor SimulateInventory true
+AutoArmor NoMove false
 AutoArmor ItemDelay 75
 AutoArmor Hotbar false
 AutoArmor toggle true
@@ -118,8 +119,8 @@ ChestAura ThroughWalls false
 ChestAura VisualSwing true
 ChestAura Chest 54
 ChestAura toggle false
-ChestStealer MaxDelay 70
-ChestStealer MinDelay 65
+ChestStealer MaxDelay 112
+ChestStealer MinDelay 97
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass false
@@ -128,7 +129,7 @@ ChestStealer AutoCloseMaxDelay 0
 ChestStealer AutoCloseMinDelay 0
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
-ChestStealer toggle false
+ChestStealer toggle true
 CivBreak Air-Reset true
 CivBreak Range-Reset true
 CivBreak Rotations true
@@ -157,8 +158,8 @@ FastBow Packets 20
 FastBow toggle false
 FastBreak BreakDamage 0.8
 FastBreak toggle false
-FastClimb Mode LAAC
-FastClimb NormalSpeed 0.2872
+FastClimb Mode Normal
+FastClimb NormalSpeed 0.01
 FastClimb toggle false
 FastPlace Speed 0
 FastPlace toggle false
@@ -208,8 +209,8 @@ IceSpeed toggle false
 Ignite Lighter true
 Ignite Lava true
 Ignite toggle false
-InventoryCleaner MaxDelay 90
-InventoryCleaner MinDelay 90
+InventoryCleaner MaxDelay 130
+InventoryCleaner MinDelay 120
 InventoryCleaner InvOpen true
 InventoryCleaner SimulateInventory false
 InventoryCleaner NoMove true
@@ -226,7 +227,7 @@ InventoryCleaner SortSlot-6 None
 InventoryCleaner SortSlot-7 Food
 InventoryCleaner SortSlot-8 Block
 InventoryCleaner SortSlot-9 Block
-InventoryCleaner toggle false
+InventoryCleaner toggle true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 InventoryMove toggle false
@@ -240,9 +241,9 @@ Kick toggle false
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 10
-KillAura Range 3.13
-KillAura ThroughWallsRange 3.0
-KillAura RangeSprintReducement 0.1
+KillAura Range 3.15
+KillAura ThroughWallsRange 1.5
+KillAura RangeSprintReducement 0.3
 KillAura Priority Distance
 KillAura TargetMode Single
 KillAura MultiMode NCP
@@ -250,20 +251,20 @@ KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
-KillAura BlockRate 15
+KillAura BlockRate 5
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura Predict true
-KillAura MaxPredictSize 0.5
-KillAura MinPredictSize 0.3
+KillAura MaxPredictSize 0.25
+KillAura MinPredictSize 0.25
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura LimitedMultiTargets 1
-KillAura MaxTurnSpeed 60.0
-KillAura MinTurnSpeed 60.0
+KillAura MaxTurnSpeed 40.0
+KillAura MinTurnSpeed 35.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter false
@@ -302,8 +303,8 @@ NoSlow Bow Off
 NoSlow Soulsand true
 NoSlow CustomReducement 0.19
 NoSlow toggle true
-NoWeb Mode AAC
-NoWeb toggle false
+NoWeb Mode Rewi
+NoWeb toggle true
 Nuker Radius 5.2
 Nuker ThroughWalls false
 Nuker toggle false
@@ -384,9 +385,9 @@ Speed CubeCraft-PortLength 1.0
 Speed MineplexGround-Speed 0.5
 Speed toggle false
 Sprint AllDirections false
-Sprint Blindness false
-Sprint Food false
-Sprint CheckServerSide false
+Sprint Blindness true
+Sprint Food true
+Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
 Step Mode Spartan
@@ -431,13 +432,13 @@ Trigger MaxCPS 12
 Trigger MinCPS 8
 Trigger toggle false
 VehicleOneHit toggle false
-Velocity Horizontal 0.40
-Velocity Vertical 0.30
-Velocity Mode AAC
-Velocity ReverseStrength 0.76
-Velocity Reverse2Strength 0.02
-Velocity AACPushXZReducer 1.0
-Velocity AACPushYReducer false
+Velocity Horizontal 0.0
+Velocity Vertical 0.0
+Velocity Mode Reverse2
+Velocity ReverseStrength 0.12
+Velocity Reverse2Strength 0.01
+Velocity AACPushXZReducer 1.7
+Velocity AACPushYReducer true
 Velocity toggle true
 WallClimb Mode Clip
 WallClimb ClipMode Fast
@@ -463,10 +464,10 @@ chat &4&lIf you do not open ANTIFORGE, you will not be able to log in to the ser
 chat &4&lIf your ping is too much, avoid entering the game.
 chat &4&lSpeed,inventorymove,do not use step,fly do not open.
 chat &bDiscord address for suggestions: https://discord.gg/DfwAefc
-chat &2Settings made by xariss > 30.10.2019
+chat &2Settings made by xariss > 02.11.2019 [WorldNumber v7.0]
 chat &cTR:
 chat &4&lAntiForge'yi acmadan sunucuya giris yapamazsiniz.
 chat &4&lPinginiz cok ise oyuna girmekten kacinin.
 chat &4&lSpeed,inventorymove,step,fly kullanmayin,acmayin.
 chat &fOnerileriniz icin discord adresim: https://discord.gg/DfwAefc
-chat &2Bu ayar xariss'e aittir.  > 30.10.2019
+chat &2Bu ayar xariss'e aittir.  > 02.11.2019 [WorldNumber v7.0]
