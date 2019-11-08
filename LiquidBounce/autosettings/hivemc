@@ -220,7 +220,7 @@ Scaffold AirSafe false
 SlimeJump Motion 1.0
 SlimeJump Mode Add
 Sneak Mode Legit
-Speed Mode AACLowHop3
+Speed Mode AAC4BHop
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -235,7 +235,7 @@ Teams Color true
 Teleport Mode AAC3.5.0
 Teleport Button Middle
 Timer Speed 2.0
-Tower Mode ConstantMotion
+Tower Mode Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
 Tower Swing true
