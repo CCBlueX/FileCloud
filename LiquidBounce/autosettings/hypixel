@@ -21,11 +21,11 @@ AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 0
 AutoArmor Hotbar true
-ChestStealer MaxDelay 50
-ChestStealer MinDelay 25
+ChestStealer MaxDelay 150
+ChestStealer MinDelay 75
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
-ChestStealer NoCompass false
+ChestStealer NoCompass true
 ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 2
 ChestStealer AutoCloseMinDelay 1
@@ -33,8 +33,17 @@ ChestStealer CloseOnFull true
 ChestStealer ChestTitle true
 Criticals Mode NoGround
 Criticals Delay 0
+FastBreak breakdamage 0.56
 Fly Mode LatestHypixel
 Fly HypixelLatest-Boost false
+Fucker id 26
+Fucker Instant false
+Fucker ThroughWalls Around
+Fucker Swing false
+Fucker Rotations false
+Fucker Surroundings false
+Fucker Action Destroy
+Fucker NoHit false
 InventoryCleaner MaxDelay 95
 InventoryCleaner MinDelay 63
 InventoryCleaner InvOpen true
@@ -46,11 +55,16 @@ InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
+ItemESP mode shaderoutline
+ItemESP r 255
+ItemESP g 255
+ItemESP b 255
+ItemESP rainbow false
 KillAura MaxCPS 14
 KillAura MinCPS 7
 KillAura HurtTime 10
 KillAura Range 4.31
-KillAura ThroughWallsRange 4.15
+KillAura ThroughWallsRange 4.10
 KillAura RangeSprintReducement 0.2
 KillAura Priority Health
 KillAura TargetMode Single
@@ -84,8 +98,8 @@ NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand false
-PingSpoof MaxDelay 750
-PingSpoof MinDelay 500
+PingSpoof MaxDelay 1000
+PingSpoof MinDelay 750
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
@@ -116,22 +130,48 @@ Sprint CheckServerSide false
 Step Mode NCP
 Step Height 1.0
 Step Delay 0
+Teams ScoreboardTeam true
+Teams Color true
 Tower Mode Jump
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 FastUse Mode AAC
-# Toggle
+
+# Toggle On
 AntiBot toggle true
-Criticals toggle true
-PingSpoof toggle true
-NoFall toggle true
+FastBreak toggle true
+FastUse toggle true
+Fucker toggle true
+InventoryMove toggle true
 NoSlow toggle true
+PingSpoof toggle true
+Sprint toggle true
+Step toggle true
+Teams toggle true
+Velocity toggle true
+
+#Toggle Off
+AbortBreaking toggle false
+Criticals toggle false
+FastClimb toggle false
+Killaura toggle false
+NoFall toggle false
 Regen toggle false
 Zoot toggle false
-FastClimb toggle false
 
-chat &lTOWER SEEMS TO BE AUTOBANNING AT THE MOMENT! DO NOT USE IT!
-chat &lCRITICALS SEEMS TO BE AUTOBANNING AT THE MOMENT! DO NOT USE IT!
+#Targeting
+targetDead false
+targetMobs false
+targetAnimals false
+targetPlayers true
+targetInvisible false
+
+#Chat
+chat &lTower seems to be autobanning still! Do not use it!
+chat &lCriticals seems to be autobanning still! Do not use it!
+chat &lNoFall enabled does not let you break beds! Disable on Bed wars!
+chat &cTurn on player targeting to invisible on Bedwars only!
 chat &c&lHypixelBoost still works if you enable fly while walking!
 chat &4Turning on &lSafewalk&r is recommended.
+chat &eUpdated Hypixel settings made by &e&lPab&c&llo &r| 9/25/2019
