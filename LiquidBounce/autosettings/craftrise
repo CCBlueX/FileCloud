@@ -1,4 +1,4 @@
-# AutoSettings For CraftRise
+# AutoSettings For CraftRise.
 # CraftRise için otomatik ayarlamalar.
 
 # Settings;
@@ -37,8 +37,8 @@ AtAllProvider MaxDelay 1000
 AtAllProvider MinDelay 500
 AtAllProvider Retry false
 AtAllProvider toggle false
-AutoArmor MaxDelay 109
-AutoArmor MinDelay 109
+AutoArmor MaxDelay 120
+AutoArmor MinDelay 120
 AutoArmor InvOpen true
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
@@ -242,7 +242,7 @@ KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 10
 KillAura Range 3.15
-KillAura ThroughWallsRange 1.5
+KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.3
 KillAura Priority Distance
 KillAura TargetMode Single
@@ -251,7 +251,7 @@ KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
-KillAura BlockRate 5
+KillAura BlockRate 30
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -263,7 +263,7 @@ KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura LimitedMultiTargets 1
-KillAura MaxTurnSpeed 40.0
+KillAura MaxTurnSpeed 35.0
 KillAura MinTurnSpeed 35.0
 KillAura FakeSwing true
 KillAura SilentRotation true
@@ -272,7 +272,7 @@ KillAura Outborder true
 KillAura FOV 180.0
 KillAura Mark false
 KillAura FakeSharp true
-KillAura toggle false
+KillAura toggle true
 LadderJump toggle false
 LiquidChat JWT false
 LiquidChat toggle false
@@ -432,9 +432,9 @@ Trigger MaxCPS 12
 Trigger MinCPS 8
 Trigger toggle false
 VehicleOneHit toggle false
-Velocity Horizontal 0.0
-Velocity Vertical 0.0
-Velocity Mode Reverse2
+Velocity Horizontal 0.6
+Velocity Vertical 0.4
+Velocity Mode AAC
 Velocity ReverseStrength 0.12
 Velocity Reverse2Strength 0.01
 Velocity AACPushXZReducer 1.7
@@ -453,6 +453,7 @@ Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
 Zoot toggle false
+
 targetPlayer true
 targetMobs false
 targetAnimals false
@@ -464,10 +465,10 @@ chat &4&lIf you do not open ANTIFORGE, you will not be able to log in to the ser
 chat &4&lIf your ping is too much, avoid entering the game.
 chat &4&lSpeed,inventorymove,do not use step,fly do not open.
 chat &bDiscord address for suggestions: https://discord.gg/DfwAefc
-chat &2Settings made by xariss > 02.11.2019 [WorldNumber v7.0]
+chat &2Settings made by xariss > 13.11.2019 [WorldNumber v8.0]
 chat &cTR:
 chat &4&lAntiForge'yi acmadan sunucuya giris yapamazsiniz.
 chat &4&lPinginiz cok ise oyuna girmekten kacinin.
 chat &4&lSpeed,inventorymove,step,fly kullanmayin,acmayin.
 chat &fOnerileriniz icin discord adresim: https://discord.gg/DfwAefc
-chat &2Bu ayar xariss'e aittir.  > 02.11.2019 [WorldNumber v7.0]
+chat &2Bu ayar xariss'e aittir.  > 13.11.2019 [WorldNumber v8.0]
