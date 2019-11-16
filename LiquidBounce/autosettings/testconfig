@@ -1,0 +1,9 @@
+# AutoSettings For mothing.
+
+targetPlayer true
+targetMobs false
+targetAnimals false
+targetInvisible false
+targetDead true
+
+chat l0l
