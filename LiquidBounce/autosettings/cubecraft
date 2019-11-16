@@ -61,7 +61,6 @@ CubeClipper FallingSpeed 1.0
 CubeClipper MaxUpDistance 2
 CubeClipper MaxDownDistance 15
 CubeClipper Notify true
-CubeClipper Bind 
 CubeClipper toggle true
 Damage toggle false
 Derp toggle false
@@ -117,7 +116,7 @@ Kick toggle false
 KillAura MaxCPS 17
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 6.5
+KillAura Range 6.25
 KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
@@ -126,10 +125,10 @@ KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
-KillAura InteractAutoBlock false
+KillAura InteractAutoBlock true
 KillAura BlockRate 100
 KillAura AAC false
-KillAura RayCast false
+KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast true
 KillAura Predict true
@@ -149,7 +148,6 @@ KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp false
 LadderJump toggle false
-LiquidChat JWT false
 LiquidWalk Mode NCP
 LiquidWalk NoJump false
 LiquidWalk toggle true
@@ -265,14 +263,13 @@ targetInvisible false
 targetDead false
 
 chat &6This config by &bSpoilerRules
+chat &b[Spoiler] &6Do you loves me? add me on discord: &bSpoilerRules#0128
 chat &d[OwO] &aUse ur Brain: Don't use scaffold long time, &4autoban &ax d
 chat &d[OwO] &aAlways don't use speed > &4autoban &ax d
-chat &b[Spoiler] &6Do you loves me? add me on discord: &bSpoilerRules#0128
 chat &d[OwO] &aDon't use CubeCore with This Config. &bI warning you.
+chat &d[OwO] &aDon't enable speed in Air, &4autoban &ax d
+chat &d[OwO] &aDon't use superknockback, &4autoban &ax d
 chat &d[OwO] &4&lEnable NoSwing &a(ServerSide off [.noswing serverside off]) &4&lfor Your Protection and AutoBlock!
-chat &5[UwU] &3This Config is usable for max 6 hours.
+chat &5[UwU] &3This Config is usable for max 3 hours.
 chat &5[UwU] &3Report bugs in discord: &bSpoilerRules#0128
-
-
-
-
+chat &5[UwU] &3I hate you &dBarbiehunter &e[KLL]
