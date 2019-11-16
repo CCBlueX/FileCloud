@@ -66,8 +66,9 @@ KillAura TargetMode Switch
 KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock false
-KillAura InteractAutoBlock false
+KillAura AutoBlock true
+KillAura InteractAutoBlock true
+KillAura DelayedBlock true
 KillAura BlockRate 100
 KillAura AAC false
 KillAura RayCast true
