@@ -30,6 +30,7 @@ ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 2
 ChestStealer AutoCloseMinDelay 1
 ChestStealer CloseOnFull true
+ChestAura Chest 54
 Criticals Mode NoGround
 Criticals Delay 0
 FastBreak breakdamage 0.56
@@ -134,7 +135,6 @@ FastUse Mode AAC
 AntiBot toggle true
 FastBreak toggle true
 FastUse toggle true
-Fucker toggle true
 InventoryMove toggle true
 NoSlow toggle true
 PingSpoof toggle true
