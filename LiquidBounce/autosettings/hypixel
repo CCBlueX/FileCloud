@@ -1,9 +1,9 @@
-#autosettings for hypixel.net
-AntiBot Tab false
+# Autosettings for hypixel.net
+AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot EntityID false
 AntiBot Color true
-AntiBot LivingTime true
+AntiBot LivingTime false
 AntiBot Ground true
 AntiBot Air false
 AntiBot InvaildGround false
@@ -30,7 +30,6 @@ ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 2
 ChestStealer AutoCloseMinDelay 1
 ChestStealer CloseOnFull true
-ChestStealer ChestTitle true
 Criticals Mode NoGround
 Criticals Delay 0
 FastBreak breakdamage 0.56
@@ -55,41 +54,34 @@ InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-ItemESP mode shaderoutline
-ItemESP r 255
-ItemESP g 255
-ItemESP b 255
-ItemESP rainbow false
-KillAura MaxCPS 14
+KillAura MaxCPS 9
 KillAura MinCPS 7
 KillAura HurtTime 10
-KillAura Range 4.31
-KillAura ThroughWallsRange 4.10
+KillAura Range 4.21
+KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.2
 KillAura Priority Health
-KillAura TargetMode Single
+KillAura TargetMode Switch
 KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
 KillAura InteractAutoBlock false
 KillAura BlockRate 100
-KillAura AAC true
+KillAura AAC false
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura Predict true
-KillAura MaxPredictSize 1.12
+KillAura MaxPredictSize 1
 KillAura MinPredictSize 0.5
 KillAura NoInvAttack false
-KillAura NoInvDelay 200
 KillAura FailRate 0.0
-KillAura LimitedMultiTargets 0
-KillAura MaxTurnSpeed 173.61
-KillAura MinTurnSpeed 156.03
+KillAura MaxTurnSpeed 35
+KillAura MinTurnSpeed 15
 KillAura FakeSwing false
 KillAura SilentRotation true
-KillAura RandomCenter true
+KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
 LiquidWalk Mode NCP
@@ -148,30 +140,24 @@ NoSlow toggle true
 PingSpoof toggle true
 Sprint toggle true
 Step toggle true
-Teams toggle true
 Velocity toggle true
 
-#Toggle Off
+# Toggle Off
 AbortBreaking toggle false
-Criticals toggle false
 FastClimb toggle false
-Killaura toggle false
 NoFall toggle false
 Regen toggle false
 Zoot toggle false
 
-#Targeting
+# Targets
 targetDead false
 targetMobs false
 targetAnimals false
 targetPlayers true
 targetInvisible false
 
-#Chat
+# Chat
 chat &lTower seems to be autobanning still! Do not use it!
-chat &lCriticals seems to be autobanning still! Do not use it!
 chat &lNoFall enabled does not let you break beds! Disable on Bed wars!
 chat &cTurn on player targeting to invisible on Bedwars only!
 chat &c&lHypixelBoost still works if you enable fly while walking!
-chat &4Turning on &lSafewalk&r is recommended.
-chat &eUpdated Hypixel settings made by &e&lPab&c&llo &r| 9/25/2019
