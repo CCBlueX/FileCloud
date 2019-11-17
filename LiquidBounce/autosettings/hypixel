@@ -38,10 +38,10 @@ Fly Mode LatestHypixel
 Fly HypixelLatest-Boost false
 Fucker id 26
 Fucker Instant false
-Fucker ThroughWalls Around
-Fucker Swing false
-Fucker Rotations false
-Fucker Surroundings false
+Fucker ThroughWalls Raycast
+Fucker Swing true
+Fucker Rotations true
+Fucker Surroundings true
 Fucker Action Destroy
 Fucker NoHit false
 InventoryCleaner MaxDelay 95
@@ -149,6 +149,7 @@ FastClimb toggle false
 NoFall toggle false
 Regen toggle false
 Zoot toggle false
+Tower toggle false
 
 # Targets
 targetDead false
@@ -159,6 +160,6 @@ targetInvisible false
 
 # Chat
 chat &lTower seems to be autobanning still! Do not use it!
-chat &lNoFall enabled does not let you break beds! Disable on Bed wars!
+chat &lNoFall and Criticals enabled does not let you break beds! Disable on Bed wars!
 chat &cTurn on player targeting to invisible on Bedwars only!
 chat &c&lHypixelBoost still works if you enable fly while walking!
