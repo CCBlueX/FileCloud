@@ -30,6 +30,7 @@ ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 200
 ChestStealer AutoCloseMinDelay 100
 ChestStealer CloseOnFull true
+ChestStealer ChestTitle true
 ChestAura Chest 54
 Criticals Mode NoGround
 Criticals Delay 0
