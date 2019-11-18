@@ -1,3 +1,5 @@
+Auto Config for minigames.redesky.com
+
 AbortBreaking toggle true
 AirLadder toggle false
 AntiAFK toggle false
@@ -61,7 +63,6 @@ CubeClipper FallingSpeed 1.0
 CubeClipper MaxUpDistance 2
 CubeClipper MaxDownDistance 15
 CubeClipper Notify true
-CubeClipper Bind 
 CubeClipper toggle true
 Damage toggle false
 Derp toggle false
@@ -82,7 +83,7 @@ Fucker ID 122
 Fucker Instant true
 Fucker ThroughWalls Around
 Fucker Swing false
-Fucker Rotations true
+Fucker Rotations false
 Fucker Surroundings false
 Fucker Action Use
 Fucker NoHit true
@@ -114,10 +115,26 @@ InventoryMove toggle true
 ItemTeleport toggle false
 KeepContainer toggle false
 Kick toggle false
+AntiBot Tab true
+AntiBot TabMode Contains
+AntiBot EntityID false
+AntiBot Color false
+AntiBot LivingTime false
+AntiBot Ground false
+AntiBot Air false
+AntiBot InvaildGround false
+AntiBot Swing false
+AntiBot Health false
+AntiBot Derp false
+AntiBot WasInvisible false
+AntiBot Armor false
+AntiBot Ping false
+AntiBot NeedHit false
+AntiBot toggle true
 KillAura MaxCPS 17
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 6.5
+KillAura Range 6.25
 KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
@@ -126,10 +143,11 @@ KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
-KillAura InteractAutoBlock false
+KillAura InteractAutoBlock true
+Killaura DelayedBlock true
 KillAura BlockRate 100
 KillAura AAC false
-KillAura RayCast false
+KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast true
 KillAura Predict true
@@ -149,16 +167,16 @@ KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp false
 LadderJump toggle false
-LiquidChat JWT false
 LiquidWalk Mode NCP
 LiquidWalk NoJump false
 LiquidWalk toggle true
-Liquids toggle true
+Liquids toggle false
 LongJump toggle false
 MoreCarry toggle false
 MultiActions toggle false
 NoClip toggle false
 NoFall toggle false
+ResourcePackSpoof toggle true
 NoJumpDelay toggle true
 NoPitchLimit toggle false
 NoSlow Sword NCP
@@ -187,7 +205,9 @@ Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing false
 Scaffold Search true
+Scaffold PlaceTiming Post
 Scaffold Eagle false
+Scaffold EagleSilent false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
@@ -216,7 +236,7 @@ Step Mode NCP
 Step Height 4.5
 Step Delay 150
 Step toggle true
-Strafe toggle true
+Strafe toggle false
 SuperKnockback toggle false
 TNTBlock Fuse 3
 TNTBlock Range 9.0
@@ -252,7 +272,6 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 WallClimb toggle false
-WaterFly toggle false
 WaterSpeed toggle false
 Zoot toggle false
 NoSwing ServerSide false
@@ -265,14 +284,14 @@ targetInvisible false
 targetDead false
 
 chat &6This config by &bSpoilerRules
-chat &d[OwO] &aUse ur Brain: Don't use scaffold long time, &4autoban &ax d
-chat &d[OwO] &aAlways don't use speed > &4autoban &ax d
 chat &b[Spoiler] &6Do you loves me? add me on discord: &bSpoilerRules#0128
+chat &d[OwO] &aDon't use scaffold long time, &4autoban
+chat &d[OwO] &aAlways don't use speed > &4autoban 
 chat &d[OwO] &aDon't use CubeCore with This Config. &bI warning you.
+chat &d[OwO] &aDon't enable speed in Air, &4autoban 
+chat &d[OwO] &aDon't use superknockback, &4autoban 
+chat &d[OwO] &aDon't use strafe, &dautoban in killaura hitting air 
 chat &d[OwO] &4&lEnable NoSwing &a(ServerSide off [.noswing serverside off]) &4&lfor Your Protection and AutoBlock!
-chat &5[UwU] &3This Config is usable for max 6 hours.
+chat &5[UwU] &3This Config is usable for max 2 hours.
 chat &5[UwU] &3Report bugs in discord: &bSpoilerRules#0128
-
-
-
-
+chat &5[UwU] &3Enable AntiForge fully, don't enable = &4autoban
