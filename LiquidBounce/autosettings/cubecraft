@@ -1,10 +1,4 @@
-AbortBreaking toggle true
-AirLadder toggle false
-AntiAFK toggle false
-AntiCactus toggle true
-AntiCactus bind NONE
-AntiHunger toggle false
-AntiHunger bind NONE
+# Autosettings for play.cubecraft.net
 AutoArmor MaxDelay 50
 AutoArmor MinDelay 25
 AutoArmor InvOpen true
@@ -12,24 +6,17 @@ AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 1
 AutoArmor Hotbar true
-AutoArmor toggle true
 AutoClicker MaxCPS 14
 AutoClicker MinCPS 14
 AutoClicker Right false
 AutoClicker Left true
 AutoClicker Jitter false
-AutoClicker toggle true
-AutoClicker bind NONE
-AutoFish toggle false
-AutoPot Health 18.42
-AutoPot Delay 104
+AutoPot Health 18.40
+AutoPot Delay 105
 AutoPot OpenInv false
 AutoPot NoAir true
 AutoPot Mode Normal
-AutoPot toggle true
 AutoWeapon SpoofItem false
-AutoWeapon toggle true
-BedGodMode toggle false
 BowAimbot Silent true
 BowAimbot Predict true
 BowAimbot ThroughWalls false
@@ -51,44 +38,29 @@ ChestStealer AutoCloseMaxDelay 2
 ChestStealer AutoCloseMinDelay 1
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle true
-ConsoleSpammer toggle false
 Criticals Mode HypixelPacket
-Criticals Delay 200
-Criticals toggle true
+Criticals Delay 67
 CubeClipper AutoDirection None
 CubeClipper NeededPackets 100
 CubeClipper FallingSpeed 1.0
 CubeClipper MaxUpDistance 2
 CubeClipper MaxDownDistance 15
 CubeClipper Notify true
-CubeClipper Bind 
-CubeClipper toggle true
-Damage toggle false
-Derp toggle false
-FarmKingBot toggle false
-FastBow toggle false
 FastBreak BreakDamage 1.0
 FastClimb Mode Normal
 FastClimb NormalSpeed 0.28
-FastClimb toggle true
 FastPlace Speed 0
 FastUse Mode CustomDelay
 FastUse Delay 11
-FastUse toggle true
 Fly Mode CubeCraft
-Fly toggle false
-Freeze toggle false
 Fucker ID 122
 Fucker Instant true
 Fucker ThroughWalls Around
 Fucker Swing false
-Fucker Rotations true
+Fucker Rotations false
 Fucker Surroundings false
 Fucker Action Use
 Fucker NoHit true
-GhostHand toggle false
-GodMode toggle false
-HitBox toggle false
 InventoryCleaner MaxDelay 70
 InventoryCleaner MinDelay 60
 InventoryCleaner InvOpen true
@@ -107,17 +79,27 @@ InventoryCleaner SortSlot-6 None
 InventoryCleaner SortSlot-7 Food
 InventoryCleaner SortSlot-8 Block
 InventoryCleaner SortSlot-9 Block
-InventoryCleaner toggle true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-InventoryMove toggle true
-ItemTeleport toggle false
-KeepContainer toggle false
-Kick toggle false
+AntiBot Tab true
+AntiBot TabMode Contains
+AntiBot EntityID false
+AntiBot Color false
+AntiBot LivingTime false
+AntiBot Ground false
+AntiBot Air false
+AntiBot InvaildGround false
+AntiBot Swing false
+AntiBot Health false
+AntiBot Derp false
+AntiBot WasInvisible false
+AntiBot Armor false
+AntiBot Ping false
+AntiBot NeedHit false
 KillAura MaxCPS 17
-KillAura MinCPS 10
+KillAura MinCPS 14
 KillAura HurtTime 10
-KillAura Range 6.5
+KillAura Range 6.25
 KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
@@ -126,10 +108,11 @@ KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
-KillAura InteractAutoBlock false
+KillAura InteractAutoBlock true
+Killaura DelayedBlock true
 KillAura BlockRate 100
 KillAura AAC false
-KillAura RayCast false
+KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast true
 KillAura Predict true
@@ -148,37 +131,18 @@ KillAura Outborder false
 KillAura FOV 180.0
 KillAura Mark true
 KillAura FakeSharp false
-LadderJump toggle false
-LiquidChat JWT false
 LiquidWalk Mode NCP
 LiquidWalk NoJump false
-LiquidWalk toggle true
-Liquids toggle true
-LongJump toggle false
-MoreCarry toggle false
 MultiActions toggle false
-NoClip toggle false
-NoFall toggle false
-NoJumpDelay toggle true
-NoPitchLimit toggle false
 NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand true
 NoSlow CustomReducement 0.45
-NoSlow toggle true
 NoWeb Mode Rewi
-NoWeb toggle true
-Nuker toggle false
-Paralyze toggle false
 Phase Mode Mineplex
-PingSpoof toggle false
-PotionSaver toggle false
 Reach CombatReach 6.2
 Reach BuildReach 5.0
-Reach toggle true
-Regen toggle false
-ReverseStep toggle false
 Scaffold Mode Expand
 Scaffold MaxDelay 67
 Scaffold MinDelay 67
@@ -187,7 +151,9 @@ Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing false
 Scaffold Search true
+Scaffold PlaceTiming Post
 Scaffold Eagle false
+Scaffold EagleSilent false
 Scaffold PlaceableDelay true
 Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
@@ -201,13 +167,9 @@ Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold AirSafe true
-Scaffold Counter true
-ServerCrasher toggle false
-SkinDerp toggle false
-SlimeJump toggle false
+Scaffold Counter true 
 Speed Mode YPort2
-Speed toggle false
-Sprint AllDirections false
+Sprint AllDirections true
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
@@ -215,18 +177,11 @@ Sprint CheckServerSideOnlyGround false
 Step Mode NCP
 Step Height 4.5
 Step Delay 150
-Step toggle true
-Strafe toggle true
-SuperKnockback toggle false
 TNTBlock Fuse 3
 TNTBlock Range 9.0
 TNTBlock AutoSword true
-TNTBlock toggle true
 Teams ScoreboardTeam true
 Teams Color true
-Teleport toggle false
-TeleportHit toggle false
-Timer toggle false
 Tower Mode Motion
 Tower AutoBlock true
 Tower StayAutoBlock true
@@ -245,34 +200,118 @@ Tower TeleportDelay 1
 Tower TeleportGround false
 Tower TeleportNoMotion true
 Tower Counter true
-Tower toggle false
-Trigger toggle false
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-Velocity toggle true
-WallClimb toggle false
-WaterFly toggle false
-WaterSpeed toggle false
-Zoot toggle false
-NoSwing ServerSide false
-NoSwing toggle true
 
+# Toggle On
+AntiBot toggle true
+AntiCactus toggle true
+Reach toggle true
+Criticals toggle true
+Velocity toggle true
+AutoPot toggle true
+AutoWeapon toggle true
+Step toggle true
+NoSlow toggle true
+NoWeb toggle true
+FastUse toggle true
+AutoArmor toggle true
+TNTBlock toggle true
+NoJumpDelay toggle true
+Sprint toggle true
+InventoryMove toggle true
+InventoryCleaner toggle true
+ChestStealer toggle true
+LiquidWalk toggle true
+CubeClipper toggle true
+AutoClicker toggle true
+AbortBreaking toggle true
+FastClimb toggle true
+ResourcePackSpoof toggle true
+
+# Toggle Off
+NoFall toggle false
+Zoot toggle false
+Regen toggle false
+PotionSaver toggle false
+KeepAlive toggle false
+AntiAFK toggle false
+FarmKingBot toggle false
+AutoRespawn toggle false
+AutoBreak toggle false
+Liquids toggle false
+Nuker toggle false
+Timer toggle false
+Tower toggle false
+Scaffold toggle false
+FastBow toggle false
+HitBox toggle false
+Ignite toggle false
+SuperKnockback toggle false
+TeleportHit toggle false
+Trigger toggle false
+AtAllProvider toggle false
+ComponentOnHover toggle false
+Spammer toggle false
+Derp toggle false
+SkinDerp toggle false
+SDerp toggle false
+AntiHunger toggle false
+BedGodMode toggle false
+Clip toggle false
+ConsoleSpammer toggle false
+Damage toggle false
+ForceUnicodeChat toggle false
+Ghost toggle false
+GhostHand toggle false
+GodMode toggle false
+ItemTeleport toggle false
+KeepContainer toggle false
+Kick toggle false	
+MoreCarry toggle false
+MultiActions toggle false
+NoPitchLimit toggle false
+Paralyze toggle false
+PingSpoof toggle false
+ServerCrasher toggle false
+Teleport toggle false
+VehicleOneHit toggle false
+AirJump toggle false
+AirLadder toggle false
+AutoWalk toggle false
+BlockWalk toggle false
+ButterSpeed toggle false
+BugUp toggle false
+FastStairs toggle false
+Freeze toggle false
+HighJump toggle false
+IceSpeed toggle false
+LadderJump toggle false
+LongJump toggle false
+NoClip toggle false
+ReverseStep toggle false
+Strafe toggle false
+WallClimb toggle false
+WaterSpeed toggle false
+
+# Targets
 targetPlayer true
 targetMobs false
 targetAnimals false
 targetInvisible false
-targetDead false
+targetDead true
 
+# Chat
 chat &6This config by &bSpoilerRules
-chat &d[OwO] &aUse ur Brain: Don't use scaffold long time, &4autoban &ax d
-chat &d[OwO] &aAlways don't use speed > &4autoban &ax d
 chat &b[Spoiler] &6Do you loves me? add me on discord: &bSpoilerRules#0128
-chat &d[OwO] &aDon't use CubeCore with This Config. &bI warning you.
-chat &d[OwO] &4&lEnable NoSwing &a(ServerSide off [.noswing serverside off]) &4&lfor Your Protection and AutoBlock!
-chat &5[UwU] &3This Config is usable for max 6 hours.
+chat &d[OwO] &aDon't use scaffold long time, &4autoban
+chat &d[OwO] &aAlways don't use speed > &4autoban 
+chat &d[OwO] &aDon't use CubeCore with This Settings. &bI warning you.
+chat &d[OwO] &aDon't enable speed in Air, &4autoban 
+chat &d[OwO] &aDon't use superknockback, &4autoban 
+chat &d[OwO] &aDon't use strafe, &dautoban in killaura hitting air 
+chat &5[UwU] &aHypixelBoost Fly is working &ebut &4only &4&l20-30 &4blocks&a.
+chat &5[UwU] &3This Config is usable for max 2 hours.
 chat &5[UwU] &3Report bugs in discord: &bSpoilerRules#0128
-
-
-
-
+chat &5[UwU] &3Enable AntiForge fully, don't enable = &4autoban
