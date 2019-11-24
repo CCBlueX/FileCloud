@@ -143,8 +143,8 @@ ConsoleSpammer Mode Payload
 ConsoleSpammer Delay 0
 ConsoleSpammer toggle false
 Criticals Mode Jump
-Criticals Delay 100
-Criticals toggle true
+Criticals Delay 50
+Criticals toggle false
 Damage Mode NCP
 Damage Damage 1
 Damage toggle false
@@ -235,14 +235,16 @@ ItemTeleport Mode New
 ItemTeleport ResetAfterTP true
 ItemTeleport Button Right
 ItemTeleport toggle false
+KeepAlive Mode /heal
+KeepAlive toggle false
 KeepContainer toggle false
 Kick Mode Quit
 Kick toggle false
-KillAura MaxCPS 12
-KillAura MinCPS 8
+KillAura MaxCPS 11
+KillAura MinCPS 7
 KillAura HurtTime 10
 KillAura Range 3.15
-KillAura ThroughWallsRange 2.0
+KillAura ThroughWallsRange 2.5
 KillAura RangeSprintReducement 0.3
 KillAura Priority Distance
 KillAura TargetMode Single
@@ -251,7 +253,8 @@ KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
-KillAura BlockRate 30
+KillAura DelayedBlock false
+KillAura BlockRate 10
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
@@ -264,7 +267,7 @@ KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura LimitedMultiTargets 1
 KillAura MaxTurnSpeed 35.0
-KillAura MinTurnSpeed 35.0
+KillAura MinTurnSpeed 30.0
 KillAura FakeSwing true
 KillAura SilentRotation true
 KillAura RandomCenter false
@@ -278,6 +281,7 @@ LiquidChat JWT false
 LiquidChat toggle false
 LiquidWalk Mode NCP
 LiquidWalk NoJump false
+LiquidWalk AACFlyMotion 0.5
 LiquidWalk toggle true
 Liquids toggle false
 LongJump Mode Mineplex3
@@ -327,20 +331,23 @@ Regen Food 18
 Regen Speed 100
 Regen NoAir false
 Regen toggle false
+ResourcePackSpoof toggle false
 ReverseStep Motion 0.21
 ReverseStep toggle false
 SafeWalk AirSafe false
 SafeWalk toggle false
 Scaffold Mode Expand
-Scaffold MaxDelay 173
-Scaffold MinDelay 173
+Scaffold MaxDelay 195
+Scaffold MinDelay 185
+Scaffold PlaceableDelay true
 Scaffold AutoBlock false
 Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing true
 Scaffold Search true
+Scaffold PlaceTiming Post
 Scaffold Eagle true
-Scaffold PlaceableDelay true
+Scaffold EagleSilent false
 Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
 Scaffold Rotations true
@@ -417,6 +424,7 @@ Tower StopWhenBlockAbove false
 Tower Rotations true
 Tower KeepRotation true
 Tower OnJump false
+Tower PlaceTiming Post
 Tower Timer 0.99
 Tower JumpMotion 0.37
 Tower JumpDelay 0
@@ -432,7 +440,7 @@ Trigger MaxCPS 12
 Trigger MinCPS 8
 Trigger toggle false
 VehicleOneHit toggle false
-Velocity Horizontal 0.6
+Velocity Horizontal 0.5
 Velocity Vertical 0.4
 Velocity Mode AAC
 Velocity ReverseStrength 0.12
@@ -444,16 +452,12 @@ WallClimb Mode Clip
 WallClimb ClipMode Fast
 WallClimb CheckerClimbMotion 0.0
 WallClimb toggle false
-WallGlide toggle false
-WaterFly Motion 0.5
-WaterFly toggle false
 WaterSpeed Speed 1.2
 WaterSpeed toggle false
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
 Zoot toggle false
-
 targetPlayer true
 targetMobs false
 targetAnimals false
@@ -464,11 +468,13 @@ chat &cEN:
 chat &4&lIf you do not open ANTIFORGE, you will not be able to log in to the server!
 chat &4&lIf your ping is too much, avoid entering the game.
 chat &4&lSpeed,inventorymove,do not use step,fly do not open.
+chat &4&lPlease don't open Nofall in the lobby.
 chat &bDiscord address for suggestions: https://discord.gg/DfwAefc
-chat &2Settings made by xariss > 13.11.2019 [WorldNumber v8.0]
+chat &2Settings made by xariss > 19.11.2019 [WorldNumber v9.0]
 chat &cTR:
 chat &4&lAntiForge'yi acmadan sunucuya giris yapamazsiniz.
 chat &4&lPinginiz cok ise oyuna girmekten kacinin.
 chat &4&lSpeed,inventorymove,step,fly kullanmayin,acmayin.
+chat &4&lNofall'i lobi de acmayin.
 chat &fOnerileriniz icin discord adresim: https://discord.gg/DfwAefc
-chat &2Bu ayar xariss'e aittir.  > 13.11.2019 [WorldNumber v8.0]
+chat &2Bu ayar xariss'e aittir.  > 19.11.2019 [WorldNumber v9.0]
