@@ -1,4 +1,4 @@
-# Settings made by Crackedzocker
+chat &4Settings made by Crackedzocker
 Aimbot Range 100.0
 Aimbot TurnSpeed 2.0
 Aimbot FOV 180.0
@@ -56,7 +56,7 @@ BlockWalk Snow true
 BowAimbot Silent true
 BowAimbot Predict true
 BowAimbot ThroughWalls false
-BowAimbot PredictSize 2.0
+BowAimbot PredictSize 5.0
 BowAimbot Priority Direction
 BowAimbot Mark true
 BufferSpeed SpeedLimit true
@@ -82,8 +82,8 @@ BufferSpeed Slime true
 BufferSpeed AirStrafe false
 BufferSpeed NoHurt true
 BugUp Mode TeleportBack
-BugUp FallDistance 3.48
-ChestAura Range 4.77
+BugUp FallDistance 2.64
+hestAura Range 4.77
 ChestAura Delay 80
 ChestAura ThroughWalls false
 ChestAura VisualSwing true
@@ -121,15 +121,15 @@ FastBow Packets 5
 FastBreak BreakDamage 0.56
 FastClimb Mode LAAC
 FastClimb NormalSpeed 0.23
-FastPlace Speed 0
+FastPlace Speed 1
 FastStairs Mode LAAC
 FastStairs LongJump false
 FastUse Mode NCP
 FastUse Delay 11
-Fly Mode Vanilla
+Fly Mode NCP
 Fly VanillaSpeed 2.01
 Fly VanillaKickBypass false
-Fly MineplexSpeed 1.0
+Fly MineplexSpeed 5.05
 Fly NCPMotion 0.0
 Fly AACSpeed 1.0
 Fly AAC3.3.12-Motion 5.77
@@ -139,7 +139,7 @@ Fly HypixelLatest-Boost false
 Fly HypixelLatest-BoostDelay 475
 Fly HypixelLatest-BoostTimer 4.3
 Fly Mark true
-Fucker ID 122
+Fucker ID 26
 Fucker Instant false
 Fucker ThroughWalls Around
 Fucker Swing true
@@ -148,7 +148,7 @@ Fucker Surroundings false
 Fucker Action Destroy
 Fucker NoHit false
 GhostHand ID 54
-HighJump Height 4.1
+HighJump Height 1.5
 HighJump Mode Vanilla
 HighJump OnlyGlassPane true
 HitBox Size 0.4
@@ -183,17 +183,17 @@ Kick Mode Quit
 KillAura MaxCPS 17
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 4.44
-KillAura ThroughWallsRange 4.1
+KillAura Range 4.5
+KillAura ThroughWallsRange 4.5
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
-KillAura TargetMode Switch
+KillAura TargetMode Single
 KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock false
 KillAura InteractAutoBlock false
-KillAura DelayedBlock true
+KillAura DelayedBlock false
 KillAura BlockRate 100
 KillAura AAC false
 KillAura RayCast false
@@ -224,7 +224,7 @@ LiquidWalk Mode NCP
 LiquidWalk NoJump false
 LiquidWalk AACFlyMotion 0.5
 LongJump Mode NCP
-LongJump NCPBoost 3.0
+LongJump NCPBoost 2.15
 LongJump AutoJump false
 NCPHop Swiftness true
 NCPHop TimerHop true
@@ -237,14 +237,14 @@ NoSlow Consume NCP
 NoSlow Bow NCP
 NoSlow Soulsand true
 NoSlow CustomReducement 0.45
-NoWeb Mode LAAC
+NoWeb Mode Rewi
 Nuker Radius 5.2
 Nuker ThroughWalls false
 Phase Mode AAC3.5.0
-PingSpoof MaxDelay 1000
-PingSpoof MinDelay 750
-Reach CombatReach 5.61
-Reach BuildReach 5.8
+PingSpoof MaxDelay 500
+PingSpoof MinDelay 350
+Reach CombatReach 5.0
+Reach BuildReach 5.0
 Regen Mode Spartan
 Regen Health 20
 Regen Food 18
@@ -273,7 +273,7 @@ Scaffold ZitterMode Teleport
 Scaffold ZitterSpeed 0.16
 Scaffold ZitterStrength 0.0085
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.8
+Scaffold SpeedModifier 0.71
 Scaffold SameY false
 Scaffold AirSafe true
 Scaffold Counter true
@@ -320,7 +320,7 @@ SoulSpeed Mode Vanilla
 SoulSpeed VSpeed 0.2
 SoulSpeed Bobbing true
 SoulSpeed FastStop true
-Speed Mode NCPFHop
+Speed Mode NCPHop
 Speed CustomSpeed 0.56
 Speed CustomY 0.4
 Speed CustomTimer 1.16
@@ -338,7 +338,7 @@ Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Step Mode AAC
 Step Height 1.0
-Step Delay 150
+Step Delay 250
 TNTBlock Fuse 3
 TNTBlock Range 9.0
 TNTBlock AutoSword true
@@ -378,7 +378,7 @@ Velocity AACPushYReducer true
 WallClimb Mode Clip
 WallClimb ClipMode Fast
 WallClimb CheckerClimbMotion 0.0
-WaterSpeed Speed 1.2
+WaterSpeed Speed 1.1
 ZeroAim Mode AntiAim
 ZeroAim Pitch true
 ZeroAim PitchAmount 20
@@ -391,17 +391,57 @@ ZeroAim PreventHeadless false
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
-# toggles
+chat &4Toggles
 Tower toggle false
 Scaffold toggle false
 Speed toggle false
 SkinDerp toggle false
 Killaura toggle false
+FastUse toggle true
+FastBow toggle false
+Damage toggle false
+ChestAura toggle false
+Cheststealer toggle false
+BufferSpeed toggle false
+BowAimbot toggle true
+Step toggle true
+SkinDerp toggle false
+SafeWalk toggle true
+Regen toggle false
+NCPHop toggle false
+LiquidWalk toggle true
+GhostHand toggle false
+HighJump toggle false
+AutoArmor toggle true
+AntiBot toggle false
+Sprint toggle true
+HighJump toggle true
+Fucker toggle false
+PingSpoof toggle true
+Sneak toggle false
+Velocity toggle true
+Zoot toggle false
+Trigger toggle false
+Teams toggle false
+IceSpeed toggle true
+Nuker toggle false
+LiquidChat toggle false
+NoSlow toggle true
+InventoryCleaner toggle true
+NoFall toggle false
 Regen toggle false
 WallClimb toggle false
 Fucker toggle false
 Fly toggle false
-# Description
-# &4Fly doesnt Work on Librecraft
-# &4I have created a Script Pack
-# &4Script Packet Download: https://bit.ly/lbscpck
+Aimbot toggle false
+chat &4Description
+chat &4NoFall doesnt Work on Librecraft.
+chat &4LongJump doesnt Work on Librecraft.
+chat &4At Killaura you can't have too many car blocks or it won't work anymore.
+chat &4With the step it's such a thing, he should go 10 blocks then if it's a flag you should jump one or two blocks without a step, then it should go again.
+chat &4Fly doesnt Work on Librecraft.
+chat &4Teleport etc. doesnt Work on Librecraft.
+chat &4With Scaffold you may not change the items, otherwise you will be defeated. Tower and Scaffold don't work. Scaffold and Speed or Fly etc. Does not work.
+chat &4Config doesnt Ban Auto.
+chat &4I have created a Script Pack:
+chat &4Script Packet Download: https://bit.ly/lbscpck
