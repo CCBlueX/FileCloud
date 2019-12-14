@@ -173,7 +173,7 @@ InventoryCleaner SortSlot-6 None
 InventoryCleaner SortSlot-7 Food
 InventoryCleaner SortSlot-8 Block
 InventoryCleaner SortSlot-9 Block
-InventoryMove AACAdditionPro false
+InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
 ItemTeleport Mode New
 ItemTeleport ResetAfterTP true
@@ -409,7 +409,7 @@ SkinDerp toggle false
 SafeWalk toggle true
 Regen toggle false
 NCPHop toggle false
-LiquidWalk toggle true
+LiquidWalk toggle false
 GhostHand toggle false
 HighJump toggle false
 AutoArmor toggle true
@@ -434,14 +434,20 @@ WallClimb toggle false
 Fucker toggle false
 Fly toggle false
 Aimbot toggle false
+Highjump toggle false
 chat &4Description
 chat &4NoFall doesnt Work on Librecraft.
+chat &4Speed and Step do not work together.
+chatAs soon as the Speed Flagt, you have to block and sneak with the sword and run a bit. After that it should go again.
 chat &4LongJump doesnt Work on Librecraft.
 chat &4At Killaura you can't have too many car blocks or it won't work anymore.
 chat &4With the step it's such a thing, he should go 10 blocks then if it's a flag you should jump one or two blocks without a step, then it should go again.
-chat &4Fly doesnt Work on Librecraft.
+chat &4As soon as the Speed Flagt, you have to block and sneak with the sword and run a bit. After that it should go again.
 chat &4Teleport etc. doesnt Work on Librecraft.
 chat &4With Scaffold you may not change the items, otherwise you will be defeated. Tower and Scaffold don't work. Scaffold and Speed or Fly etc. Does not work.
 chat &4Config doesnt Ban Auto.
 chat &4I have created a Script Pack:
-chat &4Script Packet Download: https://bit.ly/lbscpck
+chat Script Packet Download: https://bit.ly/lbscpck
+chat &4&lSettings Made for SkyWars and BedWars
+chat &4&lIn the SkyWars Lobby Flags the Speed
+chat &4&lYou should play when there aren't that many players, otherwise you have a bad Ping, often get knocked off the scaffold and the Killaura doesn't work that well anymore, so most hits don't go through because of the Ping.
