@@ -421,6 +421,7 @@ PingSpoof toggle true
 Sneak toggle false
 Velocity toggle true
 Zoot toggle false
+InventoryMove toggle true
 Trigger toggle false
 Teams toggle false
 IceSpeed toggle true
