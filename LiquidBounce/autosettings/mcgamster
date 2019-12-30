@@ -142,11 +142,11 @@ Fly HypixelLatest-BoostDelay 475
 Fly HypixelLatest-BoostTimer 4.3
 Fly Mark true
 Fucker ID 26
-Fucker Instant false
+Fucker Instant true
 Fucker ThroughWalls Around
 Fucker Swing true
 Fucker Rotations true
-Fucker Surroundings true
+Fucker Surroundings false
 Fucker Action Destroy
 Fucker NoHit true
 GhostHand ID 54
@@ -254,7 +254,7 @@ Regen Speed 35
 Regen NoAir false
 ReverseStep Motion 1.0
 SafeWalk AirSafe false
-Scaffold Mode Normal
+Scaffold Mode Expand
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold PlaceableDelay true
@@ -267,8 +267,8 @@ Scaffold PlaceTiming Post
 Scaffold Eagle false
 Scaffold EagleSilent false
 Scaffold BlocksToEagle 0
-Scaffold ExpandLength 1
-Scaffold Rotations false
+Scaffold ExpandLength 6
+Scaffold Rotations true
 Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold ZitterMode Teleport
@@ -322,7 +322,7 @@ SoulSpeed Mode Vanilla
 SoulSpeed VSpeed 0.2
 SoulSpeed Bobbing true
 SoulSpeed FastStop true
-Speed Mode AACLowHop3
+Speed Mode AACHop3.3.13
 Speed CustomSpeed 0.56
 Speed CustomY 0.4
 Speed CustomTimer 1.16
@@ -370,12 +370,12 @@ Tower TeleportNoMotion true
 Tower Counter true
 Trigger MaxCPS 12
 Trigger MinCPS 8
-Velocity Horizontal 0.2
-Velocity Vertical 0.2
-Velocity Mode Simple
+Velocity Horizontal 0.0
+Velocity Vertical 0.0
+Velocity Mode AACPush
 Velocity ReverseStrength -1.0
 Velocity Reverse2Strength -1.0
-Velocity AACPushXZReducer -1.0
+Velocity AACPushXZReducer -0.5
 Velocity AACPushYReducer false
 WallClimb Mode Clip
 WallClimb ClipMode Fast
@@ -393,7 +393,7 @@ ZeroAim PreventHeadless false
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
-chat &6Toggles
+chat &5&lToggles
 InventoryMove Toggle true
 Criticals Toggle true
 NoFall Toggle true
@@ -455,7 +455,14 @@ HighJump Toggle false
 WaterSpeed Toggle false
 LiquidChat toggle true
 AntiBot toggle true
-chat &6Descriptions: 
+Step Toggle false
+chat &5&lTargets: 
+targetPlayer true
+targetMobs false
+targetAnimals false
+targetInvisible true
+targetDead true
+chat &6&lDescriptions: 
 chat &You should keep the Fly at a 6-point tick. It will go between 30 - 35 blocks, then you will be dropped. But it still doesn't buzz you, even though you're going down.
 chat &6The scaffold does not flag.
 chat &6The TP hit works, but you should not use it too often, otherwise you will be banned.
@@ -467,3 +474,4 @@ chat &6The AACStep also goes through without problems. It goes 1.5 blocks.
 chat &6Die Config should not autobannen unless you use the TP hit too often, then you might get banned.
 chat &6I have created a script pack for you. You can download it here. Downlaod: https://bit.ly/lbscpck
 chat &6Without the Script Pack you don't have things like AACStep (which goes up 1.5 blocks) or the TP-Hit or ClickTP.
+chat &5&lSettings made mainly for SkyWars and BedWars.
