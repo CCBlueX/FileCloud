@@ -17,8 +17,8 @@ AirLadder toggle false
 AntiAFK toggle false
 AntiBot Tab true
 AntiBot TabMode Equals
-AntiBot EntityID true
-AntiBot Color false
+AntiBot EntityID false
+AntiBot Color true
 AntiBot LivingTime true
 AntiBot Ground false
 AntiBot Air true
@@ -27,8 +27,8 @@ AntiBot Swing false
 AntiBot Health true
 AntiBot Derp false
 AntiBot WasInvisible true
-AntiBot Armor false
-AntiBot Ping false
+AntiBot Armor true
+AntiBot Ping true
 AntiBot NeedHit false
 AntiBot toggle true
 AntiCactus toggle false
@@ -129,7 +129,7 @@ ChestStealer AutoCloseMaxDelay 0
 ChestStealer AutoCloseMinDelay 0
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
-ChestStealer toggle true
+ChestStealer toggle false
 CivBreak Air-Reset true
 CivBreak Range-Reset true
 CivBreak Rotations true
@@ -169,7 +169,7 @@ FastStairs toggle false
 FastUse Mode AAC
 FastUse Delay 0
 FastUse toggle false
-Fly Mode CubeCraft
+Fly Mode BoostHypixel
 Fly VanillaSpeed 0.25
 Fly VanillaKickBypass false
 Fly MineplexSpeed 0.9
@@ -177,7 +177,7 @@ Fly NCPMotion 0.05
 Fly AACSpeed 0.05
 Fly AAC3.3.12-Motion 0.51
 Fly AAC3.3.13-Motion 0.83
-Fly NeruxVace-Ticks 0
+Fly NeruxVace-Ticks 3
 Fly HypixelLatest-Boost true
 Fly HypixelLatest-BoostDelay 2000
 Fly HypixelLatest-BoostTimer 5.0
@@ -213,7 +213,7 @@ InventoryCleaner MaxDelay 130
 InventoryCleaner MinDelay 120
 InventoryCleaner InvOpen true
 InventoryCleaner SimulateInventory false
-InventoryCleaner NoMove true
+InventoryCleaner NoMove false
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
@@ -227,10 +227,10 @@ InventoryCleaner SortSlot-6 None
 InventoryCleaner SortSlot-7 Food
 InventoryCleaner SortSlot-8 Block
 InventoryCleaner SortSlot-9 Block
-InventoryCleaner toggle true
-InventoryMove AACAdditionPro false
+InventoryCleaner toggle false
+InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
-InventoryMove toggle false
+InventoryMove toggle true
 ItemTeleport Mode New
 ItemTeleport ResetAfterTP true
 ItemTeleport Button Right
@@ -240,12 +240,12 @@ KeepAlive toggle false
 KeepContainer toggle false
 Kick Mode Quit
 Kick toggle false
-KillAura MaxCPS 11
+KillAura MaxCPS 12
 KillAura MinCPS 7
-KillAura HurtTime 10
-KillAura Range 3.15
+KillAura HurtTime 9
+KillAura Range 3.0
 KillAura ThroughWallsRange 2.5
-KillAura RangeSprintReducement 0.3
+KillAura RangeSprintReducement 0.1
 KillAura Priority Distance
 KillAura TargetMode Single
 KillAura MultiMode NCP
@@ -254,35 +254,35 @@ KillAura KeepSprint true
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
 KillAura DelayedBlock false
-KillAura BlockRate 10
+KillAura BlockRate 15
 KillAura AAC true
 KillAura RayCast true
 KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura Predict true
-KillAura MaxPredictSize 0.25
-KillAura MinPredictSize 0.25
+KillAura MaxPredictSize 0.35
+KillAura MinPredictSize 0.35
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
 KillAura FailRate 0.0
 KillAura LimitedMultiTargets 1
-KillAura MaxTurnSpeed 35.0
-KillAura MinTurnSpeed 30.0
+KillAura MaxTurnSpeed 30.0
+KillAura MinTurnSpeed 27.0
 KillAura FakeSwing true
 KillAura SilentRotation true
-KillAura RandomCenter false
+KillAura RandomCenter true
 KillAura Outborder true
 KillAura FOV 180.0
 KillAura Mark false
 KillAura FakeSharp true
-KillAura toggle true
+KillAura toggle false
 LadderJump toggle false
 LiquidChat JWT false
 LiquidChat toggle false
-LiquidWalk Mode NCP
+LiquidWalk Mode Dolphin
 LiquidWalk NoJump false
 LiquidWalk AACFlyMotion 0.5
-LiquidWalk toggle true
+LiquidWalk toggle false
 Liquids toggle false
 LongJump Mode Mineplex3
 LongJump NCPBoost 1.31
@@ -337,8 +337,8 @@ ReverseStep toggle false
 SafeWalk AirSafe false
 SafeWalk toggle false
 Scaffold Mode Expand
-Scaffold MaxDelay 195
-Scaffold MinDelay 185
+Scaffold MaxDelay 210
+Scaffold MinDelay 205
 Scaffold PlaceableDelay true
 Scaffold AutoBlock false
 Scaffold StayAutoBlock true
@@ -397,10 +397,10 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Step Mode Spartan
-Step Height 1.5
-Step Delay 0
-Step toggle false
+Step Mode NCP
+Step Height 1.0
+Step Delay 100
+Step toggle true
 Strafe toggle true
 SuperKnockback toggle false
 TNTBlock Fuse 10
@@ -440,13 +440,13 @@ Trigger MaxCPS 12
 Trigger MinCPS 8
 Trigger toggle false
 VehicleOneHit toggle false
-Velocity Horizontal 0.5
-Velocity Vertical 0.4
-Velocity Mode AAC
-Velocity ReverseStrength 0.12
+Velocity Horizontal 0.2
+Velocity Vertical 0.15
+Velocity Mode Simple
+Velocity ReverseStrength 0.25
 Velocity Reverse2Strength 0.01
-Velocity AACPushXZReducer 1.7
-Velocity AACPushYReducer true
+Velocity AACPushXZReducer 1.0
+Velocity AACPushYReducer false
 Velocity toggle true
 WallClimb Mode Clip
 WallClimb ClipMode Fast
@@ -469,12 +469,14 @@ chat &4&lIf you do not open ANTIFORGE, you will not be able to log in to the ser
 chat &4&lIf your ping is too much, avoid entering the game.
 chat &4&lSpeed,inventorymove,do not use step,fly do not open.
 chat &4&lPlease don't open Nofall in the lobby.
+chat &4&lDo not open the fly for a long time, you eat ban, open for short.
 chat &bDiscord address for suggestions: https://discord.gg/DfwAefc
-chat &2Settings made by xariss > 19.11.2019 [WorldNumber v9.0]
+chat &2Settings made by xariss > 30.12.2019 [WorldNumber v10.0]
 chat &cTR:
 chat &4&lAntiForge'yi acmadan sunucuya giris yapamazsiniz.
 chat &4&lPinginiz cok ise oyuna girmekten kacinin.
 chat &4&lSpeed,inventorymove,step,fly kullanmayin,acmayin.
 chat &4&lNofall'i lobi de acmayin.
+chat &4&lFly'i uzun uzun acmayin, kisa kisa acin.
 chat &fOnerileriniz icin discord adresim: https://discord.gg/DfwAefc
-chat &2Bu ayar xariss'e aittir.  > 19.11.2019 [WorldNumber v9.0]
+chat &2Bu ayar xariss'e aittir.  > 30.12.2019 [WorldNumber v10.0]
