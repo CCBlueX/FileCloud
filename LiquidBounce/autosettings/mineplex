@@ -114,8 +114,8 @@ InventoryMove NoMoveClicks false
 KillAura MaxCPS 7
 KillAura MinCPS 5
 KillAura HurtTime 10
-KillAura Range 5.7
-KillAura ThroughWallsRange 5.7
+KillAura Range 5.2
+KillAura ThroughWallsRange 5.2
 KillAura RangeSprintReducement 0.2
 KillAura Priority Direction
 KillAura TargetMode Multi
@@ -213,46 +213,58 @@ Velocity Vertical -0.01
 Velocity Mode Simple
 WallClimb Mode Clip
 WallClimb ClipMode Fast
-# Toggles
-AbortBreaking toggle true
+
+# Toggle on
 AntiBot toggle true
-AntiCactus toggle false
-AntiHunger toggle false
-AutoArmor toggle true
-BugUp toggle false
-ChestAura toggle false
-ChestStealer toggle false
 CivBreak toggle true
-Criticals toggle true
-FastBow toggle false
-FastClimb toggle false
 FastUse toggle true
-Freeze toggle false
 Fucker toggle true
-HighJump toggle false
 InventoryMove toggle true
-ItemTeleport toggle false
-KillAura toggle true
-LadderJump toggle false
-LiquidChat toggle true
-LongJump toggle false
 MidClick toggle true
-MultiActions toggle false
 NoFall toggle true
 NoRotateSet toggle true
 NoSlow toggle true
+Sprint toggle true
+Step toggle true
+Teams true
+Velocity toggle true
+
+# Toggle off
+AbortBreaking toggle false
+AntiCactus toggle false
+AntiHunger toggle false
+AutoArmor toggle false
+BugUp toggle false
+ChestAura toggle false
+ChestStealer toggle false
+Criticals toggle false
+FastBow toggle false
+FastClimb toggle false
+Freeze toggle false
+HighJump toggle false
+ItemTeleport toggle false
+KillAura toggle false
+LadderJump toggle false
+LiquidChat toggle false
+LongJump toggle false
+MultiActions toggle false
 PotionSaver toggle false
 ReverseStep toggle false
 ServerCrasher toggle false
-Sprint toggle true
-Step toggle true
 Teleport toggle false
 TeleportHit toggle false
 Timer toggle false
 Tower toggle false
-Velocity toggle true
 WallGlide toggle false
+
+# Targeting
+targetPlayers true
+targetMobs false
+targetAnimals false
+targetInvisible true
 targetDead true
+
+# Chat
 chat Note: Criticals have &4no&f effect if you use them with nofall
 chat Don't use the speed in combat. &4You will deal no damage.
-chat Settings made by scorpion3013 [&4&lKLL&f&r] | 21.04.2019
+chat Settings made by scorpion3013 21.04.2019 | Modified by Pablo 12.31.2019
