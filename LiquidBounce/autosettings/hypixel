@@ -56,11 +56,11 @@ InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-KillAura MaxCPS 9
+KillAura MaxCPS 12
 KillAura MinCPS 7
 KillAura HurtTime 10
-KillAura Range 4.21
-KillAura ThroughWallsRange 4.1
+KillAura Range 4.15
+KillAura ThroughWallsRange 3.95
 KillAura RangeSprintReducement 0.2
 KillAura Priority Health
 KillAura TargetMode Switch
@@ -162,21 +162,24 @@ Velocity toggle true
 
 # Toggle Off
 AbortBreaking toggle false
+Criticals toggle false
 FastClimb toggle false
+KillAura toggle false
 NoFall toggle false
 Regen toggle false
-Zoot toggle false
 Tower toggle false
+Zoot toggle false
 
 # Targets
-targetDead false
+targetPlayers true
 targetMobs false
 targetAnimals false
-targetPlayers true
 targetInvisible false
+targetDead false
 
 # Chat
 chat &lTower seems to be autobanning still! Do not use it!
 chat &lNoFall and Criticals enabled does not let you break beds! Disable on Bed wars!
 chat &cTurn on player targeting to invisible on Bedwars only!
 chat &c&lHypixelBoost still works if you enable fly while walking!
+chat &lSpeed is currently detected after long use or with killaura enabled! Use with caution!
