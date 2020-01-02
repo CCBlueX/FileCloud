@@ -76,7 +76,6 @@ NoSlow BowForwardMultiplier 1.0
 NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet true
 NoSlow Soulsand false
-NoWeb Mode NCP
 Scaffold Mode Normal
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
@@ -133,8 +132,6 @@ Zoot toggle false
 Regen toggle false
 AntiBot toggle false
 NoSlow toggle true
-SuperKnockback toggle true
-NoWeb toggle false
 BufferSpeed toggle false
 WaterSpeed toggle false
 Fly toggle false
