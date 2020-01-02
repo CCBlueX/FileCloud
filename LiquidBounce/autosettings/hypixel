@@ -251,6 +251,7 @@ Step Mode NCP
 Step Height 1.0
 Step Delay 0
 Step toggle true
+Strafe toggle false
 SuperKnockback HurtTime 4
 Teams ScoreboardTeam true
 Teams Color true
