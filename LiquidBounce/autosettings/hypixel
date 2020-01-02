@@ -144,7 +144,7 @@ KillAura Range 4.21
 KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.2
 KillAura Priority Health
-KillAura TargetMode Switch
+KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
@@ -234,7 +234,7 @@ Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold SafeWalk true
-Scaffold AirSafe true
+Scaffold AirSafe false
 ServerCrasher toggle false
 SkinDerp toggle false
 SlimeJump toggle false
