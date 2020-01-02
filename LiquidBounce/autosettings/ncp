@@ -132,6 +132,7 @@ Zoot toggle false
 Regen toggle false
 AntiBot toggle false
 NoSlow toggle true
+NoWeb toggle false
 BufferSpeed toggle false
 WaterSpeed toggle false
 Fly toggle false
