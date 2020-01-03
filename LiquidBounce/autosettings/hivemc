@@ -179,6 +179,7 @@ KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura Outborder true
 KillAura FOV 180.0
+KillAura RotationStrafe false
 LiquidWalk Mode AAC
 LongJump Mode AACv3
 LongJump NCPBoost 3.0
