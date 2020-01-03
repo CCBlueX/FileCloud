@@ -234,18 +234,21 @@ NoFall Mode SpoofGround
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
 NoRotateSet NoZero true
-NoSlow Sword AAC
-NoSlow Consume AAC
-NoSlow Bow AAC
+NoSlow BlockForwardMultiplier 0.50
+NoSlow BlockStrafeMultiplier 0.50
+NoSlow ConsumeForwardMultiplier 0.50
+NoSlow ConsumeStrafeMultiplier 0.50
+NoSlow BowForwardMultiplier 0.50
+NoSlow BowStrafeMultiplier 0.50
+NoSlow Packet false
 NoSlow Soulsand false
-NoSlow CustomReducement 0.45
 NoWeb Mode AAC
 Nuker Radius 5.2
 Nuker ThroughWalls false
 Phase Mode AAC3.5.0
 PingSpoof MaxDelay 500
 PingSpoof MinDelay 350
-Reach CombatReach 300.0
+Reach CombatReach 5
 Reach BuildReach 5.0
 Regen Mode Spartan
 Regen Health 20
@@ -371,7 +374,7 @@ Tower Counter true
 Trigger MaxCPS 12
 Trigger MinCPS 8
 Velocity Horizontal 0.0
-Velocity Vertical 0.0
+Velocity Vertical 1.0
 Velocity Mode AACPush
 Velocity ReverseStrength -1.0
 Velocity Reverse2Strength -1.0
@@ -468,10 +471,16 @@ chat &6The scaffold does not flag.
 chat &6The TP hit works, but you should not use it too often, otherwise you will be banned.
 chat &6The ClickTP can be used well with the Fucker in BedWars. You teleport in front of the bed and the Fucker destroys the bed. But you get bent back in half a second. Don't worry, it doesn't banish Auto.
 chat &6The NoFall works without flags.
-chat &6Velocity flags sometimes, but does not banish auto.
+chat &6The Velocity flag sometimes flags something, but does not banish car.
 chat &6As soon as the AACNoSlow is used, the TP hit no longer passes. This is not set in the Config. You have to switch to NCP at Sword at NoSlow to make AACNoSlow work. I would not use it.
 chat &6The AACStep also goes through without problems. It goes 1.5 blocks.
-chat &6Die Config should not autobannen unless you use the TP hit too often, then you might get banned.
-chat &6I have created a script pack for you. You can download it here. Downlaod: https://bit.ly/lbscpck
-chat &6Without the Script Pack you don't have things like AACStep (which goes up 1.5 blocks) or the TP-Hit or ClickTP.
+chat &6The Config should not autobannen unless you use the TP hit too often, then you might get banned.
+chat &6The NoSlow should go, I have tested it with different types of several laps and was not autobanned.
+chat &6With Velocity there are 2 ways to use it. First, Simple, instead of being boosted to the back, you get boosted to the top when someone hits you. 2. AACPush, where you get booted to the opponent, with the speed both metheodes can flag a little bit, but don't banish auto.
+chat &5&lPlease do not load the config in the lobby of Skywars or Bedwars until you load it in the main lobby, you will get frame drops in the 2s. If you load it in the main lobby, turn off AntiBot. In the lobbies of Skywars or Bedwars you could turn AntiBot on again.
+chat &5&lI have created a script pack for you. You can download it here. Downlaod: https://bit.ly/lbscpck
+chat &5&lWithout the Script Pack you don't have things like AACStep (which goes up 1.5 blocks) or the TP-Hit or ClickTP.
+chat &5&lThe most current settings can be found at: http://bit.ly/lbmcgas
 chat &5&lSettings made mainly for SkyWars and BedWars.
+chat &5&lAutosettings were made for Liquidbounce from the B67
+chat &5&lIf you use this config for the first time, please read the description completely. It's a lot, but worth it.
