@@ -171,6 +171,7 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 100
 KillAura FakeSharp false
 KillAura toggle false
+KillAura RotationStrafe false
 LadderJump toggle false
 LiquidChat toggle true
 LiquidWalk Mode NCP
