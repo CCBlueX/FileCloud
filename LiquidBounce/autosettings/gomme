@@ -20,6 +20,7 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 ChestStealer MaxDelay 150
 ChestStealer MinDelay 100
+KillAura RotationStrafe false
 targetDead true
 # Velocity Mode AACZero
 Velocity Mode AACPush
