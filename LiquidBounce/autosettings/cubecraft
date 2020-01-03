@@ -63,6 +63,7 @@ KillAura SilentRotation true
 KillAura RandomCenter true
 KillAura Outborder false
 KillAura FOV 180.0
+KillAura RotationStrafe false
 NoSlow Sword NCP
 NoSlow Consume NCP
 NoSlow Bow NCP
