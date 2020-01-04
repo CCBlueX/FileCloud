@@ -60,10 +60,14 @@ KillAura NoInvDelay 0
 KillAura FOV 180.0
 KillAura FakeSwing true
 LongJump Mode AACv3
-NoSlow Sword AAC
-NoSlow Consume AAC
-NoSlow Bow AAC
+NoSlow BlockForwardMultiplier 0.6
+NoSlow BlockStrafeMultiplier 0.6
+NoSlow ConsumeForwardMultiplier 0.6
+NoSlow ConsumeStrafeMultiplier 0.6
+NoSlow BowForwardMultiplier 0.6
+NoSlow BowStrafeMultiplier 0.6
 NoSlow Soulsand false
+NoSlow Packet false
 NoWeb Mode AAC
 Scaffold Mode Expand
 Scaffold ExpandLength 1
