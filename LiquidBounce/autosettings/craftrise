@@ -482,19 +482,17 @@ Zoot toggle false
 chat &c&lTURN ON ANTIFORGE, OTHERWISE YOU CANT JOIN SERVER!
 chat &c&lDONT USE FLY MORE THAN FEW SECONDS AND DONT SPAM THAT
 chat &c&lSET FLY AND SPEED IN THE SAME BIND THEY ARE COMBINIZED FOR BYPASS
-chat &c&lYou can use Clip for remove barrier from skywars
+chat &c&lYou can use WallClimb for escape traps
 chat &c&lDont play with high ping its bannable
-chat &c&lBindler oyun içerisinde açıp kapatma gereksinimi duyulan ve size aktif olarak avantaj sağlayabilecek modülleri içermektedir kullanmanız tavsiye edilir
 chat &c&lToggles, not mean "You cant use this module" you can use other modules except bannable ones, it is just for make settings default
 chat &6&lSettings made by Teals53 & xHackerBey | 03.01.2020
 chat &2&lIf you have any suggestion or question you can contact us from our Discords &3&lTeals53#1508 &2&l& &3&lEgemeN#7050
 chat ------------------------------------------
 chat &c&lANTIFORGEYI ACMASSANIZ SUNUCUYA GIREMEZSINIZ!
-chat &c&lDONT USE FLY MORE THAN FEW SECONDS AND DONT SPAM THAT
+chat &c&lFLYI BİRKAÇ SANİYEDEN FAZLA VE ÇOK SIK KULLANMAYIN
 chat &c&lFLY VE SPEEDI AYNI TUSA ADAYIN UCMAK ICIN BIRLIKDE KOMBIN OLMUS DURUMDADIRLAR
-chat &c&lSkywars gibi oyunlardaki bariyeri kaldırmak için Clip kullanabilirsiniz
+chat &c&lTuzaklardan çıkmak için WallCLimb kullanabilirsiniz
 chat &c&lYüksek ping ile oynamaktan kaçının ban yedirtebilir
-chat &c&lBindler oyun içerisinde açıp kapatma gereksinimi duyulan ve size aktif olarak avantaj sağlayabilecek modülleri içermektedir kullanmanız tavsiye edilir
 chat &c&lKapali moduller "Bu modulu kullanamazsiniz" anlamina gelmez, bu sadece ayarlari normale cevirmek icindir, banlatmayan diger modulleri kullanabilirsiniz
 chat &6&lBu ayarlar Teals53 ve xHackerBey tarafindan yapilmistir | 03.01.2020
 chat &2&lHerhangi bir sorunuz yada oneriniz varsa bize Discorddan ulasabilirsiniz &3&lTeals53#1508 &2&l& &3&lEgemeN#7050
