@@ -24,7 +24,8 @@ KillAura RotationStrafe false
 targetDead true
 # Velocity Mode AACZero
 Velocity Mode AACPush
-NoSlow Sword NCP
+NoSlow BlockForwardMultiplier 1
+NoSlow BlockStrafeMultiplier 1
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
 KillAura BlockRate 100
