@@ -17,7 +17,7 @@ ChestStealer MaxDelay 0
 ChestStealer MinDelay 0
 ChestStealer TakeRandomized true
 Criticals Mode Jump
-FastClimb Bypass LAAC
+FastClimb Mode LAAC
 FastUse Mode AAC
 Fly Mode AAC3.3.12
 Fucker Instant false
@@ -48,13 +48,13 @@ KillAura AAC true
 KillAura RayCast true
 KillAura LivingRayCast true
 KillAura FailRate 3
-KillAura TurnSpeed 25
 KillAura MaxTurnSpeed 30
 KillAura MinTurnSpeed 20
+KillAura RotationStrafe false
 KillAura RandomCenter true
 KillAura Outborder true
 KillAura Predict true
-KillAura PredictSize 1.5
+KillAura MaxPredictSize 1.5
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura FOV 180.0
