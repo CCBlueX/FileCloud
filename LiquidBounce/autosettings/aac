@@ -43,6 +43,7 @@ KillAura AutoBlock false
 KillAura BlockRate 40
 KillAura AAC true
 KillAura RayCast true
+KillAura RayCastIgnored true
 KillAura LivingRayCast true
 KillAura FailRate 3
 KillAura MaxTurnSpeed 30
@@ -70,11 +71,10 @@ Tower AutoBlock true
 Tower StayAutoBlock true
 Trigger MaxCPS 12
 Trigger MinCPS 8
-Velocity Horizontal 0.4
-Velocity Vertical 0.4
-Velocity Mode AACPush
-Velocity AACPushXZReducer 2
-Velocity AACPushYReducer false
+Velocity Horizontal 1.0
+Velocity Vertical 0.91
+Velocity Mode Reverse2
+Velocity Reverse2Strength 0.02
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
@@ -114,4 +114,5 @@ SuperKnockback toggle false
 # Targets
 targetDead true
 
-chat &lScaffold and some movement modules is detected on AACv4!
+chat &lScaffold and some movement modules is detected won AACv4!
+chat &c&lYou can try both simple and reverse2 mode of Velocity!
