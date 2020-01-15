@@ -32,8 +32,8 @@ AutoArmor NoMove false
 AutoArmor ItemDelay 0
 AutoArmor Hotbar true
 AutoArmor toggle true
-AutoClicker MaxCPS 12
-AutoClicker MinCPS 8
+AutoClicker MaxCPS 14
+AutoClicker MinCPS 14
 AutoClicker Right false
 AutoClicker Left true
 AutoClicker Jitter false
@@ -200,6 +200,7 @@ NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet true
 NoSlow Soulsand false
 NoSlow toggle true
+NoJumpDelay toggle true
 NoSlowBreak toggle false
 NoWeb toggle false
 Nuker toggle false
@@ -208,20 +209,19 @@ Phase toggle false
 PingSpoof MaxDelay 1000
 PingSpoof MinDelay 750
 PingSpoof toggle true
-Reach CombatReach 3.88
-Reach BuildReach 5.0
-Reach toggle false
+Reach CombatReach 4.0
+Reach BuildReach 4.5
 Regen toggle false
 ReverseStep toggle false
 SafeWalk toggle false
-Scaffold Mode Normal
+Scaffold Mode Rewinside
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
-Scaffold PlaceableDelay true
+Scaffold PlaceableDelay false
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint true
-Scaffold Swing false
+Scaffold Swing true
 Scaffold Search true
 Scaffold PlaceTiming Post
 Scaffold Eagle false
@@ -241,8 +241,8 @@ SkinDerp toggle false
 SlimeJump toggle false
 Sneak Mode Legit
 Sneak StopMove true
-Speed Mode HypixelHop
-Sprint AllDirections false
+Speed Mode NCPFHop
+Sprint AllDirections true
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide false
@@ -258,6 +258,7 @@ Teams ScoreboardTeam true
 Teams Color true
 Teleport toggle false
 TeleportHit toggle false
+Timer Speed 1.5
 Timer toggle false
 Tower toggle false
 Trigger MaxCPS 12
@@ -283,4 +284,5 @@ chat &lTower seems to be autobanning still! Do not use it!
 chat &cTurn on player targeting to invisible on Bedwars only!
 chat &c&lHypixelBoost still works if you enable fly while walking!
 chat &cSpeed detected on the pit and all Criticals are autobanning currently. 
-chat &bLast updated on 1.5.2020
+chat &cUse BoostHypixel Fly with 1.4 or 1.5 Timer, being very fast.
+chat &bSettings made by &dPablo&b. &6Modified by SpoilerRules&b. Last updated on 15.01.2020
