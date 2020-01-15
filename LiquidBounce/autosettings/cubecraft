@@ -17,6 +17,7 @@ ChestStealer CloseOnFull true
 ChestStealer ChestTitle true
 Criticals Mode HypixelPacket
 Criticals Delay 200
+Criticals HurtTime 10
 FastUse Mode CustomDelay
 FastUse Delay 11
 InventoryCleaner MaxDelay 70
@@ -32,8 +33,8 @@ InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 17
 KillAura MinCPS 10
-KillAura HurtTime 10
-KillAura Range 6.2
+KillAura HurtTime 7
+KillAura Range 5.82
 KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
@@ -47,11 +48,9 @@ KillAura DelayedBlock true
 KillAura BlockRate 100
 KillAura AAC false
 KillAura RayCast false
-KillAura RayCastIgnored false
+KillAura RayCastIgnored trye
 KillAura LivingRayCast true
-KillAura Predict true
-KillAura MaxPredictSize 2.15
-KillAura MinPredictSize 0.87
+KillAura Predict false
 KillAura NoInvAttack false
 KillAura NoInvDelay 180
 KillAura FailRate 0.0
@@ -94,7 +93,7 @@ Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold AirSafe true
-Speed Mode YPort2
+Speed Mode TeleportCubeCraft
 Speed CustomSpeed 0.56
 Speed CustomY 0.4
 Speed CustomTimer 1.16
@@ -103,7 +102,7 @@ Speed CustomResetXZ true
 Speed CustomResetY true
 Speed AAC-PortLength 1.0
 Speed AACGround-Timer 1.1
-Speed CubeCraft-PortLength 2.322
+Speed CubeCraft-PortLength 1.8
 Speed MineplexGround-Speed 0.1
 Sprint AllDirections true
 Sprint Blindness true
@@ -147,3 +146,7 @@ FastUse toggle true
 AutoArmor toggle true
 Criticals toggle true
 NoSlow toggle true
+# chat
+chat &4this settings is bannable
+chat &4get updated releases in &6https://discord.gg/B27nbgJ
+chat &6Settings by &bSpoilerRules
