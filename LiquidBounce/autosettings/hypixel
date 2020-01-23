@@ -7,7 +7,7 @@ AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot EntityID false
 AntiBot Color true
-AntiBot LivingTime false
+AntiBot LivingTime true
 AntiBot Ground true
 AntiBot Air false
 AntiBot InvaildGround false
@@ -31,7 +31,7 @@ AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 0
 AutoArmor Hotbar true
-AutoArmor toggle true
+AutoArmor toggle false
 AutoClicker MaxCPS 12
 AutoClicker MinCPS 8
 AutoClicker Right false
@@ -104,6 +104,9 @@ FastUse Mode AAC
 FastUse Delay 91
 FastUse toggle true
 Fly Mode BoostHypixel
+Fly HypixelLatest-Boost true
+Fly HypixelLatest-BoostDelay 750
+Fly HypixelLatest-BoostTimer 5.0
 ForceUnicodeChat toggle false
 Freeze toggle false
 Fucker ID 26
@@ -137,14 +140,14 @@ ItemTeleport toggle false
 KeepAlive toggle false
 KeepContainer toggle false
 Kick toggle false
-KillAura MaxCPS 12
-KillAura MinCPS 7
+KillAura MaxCPS 11
+KillAura MinCPS 8
 KillAura HurtTime 10
-KillAura Range 4.21
+KillAura Range 4.15
 KillAura ThroughWallsRange 4.1
 KillAura RangeSprintReducement 0.2
 KillAura Priority Health
-KillAura TargetMode Switch
+KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
@@ -152,7 +155,7 @@ KillAura InteractAutoBlock true
 KillAura DelayedBlock true
 KillAura BlockRate 100
 KillAura RayCast false
-KillAura RayCastIgnored false
+KillAura RayCastIgnored true
 KillAura LivingRayCast false
 KillAura AAC false
 KillAura MaxTurnSpeed 35.0
@@ -190,7 +193,7 @@ NoPitchLimit toggle false
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
 NoRotateSet NoZero false
-NoRotateSet toggle true
+NoRotateSet toggle false
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 1.0
@@ -221,7 +224,7 @@ Scaffold PlaceableDelay true
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint true
-Scaffold Swing false
+Scaffold Swing true
 Scaffold Search true
 Scaffold PlaceTiming Post
 Scaffold Eagle false
@@ -259,6 +262,7 @@ Teams Color true
 Teleport toggle false
 TeleportHit toggle false
 Timer toggle false
+Time Speed 1.1
 Tower toggle false
 Trigger MaxCPS 12
 Trigger MinCPS 8
@@ -282,5 +286,6 @@ targetDead false
 chat &lTower seems to be autobanning still! Do not use it!
 chat &cTurn on player targeting to invisible on Bedwars only!
 chat &c&lHypixelBoost still works if you enable fly while walking!
-chat &cSpeed detected on the pit and all Criticals are autobanning currently. 
-chat &bLast updated on 1.5.2020
+chat &cSpeed detected on the pit and all Criticals are autobanning currently.
+chat &aTip &aUse Timer on 1.1 with fly to go faster but can cause mid are freezes.
+chat &bLast updated on 1.20.2020 by Pablo
