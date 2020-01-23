@@ -307,6 +307,13 @@
          "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=d966473b5",
          "liquidBounceHash":"",
          "configFolder":"LiquidBounce-1.8"
+      },
+      "b69":{
+         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
+         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=850f0140e",
+         "liquidBounceHash":"",
+         "configFolder":"LiquidBounce-1.8"
       }
    },
    "1.12.2":{
