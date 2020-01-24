@@ -25,7 +25,7 @@ Fucker Surroundings true
 HitBox Size 0.4
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 50
-InventoryCleaner InvOpen true
+InventoryCleaner InvOpen false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 15
@@ -52,6 +52,7 @@ KillAura RotationStrafe true
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura Predict true
+KillAura MinPredictSize 1
 KillAura MaxPredictSize 1.5
 KillAura NoInvAttack false
 KillAura NoInvDelay 0
