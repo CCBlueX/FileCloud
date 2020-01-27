@@ -1,15 +1,16 @@
+# trash settings for cubecraft.net uwu
 AutoArmor MaxDelay 50
 AutoArmor MinDelay 25
 AutoArmor InvOpen true
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
-AutoArmor ItemDelay 1
+AutoArmor ItemDelay 5
 AutoArmor Hotbar true
-ChestStealer MaxDelay 75
+ChestStealer MaxDelay 25
 ChestStealer MinDelay 25
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
-ChestStealer NoCompass true
+ChestStealer NoCompass false
 ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 2
 ChestStealer AutoCloseMinDelay 1
@@ -21,7 +22,7 @@ Criticals HurtTime 10
 FastUse Mode CustomDelay
 FastUse Delay 11
 InventoryCleaner MaxDelay 70
-InventoryCleaner MinDelay 60
+InventoryCleaner MinDelay 65
 InventoryCleaner InvOpen true
 InventoryCleaner SimulateInventory true
 InventoryCleaner NoMove false
@@ -31,20 +32,19 @@ InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
-KillAura MaxCPS 17
-KillAura MinCPS 10
-KillAura HurtTime 7
-KillAura Range 5.82
-KillAura ThroughWallsRange 4.1
+KillAura MaxCPS 13
+KillAura MinCPS 12
+KillAura HurtTime 10
+KillAura Range 6.00
+KillAura ThroughWallsRange 4.05
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
 KillAura TargetMode Switch
-KillAura MultiMode NCP
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
-KillAura InteractAutoBlock false
-KillAura DelayedBlock true
+KillAura InteractAutoBlock true
+KillAura DelayedBlock false
 KillAura BlockRate 100
 KillAura AAC false
 KillAura RayCast false
@@ -53,7 +53,7 @@ KillAura LivingRayCast true
 KillAura Predict false
 KillAura NoInvAttack false
 KillAura NoInvDelay 180
-KillAura FailRate 0.0
+KillAura FailRate 0.00
 KillAura LimitedMultiTargets 0
 KillAura MaxTurnSpeed 55.8
 KillAura MinTurnSpeed 25.9
@@ -63,11 +63,13 @@ KillAura RandomCenter true
 KillAura Outborder false
 KillAura FOV 180.0
 KillAura RotationStrafe false
-NoSlow Sword NCP
-NoSlow Consume NCP
-NoSlow Bow NCP
-NoSlow Soulsand true
-NoSlow CustomReducement 0.45
+NoSlow BlockForwardMultiplier 0.95
+NoSlow BlockStrafeMultiplier 0.95
+NoSlow ConsumeStrafeMultiplier 0.95
+NoSlow ConsumeForwardMultiplier 0.95
+NoSlow BowForwardMultiplier 0.95
+NoSlow BowStrafeMultiplier 0.95
+NoSlow Packet true
 NoWeb Mode Rewi
 Scaffold Mode Expand
 Scaffold MaxDelay 0
@@ -94,16 +96,7 @@ Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold AirSafe true
 Speed Mode TeleportCubeCraft
-Speed CustomSpeed 0.56
-Speed CustomY 0.4
-Speed CustomTimer 1.16
-Speed CustomStrafe false
-Speed CustomResetXZ true
-Speed CustomResetY true
-Speed AAC-PortLength 1.0
-Speed AACGround-Timer 1.1
 Speed CubeCraft-PortLength 1.8
-Speed MineplexGround-Speed 0.1
 Sprint AllDirections true
 Sprint Blindness true
 Sprint Food true
@@ -127,26 +120,28 @@ Tower PlaceTiming Post
 Tower Timer 1.0
 Tower JumpMotion 0.42
 Tower JumpDelay 0
-Tower ConstantMotion 0.42
-Tower ConstantMotionJumpGround 0.79
-Tower TeleportHeight 1.0
-Tower TeleportDelay 1
-Tower TeleportGround false
-Tower TeleportNoMotion true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
-Velocity ReverseStrength -1.0
-Velocity Reverse2Strength -1.0
-Velocity AACPushXZReducer 2.0
-Velocity AACPushYReducer true
-#toggles
+
+# Target Settings
+targetPlayer true
+targetDead true
+
+# Toggle On
 Velocity toggle true
 FastUse toggle true
 AutoArmor toggle true
 Criticals toggle true
 NoSlow toggle true
-# chat
+
+# Toggle Off
+Fly toggle false
+ComponentOnHover toggle false
+VehicleOneHit toggle false
+
+# Chat
+chat &7Settings Latest Update: &327.01.2020 &c[dd.mm.yyyy]
 chat &4this settings is bannable
-chat &4get updated releases in &6https://discord.gg/B27nbgJ
+chat &4Get Advanced Releases in &6&lhttps://discord.gg/nq6gVsm
 chat &6Settings by &bSpoilerRules
