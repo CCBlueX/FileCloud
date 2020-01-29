@@ -1,6 +1,3 @@
-# AutoSettings for Gomme GameModes without Velocity Check
-load gomme
+load https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/settings/gomme-vel
 
-Velocity Mode Simple
-Velocity Horizontal 0
-Velocity Vertical 0
+chat &c&lIMPORTANT: &aUpdate your liquidbounce for better experience!

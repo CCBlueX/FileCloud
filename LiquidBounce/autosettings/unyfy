@@ -1,2 +1,3 @@
-load ncp
-# Marco was too lazy to include any specific configs.
+load https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/settings/unyfy
+
+chat &c&lIMPORTANT: &aUpdate your liquidbounce for better experience!
