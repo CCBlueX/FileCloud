@@ -1,349 +1,349 @@
 {
-   "1.8.9":{
-      "b26":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=638c6b5a0",
-         "liquidBounceHash":"5cfca0b6e355c46af30d975c583c092c",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b26.2":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=ebe7f4980",
-         "liquidBounceHash":"54beaca4e07fe665676048227408c498",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b27":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=7820be498",
-         "liquidBounceHash":"0c91f55ddc21cc0f6506d4de065cb34f",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b28":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=5d6fc600d",
-         "liquidBounceHash":"4bcccd9371b4f9eb8bfcf97ee854f3d1",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b29":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=e281e9d95",
-         "liquidBounceHash":"9ba66105e4cfbbb47dc1bec8a36c5874",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b30":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=e16135f84",
-         "liquidBounceHash":"cd5b487bd929451bd7726743f1f00425",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b31":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=ff3971828",
-         "liquidBounceHash":"12b8bb03f9cc02277a3599e87dc95345",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b32":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=34f4da4dd",
-         "liquidBounceHash":"94fcd827600bc172a4ca4809e26c6bd3",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b33":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=d19ea4584",
-         "liquidBounceHash":"2f2a43b04be1f690aa0eaca26664e923",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b34":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=856d1a0ed",
-         "liquidBounceHash":"70a2ad7eddef2ff3f9b5e403c6902090",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b35":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=cc760a83a",
-         "liquidBounceHash":"721c85b72c9c68d88cf70ca8e882a538",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b36":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=938f3ef24",
-         "liquidBounceHash":"43b3b5e17944e6adf5437a6ac08c732d",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b37":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=3059cd5a4",
-         "liquidBounceHash":"2ccc72232ff0a04ff73fda3db76f4ada",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b38":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=938f3ef24",
-         "liquidBounceHash":"325eba893f34ef47d378618075adff7d",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b39":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=7ef29823d",
-         "liquidBounceHash":"5e27bb39a46e10f0511d48c61044a97f",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b40":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=09cea1735",
-         "liquidBounceHash":"f3713dc8b99894f45c000fb21bc5067a",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b41":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=3fc9610eb",
-         "liquidBounceHash":"41fe33d617b84a0de38387b22de2f5d1",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b42":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=c4e6bb9ae",
-         "liquidBounceHash":"d81449a89b419f51b5fe5b6995e68583",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b43":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=7688f437c",
-         "liquidBounceHash":"afdd5b805bd30fb451467f2c48988609",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b44":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=c83b099d4",
-         "liquidBounceHash":"ef94fa6f949a33ca8cc8b9d7f9761387",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b45":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=d928178b1",
-         "liquidBounceHash":"0def8de19da9a029bdf60489d7ba438a",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b46":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=b07d85a0f",
-         "liquidBounceHash":"dded18bb84b0e809b2083dc33dd31d22",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b47":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=216a7887f",
-         "liquidBounceHash":"f55fa991b92baf315f89066074a01aa0",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b48":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=81f39b745",
-         "liquidBounceHash":"947899a4c5861ca34e5d8fbecf29295e",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b49":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=cb47a292e",
-         "liquidBounceHash":"2b01caceee0f10ec33bff68afdbdfff3",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b50":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=3d6b38326",
-         "liquidBounceHash":"e7b92bd3dacef97b6baba8675fbf670f",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b51":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=f591bb011",
-         "liquidBounceHash":"6f0553b7a626cdc21da7fed660c6b32e",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b52":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=ebe946424",
-         "liquidBounceHash":"ce96b01ddfef463fe335993311c6fa50",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b53":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=5784c18e2",
-         "liquidBounceHash":"5035aa0ba4963659d51de24802ac23d4",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b54":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=a5c6d209b",
-         "liquidBounceHash":"e964a2acabbd575dafebbed3e3673785",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b55":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=d30d69f73",
-         "liquidBounceHash":"e964a2acabbd575dafebbed3e3673785",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b56":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=b0c5e35dd",
-         "liquidBounceHash":"0f33b731a49a8029ecff0b66b21b1dc5",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b57":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=a58aef8d0",
-         "liquidBounceHash":"b3c50434863f82e08444f9039488caba",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b58":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=d13de888e",
-         "liquidBounceHash":"30865a1ea3ca7bc673c78060a65cab17",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b59":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=0862cc031",
-         "liquidBounceHash":"53fd4677231c392ad688600c7e1169d2",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b60":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=901b005f1",
-         "liquidBounceHash":"b4931c1c29c449b88916bfbc9c0c1012",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b61":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=751ee0247",
-         "liquidBounceHash":"c842d52fa60c4882283936ae996580af",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b62":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=e1e2cdbe4",
-         "liquidBounceHash":"0ff03bac1b7ae89f4fd922d2a1234cb0",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b63":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=f7ac7b9f1",
-         "liquidBounceHash":"956c7c6b0fce8f14da41fbe6d3f732cc",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b64":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=8c0948d70",
-         "liquidBounceHash":"c4462e6e60d767b14d583543987d9952",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b65":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=467987cc2",
-         "liquidBounceHash":"6c31ed5d2e1412ff0cd7a6124da5c982",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b66":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=0dfe96806",
-         "liquidBounceHash":"0659c2e83d8dd1bfe99d7631d6d7a4e2",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b67":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=34321ec32",
-         "liquidBounceHash":"",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b68":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=d966473b5",
-         "liquidBounceHash":"",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b69":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=850f0140e",
-         "liquidBounceHash":"",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b70":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=c0eb22ebd",
-         "liquidBounceHash":"",
-         "configFolder":"LiquidBounce-1.8"
-      },
-      "b71":{
-         "forge":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
-         "liquidBounce":"https://dl.ccbluex.net/download/skip/index.php?target=61c9d7aa3",
-         "liquidBounceHash":"",
-         "configFolder":"LiquidBounce-1.8"
-      }
-   },
-   "1.12.2":{
-      "b1":{
-         "forge":"https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E3.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=9ec744f8b",
-         "liquidBounceHash":"9f64db20037b5de3647674ce32c36f71",
-         "configFolder":"LiquidBounce-1.12.2"
-      },
-      "b2":{
-         "forge":"https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar",
-         "optifine":"https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E3.jar",
-         "liquidBounce":"http://dl.ccbluex.net/download/skip/index.php?target=024483d13",
-         "liquidBounceHash":"82223cd96b57f450181de644ecf2e8c5",
-         "configFolder":"LiquidBounce-1.12.2"
-      }
-   }
+    "1.8.9": {
+        "b26": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/FcGDHNsHqI",
+            "liquidBounceHash": "5cfca0b6e355c46af30d975c583c092c",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b26.2": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/kg4Nc4QJLu",
+            "liquidBounceHash": "54beaca4e07fe665676048227408c498",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b27": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/GUidq4Ute3",
+            "liquidBounceHash": "0c91f55ddc21cc0f6506d4de065cb34f",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b28": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/Y8PfWc5LcJ",
+            "liquidBounceHash": "4bcccd9371b4f9eb8bfcf97ee854f3d1",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b29": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/H7SPnYhAV1",
+            "liquidBounceHash": "9ba66105e4cfbbb47dc1bec8a36c5874",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b30": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/Gp5cybL9EU",
+            "liquidBounceHash": "cd5b487bd929451bd7726743f1f00425",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b31": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/ndz88i5Ihc",
+            "liquidBounceHash": "12b8bb03f9cc02277a3599e87dc95345",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b32": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/TxpBRZDhlc",
+            "liquidBounceHash": "94fcd827600bc172a4ca4809e26c6bd3",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b33": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/KyzjWIbTcp",
+            "liquidBounceHash": "2f2a43b04be1f690aa0eaca26664e923",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b34": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/7QRyDjEtR6",
+            "liquidBounceHash": "70a2ad7eddef2ff3f9b5e403c6902090",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b35": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/hBYKqLfLhp",
+            "liquidBounceHash": "721c85b72c9c68d88cf70ca8e882a538",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b36": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/GaKUL9955A",
+            "liquidBounceHash": "43b3b5e17944e6adf5437a6ac08c732d",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b37": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/RnObaezDGC",
+            "liquidBounceHash": "2ccc72232ff0a04ff73fda3db76f4ada",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b38": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/FBUvzGl6sw",
+            "liquidBounceHash": "325eba893f34ef47d378618075adff7d",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b39": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/cW4GXZJ2h8",
+            "liquidBounceHash": "5e27bb39a46e10f0511d48c61044a97f",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b40": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/P01ModBEI7",
+            "liquidBounceHash": "f3713dc8b99894f45c000fb21bc5067a",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b41": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/iiK2mpN8lE",
+            "liquidBounceHash": "41fe33d617b84a0de38387b22de2f5d1",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b42": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/52k4JEZZfr",
+            "liquidBounceHash": "d81449a89b419f51b5fe5b6995e68583",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b43": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/aIaC4pGzqI",
+            "liquidBounceHash": "afdd5b805bd30fb451467f2c48988609",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b44": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/iqAohSLbU2",
+            "liquidBounceHash": "ef94fa6f949a33ca8cc8b9d7f9761387",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b45": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/Zb99Uccq1W",
+            "liquidBounceHash": "0def8de19da9a029bdf60489d7ba438a",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b46": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/ZFgB5zvGBI",
+            "liquidBounceHash": "dded18bb84b0e809b2083dc33dd31d22",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b47": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/bUjeH6hK1n",
+            "liquidBounceHash": "f55fa991b92baf315f89066074a01aa0",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b48": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/MmYJSrmrwr",
+            "liquidBounceHash": "947899a4c5861ca34e5d8fbecf29295e",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b49": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/QxJikVajYp",
+            "liquidBounceHash": "2b01caceee0f10ec33bff68afdbdfff3",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b50": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/gx90uygjbz",
+            "liquidBounceHash": "e7b92bd3dacef97b6baba8675fbf670f",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b51": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/hWtU1XKGCG",
+            "liquidBounceHash": "6f0553b7a626cdc21da7fed660c6b32e",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b52": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/nmCDwmEg7t",
+            "liquidBounceHash": "ce96b01ddfef463fe335993311c6fa50",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b53": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/ILWa6gfVAd",
+            "liquidBounceHash": "5035aa0ba4963659d51de24802ac23d4",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b54": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/C3C5jLekRd",
+            "liquidBounceHash": "e964a2acabbd575dafebbed3e3673785",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b55": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/LffI4Yu1Qz",
+            "liquidBounceHash": "e964a2acabbd575dafebbed3e3673785",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b56": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/B3K8MxTofe",
+            "liquidBounceHash": "0f33b731a49a8029ecff0b66b21b1dc5",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b57": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/lLpoHBfz2D",
+            "liquidBounceHash": "b3c50434863f82e08444f9039488caba",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b58": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/JJ3korvViZ",
+            "liquidBounceHash": "30865a1ea3ca7bc673c78060a65cab17",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b59": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/rB1kgPURse",
+            "liquidBounceHash": "53fd4677231c392ad688600c7e1169d2",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b60": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/t5qSWzEcM4",
+            "liquidBounceHash": "b4931c1c29c449b88916bfbc9c0c1012",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b61": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/A8leXuXJDI",
+            "liquidBounceHash": "c842d52fa60c4882283936ae996580af",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b62": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/ZSgSwt1aqg",
+            "liquidBounceHash": "0ff03bac1b7ae89f4fd922d2a1234cb0",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b63": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/TUZl8Ykqsx",
+            "liquidBounceHash": "956c7c6b0fce8f14da41fbe6d3f732cc",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b64": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/YN1Qb1aOcE",
+            "liquidBounceHash": "c4462e6e60d767b14d583543987d9952",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b65": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/z2LOTLWCoI",
+            "liquidBounceHash": "6c31ed5d2e1412ff0cd7a6124da5c982",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b66": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/XShxBXVKaD",
+            "liquidBounceHash": "0659c2e83d8dd1bfe99d7631d6d7a4e2",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b67": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_I7.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/YvlqFWMqe0",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b68": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/p9ExTWnxCD",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b69": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/Y9CMM6AaqH",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b70": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/0AcTLWsxE2",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.8"
+        },
+        "b71": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/SXzM7AsbVi",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.8"
+        }
+    },
+    "1.12.2": {
+        "b1": {
+            "forge": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E3.jar",
+            "liquidBounce": "http://dl.ccbluex.net/skip/khtgBxbrYY",
+            "liquidBounceHash": "9f64db20037b5de3647674ce32c36f71",
+            "configFolder": "LiquidBounce-1.12.2"
+        },
+        "b2": {
+            "forge": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E3.jar",
+            "liquidBounce": "http://dl.ccbluex.net/skip/E5cu7EkV4a",
+            "liquidBounceHash": "82223cd96b57f450181de644ecf2e8c5",
+            "configFolder": "LiquidBounce-1.12.2"
+        }
+    }
 }
