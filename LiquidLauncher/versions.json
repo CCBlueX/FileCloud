@@ -351,6 +351,13 @@
             "liquidBounce": "http://dl.ccbluex.net/skip/E5cu7EkV4a",
             "liquidBounceHash": "82223cd96b57f450181de644ecf2e8c5",
             "configFolder": "LiquidBounce-1.12.2"
+        },
+        "b73-dev": {
+            "forge": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_G5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/9zSbwG19cS",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.12"
         }
     }
 }
