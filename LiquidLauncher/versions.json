@@ -358,6 +358,13 @@
             "liquidBounce": "https://dl.ccbluex.net/skip/9zSbwG19cS",
             "liquidBounceHash": "",
             "configFolder": "LiquidBounce-1.12"
+        },
+        "b73-dev-nashorn": {
+            "forge": "https://ccbluex.github.io/FileCloud/LiquidLauncher/forge/forge-1.12.2-14.23.5.2838-universal-mavenfixed.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_G5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/Zpju559Tus",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.12"
         }
     }
 }
