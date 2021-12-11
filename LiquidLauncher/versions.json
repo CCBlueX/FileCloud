@@ -335,6 +335,13 @@
             "liquidBounce": "https://dl.ccbluex.net/skip/GFw6lcZy7f",
             "liquidBounceHash": "",
             "configFolder": "LiquidBounce-1.8"
+        },
+        "b72-CVE-2021-44228": {
+            "forge": "https://ccbluex.github.io/FileCloud/LiquidLauncher/forge/forge-1.8.9-11.15.1.2318-1.8.9-universal-mavenfixed.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.8.9_HD_U_L5.jar",
+            "liquidBounce": "https://dl.ccbluex.net/skip/GFw6lcZy7f",
+            "liquidBounceHash": "",
+            "configFolder": "LiquidBounce-1.8"
         }
     },
     "1.12.2": {
